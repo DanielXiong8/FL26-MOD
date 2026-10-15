@@ -403,3 +403,12 @@ UserSetting：f1 InstallVersion("0.2.13") / f2 LoginVersion / **f3 ABTest map<st
 - 若有区别 → gate 即元凶 → 正式化该补丁 + 查 gate 键名（候选：EasyInt 缺省键）。
 - 若无区别 → 实验 #2：把该处 patch 为 `fmov s0,#3.0`（或更大）测引擎是否响应 match_difficult。
 **关键坐标**：patch 文件偏移 0x10E99DC（原字节 00 0c 21 1e）；store 在 0x10E99E0；blr(Difficulty) 在 0x10E99D0。
+
+---
+## 里程碑（2026-10-10 深夜）：难度问题——真机确认已修复 ✅
+**结论**：`GenerateAIConfig` 里的那道闸门（`w23 = (某 EasyInt 项 < 1) && (miniGameId != 6)`，触发时用 `fcsel` 把 `match_difficult` 强制归零）就是"不管什么挡位都是 beginner"的元凶。实验#1（NOP 该指令）装机后，**用户实测难度恢复正常**。
+**正式化**：新增可复用补丁脚本 `scripts/patch_difficulty_nop.py`（校验原字节 → NOP → 重建 APK；对未打/已打两种状态识别均验证通过）。**以后每次重打包游戏 APK 必须重打此补丁**。
+**坐标备查**：`lib/arm64-v8a/libil2cpp.so` 文件偏移 `0x10E99DC`（原 `00 0c 21 1e` = fcsel → 改 `1f 20 03 d5` = nop）；blr(Difficulty)=`0x10E99D0`；str(match_difficult)=`0x10E99E0`。
+**遗留（可选）**：闸门依赖的具体 EasyInt 键名未查明（不影响使用）。
+**产物**：`build/fl26_pl_align_tools_p1.apk`（对齐数据 + 工具 + NOP 补丁 = 当前装机版）。
+**同日**：全项目已推送 GitHub（DanielXiong8/FL26-MOD；代码+管线数据+手册；已排除密钥/设备存档/游戏素材/个人照片）。

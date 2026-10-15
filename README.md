@@ -13,9 +13,11 @@ a mod version of football league 2026, we recreated its database so that it is t
   注入 5,435 / 删除 3,771，全量一致性校验通过（全员有卡、有外观、无索引溢出）。
 - **存读档工具链**：`SaveExport` / `SaveImport`（Android Activity，注入 dex 随游戏包运行），
   可整包导出/导入设备上的存档、配置文件（`player.dat` = UserSetting protobuf），用于研究游戏配置。
-- **游戏配置与难度研究（进行中）**：IL2CPP 反汇编定位难度读写链路
-  （`difficulty_selection` 远程开关、`CommonDifficulty`/`friendlyDifficulty` 本地键、
-  `GenerateAIConfig` → `match_difficult` → `libfootball.so` 引擎），含代码级实验补丁记录。
+- **游戏配置与难度研究（已解决）**：IL2CPP 反汇编定位难度读写链路
+  （`difficulty_selection` 远程开关、`CommonDifficulty`/`friendlyDifficulty` 本地存档键、
+  `GenerateAIConfig` → `match_difficult` → `libfootball.so` 引擎），并定位到真正的元凶——
+  一处"某存档项 < 1 时把 AI 难度强制归零"的闸门。修复 = 对 `libil2cpp.so` 打一条单指令补丁
+  （`scripts/patch_difficulty_nop.py`，真机验证难度恢复正常）。
 - **捏脸管线（照片 → 游戏内 3D 脸）**：`work/face_pipeline`（烘焙/重光照/UV/外观注入脚本）+ FaceBuilder Web 应用源码。
 
 ## 目录结构
@@ -27,7 +29,7 @@ a mod version of football league 2026, we recreated its database so that it is t
 | `tools/saveexport/` | 存档导出/导入工具源码（Java + 编译好的 classes.dex），以及 `scripts/axml_add_activity*.py`（APK 注入工具） |
 | `tools/FL26_FaceBuilderWeb/` | 捏脸 Web 应用（backend/frontend 源码） |
 | `recon/02_engine/il2cpp/out/` | IL2CPP 反汇编分析产物（dump.cs / script.json / stringliteral.json） |
-| `scripts/` | APK 打包与 AndroidManifest 注入脚本 |
+| `scripts/` | APK 打包与 AndroidManifest 注入脚本；`patch_difficulty_nop.py`（难度修复补丁，重打包 APK 时需重打） |
 
 ## 主线流程（球员对齐）
 
