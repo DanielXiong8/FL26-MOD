@@ -1,0 +1,47 @@
+{
+  "step": "Step10 - FL26 Face Manual Tuning Dashboard",
+  "updated": "2026-09-05T22:30:00+08:00",
+  "dashboard": {
+    "location": "D:/FL26_Mod/tools/FL26_FaceDashboard/dashboard.py",
+    "launch": "python D:/FL26_Mod/tools/FL26_FaceDashboard/dashboard.py",
+    "selftest": "python D:/FL26_Mod/tools/FL26_FaceDashboard/dashboard.py --selftest  (all PASS)",
+    "gui": "tkinter (stdlib + Pillow), no web backend"
+  },
+  "gates": {
+    "STEP10_INPUT_READY": "GREEN",
+    "STEP10_CANDIDATE_VIEW_READY": "GREEN",
+    "STEP10_MANUAL_TUNING_READY": "GREEN",
+    "STEP10_REALTIME_PREVIEW_READY": "GREEN",
+    "STEP10_FINAL_FACE_EXPORT_READY": "GREEN",
+    "STEP10_NONDESTRUCTIVE_READY": "GREEN"
+  },
+  "gate_evidence": {
+    "STEP10_INPUT_READY": "photo load/display verified with face_benchmark/inputs/test01-03_front.jpg",
+    "STEP10_CANDIDATE_VIEW_READY": "test01: 8 candidates from metrics.csv, c1/c2 REJECT auto-grayed, thumbnails from candidates/*/front.png",
+    "STEP10_MANUAL_TUNING_READY": "c4_tuned_001 created with manual_tuning.json (changes: b1 22->25, b7 127->1)",
+    "STEP10_REALTIME_PREVIEW_READY": "DashboardRender.cs job verified: face_EastAsia_new2 + face_eastAsia_new5 texture swap -> 4 orbit captures, Ma Jiantao face visible (renders/dashboard_test/)",
+    "STEP10_FINAL_FACE_EXPORT_READY": "final_face/ + face_manifest.json (fl26_final_face_v1 schema) selftest PASS",
+    "STEP10_NONDESTRUCTIVE_READY": "c4 source files SHA256 unchanged after tuned-candidate creation"
+  },
+  "tunable_params": {
+    "b1": "FACE_TEXTURE_ID - 42 values across 7 families (eastAsia 22-27 = mod target); REAL texture swap in 3D preview",
+    "b4": "HAIR_STYLE - 0/1/127 device-tested; recorded (in-game effect), PC preview renders head only",
+    "b7": "BEARD_STYLE - 0/1/127 device-tested; recorded",
+    "b10": "BEARD COLOR - 0/1/7 tested; recorded",
+    "b14": "FACE_SHAPE_MESH - 42/43/44 tested; recorded",
+    "eyes": "NOT YET EXPOSED (no confirmed independent eye parameter; interface reserved)"
+  },
+  "nondestructive": {
+    "tuned_candidates": "runs/test01/candidates/c4_tuned_001/ (originals untouched, SHA256 verified)",
+    "manual_tuning_json": "parameters_before / parameters_after / changes",
+    "final_face": "final_face/baked.png + face_manifest.json (fl26_final_face_v1)"
+  },
+  "regression": {
+    "PC_PREVIEW_VALID": "GREEN - Step9BatchRunner rerun after Step 10: result=OK, errorCount=0, 16/16 captures (incl. c4 290-323KB)",
+    "note": "DashboardRender.cs is additive; Step9BatchRunner.cs untouched"
+  },
+  "integration": {
+    "apk_pipeline_interface": "final_face/face_manifest.json (source_photos, selected_candidate, tuned_candidate, appearance_patch b1/b4/b7/b10/b14, baked_texture, preview_images, validation, provenance)",
+    "out_of_scope": "name/position/17 attrs/team (next stages read the manifest)"
+  }
+}

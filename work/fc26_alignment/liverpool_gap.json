@@ -1,0 +1,161 @@
+{
+ "in_game": [
+  [
+   "Alisson Becker",
+   "A.Beckar",
+   1
+  ],
+  [
+   "Freddie Woodman",
+   "Wodman",
+   28
+  ],
+  [
+   "Joe Gomez",
+   "Gomes",
+   2
+  ],
+  [
+   "Virgil van Dijk",
+   "Vergil",
+   4
+  ],
+  [
+   "Milos Kerkez",
+   "Kercez",
+   6
+  ],
+  [
+   "Conor Bradley",
+   "Bradly",
+   12
+  ],
+  [
+   "Giovanni Leoni",
+   "G.Leony",
+   15
+  ],
+  [
+   "Jeremie Frimpong",
+   "Frinpong",
+   30
+  ],
+  [
+   "Wataru Endo",
+   "Enddo",
+   3
+  ],
+  [
+   "Florian Wirtz",
+   "Wirts",
+   7
+  ],
+  [
+   "Dominik Szoboszlai",
+   "Szoboslay",
+   8
+  ],
+  [
+   "Alexis Mac Allister",
+   "Mac Alister",
+   10
+  ],
+  [
+   "Ryan Gravenberch",
+   "Graphenberch",
+   38
+  ],
+  [
+   "Trey Nyoni",
+   "T.Nyonii",
+   42
+  ],
+  [
+   "Alexander Isak",
+   "Isac",
+   9
+  ],
+  [
+   "Cody Gakpo",
+   "Gacpo",
+   18
+  ],
+  [
+   "Hugo Ekitike",
+   "Egitike",
+   22
+  ],
+  [
+   "Rio Ngumoha",
+   "Ngumohaa",
+   73
+  ]
+ ],
+ "missing": [
+  [
+   "Giorgi Mamardashvili",
+   "GK"
+  ],
+  [
+   "Vitezslav Jaros",
+   "GK"
+  ],
+  [
+   "Harvey Davies",
+   "GK"
+  ],
+  [
+   "Jeremy Jacquet",
+   "DF"
+  ],
+  [
+   "Kostas Tsimikas",
+   "DF"
+  ],
+  [
+   "Ronald Araujo",
+   "DF"
+  ],
+  [
+   "Luke Chambers",
+   "DF"
+  ],
+  [
+   "James McConnell",
+   "MF"
+  ],
+  [
+   "Federico Chiesa",
+   "FW"
+  ],
+  [
+   "Victor Munoz",
+   "FW"
+  ],
+  [
+   "Bradley Barcola",
+   "FW"
+  ],
+  [
+   "Lewis Koumas",
+   "FW"
+  ],
+  [
+   "Jayden Danns",
+   "FW"
+  ]
+ ],
+ "extras": [
+  "Konate",
+  "M.Zalah",
+  "Ramsey",
+  "Roberson",
+  "Elliot",
+  "Joonz",
+  "Baitetic",
+  "A.Pecsy",
+  "Mamardashvli",
+  "Giesa",
+  "R.Willians"
+ ]
+}

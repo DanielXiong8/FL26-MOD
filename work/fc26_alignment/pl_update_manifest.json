@@ -1,0 +1,2882 @@
+{
+ "inject": [
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Vitezslav Jaros",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 70
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Harvey Davies",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 58
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Jeremy Jacquet",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 74
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Kostas Tsimikas",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 76
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Ronald Araujo",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 85
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Luke Chambers",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 62
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "James McConnell",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 62
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Victor Munoz",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 76
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Bradley Barcola",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 84
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Lewis Koumas",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 64
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Jayden Danns",
+   "jersey": 0,
+   "pos": "?",
+   "ovr": 63
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Mike Penders",
+   "jersey": 13,
+   "pos": "GK",
+   "ovr": 65
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Teddy Sharman-Lowe",
+   "jersey": 28,
+   "pos": "GK",
+   "ovr": 58
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Marco Palestra",
+   "jersey": 2,
+   "pos": "DF",
+   "ovr": 72
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Valentin Barco",
+   "jersey": 4,
+   "pos": "DF",
+   "ovr": 76
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Maxence Lacroix",
+   "jersey": 5,
+   "pos": "DF",
+   "ovr": 80
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Geovany Quenda",
+   "jersey": 23,
+   "pos": "MF",
+   "ovr": 77
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "name": "Tommy Setford",
+   "jersey": 35,
+   "pos": "GK",
+   "ovr": 60
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "name": "Ezri Konsa",
+   "jersey": 15,
+   "pos": "DF",
+   "ovr": 79
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "name": "Christos Tzolis",
+   "jersey": 17,
+   "pos": "FW",
+   "ovr": 76
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Finlay Herrick",
+   "jersey": 49,
+   "pos": "GK",
+   "ovr": 52
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Morato",
+   "jersey": 5,
+   "pos": "DF",
+   "ovr": 74
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Adama Boiro",
+   "jersey": 18,
+   "pos": "DF",
+   "ovr": 68
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Joël Veltman",
+   "jersey": 34,
+   "pos": "DF",
+   "ovr": 75
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Airidas Golambeckis",
+   "jersey": 58,
+   "pos": "DF",
+   "ovr": 60
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Ezra Mayers",
+   "jersey": 63,
+   "pos": "DF",
+   "ovr": 60
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Edson Álvarez",
+   "jersey": 4,
+   "pos": "MF",
+   "ovr": 79
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Arne Engels",
+   "jersey": 7,
+   "pos": "MF",
+   "ovr": 74
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Joël Piroe",
+   "jersey": 9,
+   "pos": "FW",
+   "ovr": 75
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Manor Solomon",
+   "jersey": 10,
+   "pos": "FW",
+   "ovr": 77
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Divine Mukasa",
+   "jersey": 14,
+   "pos": "FW",
+   "ovr": 68
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Maxwel Cornet",
+   "jersey": 22,
+   "pos": "FW",
+   "ovr": 73
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Edvin Austbø",
+   "jersey": 35,
+   "pos": "FW",
+   "ovr": 70
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "Joshua Ajala",
+   "jersey": 66,
+   "pos": "FW",
+   "ovr": 70
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Pascal Struijk",
+   "jersey": 4,
+   "pos": "DF",
+   "ovr": 73
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Hadjam",
+   "jersey": 0,
+   "pos": "DF",
+   "ovr": 68
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Chema Andrés",
+   "jersey": 0,
+   "pos": "MF",
+   "ovr": 66
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "name": "Kim Ji-Soo",
+   "jersey": 36,
+   "pos": "DF",
+   "ovr": 64
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "name": "Benjamin Fredrick",
+   "jersey": 48,
+   "pos": "DF",
+   "ovr": 60
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "name": "Kevin Schade",
+   "jersey": 7,
+   "pos": "MF",
+   "ovr": 79
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "name": "Mamadou Sangaré",
+   "jersey": 18,
+   "pos": "MF",
+   "ovr": 74
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Axel Disasi",
+   "jersey": 5,
+   "pos": "DF",
+   "ovr": 78
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Takehiro Tomiyasu",
+   "jersey": 17,
+   "pos": "DF",
+   "ovr": 76
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Honest Ahanor",
+   "jersey": 21,
+   "pos": "DF",
+   "ovr": 65
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Anan Khalaili",
+   "jersey": 25,
+   "pos": "DF",
+   "ovr": 68
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Óscar Mingueza",
+   "jersey": 30,
+   "pos": "DF",
+   "ovr": 76
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Ben Chilwell",
+   "jersey": 33,
+   "pos": "DF",
+   "ovr": 75
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Quinten Timber",
+   "jersey": 23,
+   "pos": "MF",
+   "ovr": 78
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Sebastian Williams",
+   "jersey": 43,
+   "pos": "MF",
+   "ovr": 60
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Ismaïla Sarr",
+   "jersey": 7,
+   "pos": "FW",
+   "ovr": 79
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Dwight McNeil",
+   "jersey": 11,
+   "pos": "FW",
+   "ovr": 76
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Zavier Gozo",
+   "jersey": 12,
+   "pos": "FW",
+   "ovr": 62
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Darío Osorio",
+   "jersey": 24,
+   "pos": "FW",
+   "ovr": 72
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "name": "Evann Guessand",
+   "jersey": 29,
+   "pos": "FW",
+   "ovr": 70
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "Zion Suzuki",
+   "jersey": 1,
+   "pos": "GK",
+   "ovr": 77
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "James Wright",
+   "jersey": 42,
+   "pos": "GK",
+   "ovr": 50
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "Taylor Harwood-Bellis",
+   "jersey": 4,
+   "pos": "DF",
+   "ovr": 75
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "Alejandro Garnacho",
+   "jersey": 0,
+   "pos": "FW",
+   "ovr": 79
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "name": "Ainsley Maitland-Niles",
+   "jersey": 2,
+   "pos": "DF",
+   "ovr": 73
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "name": "Michael Keane",
+   "jersey": 5,
+   "pos": "DF",
+   "ovr": 73
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "name": "Kiernan Dewsbury-Hall",
+   "jersey": 8,
+   "pos": "MF",
+   "ovr": 77
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "name": "Hayden Hackney",
+   "jersey": 30,
+   "pos": "MF",
+   "ovr": 73
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "name": "Tyrique George",
+   "jersey": 19,
+   "pos": "FW",
+   "ovr": 70
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "name": "Brennan Johnson",
+   "jersey": 22,
+   "pos": "FW",
+   "ovr": 78
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "Julián Araujo",
+   "jersey": 2,
+   "pos": "DF",
+   "ovr": 72
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "Max Aarons",
+   "jersey": 28,
+   "pos": "DF",
+   "ovr": 71
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "António Silva",
+   "jersey": 0,
+   "pos": "DF",
+   "ovr": 78
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "Lewis Cook",
+   "jersey": 4,
+   "pos": "MF",
+   "ovr": 72
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "Alex Tóth",
+   "jersey": 0,
+   "pos": "MF",
+   "ovr": 66
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "Daniel Jebbison",
+   "jersey": 0,
+   "pos": "FW",
+   "ovr": 64
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "Álvaro Rodríguez",
+   "jersey": 0,
+   "pos": "FW",
+   "ovr": 70
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "name": "John Victor",
+   "jersey": 12,
+   "pos": "GK",
+   "ovr": 72
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "name": "Steven Benda",
+   "jersey": 33,
+   "pos": "GK",
+   "ovr": 68
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "name": "Ousmane Diomande",
+   "jersey": 2,
+   "pos": "DF",
+   "ovr": 76
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "name": "Daniel Muñoz",
+   "jersey": 27,
+   "pos": "DF",
+   "ovr": 80
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "name": "Ibrahim Sangaré",
+   "jersey": 6,
+   "pos": "MF",
+   "ovr": 78
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "name": "Xaver Schlager",
+   "jersey": 21,
+   "pos": "MF",
+   "ovr": 77
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "name": "Arnaud Kalimuendo",
+   "jersey": 15,
+   "pos": "FW",
+   "ovr": 74
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "name": "Liam Delap",
+   "jersey": 19,
+   "pos": "FW",
+   "ovr": 76
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Dan Bentley",
+   "jersey": 25,
+   "pos": "GK",
+   "ovr": 65
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Ethan Pinnock",
+   "jersey": 2,
+   "pos": "DF",
+   "ovr": 74
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Stephen Mfuni",
+   "jersey": 12,
+   "pos": "DF",
+   "ovr": 62
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Aurèle Amenda",
+   "jersey": 24,
+   "pos": "DF",
+   "ovr": 70
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Caleb Yirenkyi",
+   "jersey": 8,
+   "pos": "MF",
+   "ovr": 64
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Gustavo Hamer",
+   "jersey": 38,
+   "pos": "MF",
+   "ovr": 76
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Haji Wright",
+   "jersey": 11,
+   "pos": "FW",
+   "ovr": 70
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Taiwo Awoniyi",
+   "jersey": 14,
+   "pos": "FW",
+   "ovr": 74
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Loum Tchaouna",
+   "jersey": 17,
+   "pos": "FW",
+   "ovr": 72
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Yann Gboho",
+   "jersey": 34,
+   "pos": "FW",
+   "ovr": 72
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "name": "Sidiki Cherif",
+   "jersey": 49,
+   "pos": "FW",
+   "ovr": 60
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "name": "Alex Borto",
+   "jersey": 36,
+   "pos": "GK",
+   "ovr": 55
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "name": "David Affengruber",
+   "jersey": 22,
+   "pos": "DF",
+   "ovr": 72
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "name": "César Palacios",
+   "jersey": 8,
+   "pos": "MF",
+   "ovr": 68
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "name": "Hugo Larsson",
+   "jersey": 15,
+   "pos": "MF",
+   "ovr": 74
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "name": "Shea Charles",
+   "jersey": 19,
+   "pos": "MF",
+   "ovr": 68
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "name": "Manuel Ángel",
+   "jersey": 20,
+   "pos": "MF",
+   "ovr": 62
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "name": "Gonzalo García",
+   "jersey": 7,
+   "pos": "FW",
+   "ovr": 70
+  }
+ ],
+ "ovr_update": [
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "A.Beckar",
+   "real_name": "Alisson Becker",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Mamardashvli",
+   "real_name": "Giorgi Mamardashvili",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Wodman",
+   "real_name": "Freddie Woodman",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Gomes",
+   "real_name": "Joe Gomez",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Kercez",
+   "real_name": "Milos Kerkez",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Bradly",
+   "real_name": "Conor Bradley",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "G.Leony",
+   "real_name": "Giovanni Leoni",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Frinpong",
+   "real_name": "Jeremie Frimpong",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Enddo",
+   "real_name": "Wataru Endo",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Wirts",
+   "real_name": "Florian Wirtz",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Szoboslay",
+   "real_name": "Dominik Szoboszlai",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Mac Alister",
+   "real_name": "Alexis Mac Allister",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Graphenberch",
+   "real_name": "Ryan Gravenberch",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "T.Nyonii",
+   "real_name": "Trey Nyoni",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Isac",
+   "real_name": "Alexander Isak",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Giesa",
+   "real_name": "Federico Chiesa",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Gacpo",
+   "real_name": "Cody Gakpo",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Egitike",
+   "real_name": "Hugo Ekitike",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Ngumohaa",
+   "real_name": "Rio Ngumoha",
+   "ovr_real": null
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Vergil",
+   "real_name": "Virgil van Dijk",
+   "ovr_real": 90
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Sanches",
+   "real_name": "Robert Sánchez",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "G.Sloniina",
+   "real_name": "Gabriel Slonina",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Fophana",
+   "real_name": "Wesley Fofana",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Colwell",
+   "real_name": "Levi Colwill",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Hahto",
+   "real_name": "Jorrel Hato",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Fernandez",
+   "real_name": "Enzo Fernández",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Parmer",
+   "real_name": "Cole Palmer",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Jorgenson",
+   "real_name": "Jordan Henderson",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Roggers",
+   "real_name": "Morgan Rogers",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Caisedo",
+   "real_name": "Moisés Caicedo",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Labia",
+   "real_name": "Romeo Lavia",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Nerto",
+   "real_name": "Pedro Neto",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Bynoe-Gitens",
+   "real_name": "Jamie Gittens",
+   "ovr_real": null
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Esteban",
+   "real_name": "Estêvão",
+   "ovr_real": 86
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Arrisabaraga",
+   "real_name": "Kepa Arrizabalaga",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Melino",
+   "real_name": "Illan Meslier",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Sariba",
+   "real_name": "William Saliba",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Moskera",
+   "real_name": "Cristhian Mosquera",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "White",
+   "real_name": "Ben White",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Hincapie",
+   "real_name": "Piero Hincapié",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "J.Tinber",
+   "real_name": "Jurriën Timber",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Carafiory",
+   "real_name": "Riccardo Calafiori",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Odegard",
+   "real_name": "Martin Ødegaard",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Sakar",
+   "real_name": "Bukayo Saka",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Gikeres",
+   "real_name": "Viktor Gyökeres",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Marduke",
+   "real_name": "Noni Madueke",
+   "ovr_real": null
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Ralla",
+   "real_name": "David Raya",
+   "ovr_real": 87
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Gabrier",
+   "real_name": "Gabriel Magalhães",
+   "ovr_real": 84
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Hermanson",
+   "real_name": "Mads Hermansen",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Areora",
+   "real_name": "Alphonse Areola",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Woker-Peters",
+   "real_name": "Kyle Walker-Peters",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Kirman",
+   "real_name": "Maximilian Kilman",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Maropanos",
+   "real_name": "Konstantinos Mavropanos",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Scarless",
+   "real_name": "Ollie Scarles",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Kane",
+   "real_name": "Mohamadou Kanté",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Lamedrid",
+   "real_name": "Keiber Lamadrid",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Magasa",
+   "real_name": "Soungoutou Magassa",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Souzek",
+   "real_name": "Tomáš Souček",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Orforde",
+   "real_name": "Lewis Orford",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Casteyanos",
+   "real_name": "Taty Castellanos",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Pablu",
+   "real_name": "Pablo",
+   "ovr_real": null
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Boen",
+   "real_name": "Jarrod Bowen",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Verbrugen",
+   "real_name": "Bart Verbruggen",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Steeler",
+   "real_name": "Jason Steele",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "McGil",
+   "real_name": "Tom McGill",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Dink",
+   "real_name": "Lewis Dunk",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Boscagri",
+   "real_name": "Olivier Boscagli",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Kadiogru",
+   "real_name": "Ferdi Kadıoğlu",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Webstur",
+   "real_name": "Adam Webster",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Midoma",
+   "real_name": "Kaoru Mitoma",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Henshelwood",
+   "real_name": "Jack Hinshelwood",
+   "ovr_real": null
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Gros",
+   "real_name": "Pascal Groß",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Kellner",
+   "real_name": "Caoimhín Kelleher",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Hiky",
+   "real_name": "Aaron Hickey",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Henree",
+   "real_name": "Rico Henry",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "vandenBelg",
+   "real_name": "Sepp van den Berg",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Pinahk",
+   "real_name": "Ethan Pinnock",
+   "ovr_real": 74
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Ayer",
+   "real_name": "Kristoffer Ajer",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Schader",
+   "real_name": "Jannik Schuster",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Yalmoryuk",
+   "real_name": "Yehor Yarmoliuk",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Jansen",
+   "real_name": "Mathias Jensen",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Dashilva",
+   "real_name": "Josh Dasilva",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Carvallo",
+   "real_name": "Fábio Carvalho",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Janert",
+   "real_name": "Vitaly Janelt",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Luis-Potter",
+   "real_name": "Keane Lewis-Potter",
+   "ovr_real": null
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Kallode",
+   "real_name": "Michael Kayode",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Hendersen",
+   "real_name": "Dean Henderson",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Mathews",
+   "real_name": "Remi Matthews",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Beinitez",
+   "real_name": "Walter Benítez",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Mitchel",
+   "real_name": "Tyrick Mitchell",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Riyad",
+   "real_name": "Chadi Riad",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Canvote",
+   "real_name": "Jaydee Canvot",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Richalds",
+   "real_name": "Chris Richards",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Rerma",
+   "real_name": "Jefferson Lerma",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Kamata",
+   "real_name": "Daichi Kamada",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Hues",
+   "real_name": "Will Hughes",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Warton",
+   "real_name": "Adam Wharton",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Doucuore",
+   "real_name": "Cheick Doucouré",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Nketia",
+   "real_name": "Eddie Nketiah",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Y. Pino",
+   "real_name": "Yéremy Pino",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Madeta",
+   "real_name": "Jean-Philippe Mateta",
+   "ovr_real": null
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Larson",
+   "real_name": "Jørgen Strand Larsen",
+   "ovr_real": null
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Bisot",
+   "real_name": "Marco Bizot",
+   "ovr_real": null
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Kash",
+   "real_name": "Matty Cash",
+   "ovr_real": null
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Rinderof",
+   "real_name": "Victor Lindelöf",
+   "ovr_real": null
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Mins",
+   "real_name": "Tyrone Mings",
+   "ovr_real": null
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Barkly",
+   "real_name": "Ross Barkley",
+   "ovr_real": null
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "McGin",
+   "real_name": "John McGinn",
+   "ovr_real": null
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Kamra",
+   "real_name": "Boubacar Kamara",
+   "ovr_real": null
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Gussend",
+   "real_name": "Evann Guessand",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Piekford",
+   "real_name": "Jordan Pickford",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Traves",
+   "real_name": "Mark Travers",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Kin",
+   "real_name": "Tom King",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Brantwaite",
+   "real_name": "Jarrad Branthwaite",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Tarkoski",
+   "real_name": "James Tarkowski",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "O'Brian",
+   "real_name": "Jake O'Brien",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Mykorenko",
+   "real_name": "Vitalii Mykolenko",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Graelish",
+   "real_name": "Jack Grealish",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Garnar",
+   "real_name": "Christian Nørgaard",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Alcaras",
+   "real_name": "Charly Alcaraz",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Rühl",
+   "real_name": "Merlin Röhl",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Gearge",
+   "real_name": "James Garner",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "H.Armstrong",
+   "real_name": "Harrison Armstrong",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Burry",
+   "real_name": "Thierno Barry",
+   "ovr_real": null
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Diblin",
+   "real_name": "Tyler Dibling",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Petrovich",
+   "real_name": "Djordje Petrović",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Trufert",
+   "real_name": "Adrien Truffert",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Hell",
+   "real_name": "James Hill",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "J.Solar",
+   "real_name": "Julio Soler",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Milosavljevic",
+   "real_name": "Veljko Milosavljević",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Evanilsen",
+   "real_name": "Evanilson",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Kruivert",
+   "real_name": "Justin Kluivert",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Adly",
+   "real_name": "Amine Adli",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Kroupy",
+   "real_name": "Junior Kroupi",
+   "ovr_real": null
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Rayen",
+   "real_name": "Rayan",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Selsi",
+   "real_name": "Matz Sels",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Willians",
+   "real_name": "Neco Williams",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Muriro",
+   "real_name": "Murillo",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Jar Cunha",
+   "real_name": "Jair Cunha",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Neitz",
+   "real_name": "Luca Netz",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Mirenkovic",
+   "real_name": "Nikola Milenković",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Alina",
+   "real_name": "Ola Aina",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Savonna",
+   "real_name": "Nicolò Savona",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Dominguez",
+   "real_name": "Nicolás Domínguez",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Gibs-White",
+   "real_name": "Morgan Gibbs-White",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Yayts",
+   "real_name": "Ryan Yates",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Mcater",
+   "real_name": "James McAtee",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Hudson-Odoy",
+   "real_name": "Callum Hudson-Odoi",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Word",
+   "real_name": "Chris Wood",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Jeus",
+   "real_name": "Igor Jesus",
+   "ovr_real": null
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Ndorye",
+   "real_name": "Dan Ndoye",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Doven",
+   "real_name": "Oliver Dovin",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Wilsen",
+   "real_name": "Ben Wilson",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Rashworth",
+   "real_name": "Carl Rushworth",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Dasshilva",
+   "real_name": "Jay Dasilva",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Tomas",
+   "real_name": "Bobby Thomas",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Kesler-Haiden",
+   "real_name": "Kaine Kesler-Hayden",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Bidwel",
+   "real_name": "Jake Bidwell",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Latibeaudiel",
+   "real_name": "Joel Latibeaudiere",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Wolfenden",
+   "real_name": "Luke Woolfenden",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "van Evijk",
+   "real_name": "Milan van Ewijk",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Rudony",
+   "real_name": "Jack Rudoni",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Grimez",
+   "real_name": "Matt Grimes",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Onieka",
+   "real_name": "Frank Onyeka",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Eckles",
+   "real_name": "Josh Eccles",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Torpe",
+   "real_name": "Victor Torp",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Sakamodo",
+   "real_name": "Tatsuhiro Sakamoto",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Sims",
+   "real_name": "Ellis Simms",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Mason-Clarke",
+   "real_name": "Ephron Mason-Clark",
+   "ovr_real": null
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Tomas-Asante",
+   "real_name": "Brandon Thomas-Asante",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Reno",
+   "real_name": "Bernd Leno",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Lecomet",
+   "real_name": "Benjamin Lecomte",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Tetel",
+   "real_name": "Kenny Tete",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Basey",
+   "real_name": "Calvin Bassey",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Kuenca",
+   "real_name": "Jorge Cuenca",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Anderson",
+   "real_name": "Joachim Andersen",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Castgne",
+   "real_name": "Timothy Castagne",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Robinsen",
+   "real_name": "Antonee Robinson",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Reid",
+   "real_name": "Harrison Reed",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Cairni",
+   "real_name": "Tom Cairney",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Belge",
+   "real_name": "Sander Berge",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Ivobi",
+   "real_name": "Alex Iwobi",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "J.Kinng",
+   "real_name": "Josh King",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Sesegnon",
+   "real_name": "Ryan Sessegnon",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Smis Rowe",
+   "real_name": "Emile Smith Rowe",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Munis",
+   "real_name": "Rodrigo Muniz",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Kevinn",
+   "real_name": "Kevin",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Borb",
+   "real_name": "Oscar Bobb",
+   "ovr_real": null
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Kusi-Asaare",
+   "real_name": "Jonah Kusi-Asare",
+   "ovr_real": null
+  }
+ ],
+ "departures": [
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Konate"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "M.Zalah"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Ramsey"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Roberson"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Elliot"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Joonz"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "Baitetic"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "A.Pecsy"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "game_name": "R.Willians"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Cucureya"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Adarabiyo"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Chaloba"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Jemes"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Joao Pedro"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Ganacho"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Esugo"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Gui"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Gasto"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Andrei"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Dalap"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Achaampong"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "B.Badiasile"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Sari"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "game_name": "Mudrick"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Skally"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Rise"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Trosard"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Haverts"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Eez"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Dowmaan"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "G.Jersus"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Zuvimendi"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Norghard"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "game_name": "Martiney"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Togibo"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Wan-Bisaka"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Sommervel"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Fernandez"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Pottz"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Farbianski"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Wilsen"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "E.Dioouf"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Atama"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "game_name": "Dizasi"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "van Hercke"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "DeCuiper"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Bareba"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Ayary"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Minte"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Welbek"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Wieffehr"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Vertman"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Rater"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Tzima"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Gomes"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "C.Kostouras"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Ighor"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "S.O'Ryan"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Milnar"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "game_name": "Marts"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Collin"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Hendersen"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Ouatara"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Tiago"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Damsgard"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "H.Vardimarsson"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Eyeston"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Baulcombe"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "K.Funo"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Nelsson"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "game_name": "Mirambo"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Lakroix"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Munioz"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Sal"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Uchea"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Soza"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Kporhaa"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Rodeney"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Johnsen"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Deveny"
+  },
+  {
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "game_name": "Cline"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Martínes"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Dignie"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "P.Tores"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Konsah"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Orana"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Buendia"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "L.Bailey"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Manzami"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Watkings"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Gomez"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Bogart"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Maadjo"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Alyszon"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Nedeljkovich"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Martsen"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Iing-Junior"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Sissé"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "game_name": "Abrahamn"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Keen"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Garna"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "McNell"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Ndyaye"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Hall"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Patersson"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Berto"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Coreman"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Iroegbrnam"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "game_name": "Asnou"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Seresi"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Jimenes"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "L.Cork"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Scot"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Brook"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Tavarnir"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Kristie"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Toht"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "C.Mckena"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Akinmbani"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Rees-Dotin"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Adamz"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Mantas"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "O.Beven"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Diakite"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Foster"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Doa"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "E.Unar"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "game_name": "Smis"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Andersen"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Huchison"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Bakoa"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Morado"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Gun"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Awniy"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Jon"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Abbot"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Ortegia Moreno"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Rucca"
+  },
+  {
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "game_name": "Cunya"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Kitchin"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Rite"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Burrogue"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Ese"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Alen"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Braw"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Tavarez"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Tylar"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "R.Howrey"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Colins"
+  },
+  {
+   "club": "Coventry",
+   "team_id": 20324,
+   "game_name": "Min-hyok Yan"
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Lurkic"
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Wilsen"
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Raul"
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Diopp"
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "game_name": "Chukwezi"
+  }
+ ]
+}

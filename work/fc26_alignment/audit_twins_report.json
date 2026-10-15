@@ -1,0 +1,7271 @@
+[
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Vitezslav Jaros",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 70,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "20155",
+     "team": "布宜诺斯艾利斯",
+     "league": "阿根廷A级联赛",
+     "pid": 124385,
+     "game_name": "Vivaros",
+     "jersey": 29,
+     "nat": "Argentina",
+     "ovr": 68
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20222",
+     "team": "圣克里斯托瓦尔",
+     "league": "委内瑞拉联赛",
+     "pid": 170064,
+     "game_name": "Vivaros",
+     "jersey": 2,
+     "nat": "Venezuela",
+     "ovr": 59
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "20233",
+     "team": "蒙特维多 黑白",
+     "league": "乌拉圭联赛",
+     "pid": 102981,
+     "game_name": "I.DelaRosa",
+     "jersey": 3,
+     "nat": "Uruguay",
+     "ovr": 56
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10049",
+     "team": "巴拉圭",
+     "league": "National Teams",
+     "pid": 101122,
+     "game_name": "Avaros",
+     "jersey": 9,
+     "nat": "Paraguay",
+     "ovr": 69
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "30131",
+     "team": "因佛内斯",
+     "league": "苏格兰A级联赛",
+     "pid": 141454,
+     "game_name": "S.Lavar",
+     "jersey": 40,
+     "nat": "Nigeria",
+     "ovr": 62
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Harvey Davies",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 58,
+  "cands": [
+   [
+    0.667,
+    true,
+    {
+     "tid": "10203",
+     "team": "圣文森特和格林纳丁斯",
+     "league": "National Teams",
+     "pid": 138380,
+     "game_name": "Davies",
+     "jersey": 23,
+     "nat": "Saint_Vincent_and_the_Grenadines",
+     "ovr": 54
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "20272",
+     "team": "波尔蒂芒",
+     "league": "葡萄牙超级联赛",
+     "pid": 151914,
+     "game_name": "Davies",
+     "jersey": 17,
+     "nat": "Brazil",
+     "ovr": 61
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10093",
+     "team": "科威特",
+     "league": "National Teams",
+     "pid": 106318,
+     "game_name": "V.Davis",
+     "jersey": 7,
+     "nat": "Kuwait",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20246",
+     "team": "亚松森 黄黑",
+     "league": "巴拉圭联赛",
+     "pid": 103234,
+     "game_name": "V.Davis",
+     "jersey": 2,
+     "nat": "Paraguay",
+     "ovr": 58
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10130",
+     "team": "百慕大",
+     "league": "National Teams",
+     "pid": 117074,
+     "game_name": "Harvie",
+     "jersey": 2,
+     "nat": "Bermuda",
+     "ovr": 63
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Jeremy Jacquet",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 74,
+  "cands": [
+   [
+    0.609,
+    false,
+    {
+     "tid": "20807",
+     "team": "法鲁",
+     "league": "葡萄牙超级联赛",
+     "pid": 130792,
+     "game_name": "J.Verasquez",
+     "jersey": 10,
+     "nat": "Colombia",
+     "ovr": 67
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "30194",
+     "team": "塞萨洛尼基 黑",
+     "league": "希腊联赛 A",
+     "pid": 143103,
+     "game_name": "A.Jeremeyef",
+     "jersey": 19,
+     "nat": "Sweden",
+     "ovr": 69
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20245",
+     "team": "亚松森 黑白",
+     "league": "巴拉圭联赛",
+     "pid": 124956,
+     "game_name": "Jacquat",
+     "jersey": 27,
+     "nat": "Paraguay",
+     "ovr": 66
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Kostas Tsimikas",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 76,
+  "cands": [
+   [
+    0.696,
+    false,
+    {
+     "tid": "10019",
+     "team": "希腊",
+     "league": "National Teams",
+     "pid": 100426,
+     "game_name": "Tsimikars",
+     "jersey": 21,
+     "nat": "Greece",
+     "ovr": 76
+    }
+   ],
+   [
+    0.643,
+    false,
+    {
+     "tid": "10019",
+     "team": "希腊",
+     "league": "National Teams",
+     "pid": 143084,
+     "game_name": "G.Konstanterias",
+     "jersey": 18,
+     "nat": "Greece",
+     "ovr": 77
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "30202",
+     "team": "塞雷斯",
+     "league": "希腊联赛 A",
+     "pid": 143216,
+     "game_name": "P.Katsicas",
+     "jersey": 13,
+     "nat": "Greece",
+     "ovr": 66
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20495",
+     "team": "勿加泗 白",
+     "league": "印尼A级联赛",
+     "pid": 112600,
+     "game_name": "Satsia",
+     "jersey": 44,
+     "nat": "Indonesia",
+     "ovr": 61
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Ronald Araujo",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 85,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "20292",
+     "team": "坎皮纳斯 绿",
+     "league": "巴西超级联赛",
+     "pid": 107216,
+     "game_name": "L.Araujo",
+     "jersey": 21,
+     "nat": "Brazil",
+     "ovr": 67
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "40032",
+     "team": "祖利亚诺",
+     "league": "委内瑞拉联赛",
+     "pid": 170360,
+     "game_name": "A.Araujo",
+     "jersey": 14,
+     "nat": "Venezuela",
+     "ovr": 60
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "10936",
+     "team": "巴西 1994",
+     "league": "National Teams",
+     "pid": 174287,
+     "game_name": "Ronaldan",
+     "jersey": 4,
+     "nat": "Brazil",
+     "ovr": 76
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "10033",
+     "team": "葡萄牙",
+     "league": "National Teams",
+     "pid": 118858,
+     "game_name": "Araujo",
+     "jersey": 4,
+     "nat": "Portugal",
+     "ovr": 78
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "10044",
+     "team": "乌拉圭",
+     "league": "National Teams",
+     "pid": 115779,
+     "game_name": "Araujo",
+     "jersey": 20,
+     "nat": "Uruguay",
+     "ovr": 75
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Luke Chambers",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 62,
+  "cands": [
+   [
+    0.762,
+    false,
+    {
+     "tid": "20042",
+     "team": "利兹",
+     "league": "英格兰A级联赛",
+     "pid": 172584,
+     "game_name": "Chambbers",
+     "jersey": 42,
+     "nat": "Scotland",
+     "ovr": 57
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "20322",
+     "team": "维冈",
+     "league": "英格兰A级联赛",
+     "pid": 150906,
+     "game_name": "Chabers",
+     "jersey": 3,
+     "nat": "England",
+     "ovr": 63
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "10975",
+     "team": "牙买加",
+     "league": "National Teams",
+     "pid": 10571,
+     "game_name": "Chanbers",
+     "jersey": 1,
+     "nat": "Jamaica",
+     "ovr": 67
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20318",
+     "team": "加的夫",
+     "league": "英格兰A级联赛",
+     "pid": 117317,
+     "game_name": "Chanbers",
+     "jersey": 12,
+     "nat": "England",
+     "ovr": 69
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20447",
+     "team": "瓜达拉哈拉",
+     "league": "墨西哥超级联赛",
+     "pid": 153120,
+     "game_name": "Camberis",
+     "jersey": 26,
+     "nat": "Mexico",
+     "ovr": 55
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "James McConnell",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 62,
+  "cands": [
+   [
+    0.636,
+    false,
+    {
+     "tid": "20431",
+     "team": "萨尔瓦多 红黑",
+     "league": "巴西超级联赛",
+     "pid": 107472,
+     "game_name": "Jamelson",
+     "jersey": 83,
+     "nat": "Brazil",
+     "ovr": 62
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "20406",
+     "team": "埃克塞特",
+     "league": "英格兰A级联赛",
+     "pid": 151312,
+     "game_name": "MacDonell",
+     "jersey": 37,
+     "nat": "England",
+     "ovr": 60
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "30266",
+     "team": "牙山 绿",
+     "league": "韩国A级联赛",
+     "pid": 144896,
+     "game_name": "Jae-son Kin",
+     "jersey": 14,
+     "nat": "South_Korea",
+     "ovr": 65
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20041",
+     "team": "利物浦 蓝",
+     "league": "英格兰A级联赛",
+     "pid": 111015,
+     "game_name": "McNell",
+     "jersey": 7,
+     "nat": "England",
+     "ovr": 76
+    }
+   ],
+   [
+    0.526,
+    true,
+    {
+     "tid": "20257",
+     "team": "代文特",
+     "league": "荷兰联赛",
+     "pid": 124026,
+     "game_name": "James",
+     "jersey": 5,
+     "nat": "Indonesia",
+     "ovr": 62
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Victor Munoz",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 76,
+  "cands": [
+   [
+    0.706,
+    true,
+    {
+     "tid": "20283",
+     "team": "隆德里纳",
+     "league": "巴西超级联赛",
+     "pid": 151935,
+     "game_name": "Victor",
+     "jersey": 22,
+     "nat": "Brazil",
+     "ovr": 61
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10039",
+     "team": "西班牙",
+     "league": "National Teams",
+     "pid": 172660,
+     "game_name": "V.Munoz",
+     "jersey": 25,
+     "nat": "Spain",
+     "ovr": 65
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "20582",
+     "team": "圣何塞",
+     "league": "MajorLeagueA",
+     "pid": 107034,
+     "game_name": "Victor Costa",
+     "jersey": 87,
+     "nat": "Brazil",
+     "ovr": 65
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20269",
+     "team": "波尔图 黑白",
+     "league": "葡萄牙超级联赛",
+     "pid": 111436,
+     "game_name": "Victoria",
+     "jersey": 19,
+     "nat": "Canada",
+     "ovr": 66
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "40092",
+     "team": "西贡黄",
+     "league": "香港联赛",
+     "pid": 113688,
+     "game_name": "Torsunov",
+     "jersey": 44,
+     "nat": "Uzbekistan",
+     "ovr": 57
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Bradley Barcola",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 84,
+  "cands": [
+   [
+    0.667,
+    true,
+    {
+     "tid": "20389",
+     "team": "阿莫雷维耶塔-埃查诺",
+     "league": "西班牙超级联赛",
+     "pid": 151429,
+     "game_name": "Bradley",
+     "jersey": 19,
+     "nat": "Spain",
+     "ovr": 55
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "20094",
+     "team": "维罗纳",
+     "league": "意大利超级联赛",
+     "pid": 106815,
+     "game_name": "Bradaric",
+     "jersey": 12,
+     "nat": "Croatia",
+     "ovr": 69
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10043",
+     "team": "美国",
+     "league": "National Teams",
+     "pid": 114079,
+     "game_name": "Bradly",
+     "jersey": 26,
+     "nat": "United_States",
+     "ovr": 72
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20027",
+     "team": "利物浦 红",
+     "league": "英格兰A级联赛",
+     "pid": 150283,
+     "game_name": "Bradly",
+     "jersey": 12,
+     "nat": "NORTHERN_IRELAND",
+     "ovr": 77
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20049",
+     "team": "德比郡",
+     "league": "英格兰A级联赛",
+     "pid": 108340,
+     "game_name": "Bradly",
+     "jersey": 5,
+     "nat": "England",
+     "ovr": 66
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Lewis Koumas",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 64,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "10108",
+     "team": "马里",
+     "league": "National Teams",
+     "pid": 106742,
+     "game_name": "Bisouma",
+     "jersey": 10,
+     "nat": "Mali",
+     "ovr": 77
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30432",
+     "team": "伦敦 白 2025",
+     "league": "ClassicClub",
+     "pid": 173187,
+     "game_name": "Bisouma",
+     "jersey": 8,
+     "nat": "Mali",
+     "ovr": 81
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20159",
+     "team": "罗萨里奥 黄蓝",
+     "league": "阿根廷A级联赛",
+     "pid": 104753,
+     "game_name": "Leidesma",
+     "jersey": 23,
+     "nat": "Argentina",
+     "ovr": 79
+    }
+   ],
+   [
+    0.625,
+    false,
+    {
+     "tid": "10169",
+     "team": "立陶宛",
+     "league": "National Teams",
+     "pid": 137619,
+     "game_name": "Lekas",
+     "jersey": 4,
+     "nat": "Lithuania",
+     "ovr": 62
+    }
+   ],
+   [
+    0.625,
+    false,
+    {
+     "tid": "10192",
+     "team": "南苏丹",
+     "league": "National Teams",
+     "pid": 138159,
+     "game_name": "Leiku",
+     "jersey": 2,
+     "nat": "South_Sudan",
+     "ovr": 52
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Liverpool",
+  "team_id": 20027,
+  "real_name": "Jayden Danns",
+  "pos": "?",
+  "jersey": 0,
+  "ovr": 63,
+  "cands": [
+   [
+    0.706,
+    false,
+    {
+     "tid": "10047",
+     "team": "南非",
+     "league": "National Teams",
+     "pid": 131773,
+     "game_name": "J.Adans",
+     "jersey": 32,
+     "nat": "South_Africa",
+     "ovr": 68
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "30205",
+     "team": "拉米亚",
+     "league": "希腊联赛 A",
+     "pid": 143286,
+     "game_name": "A.Dendakis",
+     "jersey": 5,
+     "nat": "Greece",
+     "ovr": 59
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20705",
+     "team": "曼谷白",
+     "league": "泰国A级联赛",
+     "pid": 120585,
+     "game_name": "A.Yenhan",
+     "jersey": 77,
+     "nat": "Thailand",
+     "ovr": 50
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30059",
+     "team": "圣玛尔塔",
+     "league": "哥伦比亚联赛",
+     "pid": 137050,
+     "game_name": "J.Wayens",
+     "jersey": 1,
+     "nat": "Colombia",
+     "ovr": 66
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30122",
+     "team": "佩斯利",
+     "league": "苏格兰A级联赛",
+     "pid": 109959,
+     "game_name": "Adenran",
+     "jersey": 23,
+     "nat": "England",
+     "ovr": 62
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Chelsea",
+  "team_id": 20028,
+  "real_name": "Mike Penders",
+  "pos": "GK",
+  "jersey": 13,
+  "ovr": 65,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "10005",
+     "team": "比利时",
+     "league": "National Teams",
+     "pid": 145292,
+     "game_name": "M.Penters",
+     "jersey": 25,
+     "nat": "Belgium",
+     "ovr": 77
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20160",
+     "team": "罗萨里奥 红黑",
+     "league": "阿根廷A级联赛",
+     "pid": 124927,
+     "game_name": "Méndes",
+     "jersey": 14,
+     "nat": "Uruguay",
+     "ovr": 66
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20164",
+     "team": "胡宁",
+     "league": "阿根廷A级联赛",
+     "pid": 105367,
+     "game_name": "Méndes",
+     "jersey": 13,
+     "nat": "Argentina",
+     "ovr": 66
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20450",
+     "team": "科尔多瓦 红",
+     "league": "阿根廷A级联赛",
+     "pid": 105395,
+     "game_name": "Méndes",
+     "jersey": 13,
+     "nat": "Argentina",
+     "ovr": 71
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20243",
+     "team": "圣地亚哥 白",
+     "league": "智利联赛",
+     "pid": 125457,
+     "game_name": "Méndes",
+     "jersey": 5,
+     "nat": "Chile",
+     "ovr": 61
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Chelsea",
+  "team_id": 20028,
+  "real_name": "Teddy Sharman-Lowe",
+  "pos": "GK",
+  "jersey": 28,
+  "ovr": 58,
+  "cands": [
+   [
+    0.609,
+    false,
+    {
+     "tid": "30113",
+     "team": "巴罗达",
+     "league": "印度联赛",
+     "pid": 141045,
+     "game_name": "T.Sharma",
+     "jersey": 19,
+     "nat": "India",
+     "ovr": 46
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Chelsea",
+  "team_id": 20028,
+  "real_name": "Marco Palestra",
+  "pos": "DF",
+  "jersey": 2,
+  "ovr": 72,
+  "cands": [
+   [
+    0.783,
+    false,
+    {
+     "tid": "20089",
+     "team": "卡利亚里",
+     "league": "意大利超级联赛",
+     "pid": 172212,
+     "game_name": "M.Paleestra",
+     "jersey": 2,
+     "nat": "Italy",
+     "ovr": 75
+    }
+   ],
+   [
+    0.696,
+    false,
+    {
+     "tid": "10003",
+     "team": "阿根廷",
+     "league": "National Teams",
+     "pid": 103337,
+     "game_name": "Mac Alister",
+     "jersey": 20,
+     "nat": "Argentina",
+     "ovr": 88
+    }
+   ],
+   [
+    0.696,
+    false,
+    {
+     "tid": "20450",
+     "team": "科尔多瓦 红",
+     "league": "阿根廷A级联赛",
+     "pid": 123316,
+     "game_name": "Mac Alister",
+     "jersey": 14,
+     "nat": "Argentina",
+     "ovr": 63
+    }
+   ],
+   [
+    0.696,
+    false,
+    {
+     "tid": "10928",
+     "team": "阿根廷 2022",
+     "league": "National Teams",
+     "pid": 175399,
+     "game_name": "Mac Alistar",
+     "jersey": 20,
+     "nat": "Argentina",
+     "ovr": 81
+    }
+   ],
+   [
+    0.696,
+    false,
+    {
+     "tid": "30187",
+     "team": "哈勒姆",
+     "league": "荷兰联赛",
+     "pid": 142936,
+     "game_name": "Mario Maeta",
+     "jersey": 42,
+     "nat": "Japan",
+     "ovr": 53
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Chelsea",
+  "team_id": 20028,
+  "real_name": "Valentin Barco",
+  "pos": "DF",
+  "jersey": 4,
+  "ovr": 76,
+  "cands": [
+   [
+    0.762,
+    true,
+    {
+     "tid": "20094",
+     "team": "维罗纳",
+     "league": "意大利超级联赛",
+     "pid": 123174,
+     "game_name": "Valentin",
+     "jersey": 6,
+     "nat": "Argentina",
+     "ovr": 72
+    }
+   ],
+   [
+    0.762,
+    true,
+    {
+     "tid": "20150",
+     "team": "纽伦堡",
+     "league": "德国超级联赛",
+     "pid": 105175,
+     "game_name": "Valentin",
+     "jersey": 22,
+     "nat": "Germany",
+     "ovr": 66
+    }
+   ],
+   [
+    0.762,
+    false,
+    {
+     "tid": "30414",
+     "team": "恩卡纳西翁 红",
+     "league": "巴拉圭联赛",
+     "pid": 160164,
+     "game_name": "Valentro",
+     "jersey": 17,
+     "nat": "Brazil",
+     "ovr": 51
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20190",
+     "team": "鹿特丹 红",
+     "league": "荷兰联赛",
+     "pid": 125582,
+     "game_name": "Valenta",
+     "jersey": 10,
+     "nat": "Netherlands",
+     "ovr": 78
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "30043",
+     "team": "卡利 绿",
+     "league": "哥伦比亚联赛",
+     "pid": 153193,
+     "game_name": "Valenta",
+     "jersey": 80,
+     "nat": "Colombia",
+     "ovr": 60
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Chelsea",
+  "team_id": 20028,
+  "real_name": "Maxence Lacroix",
+  "pos": "DF",
+  "jersey": 5,
+  "ovr": 80,
+  "cands": [
+   [
+    0.636,
+    false,
+    {
+     "tid": "30077",
+     "team": "加尔各答",
+     "league": "印度联赛",
+     "pid": 100083,
+     "game_name": "Maclaron",
+     "jersey": 29,
+     "nat": "Australia",
+     "ovr": 70
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "20073",
+     "team": "第戎",
+     "league": "法国超级联赛",
+     "pid": 124500,
+     "game_name": "Dalecroix",
+     "jersey": 16,
+     "nat": "France",
+     "ovr": 65
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "20472",
+     "team": "马德林港 蓝",
+     "league": "阿根廷A级联赛",
+     "pid": 112124,
+     "game_name": "Mancineli",
+     "jersey": 15,
+     "nat": "Argentina",
+     "ovr": 65
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "30369",
+     "team": "苏阿兰",
+     "league": "摩洛哥A级联赛",
+     "pid": 147162,
+     "game_name": "M.El Karoui",
+     "jersey": 7,
+     "nat": "Morocco",
+     "ovr": 61
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "203",
+     "team": "EasterFC",
+     "league": "System",
+     "pid": 174621,
+     "game_name": "Macero",
+     "jersey": 12,
+     "nat": "Brazil",
+     "ovr": 84
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Chelsea",
+  "team_id": 20028,
+  "real_name": "Geovany Quenda",
+  "pos": "MF",
+  "jersey": 23,
+  "ovr": 77,
+  "cands": [
+   [
+    0.636,
+    false,
+    {
+     "tid": "30050",
+     "team": "蒙特里亚",
+     "league": "哥伦比亚联赛",
+     "pid": 136838,
+     "game_name": "G.Banguena",
+     "jersey": 12,
+     "nat": "Colombia",
+     "ovr": 62
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20155",
+     "team": "布宜诺斯艾利斯",
+     "league": "阿根廷A级联赛",
+     "pid": 125000,
+     "game_name": "Ovanda",
+     "jersey": 74,
+     "nat": "Argentina",
+     "ovr": 55
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10097",
+     "team": "佛得角",
+     "league": "National Teams",
+     "pid": 116377,
+     "game_name": "Jovanna",
+     "jersey": 3,
+     "nat": "Cape_Verde",
+     "ovr": 72
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10932",
+     "team": "巴西 1998",
+     "league": "National Teams",
+     "pid": 175310,
+     "game_name": "Giovany",
+     "jersey": 7,
+     "nat": "Brazil",
+     "ovr": 65
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20015",
+     "team": "南卡希亚斯",
+     "league": "巴西超级联赛",
+     "pid": 171699,
+     "game_name": "Giovany",
+     "jersey": 11,
+     "nat": "Brazil",
+     "ovr": 51
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Arsenal",
+  "team_id": 20030,
+  "real_name": "Tommy Setford",
+  "pos": "GK",
+  "jersey": 35,
+  "ovr": 60,
+  "cands": [
+   [
+    0.632,
+    false,
+    {
+     "tid": "30230",
+     "team": "北开普",
+     "league": "南非A级联赛",
+     "pid": 143828,
+     "game_name": "T.Sefori",
+     "jersey": 15,
+     "nat": "Lesotho",
+     "ovr": 47
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10015",
+     "team": "英格兰",
+     "league": "National Teams",
+     "pid": 100336,
+     "game_name": "Roshford",
+     "jersey": 11,
+     "nat": "England",
+     "ovr": 78
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "30398",
+     "team": "君士坦丁",
+     "league": "阿尔及利亚A级联赛",
+     "pid": 147797,
+     "game_name": "T.Omoyere",
+     "jersey": 22,
+     "nat": "Nigeria",
+     "ovr": 63
+    }
+   ],
+   [
+    0.588,
+    true,
+    {
+     "tid": "20572",
+     "team": "洛杉矶 白",
+     "league": "MajorLeagueA",
+     "pid": 104994,
+     "game_name": "Tommy",
+     "jersey": 27,
+     "nat": "Germany",
+     "ovr": 70
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Arsenal",
+  "team_id": 20030,
+  "real_name": "Ezri Konsa",
+  "pos": "DF",
+  "jersey": 15,
+  "ovr": 79,
+  "cands": [
+   [
+    0.75,
+    false,
+    {
+     "tid": "20819",
+     "team": "PortugueseA LänkFCVilaverdense",
+     "league": "葡萄牙超级联赛",
+     "pid": 131069,
+     "game_name": "Erikson",
+     "jersey": 23,
+     "nat": "Cape_Verde",
+     "ovr": 56
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "30004",
+     "team": "AlgerianA USMAlger",
+     "league": "阿尔及利亚A级联赛",
+     "pid": 135773,
+     "game_name": "G.Likonsa",
+     "jersey": 11,
+     "nat": "DR_CONGO",
+     "ovr": 48
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "40018",
+     "team": "科普里夫尼察",
+     "league": "克罗地亚联赛",
+     "pid": 160597,
+     "game_name": "E.Ridonja",
+     "jersey": 3,
+     "nat": "Croatia",
+     "ovr": 57
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "40062",
+     "team": "REAL SwedishA HammarbyIF",
+     "league": "瑞典联赛",
+     "pid": 171382,
+     "game_name": "Eriksson",
+     "jersey": 4,
+     "nat": "Sweden",
+     "ovr": 68
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10015",
+     "team": "英格兰",
+     "league": "National Teams",
+     "pid": 103398,
+     "game_name": "Konsah",
+     "jersey": 2,
+     "nat": "England",
+     "ovr": 85
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Arsenal",
+  "team_id": 20030,
+  "real_name": "Christos Tzolis",
+  "pos": "FW",
+  "jersey": 17,
+  "ovr": 76,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "20174",
+     "team": "圣地亚哥-德尔埃斯特罗黑白",
+     "league": "阿根廷A级联赛",
+     "pid": 152872,
+     "game_name": "Cristofori",
+     "jersey": 15,
+     "nat": "Uruguay",
+     "ovr": 68
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20749",
+     "team": "萨克拉门托",
+     "league": "MajorLeagueA",
+     "pid": 124819,
+     "game_name": "Crisostamo",
+     "jersey": 5,
+     "nat": "United_States",
+     "ovr": 60
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "20278",
+     "team": "贝洛奥里藏特 蓝",
+     "league": "巴西超级联赛",
+     "pid": 123689,
+     "game_name": "Christia",
+     "jersey": 88,
+     "nat": "Brazil",
+     "ovr": 77
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "20414",
+     "team": "卡坦扎罗",
+     "league": "意大利超级联赛",
+     "pid": 150767,
+     "game_name": "Cerisoli",
+     "jersey": 27,
+     "nat": "Italy",
+     "ovr": 53
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Finlay Herrick",
+  "pos": "GK",
+  "jersey": 49,
+  "ovr": 52,
+  "cands": [
+   [
+    0.632,
+    false,
+    {
+     "tid": "10996",
+     "team": "美国",
+     "league": "National Teams",
+     "pid": 10069,
+     "game_name": "Nayher",
+     "jersey": 1,
+     "nat": "United_States",
+     "ovr": 84
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "40081",
+     "team": "牛津",
+     "league": "英格兰A级联赛",
+     "pid": 100725,
+     "game_name": "Herrik",
+     "jersey": 6,
+     "nat": "Poland",
+     "ovr": 67
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20282",
+     "team": "马塞约 红",
+     "league": "巴西超级联赛",
+     "pid": 151361,
+     "game_name": "Henrick",
+     "jersey": 26,
+     "nat": "Brazil",
+     "ovr": 60
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "40087",
+     "team": "QatarLeagueA Al-HusseinSC",
+     "league": "约旦联赛",
+     "pid": 152380,
+     "game_name": "Henrick",
+     "jersey": 4,
+     "nat": "Brazil",
+     "ovr": 48
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "40012",
+     "team": "桑迪 女足",
+     "league": "美国女足A级联赛",
+     "pid": 11251,
+     "game_name": "A.Merick",
+     "jersey": 13,
+     "nat": "United_States",
+     "ovr": 70
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Morato",
+  "pos": "DF",
+  "jersey": 5,
+  "ovr": 74,
+  "cands": [
+   [
+    0.857,
+    false,
+    {
+     "tid": "40094",
+     "team": "穆哈拉格",
+     "league": "BahrainLeagueA",
+     "pid": 172913,
+     "game_name": "Morelato",
+     "jersey": 6,
+     "nat": "Brazil",
+     "ovr": 56
+    }
+   ],
+   [
+    0.833,
+    false,
+    {
+     "tid": "20050",
+     "team": "诺丁汉",
+     "league": "英格兰A级联赛",
+     "pid": 106901,
+     "game_name": "Morado",
+     "jersey": 4,
+     "nat": "Brazil",
+     "ovr": 71
+    }
+   ],
+   [
+    0.833,
+    false,
+    {
+     "tid": "20111",
+     "team": "埃瓦尔",
+     "league": "西班牙超级联赛",
+     "pid": 151494,
+     "game_name": "Morado",
+     "jersey": 21,
+     "nat": "Spain",
+     "ovr": 67
+    }
+   ],
+   [
+    0.833,
+    false,
+    {
+     "tid": "20723",
+     "team": "哈尔马",
+     "league": "沙特超级联赛",
+     "pid": 122248,
+     "game_name": "Morado",
+     "jersey": 12,
+     "nat": "Brazil",
+     "ovr": 63
+    }
+   ],
+   [
+    0.833,
+    false,
+    {
+     "tid": "20421",
+     "team": "马蒂格",
+     "league": "法国超级联赛",
+     "pid": 110324,
+     "game_name": "Morant",
+     "jersey": 24,
+     "nat": "France",
+     "ovr": 54
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Adama Boiro",
+  "pos": "DF",
+  "jersey": 18,
+  "ovr": 68,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "20982",
+     "team": "秋明",
+     "league": "俄罗斯联赛",
+     "pid": 135022,
+     "game_name": "D.Samoirov",
+     "jersey": 88,
+     "nat": "Russia",
+     "ovr": 62
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "20987",
+     "team": "雅罗斯拉夫尔",
+     "league": "俄罗斯联赛",
+     "pid": 135152,
+     "game_name": "D.Samoirov",
+     "jersey": 15,
+     "nat": "Russia",
+     "ovr": 61
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10092",
+     "team": "乌兹别克斯坦",
+     "league": "National Teams",
+     "pid": 175478,
+     "game_name": "A.Amarov",
+     "jersey": 40,
+     "nat": "Uzbekistan",
+     "ovr": 67
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20800",
+     "team": "卡拉贾贝伊",
+     "league": "土耳其A级联赛",
+     "pid": 125202,
+     "game_name": "Aydamir",
+     "jersey": 42,
+     "nat": "Turkey",
+     "ovr": 52
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "30216",
+     "team": "普勒托利亚 蓝",
+     "league": "南非A级联赛",
+     "pid": 143535,
+     "game_name": "T.Mabiro",
+     "jersey": 16,
+     "nat": "South_Africa",
+     "ovr": 49
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Joël Veltman",
+  "pos": "DF",
+  "jersey": 34,
+  "ovr": 75,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "30191",
+     "team": "马斯勒伊斯",
+     "league": "荷兰联赛",
+     "pid": 143010,
+     "game_name": "G.Ovelman",
+     "jersey": 21,
+     "nat": "Netherlands",
+     "ovr": 64
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20693",
+     "team": "帕",
+     "league": "泰国A级联赛",
+     "pid": 120353,
+     "game_name": "Elivelton",
+     "jersey": 4,
+     "nat": "Brazil",
+     "ovr": 57
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10137",
+     "team": "香港",
+     "league": "National Teams",
+     "pid": 130383,
+     "game_name": "Evelton",
+     "jersey": 11,
+     "nat": "CHINA_HONG_KONG",
+     "ovr": 66
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10960",
+     "team": "Ecuador W",
+     "league": "National Teams",
+     "pid": 10891,
+     "game_name": "Joselln",
+     "jersey": 12,
+     "nat": "Ecuador",
+     "ovr": 53
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20035",
+     "team": "布莱顿",
+     "league": "英格兰A级联赛",
+     "pid": 103341,
+     "game_name": "Vertman",
+     "jersey": 34,
+     "nat": "Netherlands",
+     "ovr": 78
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Airidas Golambeckis",
+  "pos": "DF",
+  "jersey": 58,
+  "ovr": 60,
+  "cands": []
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Ezra Mayers",
+  "pos": "DF",
+  "jersey": 63,
+  "ovr": 60,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "20147",
+     "team": "帕德博恩",
+     "league": "德国超级联赛",
+     "pid": 123000,
+     "game_name": "Obermayer",
+     "jersey": 23,
+     "nat": "Philippines",
+     "ovr": 67
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20249",
+     "team": "恩斯科德",
+     "league": "荷兰联赛",
+     "pid": 104043,
+     "game_name": "Rammers",
+     "jersey": 10,
+     "nat": "Netherlands",
+     "ovr": 70
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20380",
+     "team": "曼海姆",
+     "league": "德国超级联赛",
+     "pid": 125127,
+     "game_name": "Gatermayer",
+     "jersey": 23,
+     "nat": "Austria",
+     "ovr": 59
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20206",
+     "team": "布达佩斯",
+     "league": "匈牙利联赛",
+     "pid": 145441,
+     "game_name": "T.Ramaekers",
+     "jersey": 28,
+     "nat": "Belgium",
+     "ovr": 65
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "10908",
+     "team": "德国 1966",
+     "league": "National Teams",
+     "pid": 175902,
+     "game_name": "Mayer",
+     "jersey": 22,
+     "nat": "Germany",
+     "ovr": 80
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Edson Álvarez",
+  "pos": "MF",
+  "jersey": 4,
+  "ovr": 79,
+  "cands": [
+   [
+    0.8,
+    false,
+    {
+     "tid": "30073",
+     "team": "巴兰基亚 白",
+     "league": "哥伦比亚联赛",
+     "pid": 137379,
+     "game_name": "S.Álvarez",
+     "jersey": 15,
+     "nat": "Colombia",
+     "ovr": 55
+    }
+   ],
+   [
+    0.8,
+    false,
+    {
+     "tid": "30074",
+     "team": "阿拉卡塔卡",
+     "league": "哥伦比亚联赛",
+     "pid": 137401,
+     "game_name": "O.Álvarez",
+     "jersey": 13,
+     "nat": "Colombia",
+     "ovr": 55
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "20123",
+     "team": "瓦伦西亚 青蛙",
+     "league": "西班牙超级联赛",
+     "pid": 119008,
+     "game_name": "Alvarez",
+     "jersey": 24,
+     "nat": "Spain",
+     "ovr": 75
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "20298",
+     "team": "伊维萨",
+     "league": "西班牙超级联赛",
+     "pid": 123360,
+     "game_name": "Alvarez",
+     "jersey": 6,
+     "nat": "Spain",
+     "ovr": 59
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "20306",
+     "team": "萨拉戈萨",
+     "league": "西班牙超级联赛",
+     "pid": 108045,
+     "game_name": "Alvarez",
+     "jersey": 1,
+     "nat": "Argentina",
+     "ovr": 66
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Arne Engels",
+  "pos": "MF",
+  "jersey": 7,
+  "ovr": 74,
+  "cands": [
+   [
+    0.75,
+    true,
+    {
+     "tid": "20211",
+     "team": "格拉斯哥",
+     "league": "苏格兰A级联赛",
+     "pid": 117314,
+     "game_name": "Engels",
+     "jersey": 27,
+     "nat": "Belgium",
+     "ovr": 74
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "20145",
+     "team": "霍芬海姆",
+     "league": "德国超级联赛",
+     "pid": 152008,
+     "game_name": "Engel",
+     "jersey": 49,
+     "nat": "Germany",
+     "ovr": 66
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "20260",
+     "team": "阿尔默洛",
+     "league": "荷兰联赛",
+     "pid": 106595,
+     "game_name": "Engel",
+     "jersey": 8,
+     "nat": "Germany",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "203",
+     "team": "EasterFC",
+     "league": "System",
+     "pid": 174627,
+     "game_name": "Fabreges",
+     "jersey": 4,
+     "nat": "Spain",
+     "ovr": 82
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20605",
+     "team": "圣萨尔瓦多",
+     "league": "ElSalvadorLeagueA",
+     "pid": 114887,
+     "game_name": "Rendelos",
+     "jersey": 17,
+     "nat": "El_Salvador",
+     "ovr": 51
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Joël Piroe",
+  "pos": "FW",
+  "jersey": 9,
+  "ovr": 75,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "20279",
+     "team": "圣路易斯",
+     "league": "巴西超级联赛",
+     "pid": 107213,
+     "game_name": "Joecio",
+     "jersey": 3,
+     "nat": "Brazil",
+     "ovr": 63
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20037",
+     "team": "纽卡斯尔",
+     "league": "英格兰A级联赛",
+     "pid": 110974,
+     "game_name": "Joelintom",
+     "jersey": 7,
+     "nat": "Brazil",
+     "ovr": 84
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20417",
+     "team": "奥尔良",
+     "league": "法国超级联赛",
+     "pid": 119535,
+     "game_name": "Jean-Piere",
+     "jersey": 4,
+     "nat": "Guadeloupe",
+     "ovr": 64
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20353",
+     "team": "佩鲁贾",
+     "league": "意大利超级联赛",
+     "pid": 150270,
+     "game_name": "Joselitto",
+     "jersey": 4,
+     "nat": "Spain",
+     "ovr": 49
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20232",
+     "team": "蒙特维多 白",
+     "league": "乌拉圭联赛",
+     "pid": 151341,
+     "game_name": "Oteiro",
+     "jersey": 80,
+     "nat": "Venezuela",
+     "ovr": 52
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Manor Solomon",
+  "pos": "FW",
+  "jersey": 10,
+  "ovr": 77,
+  "cands": [
+   [
+    0.737,
+    true,
+    {
+     "tid": "10198",
+     "team": "索马里",
+     "league": "National Teams",
+     "pid": 138288,
+     "game_name": "Solomon",
+     "jersey": 19,
+     "nat": "Somalia",
+     "ovr": 54
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "20054",
+     "team": "圣埃蒂安",
+     "league": "法国超级联赛",
+     "pid": 151472,
+     "game_name": "Solomon",
+     "jersey": 18,
+     "nat": "France",
+     "ovr": 58
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "20768",
+     "team": "武里南白",
+     "league": "泰国A级联赛",
+     "pid": 122871,
+     "game_name": "Mooloon",
+     "jersey": 10,
+     "nat": "Thailand",
+     "ovr": 49
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20253",
+     "team": "吕伐登",
+     "league": "荷兰联赛",
+     "pid": 153151,
+     "game_name": "Marsmons",
+     "jersey": 25,
+     "nat": "Netherlands",
+     "ovr": 60
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20795",
+     "team": "光州",
+     "league": "韩国A级联赛",
+     "pid": 144729,
+     "game_name": "Min-so Mon",
+     "jersey": 88,
+     "nat": "South_Korea",
+     "ovr": 63
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Divine Mukasa",
+  "pos": "FW",
+  "jersey": 14,
+  "ovr": 68,
+  "cands": [
+   [
+    0.667,
+    true,
+    {
+     "tid": "20323",
+     "team": "普雷斯顿",
+     "league": "英格兰A级联赛",
+     "pid": 150045,
+     "game_name": "Divine",
+     "jersey": 21,
+     "nat": "England",
+     "ovr": 72
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10125",
+     "team": "马提尼克",
+     "league": "National Teams",
+     "pid": 103936,
+     "game_name": "Rivieras",
+     "jersey": 3,
+     "nat": "Martinique",
+     "ovr": 66
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Maxwel Cornet",
+  "pos": "FW",
+  "jersey": 22,
+  "ovr": 73,
+  "cands": [
+   [
+    0.7,
+    false,
+    {
+     "tid": "20856",
+     "team": "德班 金",
+     "league": "南非A级联赛",
+     "pid": 173490,
+     "game_name": "A.Maxwere",
+     "jersey": 25,
+     "nat": "South_Africa",
+     "ovr": 55
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "20689",
+     "team": "呵叻府",
+     "league": "泰国A级联赛",
+     "pid": 109180,
+     "game_name": "Cornet",
+     "jersey": 20,
+     "nat": "France",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10206",
+     "team": "新喀里多尼亚",
+     "league": "National Teams",
+     "pid": 138459,
+     "game_name": "Mathelone",
+     "jersey": 7,
+     "nat": "New_Caledonia",
+     "ovr": 59
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20436",
+     "team": "利雅得月亮",
+     "league": "沙特超级联赛",
+     "pid": 118872,
+     "game_name": "Malcon",
+     "jersey": 10,
+     "nat": "Brazil",
+     "ovr": 79
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20686",
+     "team": "巴蜀府",
+     "league": "泰国A级联赛",
+     "pid": 173995,
+     "game_name": "Maneecorn",
+     "jersey": 74,
+     "nat": "Thailand",
+     "ovr": 54
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Edvin Austbø",
+  "pos": "FW",
+  "jersey": 35,
+  "ovr": 70,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "20012",
+     "team": "圣保罗 白",
+     "league": "巴西超级联赛",
+     "pid": 105398,
+     "game_name": "E.Dias",
+     "jersey": 13,
+     "nat": "Argentina",
+     "ovr": 73
+    }
+   ],
+   [
+    0.625,
+    false,
+    {
+     "tid": "10044",
+     "team": "乌拉圭",
+     "league": "National Teams",
+     "pid": 114695,
+     "game_name": "Vinias",
+     "jersey": 24,
+     "nat": "Uruguay",
+     "ovr": 72
+    }
+   ],
+   [
+    0.625,
+    false,
+    {
+     "tid": "10195",
+     "team": "圣多美和普林西比",
+     "league": "National Teams",
+     "pid": 138222,
+     "game_name": "Nevins",
+     "jersey": 17,
+     "nat": "Sao_Tome_and_Principe",
+     "ovr": 52
+    }
+   ],
+   [
+    0.625,
+    false,
+    {
+     "tid": "10957",
+     "team": "巴西 1958",
+     "league": "National Teams",
+     "pid": 170406,
+     "game_name": "Vevina",
+     "jersey": 20,
+     "nat": "Brazil",
+     "ovr": 88
+    }
+   ],
+   [
+    0.625,
+    false,
+    {
+     "tid": "10956",
+     "team": "巴西 1962",
+     "league": "National Teams",
+     "pid": 170119,
+     "game_name": "Vevina",
+     "jersey": 19,
+     "nat": "Brazil",
+     "ovr": 88
+    }
+   ]
+  ]
+ },
+ {
+  "club": "WestHam",
+  "team_id": 20032,
+  "real_name": "Joshua Ajala",
+  "pos": "FW",
+  "jersey": 66,
+  "ovr": 70,
+  "cands": [
+   [
+    0.778,
+    false,
+    {
+     "tid": "10970",
+     "team": "尼日利亚",
+     "league": "National Teams",
+     "pid": 10670,
+     "game_name": "Oshuala",
+     "jersey": 8,
+     "nat": "Nigeria",
+     "ovr": 79
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10189",
+     "team": "斯威士兰",
+     "league": "National Teams",
+     "pid": 138072,
+     "game_name": "Shabala",
+     "jersey": 1,
+     "nat": "Eswatini",
+     "ovr": 59
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "20853",
+     "team": "约翰内斯堡南",
+     "league": "南非A级联赛",
+     "pid": 171773,
+     "game_name": "M.Shabaalala",
+     "jersey": 7,
+     "nat": "South_Africa",
+     "ovr": 65
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "10104",
+     "team": "苏丹",
+     "league": "National Teams",
+     "pid": 173829,
+     "game_name": "Y.Boshala",
+     "jersey": 7,
+     "nat": "Sudan",
+     "ovr": 52
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "30064",
+     "team": "伊塔圭",
+     "league": "哥伦比亚联赛",
+     "pid": 137169,
+     "game_name": "J.Sarazal",
+     "jersey": 5,
+     "nat": "Colombia",
+     "ovr": 53
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Brighton",
+  "team_id": 20035,
+  "real_name": "Pascal Struijk",
+  "pos": "DF",
+  "jersey": 4,
+  "ovr": 73,
+  "cands": [
+   [
+    0.632,
+    false,
+    {
+     "tid": "20011",
+     "team": "阿雷格里港 红",
+     "league": "巴西超级联赛",
+     "pid": 119203,
+     "game_name": "Patrik",
+     "jersey": 10,
+     "nat": "Brazil",
+     "ovr": 73
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20013",
+     "team": "科里蒂巴",
+     "league": "巴西超级联赛",
+     "pid": 101765,
+     "game_name": "Patrik",
+     "jersey": 88,
+     "nat": "Brazil",
+     "ovr": 81
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20284",
+     "team": "新奥里藏特",
+     "league": "巴西超级联赛",
+     "pid": 151610,
+     "game_name": "Patrik",
+     "jersey": 4,
+     "nat": "Brazil",
+     "ovr": 61
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20434",
+     "team": "贝伦 黑",
+     "league": "巴西超级联赛",
+     "pid": 110604,
+     "game_name": "Patrik",
+     "jersey": 6,
+     "nat": "Brazil",
+     "ovr": 74
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20042",
+     "team": "利兹",
+     "league": "英格兰A级联赛",
+     "pid": 103434,
+     "game_name": "Strujk",
+     "jersey": 5,
+     "nat": "Netherlands",
+     "ovr": 75
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Brighton",
+  "team_id": 20035,
+  "real_name": "Hadjam",
+  "pos": "DF",
+  "jersey": 0,
+  "ovr": 68,
+  "cands": [
+   [
+    0.833,
+    false,
+    {
+     "tid": "10002",
+     "team": "阿尔及利亚",
+     "league": "National Teams",
+     "pid": 109078,
+     "game_name": "Hadjan",
+     "jersey": 5,
+     "nat": "Algeria",
+     "ovr": 60
+    }
+   ],
+   [
+    0.8,
+    false,
+    {
+     "tid": "20399",
+     "team": "朴茨茅斯",
+     "league": "英格兰A级联赛",
+     "pid": 124048,
+     "game_name": "Adam",
+     "jersey": 38,
+     "nat": "Gambia",
+     "ovr": 70
+    }
+   ],
+   [
+    0.8,
+    false,
+    {
+     "tid": "30294",
+     "team": "圣图尔登",
+     "league": "比利时A级联赛",
+     "pid": 118741,
+     "game_name": "Hada",
+     "jersey": 3,
+     "nat": "Japan",
+     "ovr": 55
+    }
+   ],
+   [
+    0.769,
+    false,
+    {
+     "tid": "20064",
+     "team": "波尔多",
+     "league": "法国超级联赛",
+     "pid": 109167,
+     "game_name": "El Hajam",
+     "jersey": 17,
+     "nat": "Morocco",
+     "ovr": 67
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "10029",
+     "team": "尼日利亚",
+     "league": "National Teams",
+     "pid": 123460,
+     "game_name": "Adamz",
+     "jersey": 18,
+     "nat": "Nigeria",
+     "ovr": 73
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Brighton",
+  "team_id": 20035,
+  "real_name": "Chema Andrés",
+  "pos": "MF",
+  "jersey": 0,
+  "ovr": 66,
+  "cands": [
+   [
+    0.778,
+    false,
+    {
+     "tid": "20140",
+     "team": "斯图加特",
+     "league": "德国超级联赛",
+     "pid": 172699,
+     "game_name": "C.Andres",
+     "jersey": 30,
+     "nat": "Spain",
+     "ovr": 68
+    }
+   ],
+   [
+    0.762,
+    false,
+    {
+     "tid": "10009",
+     "team": "哥伦比亚",
+     "league": "National Teams",
+     "pid": 171760,
+     "game_name": "C.Hernándes",
+     "jersey": 26,
+     "nat": "Colombia",
+     "ovr": 71
+    }
+   ],
+   [
+    0.762,
+    false,
+    {
+     "tid": "30070",
+     "team": "帕尔米拉 蓝",
+     "league": "哥伦比亚联赛",
+     "pid": 137312,
+     "game_name": "C.Hernándes",
+     "jersey": 10,
+     "nat": "Colombia",
+     "ovr": 55
+    }
+   ],
+   [
+    0.706,
+    true,
+    {
+     "tid": "20816",
+     "team": "PortugueseA LeixõesSC",
+     "league": "葡萄牙超级联赛",
+     "pid": 106956,
+     "game_name": "A.Andre",
+     "jersey": 11,
+     "nat": "Portugal",
+     "ovr": 72
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10914",
+     "team": "葡萄牙 2022",
+     "league": "National Teams",
+     "pid": 175770,
+     "game_name": "Mandes",
+     "jersey": 19,
+     "nat": "Portugal",
+     "ovr": 78
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Brentford",
+  "team_id": 20036,
+  "real_name": "Kim Ji-Soo",
+  "pos": "DF",
+  "jersey": 36,
+  "ovr": 64,
+  "cands": [
+   [
+    0.714,
+    false,
+    {
+     "tid": "20780",
+     "team": "东京",
+     "league": "日本联赛",
+     "pid": 118586,
+     "game_name": "Kimido",
+     "jersey": 4,
+     "nat": "Japan",
+     "ovr": 64
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "201",
+     "team": "DraftTeam",
+     "league": "System",
+     "pid": 170473,
+     "game_name": "Kimmish",
+     "jersey": 6,
+     "nat": "Germany",
+     "ovr": 88
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "202",
+     "team": "EraFinaleTeam",
+     "league": "System",
+     "pid": 172193,
+     "game_name": "Kimmish",
+     "jersey": 6,
+     "nat": "Germany",
+     "ovr": 88
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10017",
+     "team": "德国",
+     "league": "National Teams",
+     "pid": 100384,
+     "game_name": "Kimmish",
+     "jersey": 6,
+     "nat": "Germany",
+     "ovr": 89
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20792",
+     "team": "水原红",
+     "league": "韩国A级联赛",
+     "pid": 130139,
+     "game_name": "Kim J.",
+     "jersey": 99,
+     "nat": "South_Korea",
+     "ovr": 55
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Brentford",
+  "team_id": 20036,
+  "real_name": "Benjamin Fredrick",
+  "pos": "DF",
+  "jersey": 48,
+  "ovr": 60,
+  "cands": [
+   [
+    0.64,
+    false,
+    {
+     "tid": "30118",
+     "team": "格拉斯哥 棕",
+     "league": "苏格兰A级联赛",
+     "pid": 141166,
+     "game_name": "B.Benjamin",
+     "jersey": 6,
+     "nat": "DR_CONGO",
+     "ovr": 70
+    }
+   ],
+   [
+    0.609,
+    true,
+    {
+     "tid": "10202",
+     "team": "圣卢西亚",
+     "league": "National Teams",
+     "pid": 138365,
+     "game_name": "Fredric",
+     "jersey": 2,
+     "nat": "Saint_Lucia",
+     "ovr": 63
+    }
+   ],
+   [
+    0.609,
+    true,
+    {
+     "tid": "30296",
+     "team": "登德尔莱乌",
+     "league": "比利时A级联赛",
+     "pid": 173664,
+     "game_name": "Fredric",
+     "jersey": 22,
+     "nat": "Nigeria",
+     "ovr": 59
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "20205",
+     "team": "马尔默",
+     "league": "瑞典联赛",
+     "pid": 152604,
+     "game_name": "Fredrik",
+     "jersey": 1,
+     "nat": "Brazil",
+     "ovr": 69
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "40012",
+     "team": "桑迪 女足",
+     "league": "美国女足A级联赛",
+     "pid": 11251,
+     "game_name": "A.Merick",
+     "jersey": 13,
+     "nat": "United_States",
+     "ovr": 70
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Brentford",
+  "team_id": 20036,
+  "real_name": "Kevin Schade",
+  "pos": "MF",
+  "jersey": 7,
+  "ovr": 79,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "20066",
+     "team": "克莱蒙费朗",
+     "league": "法国超级联赛",
+     "pid": 124513,
+     "game_name": "Inchaude",
+     "jersey": 27,
+     "nat": "France",
+     "ovr": 58
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20036",
+     "team": "布伦特福德",
+     "league": "英格兰A级联赛",
+     "pid": 110886,
+     "game_name": "Schader",
+     "jersey": 7,
+     "nat": "Germany",
+     "ovr": 75
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20683",
+     "team": "南奔",
+     "league": "泰国A级联赛",
+     "pid": 117902,
+     "game_name": "Schader",
+     "jersey": 7,
+     "nat": "Germany",
+     "ovr": 57
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20206",
+     "team": "布达佩斯",
+     "league": "匈牙利联赛",
+     "pid": 152804,
+     "game_name": "Keindeh",
+     "jersey": 24,
+     "nat": "Nigeria",
+     "ovr": 64
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30223",
+     "team": "卡图",
+     "league": "南非A级联赛",
+     "pid": 143671,
+     "game_name": "E.Visage",
+     "jersey": 12,
+     "nat": "South_Africa",
+     "ovr": 49
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Brentford",
+  "team_id": 20036,
+  "real_name": "Mamadou Sangaré",
+  "pos": "MF",
+  "jersey": 18,
+  "ovr": 74,
+  "cands": [
+   [
+    0.727,
+    false,
+    {
+     "tid": "20823",
+     "team": "波瓦-迪瓦尔津",
+     "league": "葡萄牙超级联赛",
+     "pid": 131169,
+     "game_name": "M.Sangare",
+     "jersey": 9,
+     "nat": "France",
+     "ovr": 62
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "30030",
+     "team": "MaliA ASRealBamako",
+     "league": "MaliLeagueA",
+     "pid": 136228,
+     "game_name": "M.Sangare",
+     "jersey": 15,
+     "nat": "Mali",
+     "ovr": 52
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "20973",
+     "team": "莫斯科 蓝白",
+     "league": "俄罗斯联赛",
+     "pid": 134836,
+     "game_name": "D.Sangare",
+     "jersey": 11,
+     "nat": "Russia",
+     "ovr": 64
+    }
+   ],
+   [
+    0.696,
+    false,
+    {
+     "tid": "10105",
+     "team": "几内亚比绍",
+     "league": "National Teams",
+     "pid": 131952,
+     "game_name": "O.Sangarte",
+     "jersey": 22,
+     "nat": "Guinea_Bissau",
+     "ovr": 60
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "20617",
+     "team": "加济安泰普",
+     "league": "土耳其A级联赛",
+     "pid": 123472,
+     "game_name": "Sangare",
+     "jersey": 30,
+     "nat": "Turkey",
+     "ovr": 61
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Axel Disasi",
+  "pos": "DF",
+  "jersey": 5,
+  "ovr": 78,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "10008",
+     "team": "智利",
+     "league": "National Teams",
+     "pid": 105689,
+     "game_name": "Alias",
+     "jersey": 12,
+     "nat": "Chile",
+     "ovr": 73
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10009",
+     "team": "哥伦比亚",
+     "league": "National Teams",
+     "pid": 104369,
+     "game_name": "Alias",
+     "jersey": 13,
+     "nat": "Colombia",
+     "ovr": 80
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10967",
+     "team": "哥伦比亚",
+     "league": "National Teams",
+     "pid": 10737,
+     "game_name": "Alias",
+     "jersey": 3,
+     "nat": "Colombia",
+     "ovr": 71
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10967",
+     "team": "哥伦比亚",
+     "league": "National Teams",
+     "pid": 10751,
+     "game_name": "Alias",
+     "jersey": 17,
+     "nat": "Colombia",
+     "ovr": 66
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20177",
+     "team": "维多利亚",
+     "league": "阿根廷A级联赛",
+     "pid": 115195,
+     "game_name": "Alias",
+     "jersey": 42,
+     "nat": "Uruguay",
+     "ovr": 59
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Takehiro Tomiyasu",
+  "pos": "DF",
+  "jersey": 17,
+  "ovr": 76,
+  "cands": [
+   [
+    0.609,
+    false,
+    {
+     "tid": "10025",
+     "team": "日本",
+     "league": "National Teams",
+     "pid": 100555,
+     "game_name": "Tomiasu",
+     "jersey": 22,
+     "nat": "Japan",
+     "ovr": 78
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Honest Ahanor",
+  "pos": "DF",
+  "jersey": 21,
+  "ovr": 65,
+  "cands": [
+   [
+    0.7,
+    false,
+    {
+     "tid": "20079",
+     "team": "贝加莫",
+     "league": "意大利超级联赛",
+     "pid": 172211,
+     "game_name": "H.Ahaanor",
+     "jersey": 69,
+     "nat": "Italy",
+     "ovr": 66
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30426",
+     "team": "REAL ClassicClub ACMilan 2003",
+     "league": "ClassicClub",
+     "pid": 160485,
+     "game_name": "Nestar",
+     "jersey": 13,
+     "nat": "Italy",
+     "ovr": 88
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "40043",
+     "team": "REAL UkrainianA VorsklaPoltava",
+     "league": "乌克兰联赛",
+     "pid": 171042,
+     "game_name": "Nesteranko",
+     "jersey": 30,
+     "nat": "Ukraine",
+     "ovr": 64
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "10146",
+     "team": "卢旺达",
+     "league": "National Teams",
+     "pid": 134154,
+     "game_name": "H.Sahaho",
+     "jersey": 10,
+     "nat": "Rwanda",
+     "ovr": 62
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20745",
+     "team": "圣迭戈",
+     "league": "MajorLeagueA",
+     "pid": 100587,
+     "game_name": "H.Losano",
+     "jersey": 11,
+     "nat": "Mexico",
+     "ovr": 81
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Anan Khalaili",
+  "pos": "DF",
+  "jersey": 25,
+  "ovr": 68,
+  "cands": [
+   [
+    0.762,
+    false,
+    {
+     "tid": "10144",
+     "team": "以色列",
+     "league": "National Teams",
+     "pid": 134111,
+     "game_name": "A.Kharaili",
+     "jersey": 13,
+     "nat": "Israel",
+     "ovr": 65
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "20715",
+     "team": "海伊勒黑",
+     "league": "沙特超级联赛",
+     "pid": 175222,
+     "game_name": "A.Khalli",
+     "jersey": 32,
+     "nat": "Saudi_Arabia",
+     "ovr": 49
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "30352",
+     "team": "德黑兰 白",
+     "league": "伊朗A级联赛",
+     "pid": 146756,
+     "game_name": "A.Kalili",
+     "jersey": 5,
+     "nat": "Iran",
+     "ovr": 59
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "30373",
+     "team": "穆罕默迪耶",
+     "league": "摩洛哥A级联赛",
+     "pid": 147250,
+     "game_name": "A.Enakhli",
+     "jersey": 11,
+     "nat": "Morocco",
+     "ovr": 52
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "20718",
+     "team": "麦加黄",
+     "league": "沙特超级联赛",
+     "pid": 122404,
+     "game_name": "M.Al-Narkhli",
+     "jersey": 26,
+     "nat": "Saudi_Arabia",
+     "ovr": 52
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Óscar Mingueza",
+  "pos": "DF",
+  "jersey": 30,
+  "ovr": 76,
+  "cands": [
+   [
+    0.727,
+    false,
+    {
+     "tid": "10122",
+     "team": "萨尔瓦多",
+     "league": "National Teams",
+     "pid": 116907,
+     "game_name": "Dominguez",
+     "jersey": 3,
+     "nat": "El_Salvador",
+     "ovr": 62
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "20050",
+     "team": "诺丁汉",
+     "league": "英格兰A级联赛",
+     "pid": 107541,
+     "game_name": "Dominguez",
+     "jersey": 16,
+     "nat": "Argentina",
+     "ovr": 75
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "20120",
+     "team": "维戈",
+     "league": "西班牙超级联赛",
+     "pid": 107757,
+     "game_name": "Dominguez",
+     "jersey": 24,
+     "nat": "Spain",
+     "ovr": 73
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "20220",
+     "team": "基多",
+     "league": "厄瓜多尔超级联赛",
+     "pid": 111514,
+     "game_name": "Dominguez",
+     "jersey": 22,
+     "nat": "Ecuador",
+     "ovr": 70
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "20244",
+     "team": "亚松森 红蓝",
+     "league": "巴拉圭联赛",
+     "pid": 114512,
+     "game_name": "Dominguez",
+     "jersey": 10,
+     "nat": "Paraguay",
+     "ovr": 66
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Ben Chilwell",
+  "pos": "DF",
+  "jersey": 33,
+  "ovr": 75,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "20061",
+     "team": "斯特拉斯堡",
+     "league": "法国超级联赛",
+     "pid": 106690,
+     "game_name": "Chilweel",
+     "jersey": 3,
+     "nat": "England",
+     "ovr": 77
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10005",
+     "team": "比利时",
+     "league": "National Teams",
+     "pid": 102040,
+     "game_name": "Mechile",
+     "jersey": 18,
+     "nat": "Belgium",
+     "ovr": 69
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10070",
+     "team": "威尔士",
+     "league": "National Teams",
+     "pid": 108294,
+     "game_name": "Colwell",
+     "jersey": 24,
+     "nat": "Wales",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20028",
+     "team": "伦敦 蓝",
+     "league": "英格兰A级联赛",
+     "pid": 118786,
+     "game_name": "Colwell",
+     "jersey": 6,
+     "nat": "England",
+     "ovr": 78
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30433",
+     "team": "伦敦 蓝 2025",
+     "league": "ClassicClub",
+     "pid": 173201,
+     "game_name": "Colwell",
+     "jersey": 6,
+     "nat": "England",
+     "ovr": 84
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Quinten Timber",
+  "pos": "MF",
+  "jersey": 23,
+  "ovr": 78,
+  "cands": [
+   [
+    0.636,
+    false,
+    {
+     "tid": "30072",
+     "team": "库库塔 红",
+     "league": "哥伦比亚联赛",
+     "pid": 137361,
+     "game_name": "Y.Quintero",
+     "jersey": 10,
+     "nat": "Colombia",
+     "ovr": 56
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "20143",
+     "team": "比勒菲尔德",
+     "league": "德国超级联赛",
+     "pid": 105112,
+     "game_name": "Winsheimer",
+     "jersey": 39,
+     "nat": "Germany",
+     "ovr": 64
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20182",
+     "team": "里斯本 绿",
+     "league": "葡萄牙超级联赛",
+     "pid": 151452,
+     "game_name": "Quentin",
+     "jersey": 7,
+     "nat": "Portugal",
+     "ovr": 64
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20705",
+     "team": "曼谷白",
+     "league": "泰国A级联赛",
+     "pid": 120576,
+     "game_name": "Sitiber",
+     "jersey": 31,
+     "nat": "Mali",
+     "ovr": 54
+    }
+   ],
+   [
+    0.556,
+    true,
+    {
+     "tid": "20451",
+     "team": "圣米格尔-德图库曼红",
+     "league": "阿根廷A级联赛",
+     "pid": 111688,
+     "game_name": "Imber",
+     "jersey": 10,
+     "nat": "Argentina",
+     "ovr": 68
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Sebastian Williams",
+  "pos": "MF",
+  "jersey": 43,
+  "ovr": 60,
+  "cands": [
+   [
+    0.759,
+    false,
+    {
+     "tid": "20751",
+     "team": "印第安纳波利斯",
+     "league": "MajorLeagueA",
+     "pid": 174819,
+     "game_name": "Kian Williams",
+     "jersey": 10,
+     "nat": "England",
+     "ovr": 48
+    }
+   ],
+   [
+    0.643,
+    false,
+    {
+     "tid": "30138",
+     "team": "汉密尔顿RW",
+     "league": "苏格兰A级联赛",
+     "pid": 141612,
+     "game_name": "B.Williamsen",
+     "jersey": 28,
+     "nat": "Scotland",
+     "ovr": 53
+    }
+   ],
+   [
+    0.64,
+    true,
+    {
+     "tid": "20255",
+     "team": "奈梅亨",
+     "league": "荷兰联赛",
+     "pid": 117693,
+     "game_name": "Williams",
+     "jersey": 15,
+     "nat": "Netherlands",
+     "ovr": 59
+    }
+   ],
+   [
+    0.64,
+    false,
+    {
+     "tid": "20480",
+     "team": "玛琅",
+     "league": "印尼A级联赛",
+     "pid": 112555,
+     "game_name": "Setiawam",
+     "jersey": 72,
+     "nat": "Indonesia",
+     "ovr": 58
+    }
+   ],
+   [
+    0.64,
+    false,
+    {
+     "tid": "20497",
+     "team": "格雷西克",
+     "league": "印尼A级联赛",
+     "pid": 112638,
+     "game_name": "Setiawam",
+     "jersey": 15,
+     "nat": "Indonesia",
+     "ovr": 51
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Ismaïla Sarr",
+  "pos": "FW",
+  "jersey": 7,
+  "ovr": 79,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "10135",
+     "team": "伯利兹",
+     "league": "National Teams",
+     "pid": 117200,
+     "game_name": "Salazarr",
+     "jersey": 22,
+     "nat": "Belize",
+     "ovr": 52
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "30042",
+     "team": "内格罗河",
+     "league": "哥伦比亚联赛",
+     "pid": 136658,
+     "game_name": "J.Salasar",
+     "jersey": 20,
+     "nat": "Colombia",
+     "ovr": 62
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "30046",
+     "team": "波哥大 绿",
+     "league": "哥伦比亚联赛",
+     "pid": 136756,
+     "game_name": "K.Salasar",
+     "jersey": 8,
+     "nat": "Colombia",
+     "ovr": 57
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "30118",
+     "team": "格拉斯哥 棕",
+     "league": "苏格兰A级联赛",
+     "pid": 136521,
+     "game_name": "A.Salasar",
+     "jersey": 30,
+     "nat": "Colombia",
+     "ovr": 55
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "30377",
+     "team": "巴格达 蓝",
+     "league": "IraqLeagueA",
+     "pid": 147314,
+     "game_name": "C.Salasar",
+     "jersey": 11,
+     "nat": "Colombia",
+     "ovr": 59
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Dwight McNeil",
+  "pos": "FW",
+  "jersey": 11,
+  "ovr": 76,
+  "cands": [
+   [
+    0.632,
+    false,
+    {
+     "tid": "20401",
+     "team": "星期三",
+     "league": "英格兰A级联赛",
+     "pid": 151307,
+     "game_name": "MacNeil",
+     "jersey": 17,
+     "nat": "England",
+     "ovr": 60
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20749",
+     "team": "萨克拉门托",
+     "league": "MajorLeagueA",
+     "pid": 174796,
+     "game_name": "D.Wamnei",
+     "jersey": 17,
+     "nat": "Germany",
+     "ovr": 52
+    }
+   ],
+   [
+    0.588,
+    true,
+    {
+     "tid": "10075",
+     "team": "北爱尔兰",
+     "league": "National Teams",
+     "pid": 105913,
+     "game_name": "Wight",
+     "jersey": 23,
+     "nat": "NORTHERN_IRELAND",
+     "ovr": 60
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Zavier Gozo",
+  "pos": "FW",
+  "jersey": 12,
+  "ovr": 62,
+  "cands": [
+   [
+    0.75,
+    false,
+    {
+     "tid": "20158",
+     "team": "弗洛雷斯",
+     "league": "阿根廷A级联赛",
+     "pid": 123451,
+     "game_name": "Avergo",
+     "jersey": 3,
+     "nat": "Argentina",
+     "ovr": 67
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20309",
+     "team": "比利亚雷亚尔 B",
+     "league": "西班牙超级联赛",
+     "pid": 150537,
+     "game_name": "Viveroz",
+     "jersey": 22,
+     "nat": "Argentina",
+     "ovr": 60
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10064",
+     "team": "奥地利",
+     "league": "National Teams",
+     "pid": 106773,
+     "game_name": "Zaver",
+     "jersey": 24,
+     "nat": "Austria",
+     "ovr": 79
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30057",
+     "team": "比亚维森西奥",
+     "league": "哥伦比亚联赛",
+     "pid": 137020,
+     "game_name": "A.Vertugo",
+     "jersey": 26,
+     "nat": "Argentina",
+     "ovr": 54
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30062",
+     "team": "索阿查",
+     "league": "哥伦比亚联赛",
+     "pid": 137125,
+     "game_name": "J.Viveroz",
+     "jersey": 32,
+     "nat": "Colombia",
+     "ovr": 50
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Darío Osorio",
+  "pos": "FW",
+  "jersey": 24,
+  "ovr": 72,
+  "cands": [
+   [
+    0.706,
+    true,
+    {
+     "tid": "20224",
+     "team": "卡贝略港",
+     "league": "委内瑞拉联赛",
+     "pid": 170288,
+     "game_name": "Osorio",
+     "jersey": 92,
+     "nat": "Venezuela",
+     "ovr": 50
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "30411",
+     "team": "卢克 YB",
+     "league": "巴拉圭联赛",
+     "pid": 160079,
+     "game_name": "Darios",
+     "jersey": 20,
+     "nat": "Argentina",
+     "ovr": 62
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "10925",
+     "team": "西班牙 2018",
+     "league": "National Teams",
+     "pid": 175512,
+     "game_name": "Odriosora",
+     "jersey": 12,
+     "nat": "Spain",
+     "ovr": 73
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20109",
+     "team": "圣塞瓦斯蒂安",
+     "league": "西班牙超级联赛",
+     "pid": 122943,
+     "game_name": "Odriosora",
+     "jersey": 20,
+     "nat": "Spain",
+     "ovr": 71
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20482",
+     "team": "泗水",
+     "league": "印尼A级联赛",
+     "pid": 140301,
+     "game_name": "D.Maurísio",
+     "jersey": 99,
+     "nat": "Brazil",
+     "ovr": 67
+    }
+   ]
+  ]
+ },
+ {
+  "club": "CrystalPalace",
+  "team_id": 20038,
+  "real_name": "Evann Guessand",
+  "pos": "FW",
+  "jersey": 29,
+  "ovr": 70,
+  "cands": [
+   [
+    0.7,
+    false,
+    {
+     "tid": "30435",
+     "team": "帕福斯",
+     "league": "塞浦路斯联赛",
+     "pid": 117229,
+     "game_name": "Guesand",
+     "jersey": 99,
+     "nat": "France",
+     "ovr": 55
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20467",
+     "team": "基尔梅斯",
+     "league": "阿根廷A级联赛",
+     "pid": 112021,
+     "game_name": "Evangerista",
+     "jersey": 16,
+     "nat": "Argentina",
+     "ovr": 64
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20252",
+     "team": "乌得勒支",
+     "league": "荷兰联赛",
+     "pid": 150722,
+     "game_name": "Enguanda",
+     "jersey": 27,
+     "nat": "Belgium",
+     "ovr": 69
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20874",
+     "team": "古晋",
+     "league": "马来西亚联赛 A",
+     "pid": 132255,
+     "game_name": "D.N'Gessan",
+     "jersey": 79,
+     "nat": "Ivory_Coast",
+     "ovr": 61
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20981",
+     "team": "马哈奇卡拉",
+     "league": "俄罗斯联赛",
+     "pid": 134586,
+     "game_name": "V.Angeban",
+     "jersey": 8,
+     "nat": "Ivory_Coast",
+     "ovr": 72
+    }
+   ]
+  ]
+ },
+ {
+  "club": "AstonVilla",
+  "team_id": 20039,
+  "real_name": "Zion Suzuki",
+  "pos": "GK",
+  "jersey": 1,
+  "ovr": 77,
+  "cands": [
+   [
+    0.7,
+    false,
+    {
+     "tid": "30395",
+     "team": "费尔丘特",
+     "league": "匈牙利联赛",
+     "pid": 147711,
+     "game_name": "S.Duzinszki",
+     "jersey": 44,
+     "nat": "Hungary",
+     "ovr": 54
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10032",
+     "team": "波兰",
+     "league": "National Teams",
+     "pid": 100722,
+     "game_name": "Zelinski",
+     "jersey": 10,
+     "nat": "Poland",
+     "ovr": 81
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20991",
+     "team": "莫斯科 白",
+     "league": "俄罗斯联赛",
+     "pid": 135250,
+     "game_name": "I.Sutukin",
+     "jersey": 48,
+     "nat": "Russia",
+     "ovr": 62
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20347",
+     "team": "弗罗西诺内",
+     "league": "意大利超级联赛",
+     "pid": 108861,
+     "game_name": "Szyminski",
+     "jersey": 25,
+     "nat": "Poland",
+     "ovr": 57
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "30269",
+     "team": "江陵蓝",
+     "league": "韩国A级联赛",
+     "pid": 144975,
+     "game_name": "Jeon-su Kin",
+     "jersey": 11,
+     "nat": "South_Korea",
+     "ovr": 50
+    }
+   ]
+  ]
+ },
+ {
+  "club": "AstonVilla",
+  "team_id": 20039,
+  "real_name": "James Wright",
+  "pos": "GK",
+  "jersey": 42,
+  "ovr": 50,
+  "cands": [
+   [
+    0.706,
+    false,
+    {
+     "tid": "30125",
+     "team": "丁沃尔",
+     "league": "苏格兰A级联赛",
+     "pid": 141321,
+     "game_name": "J.Wight",
+     "jersey": 26,
+     "nat": "Scotland",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20690",
+     "team": "素攀武里",
+     "league": "泰国A级联赛",
+     "pid": 120612,
+     "game_name": "Jamreensri",
+     "jersey": 31,
+     "nat": "Thailand",
+     "ovr": 56
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "40009",
+     "team": "路易维尔 女足",
+     "league": "美国女足A级联赛",
+     "pid": 11160,
+     "game_name": "A.Wlight",
+     "jersey": 3,
+     "nat": "United_States",
+     "ovr": 78
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "10204",
+     "team": "巴巴多斯",
+     "league": "National Teams",
+     "pid": 138414,
+     "game_name": "Appleweight",
+     "jersey": 7,
+     "nat": "Barbados",
+     "ovr": 56
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "10216",
+     "team": "汤加",
+     "league": "National Teams",
+     "pid": 171888,
+     "game_name": "J.Lambert",
+     "jersey": 10,
+     "nat": "Tonga",
+     "ovr": 60
+    }
+   ]
+  ]
+ },
+ {
+  "club": "AstonVilla",
+  "team_id": 20039,
+  "real_name": "Taylor Harwood-Bellis",
+  "pos": "DF",
+  "jersey": 4,
+  "ovr": 75,
+  "cands": [
+   [
+    0.774,
+    false,
+    {
+     "tid": "20040",
+     "team": "南安普顿",
+     "league": "英格兰A级联赛",
+     "pid": 106715,
+     "game_name": "Harwod-Bellis",
+     "jersey": 6,
+     "nat": "England",
+     "ovr": 73
+    }
+   ],
+   [
+    0.621,
+    false,
+    {
+     "tid": "10211",
+     "team": "意大利 1986",
+     "league": "National Teams",
+     "pid": 144365,
+     "game_name": "A.Artobelli",
+     "jersey": 18,
+     "nat": "Italy",
+     "ovr": 87
+    }
+   ]
+  ]
+ },
+ {
+  "club": "AstonVilla",
+  "team_id": 20039,
+  "real_name": "Alejandro Garnacho",
+  "pos": "FW",
+  "jersey": 0,
+  "ovr": 79,
+  "cands": [
+   [
+    0.727,
+    false,
+    {
+     "tid": "20751",
+     "team": "印第安纳波利斯",
+     "league": "MajorLeagueA",
+     "pid": 174814,
+     "game_name": "Alejandro Mitrano",
+     "jersey": 29,
+     "nat": "United_States",
+     "ovr": 53
+    }
+   ],
+   [
+    0.692,
+    true,
+    {
+     "tid": "20667",
+     "team": "比亚埃尔莫萨",
+     "league": "墨西哥超级联赛",
+     "pid": 150586,
+     "game_name": "Alejandro",
+     "jersey": 6,
+     "nat": "Mexico",
+     "ovr": 63
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20102",
+     "team": "马德里 白",
+     "league": "西班牙超级联赛",
+     "pid": 100335,
+     "game_name": "Alekzander-Arnold",
+     "jersey": 12,
+     "nat": "England",
+     "ovr": 85
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "40036",
+     "team": "马图林红",
+     "league": "委内瑞拉联赛",
+     "pid": 170424,
+     "game_name": "D.Alejandro",
+     "jersey": 6,
+     "nat": "Venezuela",
+     "ovr": 63
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "40036",
+     "team": "马图林红",
+     "league": "委内瑞拉联赛",
+     "pid": 170435,
+     "game_name": "D.Alejandro",
+     "jersey": 4,
+     "nat": "Venezuela",
+     "ovr": 64
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Everton",
+  "team_id": 20041,
+  "real_name": "Ainsley Maitland-Niles",
+  "pos": "DF",
+  "jersey": 2,
+  "ovr": 73,
+  "cands": [
+   [
+    0.727,
+    false,
+    {
+     "tid": "30418",
+     "team": "伦敦 红",
+     "league": "ClassicClub",
+     "pid": 160279,
+     "game_name": "A.Maitlan-Niers",
+     "jersey": 15,
+     "nat": "England",
+     "ovr": 71
+    }
+   ],
+   [
+    0.4,
+    true,
+    {
+     "tid": "20258",
+     "team": "鹿特丹 白",
+     "league": "荷兰联赛",
+     "pid": 151460,
+     "game_name": "Niles",
+     "jersey": 25,
+     "nat": "Netherlands",
+     "ovr": 52
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Everton",
+  "team_id": 20041,
+  "real_name": "Michael Keane",
+  "pos": "DF",
+  "jersey": 5,
+  "ovr": 73,
+  "cands": [
+   [
+    0.737,
+    true,
+    {
+     "tid": "10107",
+     "team": "塞拉利昂",
+     "league": "National Teams",
+     "pid": 116601,
+     "game_name": "Michael",
+     "jersey": 23,
+     "nat": "Sierra_Leone",
+     "ovr": 59
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "20686",
+     "team": "巴蜀府",
+     "league": "泰国A级联赛",
+     "pid": 123780,
+     "game_name": "Michael",
+     "jersey": 20,
+     "nat": "Brazil",
+     "ovr": 51
+    }
+   ],
+   [
+    0.714,
+    false,
+    {
+     "tid": "20341",
+     "team": "不伦瑞克",
+     "league": "德国超级联赛",
+     "pid": 125716,
+     "game_name": "Da Michele Sanchez",
+     "jersey": 22,
+     "nat": "Germany",
+     "ovr": 62
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20465",
+     "team": "马德林港",
+     "league": "阿根廷A级联赛",
+     "pid": 111984,
+     "game_name": "Micelena",
+     "jersey": 10,
+     "nat": "Argentina",
+     "ovr": 68
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "30101",
+     "team": "德里 黄",
+     "league": "印度联赛",
+     "pid": 140781,
+     "game_name": "S.Michael",
+     "jersey": 8,
+     "nat": "India",
+     "ovr": 56
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Everton",
+  "team_id": 20041,
+  "real_name": "Kiernan Dewsbury-Hall",
+  "pos": "MF",
+  "jersey": 8,
+  "ovr": 77,
+  "cands": [
+   [
+    0.417,
+    true,
+    {
+     "tid": "10209",
+     "team": "斐济",
+     "league": "National Teams",
+     "pid": 138534,
+     "game_name": "Nande",
+     "jersey": 19,
+     "nat": "Fiji",
+     "ovr": 58
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Everton",
+  "team_id": 20041,
+  "real_name": "Hayden Hackney",
+  "pos": "MF",
+  "jersey": 30,
+  "ovr": 73,
+  "cands": [
+   [
+    0.7,
+    false,
+    {
+     "tid": "20705",
+     "team": "曼谷白",
+     "league": "泰国A级联赛",
+     "pid": 120585,
+     "game_name": "A.Yenhan",
+     "jersey": 77,
+     "nat": "Thailand",
+     "ovr": 50
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10090",
+     "team": "土库曼斯坦",
+     "league": "National Teams",
+     "pid": 106249,
+     "game_name": "A.Delaney",
+     "jersey": 16,
+     "nat": "Turkmenistan",
+     "ovr": 63
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20751",
+     "team": "印第安纳波利斯",
+     "league": "MajorLeagueA",
+     "pid": 174812,
+     "game_name": "Hayden White",
+     "jersey": 2,
+     "nat": "England",
+     "ovr": 58
+    }
+   ],
+   [
+    0.632,
+    true,
+    {
+     "tid": "20378",
+     "team": "慕尼黑蓝",
+     "league": "德国超级联赛",
+     "pid": 151717,
+     "game_name": "Hayden",
+     "jersey": 22,
+     "nat": "Norway",
+     "ovr": 64
+    }
+   ],
+   [
+    0.632,
+    true,
+    {
+     "tid": "20251",
+     "team": "阿纳姆",
+     "league": "荷兰联赛",
+     "pid": 151069,
+     "game_name": "Hayden",
+     "jersey": 30,
+     "nat": "Netherlands",
+     "ovr": 62
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Everton",
+  "team_id": 20041,
+  "real_name": "Tyrique George",
+  "pos": "FW",
+  "jersey": 19,
+  "ovr": 70,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "10995",
+     "team": "加拿大",
+     "league": "National Teams",
+     "pid": 10113,
+     "game_name": "St-George",
+     "jersey": 6,
+     "nat": "Canada",
+     "ovr": 75
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "40006",
+     "team": "凯里 女足",
+     "league": "美国女足A级联赛",
+     "pid": 11090,
+     "game_name": "B.St George",
+     "jersey": 23,
+     "nat": "Canada",
+     "ovr": 77
+    }
+   ],
+   [
+    0.632,
+    true,
+    {
+     "tid": "20416",
+     "team": "敦刻尔克",
+     "league": "法国超级联赛",
+     "pid": 109358,
+     "game_name": "George",
+     "jersey": 2,
+     "nat": "France",
+     "ovr": 64
+    }
+   ],
+   [
+    0.632,
+    true,
+    {
+     "tid": "20423",
+     "team": "孔卡尔诺",
+     "league": "法国超级联赛",
+     "pid": 110394,
+     "game_name": "George",
+     "jersey": 2,
+     "nat": "France",
+     "ovr": 52
+    }
+   ],
+   [
+    0.632,
+    true,
+    {
+     "tid": "20389",
+     "team": "阿莫雷维耶塔-埃查诺",
+     "league": "西班牙超级联赛",
+     "pid": 151428,
+     "game_name": "George",
+     "jersey": 8,
+     "nat": "Spain",
+     "ovr": 57
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Everton",
+  "team_id": 20041,
+  "real_name": "Brennan Johnson",
+  "pos": "FW",
+  "jersey": 22,
+  "ovr": 78,
+  "cands": [
+   [
+    0.696,
+    false,
+    {
+     "tid": "20229",
+     "team": "拉巴斯 蓝",
+     "league": "玻利维亚联赛",
+     "pid": 102907,
+     "game_name": "E.Johnston",
+     "jersey": 12,
+     "nat": "Bolivia",
+     "ovr": 61
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "10168",
+     "team": "法罗群岛",
+     "league": "National Teams",
+     "pid": 137604,
+     "game_name": "Johnson",
+     "jersey": 21,
+     "nat": "Faroe_Islands",
+     "ovr": 52
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "10186",
+     "team": "关岛",
+     "league": "National Teams",
+     "pid": 138004,
+     "game_name": "Johnson",
+     "jersey": 21,
+     "nat": "Guam",
+     "ovr": 57
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20591",
+     "team": "汉密尔顿橙",
+     "league": "CanadianLeagueA",
+     "pid": 114601,
+     "game_name": "A.Jonson",
+     "jersey": 13,
+     "nat": "Sweden",
+     "ovr": 59
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30425",
+     "team": "REAL ClassicClub ManchesterUnited 1999",
+     "league": "ClassicClub",
+     "pid": 160464,
+     "game_name": "R.Jonson",
+     "jersey": 5,
+     "nat": "Norway",
+     "ovr": 83
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Bournemouth",
+  "team_id": 20046,
+  "real_name": "Julián Araujo",
+  "pos": "DF",
+  "jersey": 2,
+  "ovr": 72,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "20013",
+     "team": "科里蒂巴",
+     "league": "巴西超级联赛",
+     "pid": 150338,
+     "game_name": "Juliano",
+     "jersey": 20,
+     "nat": "Brazil",
+     "ovr": 66
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "20292",
+     "team": "坎皮纳斯 绿",
+     "league": "巴西超级联赛",
+     "pid": 107216,
+     "game_name": "L.Araujo",
+     "jersey": 21,
+     "nat": "Brazil",
+     "ovr": 67
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "30048",
+     "team": "马尼萨莱斯",
+     "league": "哥伦比亚联赛",
+     "pid": 136810,
+     "game_name": "J.Anaujo",
+     "jersey": 21,
+     "nat": "Colombia",
+     "ovr": 62
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "40032",
+     "team": "祖利亚诺",
+     "league": "委内瑞拉联赛",
+     "pid": 170360,
+     "game_name": "A.Araujo",
+     "jersey": 14,
+     "nat": "Venezuela",
+     "ovr": 60
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "10953",
+     "team": "意大利 1970",
+     "league": "National Teams",
+     "pid": 170189,
+     "game_name": "Julianou",
+     "jersey": 18,
+     "nat": "Italy",
+     "ovr": 84
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Bournemouth",
+  "team_id": 20046,
+  "real_name": "Max Aarons",
+  "pos": "DF",
+  "jersey": 28,
+  "ovr": 71,
+  "cands": [
+   [
+    0.75,
+    false,
+    {
+     "tid": "20687",
+     "team": "孔敬",
+     "league": "泰国A级联赛",
+     "pid": 120265,
+     "game_name": "Makaron",
+     "jersey": 11,
+     "nat": "Thailand",
+     "ovr": 51
+    }
+   ],
+   [
+    0.75,
+    false,
+    {
+     "tid": "30159",
+     "team": "基多 蓝",
+     "league": "厄瓜多尔超级联赛",
+     "pid": 142310,
+     "game_name": "M.Aronso",
+     "jersey": 32,
+     "nat": "Uruguay",
+     "ovr": 65
+    }
+   ],
+   [
+    0.714,
+    true,
+    {
+     "tid": "20084",
+     "team": "热那亚 红",
+     "league": "意大利超级联赛",
+     "pid": 104897,
+     "game_name": "Aaron",
+     "jersey": 3,
+     "nat": "Spain",
+     "ovr": 72
+    }
+   ],
+   [
+    0.714,
+    true,
+    {
+     "tid": "20305",
+     "team": "奥维耶多",
+     "league": "西班牙超级联赛",
+     "pid": 104584,
+     "game_name": "Aaron",
+     "jersey": 13,
+     "nat": "Spain",
+     "ovr": 80
+    }
+   ],
+   [
+    0.714,
+    true,
+    {
+     "tid": "20305",
+     "team": "奥维耶多",
+     "league": "西班牙超级联赛",
+     "pid": 107853,
+     "game_name": "Aaron",
+     "jersey": 13,
+     "nat": "Spain",
+     "ovr": 76
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Bournemouth",
+  "team_id": 20046,
+  "real_name": "António Silva",
+  "pos": "DF",
+  "jersey": 0,
+  "ovr": 78,
+  "cands": [
+   [
+    0.8,
+    true,
+    {
+     "tid": "10167",
+     "team": "塞浦路斯",
+     "league": "National Teams",
+     "pid": 137572,
+     "game_name": "Antonios",
+     "jersey": 3,
+     "nat": "Cyprus",
+     "ovr": 57
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "10955",
+     "team": "巴西 1970",
+     "league": "National Teams",
+     "pid": 170175,
+     "game_name": "Antonio",
+     "jersey": 10,
+     "nat": "Brazil",
+     "ovr": 82
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "20435",
+     "team": "马瑙斯",
+     "league": "巴西超级联赛",
+     "pid": 110625,
+     "game_name": "Antonio",
+     "jersey": 8,
+     "nat": "Brazil",
+     "ovr": 63
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "20576",
+     "team": "波特兰",
+     "league": "MajorLeagueA",
+     "pid": 107130,
+     "game_name": "Antonio",
+     "jersey": 11,
+     "nat": "Brazil",
+     "ovr": 66
+    }
+   ],
+   [
+    0.737,
+    true,
+    {
+     "tid": "20667",
+     "team": "比亚埃尔莫萨",
+     "league": "墨西哥超级联赛",
+     "pid": 150591,
+     "game_name": "Antonio",
+     "jersey": 11,
+     "nat": "Mexico",
+     "ovr": 55
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Bournemouth",
+  "team_id": 20046,
+  "real_name": "Lewis Cook",
+  "pos": "MF",
+  "jersey": 4,
+  "ovr": 72,
+  "cands": [
+   [
+    0.75,
+    false,
+    {
+     "tid": "20205",
+     "team": "马尔默",
+     "league": "瑞典联赛",
+     "pid": 152617,
+     "game_name": "Lewicky",
+     "jersey": 6,
+     "nat": "Sweden",
+     "ovr": 63
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10054",
+     "team": "特立尼达和多巴哥",
+     "league": "National Teams",
+     "pid": 101238,
+     "game_name": "N.Lewis",
+     "jersey": 1,
+     "nat": "Trinidad_and_Tobago",
+     "ovr": 71
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20024",
+     "team": "隆德里纳",
+     "league": "巴西超级联赛",
+     "pid": 102004,
+     "game_name": "X.Lewis",
+     "jersey": 3,
+     "nat": "Brazil",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20538",
+     "team": "武里南",
+     "league": "泰国A级联赛",
+     "pid": 171816,
+     "game_name": "X.Lewis",
+     "jersey": 3,
+     "nat": "Thailand",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20242",
+     "team": "拉卡莱拉",
+     "league": "智利联赛",
+     "pid": 103158,
+     "game_name": "E.Lewis",
+     "jersey": 13,
+     "nat": "Chile",
+     "ovr": 61
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Bournemouth",
+  "team_id": 20046,
+  "real_name": "Alex Tóth",
+  "pos": "MF",
+  "jersey": 0,
+  "ovr": 66,
+  "cands": [
+   [
+    0.714,
+    false,
+    {
+     "tid": "10008",
+     "team": "智利",
+     "league": "National Teams",
+     "pid": 104028,
+     "game_name": "Alexio",
+     "jersey": 10,
+     "nat": "Chile",
+     "ovr": 83
+    }
+   ],
+   [
+    0.714,
+    false,
+    {
+     "tid": "20365",
+     "team": "蒙贝利亚尔",
+     "league": "法国超级联赛",
+     "pid": 119517,
+     "game_name": "Valett",
+     "jersey": 16,
+     "nat": "France",
+     "ovr": 67
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20018",
+     "team": "累西腓",
+     "league": "巴西超级联赛",
+     "pid": 125532,
+     "game_name": "Alex",
+     "jersey": 33,
+     "nat": "Brazil",
+     "ovr": 66
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20375",
+     "team": "贝洛奥里藏特 绿",
+     "league": "巴西超级联赛",
+     "pid": 124980,
+     "game_name": "Alex",
+     "jersey": 16,
+     "nat": "Brazil",
+     "ovr": 69
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20652",
+     "team": "马萨特兰",
+     "league": "墨西哥超级联赛",
+     "pid": 173319,
+     "game_name": "Zaletta",
+     "jersey": 14,
+     "nat": "Mexico",
+     "ovr": 59
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Bournemouth",
+  "team_id": 20046,
+  "real_name": "Daniel Jebbison",
+  "pos": "FW",
+  "jersey": 0,
+  "ovr": 64,
+  "cands": [
+   [
+    0.727,
+    false,
+    {
+     "tid": "20014",
+     "team": "库亚巴",
+     "league": "巴西超级联赛",
+     "pid": 125538,
+     "game_name": "Danilson",
+     "jersey": 27,
+     "nat": "Brazil",
+     "ovr": 74
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10001",
+     "team": "巴西",
+     "league": "National Teams",
+     "pid": 100001,
+     "game_name": "Danielo",
+     "jersey": 13,
+     "nat": "Brazil",
+     "ovr": 80
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20426",
+     "team": "迈拉索尔",
+     "league": "巴西超级联赛",
+     "pid": 107317,
+     "game_name": "Danielzino",
+     "jersey": 8,
+     "nat": "Brazil",
+     "ovr": 66
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20352",
+     "team": "摩德纳",
+     "league": "意大利超级联赛",
+     "pid": 153149,
+     "game_name": "Nielson",
+     "jersey": 20,
+     "nat": "Netherlands",
+     "ovr": 70
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20633",
+     "team": "戈兹特佩",
+     "league": "土耳其A级联赛",
+     "pid": 123970,
+     "game_name": "Nielson",
+     "jersey": 24,
+     "nat": "Denmark",
+     "ovr": 63
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Bournemouth",
+  "team_id": 20046,
+  "real_name": "Álvaro Rodríguez",
+  "pos": "FW",
+  "jersey": 0,
+  "ovr": 70,
+  "cands": [
+   [
+    0.8,
+    false,
+    {
+     "tid": "20403",
+     "team": "霍里奇",
+     "league": "英格兰A级联赛",
+     "pid": 171708,
+     "game_name": "R.Rodriguez",
+     "jersey": 3,
+     "nat": "Portugal",
+     "ovr": 66
+    }
+   ],
+   [
+    0.8,
+    false,
+    {
+     "tid": "20444",
+     "team": "突尼斯",
+     "league": "TunisianLeagueA",
+     "pid": 135650,
+     "game_name": "R.Rodriguez",
+     "jersey": 9,
+     "nat": "Brazil",
+     "ovr": 65
+    }
+   ],
+   [
+    0.8,
+    false,
+    {
+     "tid": "20827",
+     "team": "阿尔韦卡",
+     "league": "葡萄牙超级联赛",
+     "pid": 131245,
+     "game_name": "R.Rodriguez",
+     "jersey": 2,
+     "nat": "Portugal",
+     "ovr": 58
+    }
+   ],
+   [
+    0.8,
+    false,
+    {
+     "tid": "20827",
+     "team": "阿尔韦卡",
+     "league": "葡萄牙超级联赛",
+     "pid": 131257,
+     "game_name": "R.Rodriguez",
+     "jersey": 7,
+     "nat": "Portugal",
+     "ovr": 53
+    }
+   ],
+   [
+    0.8,
+    false,
+    {
+     "tid": "40027",
+     "team": "莫纳加斯",
+     "league": "委内瑞拉联赛",
+     "pid": 170266,
+     "game_name": "R.Rodriguez",
+     "jersey": 39,
+     "nat": "Venezuela",
+     "ovr": 64
+    }
+   ]
+  ]
+ },
+ {
+  "club": "NottinghamForest",
+  "team_id": 20050,
+  "real_name": "John Victor",
+  "pos": "GK",
+  "jersey": 12,
+  "ovr": 72,
+  "cands": [
+   [
+    0.75,
+    true,
+    {
+     "tid": "20283",
+     "team": "隆德里纳",
+     "league": "巴西超级联赛",
+     "pid": 151935,
+     "game_name": "Victor",
+     "jersey": 22,
+     "nat": "Brazil",
+     "ovr": 61
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20199",
+     "team": "莫斯科  红",
+     "league": "俄罗斯联赛",
+     "pid": 101623,
+     "game_name": "J.Victol",
+     "jersey": 4,
+     "nat": "Brazil",
+     "ovr": 60
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20793",
+     "team": "大田",
+     "league": "韩国A级联赛",
+     "pid": 107409,
+     "game_name": "J.Victol",
+     "jersey": 77,
+     "nat": "Brazil",
+     "ovr": 62
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20825",
+     "team": "PortugueseA AcadémicaCoimbra",
+     "league": "葡萄牙超级联赛",
+     "pid": 131216,
+     "game_name": "J.Victol",
+     "jersey": 21,
+     "nat": "Brazil",
+     "ovr": 52
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "30086",
+     "team": "海得拉巴",
+     "league": "印度联赛",
+     "pid": 140429,
+     "game_name": "J.Victol",
+     "jersey": 8,
+     "nat": "Brazil",
+     "ovr": 52
+    }
+   ]
+  ]
+ },
+ {
+  "club": "NottinghamForest",
+  "team_id": 20050,
+  "real_name": "Steven Benda",
+  "pos": "GK",
+  "jersey": 33,
+  "ovr": 68,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "10928",
+     "team": "阿根廷 2022",
+     "league": "National Teams",
+     "pid": 175398,
+     "game_name": "E.Fernendas",
+     "jersey": 24,
+     "nat": "Argentina",
+     "ovr": 79
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10927",
+     "team": "法国 2022",
+     "league": "National Teams",
+     "pid": 175418,
+     "game_name": "T.Hernendas",
+     "jersey": 22,
+     "nat": "France",
+     "ovr": 85
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20317",
+     "team": "雷丁",
+     "league": "英格兰A级联赛",
+     "pid": 125378,
+     "game_name": "Stevenz",
+     "jersey": 25,
+     "nat": "England",
+     "ovr": 63
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20337",
+     "team": "圣保利",
+     "league": "德国超级联赛",
+     "pid": 147342,
+     "game_name": "F.Steven",
+     "jersey": 14,
+     "nat": "Wales",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20711",
+     "team": "阿尔阿哈萨蓝",
+     "league": "沙特超级联赛",
+     "pid": 122049,
+     "game_name": "S.Bendka",
+     "jersey": 28,
+     "nat": "Algeria",
+     "ovr": 78
+    }
+   ]
+  ]
+ },
+ {
+  "club": "NottinghamForest",
+  "team_id": 20050,
+  "real_name": "Ousmane Diomande",
+  "pos": "DF",
+  "jersey": 2,
+  "ovr": 76,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "10024",
+     "team": "科特迪瓦",
+     "league": "National Teams",
+     "pid": 117391,
+     "game_name": "Diaomande",
+     "jersey": 2,
+     "nat": "Ivory_Coast",
+     "ovr": 73
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20372",
+     "team": "欧塞尔",
+     "league": "法国超级联赛",
+     "pid": 111252,
+     "game_name": "Diaomande",
+     "jersey": 20,
+     "nat": "Ivory_Coast",
+     "ovr": 70
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30021",
+     "team": "Ivory CoastA ASECMimosas",
+     "league": "Ivory_CoastLeagueA",
+     "pid": 136031,
+     "game_name": "T.Diomande",
+     "jersey": 17,
+     "nat": "Ivory_Coast",
+     "ovr": 55
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30117",
+     "team": "格拉斯哥 蓝",
+     "league": "苏格兰A级联赛",
+     "pid": 141148,
+     "game_name": "M.Diomante",
+     "jersey": 10,
+     "nat": "Ireland",
+     "ovr": 75
+    }
+   ],
+   [
+    0.615,
+    false,
+    {
+     "tid": "30038",
+     "team": "EswatiniA RoyalLeopardsSimunye",
+     "league": "EswatiniLeagueA",
+     "pid": 136409,
+     "game_name": "B.Ndzimandse",
+     "jersey": 6,
+     "nat": "Eswatini",
+     "ovr": 59
+    }
+   ]
+  ]
+ },
+ {
+  "club": "NottinghamForest",
+  "team_id": 20050,
+  "real_name": "Daniel Muñoz",
+  "pos": "DF",
+  "jersey": 27,
+  "ovr": 80,
+  "cands": [
+   [
+    0.778,
+    false,
+    {
+     "tid": "10001",
+     "team": "巴西",
+     "league": "National Teams",
+     "pid": 100001,
+     "game_name": "Danielo",
+     "jersey": 13,
+     "nat": "Brazil",
+     "ovr": 80
+    }
+   ],
+   [
+    0.762,
+    false,
+    {
+     "tid": "20426",
+     "team": "迈拉索尔",
+     "league": "巴西超级联赛",
+     "pid": 107317,
+     "game_name": "Danielzino",
+     "jersey": 8,
+     "nat": "Brazil",
+     "ovr": 66
+    }
+   ],
+   [
+    0.706,
+    true,
+    {
+     "tid": "20449",
+     "team": "ArgentinaA ClubAtléticoDefensoresdeBelgrano",
+     "league": "阿根廷A级联赛",
+     "pid": 151555,
+     "game_name": "Daniel",
+     "jersey": 28,
+     "nat": "Argentina",
+     "ovr": 52
+    }
+   ],
+   [
+    0.706,
+    true,
+    {
+     "tid": "20667",
+     "team": "比亚埃尔莫萨",
+     "league": "墨西哥超级联赛",
+     "pid": 150597,
+     "game_name": "Daniel",
+     "jersey": 17,
+     "nat": "Mexico",
+     "ovr": 54
+    }
+   ],
+   [
+    0.706,
+    true,
+    {
+     "tid": "40055",
+     "team": "REAL SlovakiaA SpartakTrnava",
+     "league": "SlovakiaA",
+     "pid": 171247,
+     "game_name": "Daniel",
+     "jersey": 23,
+     "nat": "Czech_Republic",
+     "ovr": 56
+    }
+   ]
+  ]
+ },
+ {
+  "club": "NottinghamForest",
+  "team_id": 20050,
+  "real_name": "Ibrahim Sangaré",
+  "pos": "MF",
+  "jersey": 6,
+  "ovr": 78,
+  "cands": [
+   [
+    0.727,
+    true,
+    {
+     "tid": "20823",
+     "team": "波瓦-迪瓦尔津",
+     "league": "葡萄牙超级联赛",
+     "pid": 131169,
+     "game_name": "M.Sangare",
+     "jersey": 9,
+     "nat": "France",
+     "ovr": 62
+    }
+   ],
+   [
+    0.727,
+    true,
+    {
+     "tid": "30030",
+     "team": "MaliA ASRealBamako",
+     "league": "MaliLeagueA",
+     "pid": 136228,
+     "game_name": "M.Sangare",
+     "jersey": 15,
+     "nat": "Mali",
+     "ovr": 52
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "10024",
+     "team": "科特迪瓦",
+     "league": "National Teams",
+     "pid": 131947,
+     "game_name": "I.Sangare",
+     "jersey": 18,
+     "nat": "Ivory_Coast",
+     "ovr": 77
+    }
+   ],
+   [
+    0.727,
+    false,
+    {
+     "tid": "30228",
+     "team": "波洛夸内 绿",
+     "league": "南非A级联赛",
+     "pid": 131718,
+     "game_name": "B.Sangare",
+     "jersey": 30,
+     "nat": "Ivory_Coast",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "20617",
+     "team": "加济安泰普",
+     "league": "土耳其A级联赛",
+     "pid": 123472,
+     "game_name": "Sangare",
+     "jersey": 30,
+     "nat": "Turkey",
+     "ovr": 61
+    }
+   ]
+  ]
+ },
+ {
+  "club": "NottinghamForest",
+  "team_id": 20050,
+  "real_name": "Xaver Schlager",
+  "pos": "MF",
+  "jersey": 21,
+  "ovr": 77,
+  "cands": [
+   [
+    0.727,
+    false,
+    {
+     "tid": "40002",
+     "team": "布里奇维尤 女足",
+     "league": "美国女足A级联赛",
+     "pid": 10977,
+     "game_name": "A.Schleger",
+     "jersey": 34,
+     "nat": "United_States",
+     "ovr": 67
+    }
+   ],
+   [
+    0.696,
+    false,
+    {
+     "tid": "20180",
+     "team": "安德莱赫特",
+     "league": "比利时A级联赛",
+     "pid": 102071,
+     "game_name": "Verscharen",
+     "jersey": 10,
+     "nat": "Belgium",
+     "ovr": 66
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10064",
+     "team": "奥地利",
+     "league": "National Teams",
+     "pid": 101462,
+     "game_name": "Schlagar",
+     "jersey": 12,
+     "nat": "Austria",
+     "ovr": 76
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10173",
+     "team": "列支敦士登",
+     "league": "National Teams",
+     "pid": 137708,
+     "game_name": "Marscher",
+     "jersey": 2,
+     "nat": "Liechtenstein",
+     "ovr": 56
+    }
+   ],
+   [
+    0.64,
+    false,
+    {
+     "tid": "20249",
+     "team": "恩斯科德",
+     "league": "荷兰联赛",
+     "pid": 142573,
+     "game_name": "A.Velschueren",
+     "jersey": 32,
+     "nat": "Belgium",
+     "ovr": 72
+    }
+   ]
+  ]
+ },
+ {
+  "club": "NottinghamForest",
+  "team_id": 20050,
+  "real_name": "Arnaud Kalimuendo",
+  "pos": "FW",
+  "jersey": 15,
+  "ovr": 74,
+  "cands": [
+   [
+    0.72,
+    false,
+    {
+     "tid": "20131",
+     "team": "法兰克福",
+     "league": "德国超级联赛",
+     "pid": 111220,
+     "game_name": "Kalimendo",
+     "jersey": 25,
+     "nat": "France",
+     "ovr": 76
+    }
+   ],
+   [
+    0.64,
+    false,
+    {
+     "tid": "20896",
+     "team": "秋田",
+     "league": "日本联赛",
+     "pid": 132900,
+     "game_name": "R.Nakamuna",
+     "jersey": 9,
+     "nat": "Japan",
+     "ovr": 62
+    }
+   ],
+   [
+    0.609,
+    false,
+    {
+     "tid": "20153",
+     "team": "利涅斯",
+     "league": "阿根廷A级联赛",
+     "pid": 105451,
+     "game_name": "Aliendo",
+     "jersey": 29,
+     "nat": "Argentina",
+     "ovr": 75
+    }
+   ],
+   [
+    0.476,
+    true,
+    {
+     "tid": "20371",
+     "team": "赫罗纳",
+     "league": "西班牙超级联赛",
+     "pid": 119820,
+     "game_name": "Arnau",
+     "jersey": 4,
+     "nat": "Spain",
+     "ovr": 77
+    }
+   ]
+  ]
+ },
+ {
+  "club": "NottinghamForest",
+  "team_id": 20050,
+  "real_name": "Liam Delap",
+  "pos": "FW",
+  "jersey": 19,
+  "ovr": 76,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "10103",
+     "team": "科摩罗",
+     "league": "National Teams",
+     "pid": 150855,
+     "game_name": "Abdela",
+     "jersey": 22,
+     "nat": "Comoros",
+     "ovr": 59
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20708",
+     "team": "利雅得青年",
+     "league": "沙特超级联赛",
+     "pid": 151582,
+     "game_name": "Abdela",
+     "jersey": 19,
+     "nat": "Saudi_Arabia",
+     "ovr": 48
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10218",
+     "team": "美属萨摩亚",
+     "league": "National Teams",
+     "pid": 171936,
+     "game_name": "Videla",
+     "jersey": 20,
+     "nat": "American_Samoa",
+     "ovr": 65
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20202",
+     "team": "雅典",
+     "league": "希腊联赛 A",
+     "pid": 104402,
+     "game_name": "Lamera",
+     "jersey": 9,
+     "nat": "Argentina",
+     "ovr": 75
+    }
+   ],
+   [
+    0.625,
+    false,
+    {
+     "tid": "10109",
+     "team": "冈比亚",
+     "league": "National Teams",
+     "pid": 132022,
+     "game_name": "A.Fadela",
+     "jersey": 7,
+     "nat": "Gambia",
+     "ovr": 63
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Dan Bentley",
+  "pos": "GK",
+  "jersey": 25,
+  "ovr": 65,
+  "cands": [
+   [
+    0.75,
+    false,
+    {
+     "tid": "20033",
+     "team": "伍尔弗汉普顿",
+     "league": "英格兰A级联赛",
+     "pid": 108478,
+     "game_name": "Bently",
+     "jersey": 25,
+     "nat": "England",
+     "ovr": 72
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10016",
+     "team": "法国",
+     "league": "National Teams",
+     "pid": 111324,
+     "game_name": "Denbele",
+     "jersey": 7,
+     "nat": "France",
+     "ovr": 91
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10942",
+     "team": "法国 2018",
+     "league": "National Teams",
+     "pid": 173360,
+     "game_name": "Denbele",
+     "jersey": 11,
+     "nat": "France",
+     "ovr": 79
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "30434",
+     "team": "巴黎 2025",
+     "league": "ClassicClub",
+     "pid": 173243,
+     "game_name": "Denbele",
+     "jersey": 10,
+     "nat": "France",
+     "ovr": 90
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10121",
+     "team": "尼日尔",
+     "league": "National Teams",
+     "pid": 116892,
+     "game_name": "Diabete",
+     "jersey": 7,
+     "nat": "Niger",
+     "ovr": 61
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Ethan Pinnock",
+  "pos": "DF",
+  "jersey": 2,
+  "ovr": 74,
+  "cands": [
+   [
+    0.636,
+    false,
+    {
+     "tid": "20702",
+     "team": "北榄府",
+     "league": "泰国A级联赛",
+     "pid": 120529,
+     "game_name": "Premthanok",
+     "jersey": 19,
+     "nat": "Thailand",
+     "ovr": 48
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "30195",
+     "team": "雅典 绿",
+     "league": "希腊联赛 A",
+     "pid": 153280,
+     "game_name": "Andinno",
+     "jersey": 10,
+     "nat": "Argentina",
+     "ovr": 58
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "30265",
+     "team": "清州",
+     "league": "韩国A级联赛",
+     "pid": 144869,
+     "game_name": "De-han Pak",
+     "jersey": 21,
+     "nat": "South_Korea",
+     "ovr": 58
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "30299",
+     "team": "瓦勒海姆",
+     "league": "比利时A级联赛",
+     "pid": 145571,
+     "game_name": "A.Halinck",
+     "jersey": 38,
+     "nat": "Belgium",
+     "ovr": 49
+    }
+   ],
+   [
+    0.588,
+    true,
+    {
+     "tid": "20804",
+     "team": "PortugueseA GDChaves",
+     "league": "葡萄牙超级联赛",
+     "pid": 152115,
+     "game_name": "Pinno",
+     "jersey": 8,
+     "nat": "Portugal",
+     "ovr": 56
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Stephen Mfuni",
+  "pos": "DF",
+  "jersey": 12,
+  "ovr": 62,
+  "cands": [
+   [
+    0.727,
+    false,
+    {
+     "tid": "10199",
+     "team": "安提瓜和巴布达",
+     "league": "National Teams",
+     "pid": 138313,
+     "game_name": "Stephenson",
+     "jersey": 21,
+     "nat": "Antigua_and_Barbuda",
+     "ovr": 53
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "10221",
+     "team": "蒙特塞拉特",
+     "league": "National Teams",
+     "pid": 171988,
+     "game_name": "Stephan",
+     "jersey": 4,
+     "nat": "Montserrat",
+     "ovr": 62
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10051",
+     "team": "新西兰",
+     "league": "National Teams",
+     "pid": 101171,
+     "game_name": "Stemenic",
+     "jersey": 8,
+     "nat": "New_Zealand",
+     "ovr": 69
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20377",
+     "team": "科里蒂巴 绿",
+     "league": "巴西超级联赛",
+     "pid": 100032,
+     "game_name": "Sleemani",
+     "jersey": 9,
+     "nat": "Algeria",
+     "ovr": 78
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "30233",
+     "team": "姆普马兰加 红",
+     "league": "南非A级联赛",
+     "pid": 143892,
+     "game_name": "S.Mthembu",
+     "jersey": 12,
+     "nat": "South_Africa",
+     "ovr": 51
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Aurèle Amenda",
+  "pos": "DF",
+  "jersey": 24,
+  "ovr": 70,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "20154",
+     "team": "阿韦亚内达 蓝",
+     "league": "阿根廷A级联赛",
+     "pid": 105205,
+     "game_name": "Almenda",
+     "jersey": 32,
+     "nat": "Argentina",
+     "ovr": 64
+    }
+   ],
+   [
+    0.696,
+    false,
+    {
+     "tid": "20163",
+     "team": "拉普拉塔 红",
+     "league": "阿根廷A级联赛",
+     "pid": 101107,
+     "game_name": "S.Arsamendia",
+     "jersey": 15,
+     "nat": "Paraguay",
+     "ovr": 69
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10102",
+     "team": "加蓬",
+     "league": "National Teams",
+     "pid": 103664,
+     "game_name": "Lemena",
+     "jersey": 18,
+     "nat": "Gabon",
+     "ovr": 77
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10180",
+     "team": "澳门",
+     "league": "National Teams",
+     "pid": 137868,
+     "game_name": "Almeda",
+     "jersey": 5,
+     "nat": "China_Macao",
+     "ovr": 64
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20293",
+     "team": "戈亚尼亚 红",
+     "league": "巴西超级联赛",
+     "pid": 109433,
+     "game_name": "Almeda",
+     "jersey": 21,
+     "nat": "Brazil",
+     "ovr": 70
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Caleb Yirenkyi",
+  "pos": "MF",
+  "jersey": 8,
+  "ovr": 64,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "20580",
+     "team": "堪萨斯城",
+     "league": "MajorLeagueA",
+     "pid": 175069,
+     "game_name": "Calheiri",
+     "jersey": 19,
+     "nat": "United_States",
+     "ovr": 46
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "10018",
+     "team": "加纳",
+     "league": "National Teams",
+     "pid": 174667,
+     "game_name": "C.Yirankci",
+     "jersey": 35,
+     "nat": "Ghana",
+     "ovr": 65
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "20486",
+     "team": "斯勒曼",
+     "league": "印尼A级联赛",
+     "pid": 112155,
+     "game_name": "Clebersen",
+     "jersey": 4,
+     "nat": "Brazil",
+     "ovr": 62
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "20718",
+     "team": "麦加黄",
+     "league": "沙特超级联赛",
+     "pid": 113027,
+     "game_name": "Al Sebiani",
+     "jersey": 3,
+     "nat": "Saudi_Arabia",
+     "ovr": 60
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "40069",
+     "team": "REAL ClassicClub Napoli 1987",
+     "league": "ClassicClub",
+     "pid": 171590,
+     "game_name": "Calestini",
+     "jersey": 20,
+     "nat": "Italy",
+     "ovr": 80
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Gustavo Hamer",
+  "pos": "MF",
+  "jersey": 38,
+  "ovr": 76,
+  "cands": [
+   [
+    0.7,
+    false,
+    {
+     "tid": "20375",
+     "team": "贝洛奥里藏特 绿",
+     "league": "巴西超级联赛",
+     "pid": 152401,
+     "game_name": "Gustavio",
+     "jersey": 97,
+     "nat": "Brazil",
+     "ovr": 59
+    }
+   ],
+   [
+    0.667,
+    true,
+    {
+     "tid": "20483",
+     "team": "雅加达",
+     "league": "印尼A级联赛",
+     "pid": 173089,
+     "game_name": "Gustav",
+     "jersey": 70,
+     "nat": "Brazil",
+     "ovr": 62
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10205",
+     "team": "所罗门群岛",
+     "league": "National Teams",
+     "pid": 138437,
+     "game_name": "Gahame",
+     "jersey": 8,
+     "nat": "Solomon_Islands",
+     "ovr": 58
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10954",
+     "team": "瑞典 1958",
+     "league": "National Teams",
+     "pid": 170131,
+     "game_name": "Gustavson",
+     "jersey": 14,
+     "nat": "Sweden",
+     "ovr": 92
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "20575",
+     "team": "盐湖城",
+     "league": "MajorLeagueA",
+     "pid": 113986,
+     "game_name": "Stajdohar",
+     "jersey": 31,
+     "nat": "United_States",
+     "ovr": 60
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Haji Wright",
+  "pos": "FW",
+  "jersey": 11,
+  "ovr": 70,
+  "cands": [
+   [
+    0.75,
+    false,
+    {
+     "tid": "30125",
+     "team": "丁沃尔",
+     "league": "苏格兰A级联赛",
+     "pid": 141321,
+     "game_name": "J.Wight",
+     "jersey": 26,
+     "nat": "Scotland",
+     "ovr": 62
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "40009",
+     "team": "路易维尔 女足",
+     "league": "美国女足A级联赛",
+     "pid": 11160,
+     "game_name": "A.Wlight",
+     "jersey": 3,
+     "nat": "United_States",
+     "ovr": 78
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10075",
+     "team": "北爱尔兰",
+     "league": "National Teams",
+     "pid": 105913,
+     "game_name": "Wight",
+     "jersey": 23,
+     "nat": "NORTHERN_IRELAND",
+     "ovr": 60
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30118",
+     "team": "格拉斯哥 棕",
+     "league": "苏格兰A级联赛",
+     "pid": 141175,
+     "game_name": "P.Hairing",
+     "jersey": 5,
+     "nat": "Austria",
+     "ovr": 61
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "30341",
+     "team": "拉什特",
+     "league": "伊朗A级联赛",
+     "pid": 146501,
+     "game_name": "A.Hajigha",
+     "jersey": 22,
+     "nat": "Iran",
+     "ovr": 53
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Taiwo Awoniyi",
+  "pos": "FW",
+  "jersey": 14,
+  "ovr": 74,
+  "cands": [
+   [
+    0.632,
+    false,
+    {
+     "tid": "20851",
+     "team": "马姆洛迪",
+     "league": "南非A级联赛",
+     "pid": 171629,
+     "game_name": "A.Tiwoni",
+     "jersey": 31,
+     "nat": "South_Africa",
+     "ovr": 59
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10068",
+     "team": "委内瑞拉",
+     "league": "National Teams",
+     "pid": 172176,
+     "game_name": "A.Milanii",
+     "jersey": 32,
+     "nat": "Venezuela",
+     "ovr": 62
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20498",
+     "team": "基尔卡普",
+     "league": "印尼A级联赛",
+     "pid": 112673,
+     "game_name": "Tawarani",
+     "jersey": 7,
+     "nat": "Indonesia",
+     "ovr": 51
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "20681",
+     "team": "清莱",
+     "league": "泰国A级联赛",
+     "pid": 120153,
+     "game_name": "Woraworn",
+     "jersey": 1,
+     "nat": "Thailand",
+     "ovr": 63
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Loum Tchaouna",
+  "pos": "FW",
+  "jersey": 17,
+  "ovr": 72,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "20043",
+     "team": "伯恩利",
+     "league": "英格兰A级联赛",
+     "pid": 117645,
+     "game_name": "Tchaona",
+     "jersey": 17,
+     "nat": "France",
+     "ovr": 69
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20922",
+     "team": "阿巴西亚",
+     "league": "埃及甲级联赛",
+     "pid": 133531,
+     "game_name": "M.Hasouna",
+     "jersey": 6,
+     "nat": "Egypt",
+     "ovr": 60
+    }
+   ],
+   [
+    0.636,
+    false,
+    {
+     "tid": "30391",
+     "team": "利马索尔",
+     "league": "塞浦路斯联赛",
+     "pid": 147619,
+     "game_name": "A.Loucoubal",
+     "jersey": 15,
+     "nat": "Senegal",
+     "ovr": 52
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "10103",
+     "team": "科摩罗",
+     "league": "National Teams",
+     "pid": 109360,
+     "game_name": "Mchanma",
+     "jersey": 10,
+     "nat": "Comoros",
+     "ovr": 62
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "10958",
+     "team": "西班牙 2010",
+     "league": "National Teams",
+     "pid": 160750,
+     "game_name": "Machana",
+     "jersey": 4,
+     "nat": "Spain",
+     "ovr": 70
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Yann Gboho",
+  "pos": "FW",
+  "jersey": 34,
+  "ovr": 72,
+  "cands": [
+   [
+    0.714,
+    true,
+    {
+     "tid": "20423",
+     "team": "孔卡尔诺",
+     "league": "法国超级联赛",
+     "pid": 110390,
+     "game_name": "Gboho",
+     "jersey": 24,
+     "nat": "Ivory_Coast",
+     "ovr": 62
+    }
+   ],
+   [
+    0.714,
+    false,
+    {
+     "tid": "10187",
+     "team": "中非共和国",
+     "league": "National Teams",
+     "pid": 138036,
+     "game_name": "Yango",
+     "jersey": 3,
+     "nat": "Central_African_Republic",
+     "ovr": 48
+    }
+   ],
+   [
+    0.714,
+    false,
+    {
+     "tid": "20075",
+     "team": "图卢兹",
+     "league": "法国超级联赛",
+     "pid": 133151,
+     "game_name": "Y.Gbho",
+     "jersey": 10,
+     "nat": "France",
+     "ovr": 76
+    }
+   ],
+   [
+    0.714,
+    false,
+    {
+     "tid": "20495",
+     "team": "勿加泗 白",
+     "league": "印尼A级联赛",
+     "pid": 112613,
+     "game_name": "Anngo",
+     "jersey": 9,
+     "nat": "Indonesia",
+     "ovr": 60
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10917",
+     "team": "科特迪瓦 2014",
+     "league": "National Teams",
+     "pid": 175717,
+     "game_name": "Gbohuo",
+     "jersey": 16,
+     "nat": "Ivory_Coast",
+     "ovr": 63
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Coventry",
+  "team_id": 20324,
+  "real_name": "Sidiki Cherif",
+  "pos": "FW",
+  "jersey": 49,
+  "ovr": 60,
+  "cands": [
+   [
+    0.667,
+    false,
+    {
+     "tid": "30196",
+     "team": "塞萨洛尼基 黄",
+     "league": "希腊联赛 A",
+     "pid": 151664,
+     "game_name": "Sidker",
+     "jersey": 20,
+     "nat": "Sweden",
+     "ovr": 62
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "10042",
+     "team": "突尼斯",
+     "league": "National Teams",
+     "pid": 104967,
+     "game_name": "Skheeri",
+     "jersey": 17,
+     "nat": "Tunisia",
+     "ovr": 81
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "10080",
+     "team": "印度",
+     "league": "National Teams",
+     "pid": 130486,
+     "game_name": "S.Chetri",
+     "jersey": 11,
+     "nat": "India",
+     "ovr": 58
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20438",
+     "team": "开罗",
+     "league": "埃及甲级联赛",
+     "pid": 110688,
+     "game_name": "Sheriff",
+     "jersey": 9,
+     "nat": "Egypt",
+     "ovr": 61
+    }
+   ],
+   [
+    0.632,
+    false,
+    {
+     "tid": "20916",
+     "team": "亚历山大 橙",
+     "league": "埃及甲级联赛",
+     "pid": 133398,
+     "game_name": "A.Sherif",
+     "jersey": 31,
+     "nat": "Egypt",
+     "ovr": 60
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Fulham",
+  "team_id": 20367,
+  "real_name": "Alex Borto",
+  "pos": "GK",
+  "jersey": 36,
+  "ovr": 55,
+  "cands": [
+   [
+    0.75,
+    false,
+    {
+     "tid": "20063",
+     "team": "安格斯",
+     "league": "法国超级联赛",
+     "pid": 123613,
+     "game_name": "Leforto",
+     "jersey": 21,
+     "nat": "France",
+     "ovr": 77
+    }
+   ],
+   [
+    0.75,
+    false,
+    {
+     "tid": "30296",
+     "team": "登德尔莱乌",
+     "league": "比利时A级联赛",
+     "pid": 145518,
+     "game_name": "A.De Bort",
+     "jersey": 12,
+     "nat": "Belgium",
+     "ovr": 61
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10218",
+     "team": "美属萨摩亚",
+     "league": "National Teams",
+     "pid": 171920,
+     "game_name": "Albornoz",
+     "jersey": 1,
+     "nat": "American_Samoa",
+     "ovr": 63
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20375",
+     "team": "贝洛奥里藏特 绿",
+     "league": "巴西超级联赛",
+     "pid": 104169,
+     "game_name": "Dalberto",
+     "jersey": 36,
+     "nat": "Brazil",
+     "ovr": 62
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20255",
+     "team": "奈梅亨",
+     "league": "荷兰联赛",
+     "pid": 151654,
+     "game_name": "Leberton",
+     "jersey": 20,
+     "nat": "France",
+     "ovr": 61
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Fulham",
+  "team_id": 20367,
+  "real_name": "David Affengruber",
+  "pos": "DF",
+  "jersey": 22,
+  "ovr": 72,
+  "cands": [
+   [
+    0.72,
+    true,
+    {
+     "tid": "10064",
+     "team": "奥地利",
+     "league": "National Teams",
+     "pid": 150381,
+     "game_name": "Affengrub",
+     "jersey": 22,
+     "nat": "Austria",
+     "ovr": 74
+    }
+   ],
+   [
+    0.6,
+    false,
+    {
+     "tid": "10980",
+     "team": "菲律宾",
+     "league": "National Teams",
+     "pid": 10448,
+     "game_name": "Davies-McDanier",
+     "jersey": 23,
+     "nat": "Philippines",
+     "ovr": 73
+    }
+   ],
+   [
+    0.476,
+    true,
+    {
+     "tid": "10075",
+     "team": "北爱尔兰",
+     "league": "National Teams",
+     "pid": 105891,
+     "game_name": "David",
+     "jersey": 8,
+     "nat": "NORTHERN_IRELAND",
+     "ovr": 77
+    }
+   ],
+   [
+    0.476,
+    true,
+    {
+     "tid": "20314",
+     "team": "谢菲尔德",
+     "league": "英格兰A级联赛",
+     "pid": 106729,
+     "game_name": "David",
+     "jersey": 22,
+     "nat": "England",
+     "ovr": 70
+    }
+   ],
+   [
+    0.476,
+    true,
+    {
+     "tid": "40107",
+     "team": "青岛 黄",
+     "league": "中国联赛",
+     "pid": 125804,
+     "game_name": "David",
+     "jersey": 11,
+     "nat": "Brazil",
+     "ovr": 74
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Fulham",
+  "team_id": 20367,
+  "real_name": "César Palacios",
+  "pos": "MF",
+  "jersey": 8,
+  "ovr": 68,
+  "cands": [
+   [
+    0.727,
+    false,
+    {
+     "tid": "30048",
+     "team": "马尼萨莱斯",
+     "league": "哥伦比亚联赛",
+     "pid": 136792,
+     "game_name": "S.Paracios",
+     "jersey": 23,
+     "nat": "Colombia",
+     "ovr": 61
+    }
+   ],
+   [
+    0.7,
+    true,
+    {
+     "tid": "20151",
+     "team": "拉博卡",
+     "league": "阿根廷A级联赛",
+     "pid": 152437,
+     "game_name": "Palacio",
+     "jersey": 8,
+     "nat": "Chile",
+     "ovr": 69
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20163",
+     "team": "拉普拉塔 红",
+     "league": "阿根廷A级联赛",
+     "pid": 150057,
+     "game_name": "Palacis",
+     "jersey": 24,
+     "nat": "Argentina",
+     "ovr": 64
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10003",
+     "team": "阿根廷",
+     "league": "National Teams",
+     "pid": 100065,
+     "game_name": "Paracios",
+     "jersey": 14,
+     "nat": "Argentina",
+     "ovr": 85
+    }
+   ],
+   [
+    0.667,
+    false,
+    {
+     "tid": "10980",
+     "team": "菲律宾",
+     "league": "National Teams",
+     "pid": 10437,
+     "game_name": "Palasios",
+     "jersey": 1,
+     "nat": "Philippines",
+     "ovr": 71
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Fulham",
+  "team_id": 20367,
+  "real_name": "Hugo Larsson",
+  "pos": "MF",
+  "jersey": 15,
+  "ovr": 74,
+  "cands": [
+   [
+    0.762,
+    false,
+    {
+     "tid": "30293",
+     "team": "科特赖克",
+     "league": "比利时A级联赛",
+     "pid": 103355,
+     "game_name": "Gonnarsson",
+     "jersey": 2,
+     "nat": "Iceland",
+     "ovr": 70
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "10933",
+     "team": "瑞典 1994",
+     "league": "National Teams",
+     "pid": 174366,
+     "game_name": "H.Lersson",
+     "jersey": 7,
+     "nat": "Sweden",
+     "ovr": 81
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "20204",
+     "team": "海宁",
+     "league": "丹麦联赛",
+     "pid": 117709,
+     "game_name": "Olafsson",
+     "jersey": 16,
+     "nat": "Iceland",
+     "ovr": 74
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "30173",
+     "team": "布雷达",
+     "league": "荷兰联赛",
+     "pid": 103700,
+     "game_name": "Omarsson",
+     "jersey": 10,
+     "nat": "Iceland",
+     "ovr": 59
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10062",
+     "team": "挪威",
+     "league": "National Teams",
+     "pid": 111085,
+     "game_name": "Larson",
+     "jersey": 5,
+     "nat": "Norway",
+     "ovr": 79
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Fulham",
+  "team_id": 20367,
+  "real_name": "Shea Charles",
+  "pos": "MF",
+  "jersey": 19,
+  "ovr": 68,
+  "cands": [
+   [
+    0.737,
+    false,
+    {
+     "tid": "10932",
+     "team": "巴西 1998",
+     "league": "National Teams",
+     "pid": 175303,
+     "game_name": "Ze Carles",
+     "jersey": 13,
+     "nat": "Brazil",
+     "ovr": 77
+    }
+   ],
+   [
+    0.737,
+    false,
+    {
+     "tid": "20032",
+     "team": "伦敦 锤",
+     "league": "英格兰A级联赛",
+     "pid": 172575,
+     "game_name": "Scarless",
+     "jersey": 30,
+     "nat": "England",
+     "ovr": 69
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10929",
+     "team": "荷兰 2010",
+     "league": "National Teams",
+     "pid": 175373,
+     "game_name": "Schars",
+     "jersey": 18,
+     "nat": "Netherlands",
+     "ovr": 65
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "20401",
+     "team": "星期三",
+     "league": "英格兰A级联赛",
+     "pid": 151305,
+     "game_name": "Charls",
+     "jersey": 1,
+     "nat": "NORTHERN_IRELAND",
+     "ovr": 64
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20736",
+     "team": "纳季兰",
+     "league": "沙特超级联赛",
+     "pid": 122534,
+     "game_name": "S.Berhares",
+     "jersey": 31,
+     "nat": "Saudi_Arabia",
+     "ovr": 51
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Fulham",
+  "team_id": 20367,
+  "real_name": "Manuel Ángel",
+  "pos": "MF",
+  "jersey": 20,
+  "ovr": 62,
+  "cands": [
+   [
+    0.778,
+    false,
+    {
+     "tid": "20487",
+     "team": "梭罗",
+     "league": "印尼A级联赛",
+     "pid": 173103,
+     "game_name": "Maulane",
+     "jersey": 29,
+     "nat": "Indonesia",
+     "ovr": 49
+    }
+   ],
+   [
+    0.706,
+    true,
+    {
+     "tid": "10227",
+     "team": "英属维尔京群岛",
+     "league": "National Teams",
+     "pid": 172123,
+     "game_name": "Manuel",
+     "jersey": 22,
+     "nat": "British_Virgin_Islands",
+     "ovr": 59
+    }
+   ],
+   [
+    0.706,
+    true,
+    {
+     "tid": "20667",
+     "team": "比亚埃尔莫萨",
+     "league": "墨西哥超级联赛",
+     "pid": 150588,
+     "game_name": "Manuel",
+     "jersey": 8,
+     "nat": "Mexico",
+     "ovr": 63
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "10104",
+     "team": "苏丹",
+     "league": "National Teams",
+     "pid": 173825,
+     "game_name": "M.Elnel",
+     "jersey": 21,
+     "nat": "Sudan",
+     "ovr": 52
+    }
+   ],
+   [
+    0.706,
+    false,
+    {
+     "tid": "40036",
+     "team": "马图林红",
+     "league": "委内瑞拉联赛",
+     "pid": 170420,
+     "game_name": "M.Ángel",
+     "jersey": 21,
+     "nat": "Venezuela",
+     "ovr": 65
+    }
+   ]
+  ]
+ },
+ {
+  "club": "Fulham",
+  "team_id": 20367,
+  "real_name": "Gonzalo García",
+  "pos": "FW",
+  "jersey": 7,
+  "ovr": 70,
+  "cands": [
+   [
+    0.762,
+    false,
+    {
+     "tid": "30413",
+     "team": "佩德罗 BW",
+     "league": "巴拉圭联赛",
+     "pid": 160141,
+     "game_name": "Gonzalar",
+     "jersey": 14,
+     "nat": "Paraguay",
+     "ovr": 66
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20129",
+     "team": "勒沃库森",
+     "league": "德国超级联赛",
+     "pid": 109327,
+     "game_name": "A.Garcia",
+     "jersey": 24,
+     "nat": "Spain",
+     "ovr": 84
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "30437",
+     "team": "拉纳卡",
+     "league": "塞浦路斯联赛",
+     "pid": 173254,
+     "game_name": "A.Garcia",
+     "jersey": 14,
+     "nat": "Spain",
+     "ovr": 52
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "20583",
+     "team": "莱昂",
+     "league": "墨西哥超级联赛",
+     "pid": 173289,
+     "game_name": "G.Garcia",
+     "jersey": 17,
+     "nat": "Mexico",
+     "ovr": 56
+    }
+   ],
+   [
+    0.7,
+    false,
+    {
+     "tid": "30409",
+     "team": "亚松森 NA",
+     "league": "巴拉圭联赛",
+     "pid": 160001,
+     "game_name": "Galarca",
+     "jersey": 1,
+     "nat": "Paraguay",
+     "ovr": 61
+    }
+   ]
+  ]
+ }
+]

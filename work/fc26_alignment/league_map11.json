@@ -1,0 +1,110 @@
+{
+ "NL2": {
+  "Vitesse": [
+   "SBV Vitesse",
+   20251
+  ],
+  "RKC": [
+   "RKC Waalwijk",
+   20254
+  ],
+  "Heracles": [
+   "Heracles Almelo",
+   20260
+  ],
+  "Almere": [
+   "Almere City FC",
+   30171
+  ],
+  "Breda": [
+   "NAC Breda",
+   30173
+  ],
+  "Dordrecht": [
+   "FC Dordrecht",
+   30174
+  ],
+  "Kerkrade": [
+   "Roda JC Kerkrade",
+   30175
+  ],
+  "DenBosch": [
+   "FC Den Bosch",
+   30178
+  ],
+  "Emmen": [
+   "FC Emmen",
+   30179
+  ],
+  "Helmond": [
+   "Helmond Sport",
+   30182
+  ],
+  "Maastricht": [
+   "MVV Maastricht",
+   30183
+  ],
+  "Oss": [
+   "TOP Oss",
+   30184
+  ],
+  "Venlo": [
+   "VVV-Venlo",
+   30181
+  ]
+ },
+ "BR2": {
+  "AmericaMG": [
+   "América Futebol Clube (MG)",
+   20278
+  ],
+  "Goianiense": [
+   "Atlético Clube Goianiense",
+   20293
+  ],
+  "Avai": [
+   "Avaí FC",
+   20281
+  ],
+  "BotafogoSP": [
+   "Botafogo Futebol Clube (SP)",
+   20288
+  ],
+  "Ceara": [
+   "Ceará Sporting Club",
+   20010
+  ],
+  "CRB": [
+   "Clube de Regatas Brasil",
+   20431
+  ],
+  "Criciuma": [
+   "Criciúma Esporte Clube",
+   20281
+  ],
+  "Goias": [
+   "Goiás Esporte Clube",
+   20008
+  ],
+  "Londrina": [
+   "Londrina Esporte Clube",
+   20024
+  ],
+  "Nautico": [
+   "Clube Náutico Capibaribe",
+   20291
+  ],
+  "Novorizontino": [
+   "Grêmio Novorizontino",
+   20006
+  ],
+  "PontePreta": [
+   "Associação Atlética Ponte Preta",
+   20289
+  ],
+  "VilaNova": [
+   "Vila Nova Futebol Clube",
+   20008
+  ]
+ }
+}

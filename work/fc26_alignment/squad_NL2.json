@@ -1,0 +1,1888 @@
+{
+ "Vitesse": [
+  [
+   1,
+   "Connor van den Berg",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Solomon Bonnah",
+   "DF",
+   "NED"
+  ],
+  [
+   6,
+   "Marco Schikora",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Nino Zonneveld",
+   "FW",
+   "NED"
+  ],
+  [
+   8,
+   "Ricardo-Felipe Schwarz",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Naoufal Bannis",
+   "FW",
+   "NED"
+  ],
+  [
+   11,
+   "Yuval Ranon",
+   "MF",
+   "ISR"
+  ],
+  [
+   13,
+   "João Pinto",
+   "FW",
+   "POR"
+  ],
+  [
+   14,
+   "Omar Achouitar",
+   "DF",
+   "NED"
+  ],
+  [
+   15,
+   "Luuk Wouters",
+   "DF",
+   "NED"
+  ],
+  [
+   17,
+   "Valon Zumberi",
+   "DF",
+   "KOS"
+  ],
+  [
+   19,
+   "Jeredy Hilterman",
+   "FW",
+   "NED"
+  ],
+  [
+   20,
+   "Filipe de Carvalho",
+   "MF",
+   "SUI"
+  ],
+  [
+   21,
+   "Ayman Sellouf",
+   "FW",
+   "NED"
+  ],
+  [
+   22,
+   "Xiamaro Thenu",
+   "DF",
+   "NED"
+  ],
+  [
+   23,
+   "Jayden Siecker",
+   "GK",
+   "NED"
+  ],
+  [
+   24,
+   "Nathan Markelo",
+   "DF",
+   "CUW"
+  ],
+  [
+   25,
+   "Tyrick Bodak",
+   "GK",
+   "CUW"
+  ],
+  [
+   27,
+   "Eduard Probst",
+   "FW",
+   "GER"
+  ],
+  [
+   31,
+   "Maximilian Brüll",
+   "GK",
+   "GER"
+  ],
+  [
+   33,
+   "Mathijs Marschalk",
+   "MF",
+   "NED"
+  ],
+  [
+   34,
+   "Youssef Ouallil",
+   "MF",
+   "NED"
+  ],
+  [
+   38,
+   "Koen te Veluwe",
+   "MF",
+   "NED"
+  ],
+  [
+   42,
+   "Teun Bosch",
+   "MF",
+   "NED"
+  ],
+  [
+   43,
+   "Chiel Olde Keizer",
+   "DF",
+   "NED"
+  ]
+ ],
+ "RKC": [
+  [
+   1,
+   "Niek Schiks",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Bjarn Zorgdrager",
+   "DF",
+   "NED"
+  ],
+  [
+   3,
+   "Sven van der Plas",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "Liam van Gelderen",
+   "DF",
+   "SUR"
+  ],
+  [
+   5,
+   "Juan Castillo (footballer, born 2000)",
+   "DF",
+   "DOM"
+  ],
+  [
+   6,
+   "Loek Postma",
+   "DF",
+   "NED"
+  ],
+  [
+   7,
+   "Ryan Fage",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Jochem Nap",
+   "MF",
+   "NED"
+  ],
+  [
+   9,
+   "Jesse van de Haar",
+   "FW",
+   "NED"
+  ],
+  [
+   10,
+   "Thijs van Leeuwen",
+   "MF",
+   "NED"
+  ],
+  [
+   11,
+   "Yoram van der Veen",
+   "FW",
+   "NED"
+  ],
+  [
+   13,
+   "Xander Mulder",
+   "GK",
+   "NED"
+  ],
+  [
+   16,
+   "Mark Spenkelink",
+   "GK",
+   "NED"
+  ],
+  [
+   17,
+   "Roy Kuijpers",
+   "FW",
+   "NED"
+  ],
+  [
+   18,
+   "Rein van Hedel",
+   "MF",
+   "NED"
+  ],
+  [
+   19,
+   "Haye van Gemert",
+   "FW",
+   "NED"
+  ],
+  [
+   22,
+   "Tim van de Loo",
+   "MF",
+   "NED"
+  ],
+  [
+   24,
+   "Azzedine Dkidak",
+   "FW",
+   "NED"
+  ],
+  [
+   25,
+   "Navajo Bakboord",
+   "DF",
+   "SUR"
+  ],
+  [
+   27,
+   "Finn Stokkers",
+   "FW",
+   "NED"
+  ],
+  [
+   30,
+   "Jordy de Wijs",
+   "DF",
+   "NED"
+  ],
+  [
+   31,
+   "Luuk Vogels",
+   "GK",
+   "NED"
+  ],
+  [
+   33,
+   "Faissal Al Mazyani",
+   "DF",
+   "MAR"
+  ]
+ ],
+ "Heracles": [
+  [
+   1,
+   "Fabian de Keijzer",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Mimeirhel Benita",
+   "DF",
+   "NED"
+  ],
+  [
+   3,
+   "Mario Borac",
+   "DF",
+   "CRO"
+  ],
+  [
+   4,
+   "Damon Mirani",
+   "DF",
+   "NED"
+  ],
+  [
+   5,
+   "Djevencio van der Kust",
+   "MF",
+   "SUR"
+  ],
+  [
+   6,
+   "David Tomić",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Chafik Abbas",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Mario Engels",
+   "FW",
+   "GER"
+  ],
+  [
+   9,
+   "Vincent Poppler",
+   "FW",
+   "SWE"
+  ],
+  [
+   10,
+   "Thomas Bruns",
+   "MF",
+   "NED"
+  ],
+  [
+   11,
+   "Jeff Reine-Adélaïde",
+   "MF",
+   "FRA"
+  ],
+  [
+   14,
+   "Maurice Wrusch",
+   "MF",
+   "GER"
+  ],
+  [
+   15,
+   "David Vicente",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Timo Jansink",
+   "GK",
+   "NED"
+  ],
+  [
+   17,
+   "Tristan van Gilst",
+   "MF",
+   "NED"
+  ],
+  [
+   18,
+   "Max Hauswirth",
+   "DF",
+   "GER"
+  ],
+  [
+   19,
+   "Luka Kulenović",
+   "FW",
+   "BIH"
+  ],
+  [
+   20,
+   "Rhys Bozinovski",
+   "MF",
+   "AUS"
+  ],
+  [
+   21,
+   "Yvandro Borges Sanches",
+   "MF",
+   "LUX"
+  ],
+  [
+   22,
+   "Tarık Hamamioğlu",
+   "FW",
+   "TUR"
+  ],
+  [
+   23,
+   "Mike te Wierik",
+   "DF",
+   "NED"
+  ],
+  [
+   25,
+   "Manny Rodríguez (footballer)",
+   "DF",
+   "DOM"
+  ],
+  [
+   26,
+   "Daniël van Kaam",
+   "MF",
+   "NED"
+  ],
+  [
+   27,
+   "Jean-Paul N'Djoli",
+   "FW",
+   "FRA"
+  ],
+  [
+   28,
+   "Giandro Sambo",
+   "FW",
+   "CUR"
+  ],
+  [
+   30,
+   "Diego van Oorschot",
+   "FW",
+   "NED"
+  ],
+  [
+   32,
+   "Sem Scheperman",
+   "MF",
+   "NED"
+  ],
+  [
+   33,
+   "Leco Zeevalkink",
+   "GK",
+   "NED"
+  ],
+  [
+   35,
+   "Stijn Bultman",
+   "DF",
+   "NED"
+  ],
+  [
+   39,
+   "Sil Blokhuis",
+   "FW",
+   "NED"
+  ]
+ ],
+ "Almere": [
+  [
+   1,
+   "Wessel Speel",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Martin Wasinski",
+   "DF",
+   "BEL"
+  ],
+  [
+   3,
+   "Joey Jacobs (footballer)",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "James Lawrence (footballer)",
+   "DF",
+   "WAL"
+  ],
+  [
+   5,
+   "Teun Bijleveld",
+   "DF",
+   "NED"
+  ],
+  [
+   6,
+   "Enzo Cornelisse",
+   "MF",
+   "NED"
+  ],
+  [
+   7,
+   "Byron Burgering",
+   "FW",
+   "NED"
+  ],
+  [
+   8,
+   "Milan de Haan",
+   "MF",
+   "NED"
+  ],
+  [
+   9,
+   "Ferdy Druijf",
+   "FW",
+   "NED"
+  ],
+  [
+   10,
+   "Jamie Jacobs (footballer)",
+   "FW",
+   "NED"
+  ],
+  [
+   11,
+   "Marley Dors",
+   "FW",
+   "SUR"
+  ],
+  [
+   12,
+   "Tristan Kuijsten",
+   "GK",
+   "NED"
+  ],
+  [
+   14,
+   "Mees Hoedemakers",
+   "MF",
+   "NED"
+  ],
+  [
+   15,
+   "Misha Engel",
+   "DF",
+   "NED"
+  ],
+  [
+   16,
+   "Tiziano Vianello",
+   "DF",
+   "NED"
+  ],
+  [
+   17,
+   "Emmanuel Poku",
+   "FW",
+   "NED"
+  ],
+  [
+   18,
+   "Bas Huisman",
+   "FW",
+   "NED"
+  ],
+  [
+   19,
+   "Olivier de Nijs",
+   "MF",
+   "NED"
+  ],
+  [
+   20,
+   "Job Kalisvaart",
+   "MF",
+   "NED"
+  ],
+  [
+   21,
+   "Hamza el Dahri",
+   "MF",
+   "NED"
+  ],
+  [
+   22,
+   "Emmanuel van de Blaak",
+   "DF",
+   "NED"
+  ],
+  [
+   23,
+   "Jochem Ritmeester van de Kamp",
+   "MF",
+   "NED"
+  ],
+  [
+   24,
+   "Malcolm Mateyo",
+   "GK",
+   "NED"
+  ],
+  [
+   25,
+   "Immanuel Ghogli",
+   "FW",
+   "NED"
+  ],
+  [
+   26,
+   "Twan van der Zeeuw",
+   "DF",
+   "NED"
+  ],
+  [
+   30,
+   "Joël van der Wilt",
+   "GK",
+   "NED"
+  ],
+  [
+   33,
+   "Jereno van Gom",
+   "DF",
+   "NED"
+  ],
+  [
+   44,
+   "Damian van Bruggen",
+   "DF",
+   "NED"
+  ]
+ ],
+ "Breda": [
+  [
+   1,
+   "Michael Verrips",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Boyd Lucassen",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "Leo Greiml",
+   "DF",
+   "AUT"
+  ],
+  [
+   5,
+   "Jayden Candelaria",
+   "DF",
+   "CUW"
+  ],
+  [
+   6,
+   "Max Balard",
+   "MF",
+   "AUS"
+  ],
+  [
+   7,
+   "Charles-Andreas Brym",
+   "FW",
+   "CAN"
+  ],
+  [
+   8,
+   "Fredrik Oldrup Jensen",
+   "MF",
+   "NOR"
+  ],
+  [
+   9,
+   "Moussa Soumano",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Mohamed Nassoh",
+   "MF",
+   "MAR"
+  ],
+  [
+   11,
+   "Raul Paula",
+   "MF",
+   "GER"
+  ],
+  [
+   12,
+   "Jan van den Bergh",
+   "DF",
+   "BEL"
+  ],
+  [
+   14,
+   "Kamal Sowah",
+   "FW",
+   "GHA"
+  ],
+  [
+   17,
+   "Dion Versluis",
+   "FW",
+   "NED"
+  ],
+  [
+   19,
+   "Paul Gladon",
+   "FW",
+   "NED"
+  ],
+  [
+   20,
+   "Mats Seuntjens",
+   "MF",
+   "NED"
+  ],
+  [
+   22,
+   "Rio Hillen",
+   "DF",
+   "NED"
+  ],
+  [
+   23,
+   "Roy Kortsmit",
+   "GK",
+   "NED"
+  ],
+  [
+   25,
+   "Cherrion Valerius",
+   "DF",
+   "CUW"
+  ],
+  [
+   26,
+   "Pepijn Reulen",
+   "FW",
+   "NED"
+  ],
+  [
+   31,
+   "Kostas Lamprou",
+   "GK",
+   "GRE"
+  ],
+  [
+   44,
+   "Thomas Goos",
+   "GK",
+   "NED"
+  ]
+ ],
+ "Dordrecht": [
+  [
+   1,
+   "Calvin Raatsie",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Adil Lechkar",
+   "DF",
+   "NED"
+  ],
+  [
+   3,
+   "Sem Valk",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "Jaden Pinas",
+   "DF",
+   "NED"
+  ],
+  [
+   5,
+   "Beni Mpanzu",
+   "DF",
+   "BEL"
+  ],
+  [
+   6,
+   "Lorenzo Riccio",
+   "MF",
+   "ITA"
+  ],
+  [
+   7,
+   "Nick Venema",
+   "FW",
+   "NED"
+  ],
+  [
+   9,
+   "Joey de Bie",
+   "FW",
+   "NED"
+  ],
+  [
+   11,
+   "Nicolás Rossi (footballer, born 2002)",
+   "FW",
+   "URU"
+  ],
+  [
+   13,
+   "Thomas Artic",
+   "GK",
+   "NED"
+  ],
+  [
+   17,
+   "Yunus Younous",
+   "FW",
+   "NED"
+  ],
+  [
+   20,
+   "Lawson Sunderland",
+   "MF",
+   "USA"
+  ],
+  [
+   21,
+   "Martin Vetkal",
+   "MF",
+   "EST"
+  ],
+  [
+   22,
+   "Jurre van Aken",
+   "DF",
+   "NED"
+  ],
+  [
+   23,
+   "Lucas Woudenberg",
+   "DF",
+   "NED"
+  ],
+  [
+   27,
+   "Dion Van Zanten",
+   "MF",
+   "NED"
+  ],
+  [
+   28,
+   "Tim Coremans",
+   "GK",
+   "NED"
+  ],
+  [
+   29,
+   "Ninho Felicia",
+   "FW",
+   "BON"
+  ],
+  [
+   34,
+   "Mohamed Kessrioui",
+   "FW",
+   "NED"
+  ],
+  [
+   44,
+   "Björn Hardley",
+   "DF",
+   "NED"
+  ],
+  [
+   45,
+   "Sidali Bouraba",
+   "MF",
+   "ALG"
+  ]
+ ],
+ "Kerkrade": [
+  [
+   1,
+   "Justin Treichel",
+   "GK",
+   "GER"
+  ],
+  [
+   2,
+   "Luuk Verheij",
+   "DF",
+   "NED"
+  ],
+  [
+   3,
+   "Marco Tol",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "Josh Nisbet",
+   "MF",
+   "AUS"
+  ],
+  [
+   5,
+   "Koen Jansen (footballer)",
+   "DF",
+   "NED"
+  ],
+  [
+   6,
+   "Mitchel Paulissen",
+   "MF",
+   "NED"
+  ],
+  [
+   7,
+   "Cain Seedorf",
+   "FW",
+   "NED"
+  ],
+  [
+   11,
+   "Dyon Dorenbosch",
+   "MF",
+   "NED"
+  ],
+  [
+   14,
+   "Xander van den Berg",
+   "DF",
+   "NED"
+  ],
+  [
+   15,
+   "Lucas Beerten",
+   "MF",
+   "BEL"
+  ],
+  [
+   19,
+   "Noah Crabu",
+   "FW",
+   "NED"
+  ],
+  [
+   20,
+   "Mokrane Bentoumi",
+   "MF",
+   "ALG"
+  ],
+  [
+   21,
+   "Martin Stojcevic",
+   "GK",
+   "GER"
+  ],
+  [
+   24,
+   "Jérôme Déom",
+   "MF",
+   "BEL"
+  ],
+  [
+   25,
+   "Bram Marsman",
+   "DF",
+   "NED"
+  ],
+  [
+   26,
+   "Joey Sleegers",
+   "FW",
+   "NED"
+  ],
+  [
+   29,
+   "Zakarya Khaldi",
+   "FW",
+   "FRA"
+  ],
+  [
+   33,
+   "Dario Van den Buijs",
+   "DF",
+   "BEL"
+  ]
+ ],
+ "DenBosch": [
+  [
+   1,
+   "Pepijn van de Merbel",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Sheddy Barglan",
+   "DF",
+   "SDN"
+  ],
+  [
+   3,
+   "Stan Maas",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "Jasper van Heertum",
+   "DF",
+   "NED"
+  ],
+  [
+   7,
+   "Genrich Sillé",
+   "FW",
+   "NED"
+  ],
+  [
+   8,
+   "Kévin Monzialo",
+   "FW",
+   "CGO"
+  ],
+  [
+   9,
+   "Sebastian Karlsson Grach",
+   "FW",
+   "SWE"
+  ],
+  [
+   10,
+   "Devon De Corte",
+   "MF",
+   "USA"
+  ],
+  [
+   11,
+   "Jack de Vries (soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   15,
+   "Reda Akmum",
+   "DF",
+   "NED"
+  ],
+  [
+   17,
+   "Emian-Johar Semedo",
+   "FW",
+   "CUW"
+  ],
+  [
+   18,
+   "Hessel Eikelboom",
+   "MF",
+   "NED"
+  ],
+  [
+   19,
+   "Rafi Wolters",
+   "FW",
+   "NED"
+  ],
+  [
+   21,
+   "Finn Murre",
+   "GK",
+   "NED"
+  ],
+  [
+   22,
+   "Jeffry Fortes",
+   "DF",
+   "CPV"
+  ],
+  [
+   25,
+   "Silvan Bröker",
+   "DF",
+   "NED"
+  ],
+  [
+   27,
+   "Lorenzo Hoffman",
+   "FW",
+   "NED"
+  ],
+  [
+   31,
+   "Tjemme Bijlsma",
+   "GK",
+   "NED"
+  ],
+  [
+   33,
+   "Mees Laros",
+   "DF",
+   "NED"
+  ],
+  [
+   40,
+   "Ilias Boumassaoudi",
+   "MF",
+   "MAR"
+  ],
+  [
+   41,
+   "Kai de Rooij",
+   "DF",
+   "NED"
+  ]
+ ],
+ "Emmen": [
+  [
+   2,
+   "Joshua Mukeh",
+   "DF",
+   "NED"
+  ],
+  [
+   3,
+   "Yanis Dede-Lhomme",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Christian Østergaard",
+   "DF",
+   "DEN"
+  ],
+  [
+   5,
+   "David Voûte",
+   "DF",
+   "NED"
+  ],
+  [
+   6,
+   "Casper Staring",
+   "MF",
+   "NED"
+  ],
+  [
+   7,
+   "Torben Rhein",
+   "MF",
+   "GER"
+  ],
+  [
+   8,
+   "Luca Denk",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Jack Cooper-Love",
+   "FW",
+   "SWE"
+  ],
+  [
+   10,
+   "Mustafa Abdullatif",
+   "FW",
+   "SYR"
+  ],
+  [
+   11,
+   "Nelson Amadin",
+   "FW",
+   "NED"
+  ],
+  [
+   12,
+   "Freddy Quispel",
+   "FW",
+   "NED"
+  ],
+  [
+   14,
+   "Stan van Manen",
+   "FW",
+   "NED"
+  ],
+  [
+   15,
+   "Chiel Sunder",
+   "FW",
+   "NED"
+  ],
+  [
+   16,
+   "Dirk Baron",
+   "GK",
+   "NED"
+  ],
+  [
+   17,
+   "Bryan van Hove",
+   "DF",
+   "BEL"
+  ],
+  [
+   18,
+   "Vincent Carus",
+   "DF",
+   "GER"
+  ],
+  [
+   19,
+   "Adam Claridge",
+   "MF",
+   "DEN"
+  ],
+  [
+   20,
+   "Peter Quispel",
+   "MF",
+   "NED"
+  ],
+  [
+   21,
+   "Alessandro Hojabrpour",
+   "MF",
+   "CAN"
+  ],
+  [
+   22,
+   "Michael Breij",
+   "FW",
+   "NED"
+  ],
+  [
+   24,
+   "Luca Everink",
+   "DF",
+   "NED"
+  ],
+  [
+   25,
+   "Rodney Kongolo",
+   "MF",
+   "NED"
+  ],
+  [
+   27,
+   "Jasper Huijzer",
+   "FW",
+   "NED"
+  ],
+  [
+   38,
+   "Kevin Norder",
+   "GK",
+   "NED"
+  ],
+  [
+   40,
+   "Sybrand Veldhuis",
+   "MF",
+   "NED"
+  ]
+ ],
+ "Helmond": [
+  [
+   1,
+   "Menno Bergsen",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Rayen van Bree",
+   "DF",
+   "NED"
+  ],
+  [
+   3,
+   "Flor Van den Eynden",
+   "DF",
+   "BEL"
+  ],
+  [
+   4,
+   "Brian Koglin",
+   "DF",
+   "GER"
+  ],
+  [
+   5,
+   "Thomas Poll",
+   "DF",
+   "NED"
+  ],
+  [
+   6,
+   "Michel Ludwig",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Joep van der Sluijs",
+   "MF",
+   "NED"
+  ],
+  [
+   9,
+   "Labinot Bajrami",
+   "FW",
+   "SUI"
+  ],
+  [
+   10,
+   "Dean Huiberts",
+   "MF",
+   "NED"
+  ],
+  [
+   11,
+   "Livio Cicero",
+   "FW",
+   "BEL"
+  ],
+  [
+   14,
+   "Lovro Golič",
+   "DF",
+   "SLO"
+  ],
+  [
+   17,
+   "Wassim Lantaki",
+   "DF",
+   "MAR"
+  ],
+  [
+   19,
+   "Helgi Fródi Ingason",
+   "MF",
+   "ISL"
+  ],
+  [
+   20,
+   "Sem Dekkers",
+   "DF",
+   "NED"
+  ],
+  [
+   21,
+   "Wessel van der Heijden",
+   "GK",
+   "NED"
+  ],
+  [
+   22,
+   "Alen Dizdarević",
+   "MF",
+   "CRO"
+  ],
+  [
+   23,
+   "Adam El Maach",
+   "GK",
+   "MAR"
+  ],
+  [
+   26,
+   "Diego van Zutphen",
+   "DF",
+   "NED"
+  ],
+  [
+   30,
+   "Kiton Ekoli",
+   "FW",
+   "BEL"
+  ],
+  [
+   34,
+   "Tarik Essakkati",
+   "MF",
+   "NED"
+  ],
+  [
+   35,
+   "Nicolas Meissner",
+   "MF",
+   "ESP"
+  ],
+  [
+   41,
+   "Julian Geerts",
+   "FW",
+   "NED"
+  ],
+  [
+   43,
+   "Tijn Landheer",
+   "DF",
+   "NED"
+  ],
+  [
+   44,
+   "Xander van der Velde",
+   "MF",
+   "BEL"
+  ]
+ ],
+ "Maastricht": [
+  [
+   1,
+   "Hugo Wentges",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Milan Hofland",
+   "DF",
+   "NED"
+  ],
+  [
+   3,
+   "Wout Coomans",
+   "DF",
+   "BEL"
+  ],
+  [
+   4,
+   "Dylan Timber",
+   "DF",
+   "CUW"
+  ],
+  [
+   5,
+   "Lars Schenk",
+   "DF",
+   "NED"
+  ],
+  [
+   6,
+   "Finn Dicke",
+   "DF",
+   "NED"
+  ],
+  [
+   7,
+   "Lennerd Daneels",
+   "FW",
+   "BEL"
+  ],
+  [
+   8,
+   "Stan Van Dessel",
+   "MF",
+   "BEL"
+  ],
+  [
+   9,
+   "Toni Vinogradac",
+   "FW",
+   "CRO"
+  ],
+  [
+   10,
+   "Olivier Dumont",
+   "MF",
+   "BEL"
+  ],
+  [
+   11,
+   "Thijme Verheijen",
+   "FW",
+   "NED"
+  ],
+  [
+   12,
+   "Sep van der Heijden",
+   "GK",
+   "NED"
+  ],
+  [
+   14,
+   "Mats Kuipers",
+   "FW",
+   "BEL"
+  ],
+  [
+   15,
+   "Djairo Tehubijuluw",
+   "DF",
+   "NED"
+  ],
+  [
+   16,
+   "Robert Klaasen",
+   "MF",
+   "NED"
+  ],
+  [
+   17,
+   "Sil van der Wegen",
+   "MF",
+   "NED"
+  ],
+  [
+   18,
+   "Elias Sierra",
+   "MF",
+   "BEL"
+  ],
+  [
+   19,
+   "Mika Luijendijk",
+   "MF",
+   "NED"
+  ],
+  [
+   20,
+   "Amine Amgar",
+   "MF",
+   "MAR"
+  ],
+  [
+   21,
+   "Delano Asante",
+   "FW",
+   "NED"
+  ],
+  [
+   22,
+   "Sven Bouland",
+   "DF",
+   "NED"
+  ],
+  [
+   23,
+   "Victor Goffings",
+   "GK",
+   "NED"
+  ],
+  [
+   24,
+   "Noa el Hamdaoui",
+   "MF",
+   "NED"
+  ],
+  [
+   26,
+   "Adriano Mpudi",
+   "MF",
+   "BEL"
+  ],
+  [
+   27,
+   "Naïm Matoug",
+   "MF",
+   "NED"
+  ],
+  [
+   29,
+   "Onesime Zimuangana",
+   "FW",
+   "NED"
+  ],
+  [
+   31,
+   "Yanis Bourard",
+   "DF",
+   "MAR"
+  ]
+ ],
+ "Oss": [
+  [
+   1,
+   "Mike Havekotte",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Ilounga Pata",
+   "DF",
+   "SMA"
+  ],
+  [
+   3,
+   "Leonel Miguel",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "Quint Jansen",
+   "DF",
+   "NED"
+  ],
+  [
+   5,
+   "Jafar Bynoe",
+   "MF",
+   "NED"
+  ],
+  [
+   6,
+   "Milo Horemans",
+   "MF",
+   "BEL"
+  ],
+  [
+   8,
+   "Marcelencio Esajas",
+   "MF",
+   "NED"
+  ],
+  [
+   9,
+   "Andy Visser",
+   "FW",
+   "NED"
+  ],
+  [
+   10,
+   "Richard van der Venne",
+   "MF",
+   "NED"
+  ],
+  [
+   11,
+   "Justin Mathieu",
+   "MF",
+   "NED"
+  ],
+  [
+   12,
+   "Alvaro Henry",
+   "DF",
+   "NED"
+  ],
+  [
+   14,
+   "Maxim Mariani",
+   "DF",
+   "NED"
+  ],
+  [
+   16,
+   "Devin Remie",
+   "GK",
+   "NED"
+  ],
+  [
+   17,
+   "Mauresmo Hinoke",
+   "FW",
+   "NED"
+  ],
+  [
+   18,
+   "Kyanno Silva",
+   "FW",
+   "NED"
+  ],
+  [
+   19,
+   "Franslyn Nsingi",
+   "FW",
+   "NED"
+  ],
+  [
+   21,
+   "Thomas Cox",
+   "DF",
+   "NED"
+  ],
+  [
+   22,
+   "Mert Erkan",
+   "FW",
+   "TUR"
+  ],
+  [
+   23,
+   "Delano Vianello",
+   "DF",
+   "NED"
+  ],
+  [
+   24,
+   "Jay Kuiper",
+   "DF",
+   "NED"
+  ],
+  [
+   25,
+   "Jacey Pansa",
+   "FW",
+   "NED"
+  ],
+  [
+   26,
+   "Julian Kuijpers",
+   "DF",
+   "NED"
+  ],
+  [
+   27,
+   "Maurilio de Lannoy",
+   "FW",
+   "NED"
+  ],
+  [
+   28,
+   "Lars Mol",
+   "MF",
+   "NED"
+  ],
+  [
+   30,
+   "Sven Jansen",
+   "GK",
+   "NED"
+  ],
+  [
+   33,
+   "Lars Zonneveld",
+   "DF",
+   "NED"
+  ]
+ ],
+ "Venlo": [
+  [
+   1,
+   "Trevor Doornbusch",
+   "GK",
+   "CUW"
+  ],
+  [
+   4,
+   "Éanna Clancy",
+   "DF",
+   "IRL"
+  ],
+  [
+   5,
+   "Lars de Blok",
+   "DF",
+   "NED"
+  ],
+  [
+   7,
+   "Edhy Zuliani",
+   "MF",
+   "ALG"
+  ],
+  [
+   8,
+   "Ismail Oulad M'Hand",
+   "MF",
+   "MAR"
+  ],
+  [
+   10,
+   "Alex Schalk",
+   "MF",
+   "NED"
+  ],
+  [
+   11,
+   "Nassim Ait Mouhou",
+   "FW",
+   "MAR"
+  ],
+  [
+   13,
+   "Youri Schoonderwaldt",
+   "GK",
+   "NED"
+  ],
+  [
+   14,
+   "Raf Vullers",
+   "MF",
+   "NED"
+  ],
+  [
+   15,
+   "Tijn Joosten",
+   "DF",
+   "NED"
+  ],
+  [
+   16,
+   "Philip Heise",
+   "DF",
+   "GER"
+  ],
+  [
+   17,
+   "Gino Schmidt",
+   "FW",
+   "GER"
+  ],
+  [
+   19,
+   "Thomas Janssen",
+   "FW",
+   "NED"
+  ],
+  [
+   21,
+   "Luis Görlich",
+   "DF",
+   "GER"
+  ],
+  [
+   22,
+   "Zidane Taylan",
+   "GK",
+   "NED"
+  ],
+  [
+   24,
+   "Mohammed Odriss",
+   "MF",
+   "NED"
+  ],
+  [
+   31,
+   "Michael Davis (Belgian footballer)",
+   "DF",
+   "BEL"
+  ],
+  [
+   33,
+   "Gabin Blancquart",
+   "DF",
+   "FRA"
+  ],
+  [
+   34,
+   "Amir Rais",
+   "MF",
+   "NED"
+  ],
+  [
+   35,
+   "Yousri El Anbri",
+   "DF",
+   "NED"
+  ],
+  [
+   38,
+   "Tristan Schenkhuizen",
+   "MF",
+   "NED"
+  ]
+ ]
+}

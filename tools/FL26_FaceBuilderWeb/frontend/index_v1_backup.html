@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>FL26 Face Builder V1.6 (纹理黄金配方)</title>
+<link rel="stylesheet" href="/style.css?v=15">
+</head>
+<body>
+<header><h1>FL26 Face Builder <span class="tag">V1.6 · 纹理黄金配方 · 几何=实验开关</span></h1>
+<nav>
+  <a href="/" class="on">Builder</a>
+  <a href="/#roster">Roster Manager</a>
+  <a href="/#advanced">Advanced</a>
+</nav></header>
+
+<main>
+<!-- STEP 1 -->
+<section id="s1" class="step"><h2>① 上传照片 <small>1–3 张，第一张为主照片</small></h2>
+  <div id="drop" class="drop">拖拽照片到这里，或
+    <label class="btn">选择文件<input type="file" id="photos" accept="image/*" multiple hidden></label>
+  </div>
+  <div id="thumbs" class="thumbs"></div>
+  <div class="row"><label>候选数量 <input id="n" type="number" value="8" min="4" max="8"></label>
+  <button id="genBtn" class="primary">② 生成候选</button></div>
+</section>
+
+<!-- STEP 2-3 -->
+<section id="s2" class="step hidden"><h2>② 候选 <small>PASS 可选 / REJECT 灰显</small></h2>
+  <div id="progressBar" class="progress">PHOTO —</div>
+  <div id="cands" class="cands"></div>
+</section>
+
+<!-- STEP 4-5 -->
+<section id="s3" class="step hidden"><h2>③④ 外观与人物信息</h2>
+  <div class="cols">
+    <div>
+      <h3>Face <span class="tag">零克隆模式</span>
+        <span class="muted" title="球员记录从零构建：不复制任何现有球员的外观字节（头模码 fa/fb/fc=0，PA 从零写）。脸纹理 100% 来自你的照片，头骨形状由照片关键点重塑。">?</span>
+      </h3>
+      <div class="muted">不参考任何已有球员。发色/胡须/眉型为你的选择，发型索引用游戏默认标记，头骨形状由你的照片重塑。</div>
+      <select id="ref"></select>
+      <h3>Beard <span class="muted">（游戏内运行时合成，预览图暂不显示，效果已真机验证）</span></h3>
+      <label class="ck"><input type="checkbox" id="beardOn" checked> 启用胡须</label>
+      <select id="beard"></select>
+      <h3>Eyebrow <span class="muted">（同上）</span></h3><select id="brow"></select>
+      <h3>Hair Color <span class="muted">（3D 发色已真机验证）</span></h3>
+      <div id="hcolors" class="chips"></div>
+      <h3>Face Shape</h3><div class="muted">Follow Reference Player</div>
+      <h3>Eyes</h3><div class="muted">Coming in V2</div>
+      <button id="prevBtn" class="btn" style="margin-top:12px">🎮 渲染游戏同款脸模预览（约 1-2 分钟）</button>
+      <div id="prevOut" class="out hidden"></div>
+      <div id="prevImgs" class="thumbs"></div>
+    </div>
+    <div>
+      <h3>Player Info</h3>
+      <label>Name <input id="name" value="New Player" maxlength="32"></label>
+      <label>Position
+        <select id="pos">
+          <option value="FW">FW</option><option value="MF">MF</option>
+          <option value="DF">DF</option><option value="GK">GK</option>
+        </select></label>
+      <label>Preferred Foot <span class="muted">Coming soon</span></label>
+      <label>Nationality <select id="nat"></select></label>
+      <label>Jersey <input id="jersey" type="number" min="1" max="99" value="30"></label>
+      <h3>球队 <span id="roster" class="muted"></span></h3>
+      <label>联赛 / 国家队</label>
+      <select id="comp"></select>
+      <label>球队</label>
+      <select id="team"></select>
+      <h3>Attributes <small id="presetRow">
+        <button data-p="FW">Default</button><button data-p="Bal">Balanced</button><button data-p="C">Custom</button></small></h3>
+      <div id="attrs" class="attrs"></div>
+      <label style="display:block;margin-top:8px;font-size:12px;opacity:.85">
+        <input type="checkbox" id="geoOn"> 实验性：MICA 几何变形（默认关。默认为真机验证过的纹理方案；
+        开启后脸部网格会随照片变形，但纹理未重烘焙，可能五官错位）
+      </label>
+    </div>
+  </div>
+  <button id="buildBtn" class="primary big">⑦ BUILD PLAYER</button>
+  <div id="buildOut" class="out"></div>
+</section>
+
+<!-- ROSTER MANAGER -->
+<section id="roster" class="step hidden"><h2>Roster Manager <small>已有球员免重装调队（Save Import）</small></h2>
+  <div class="muted">New players require BUILD PLAYER. IMPORT TO DEVICE is for roster/save changes only.</div>
+  <div class="row">
+    <button id="expBtn">1. Export Save</button>
+    <label>PID <input id="mPid" type="number" value="175924"></label>
+    <label>Jersey <input id="mJersey" type="number" value="31"></label>
+    <button id="impBtn" class="primary">2. IMPORT TO DEVICE (China NT)</button>
+  </div>
+  <div id="mOut" class="out"></div>
+</section>
+
+<!-- ADVANCED -->
+<section id="advanced" class="step hidden"><h2>Advanced</h2>
+  <div id="advOut" class="out">run logs / PID / SHA256 appear here</div>
+</section>
+</main>
+<script src="/app.js?v=15"></script>
+</body>
+</html>

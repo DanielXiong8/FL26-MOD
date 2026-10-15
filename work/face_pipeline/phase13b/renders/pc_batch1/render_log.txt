@@ -1,0 +1,11 @@
+=== Phase13BRender 2026-09-07 17:36:32 ===
+bundle=D:/FL26_Mod/tools/FL26_AvatarPreviewer/extracted/avatar_mjt.unity3d states=8
+textures indexed: 559
+[OK] P00_ctrl face=1 iris=1 hairTinted=0
+[OK] hair_ss01 face=1 iris=1 hairTinted=0
+[OK] hair_ss02 face=1 iris=1 hairTinted=0
+[OK] hair_ss03 face=1 iris=1 hairTinted=0
+[OK] tint_dark_ss01 face=1 iris=1 hairTinted=1
+[OK] tint_red_ss01 face=1 iris=1 hairTinted=1
+[OK] tint_light_ss01 face=1 iris=1 hairTinted=1
+[OK] iris_lightblue face=1 iris=1 hairTinted=0

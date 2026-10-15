@@ -1,0 +1,15 @@
+{
+  "test_id": "baseline",
+  "pid": 175923,
+  "team": 20030,
+  "jersey": 99,
+  "field": "byte_None",
+  "old_value": null,
+  "new_value": null,
+  "baseline_bytes": "011e001300021700017f000000002a007f",
+  "modified_bytes": "011e001300021700017f000000002a007f",
+  "visible_change": null,
+  "change_type": null,
+  "confidence": null,
+  "note": "control: pure Ralla clone"
+}

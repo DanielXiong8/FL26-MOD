@@ -1,0 +1,7 @@
+=== ProbeLoad 2026/9/5 8:18:55 ===
+activeBuildTarget=Android
+editorBuiltBundleExists=False
+editor-built(android): FILE MISSING D:\FL26_Mod\tools\FL26_AvatarPreviewer\Assets\ProbeBuild\probebundle.android
+gamedata(native): LOAD FAILED
+avatar(native): LOAD FAILED
+avatar_clean(rewritten): LOADED, assets=0 first=

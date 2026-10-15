@@ -1,0 +1,34 @@
+{
+ "Argentina": {
+  "clubs": 26,
+  "players": 871
+ },
+ "Mexico": {
+  "clubs": 15,
+  "players": 378
+ },
+ "Saudi": {
+  "clubs": 12,
+  "players": 270
+ },
+ "Japan": {
+  "clubs": 5,
+  "players": 146
+ },
+ "K1": {
+  "clubs": 12,
+  "players": 345
+ },
+ "China": {
+  "clubs": 16,
+  "players": 567
+ },
+ "MLS": {
+  "clubs": 24,
+  "players": 630
+ },
+ "Russia": {
+  "clubs": 16,
+  "players": 286
+ }
+}

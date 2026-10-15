@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "gates": {
+    "STEP10_INPUT_READY": "GREEN",
+    "STEP10_CANDIDATE_VIEW_READY": "GREEN",
+    "STEP10_MANUAL_TUNING_READY": "GREEN",
+    "STEP10_NONDESTRUCTIVE_READY": "GREEN",
+    "STEP10_FINAL_FACE_EXPORT_READY": "GREEN",
+    "STEP10_REALTIME_PREVIEW_READY": "GREEN",
+    "PC_PREVIEW_VALID_regression": "GREEN (Step9BatchRunner unchanged; DashboardRender.cs additive)"
+  },
+  "tuned_id": "c4_tuned_001"
+}

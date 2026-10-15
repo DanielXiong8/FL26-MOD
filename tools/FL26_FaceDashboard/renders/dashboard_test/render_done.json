@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "face": "face_EastAsia_new2",
+  "texture": "face_eastAsia_new5",
+  "textureAssigned": 1,
+  "captures": ["dash_front.png","dash_45L.png","dash_45R.png","dash_side.png"]
+}

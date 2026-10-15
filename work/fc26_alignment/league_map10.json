@@ -1,0 +1,100 @@
+{
+ "Segunda": {
+  "Albacete": [
+   "Albacete Balompié",
+   20294
+  ],
+  "Almeria": [
+   "UD Almería",
+   20118
+  ],
+  "Andorra": [
+   "FC Andorra",
+   20296
+  ],
+  "Burgos": [
+   "CD Burgos",
+   20295
+  ],
+  "Cadiz": [
+   "Cádiz CF",
+   20115
+  ],
+  "Cordoba": [
+   "Córdoba CF",
+   20388
+  ],
+  "Eibar": [
+   "SD Eibar",
+   20111
+  ],
+  "Girona": [
+   "Girona FC",
+   20371
+  ],
+  "Granada": [
+   "Granada CF",
+   20117
+  ],
+  "Leganes": [
+   "CD Leganés",
+   20112
+  ],
+  "Mallorca": [
+   "RCD Mallorca",
+   20116
+  ],
+  "Oviedo": [
+   "Real Oviedo",
+   20305
+  ],
+  "Sabadell": [
+   "CE Sabadell FC",
+   null
+  ],
+  "Gijon": [
+   "Sporting de Gijón",
+   20307
+  ],
+  "Valladolid": [
+   "Real Valladolid",
+   20125
+  ],
+  "Tenerife": [
+   "CD Tenerife",
+   20308
+  ],
+  "LasPalmas": [
+   "UD Las Palmas",
+   20299
+  ],
+  "Huesca": [
+   "SD Huesca",
+   20124
+  ],
+  "Mirandes": [
+   "CD Mirandés",
+   20302
+  ],
+  "Zaragoza": [
+   "Real Zaragoza",
+   20306
+  ],
+  "RacingSantander2": [
+   "Racing de Santander",
+   20304
+  ],
+  "Eldense": [
+   "CD Eldense",
+   null
+  ],
+  "Malaga2": [
+   "Málaga CF",
+   20301
+  ],
+  "Ferrol": [
+   "Racing de Ferrol",
+   20392
+  ]
+ }
+}

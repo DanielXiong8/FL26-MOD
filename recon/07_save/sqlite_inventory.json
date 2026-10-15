@@ -1,0 +1,86 @@
+[
+  {
+    "table": "archive_blob",
+    "rows": 1,
+    "columns": [
+      {
+        "name": "id",
+        "type": "INTEGER",
+        "pk": 1
+      },
+      {
+        "name": "payload",
+        "type": "BLOB",
+        "pk": 0
+      }
+    ]
+  },
+  {
+    "table": "match_blob",
+    "rows": 0,
+    "columns": [
+      {
+        "name": "data_scope",
+        "type": "INTEGER",
+        "pk": 1
+      },
+      {
+        "name": "competition_id",
+        "type": "INTEGER",
+        "pk": 2
+      },
+      {
+        "name": "match_id",
+        "type": "INTEGER",
+        "pk": 3
+      },
+      {
+        "name": "payload",
+        "type": "BLOB",
+        "pk": 0
+      }
+    ]
+  },
+  {
+    "table": "player_blob",
+    "rows": 0,
+    "columns": [
+      {
+        "name": "data_scope",
+        "type": "INTEGER",
+        "pk": 1
+      },
+      {
+        "name": "player_id",
+        "type": "INTEGER",
+        "pk": 2
+      },
+      {
+        "name": "payload",
+        "type": "BLOB",
+        "pk": 0
+      }
+    ]
+  },
+  {
+    "table": "team_blob",
+    "rows": 0,
+    "columns": [
+      {
+        "name": "data_scope",
+        "type": "INTEGER",
+        "pk": 1
+      },
+      {
+        "name": "team_id",
+        "type": "INTEGER",
+        "pk": 2
+      },
+      {
+        "name": "payload",
+        "type": "BLOB",
+        "pk": 0
+      }
+    ]
+  }
+]

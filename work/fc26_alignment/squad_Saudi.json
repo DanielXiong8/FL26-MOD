@@ -1,0 +1,1646 @@
+{
+ "Hilal": [
+  [
+   2,
+   "Mohammed Mahzari",
+   "DF",
+   "KSA"
+  ],
+  [
+   3,
+   "Kalidou Koulibaly",
+   "DF",
+   "SEN"
+  ],
+  [
+   4,
+   "Yusuf Akçiçek",
+   "DF",
+   "TUR"
+  ],
+  [
+   6,
+   "Nasser Al-Dawsari",
+   "MF",
+   "KSA"
+  ],
+  [
+   7,
+   "Gabriel Martinelli",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Rúben Neves",
+   "MF",
+   "POR"
+  ],
+  [
+   11,
+   "Ollie Watkins",
+   "FW",
+   "ENG"
+  ],
+  [
+   17,
+   "Mohammed Al-Rubaie",
+   "GK",
+   "KSA"
+  ],
+  [
+   18,
+   "Murad Hawsawi",
+   "MF",
+   "KSA"
+  ],
+  [
+   19,
+   "Théo Hernandez",
+   "DF",
+   "FRA"
+  ],
+  [
+   22,
+   "Sergej Milinković-Savić",
+   "MF",
+   "SRB"
+  ],
+  [
+   24,
+   "Moteb Al-Harbi",
+   "DF",
+   "KSA"
+  ],
+  [
+   27,
+   "Sultan Mandash",
+   "MF",
+   "KSA"
+  ],
+  [
+   28,
+   "Mohamed Kanno",
+   "MF",
+   "KSA"
+  ],
+  [
+   29,
+   "Salem Al-Dawsari",
+   "FW",
+   "KSA"
+  ],
+  [
+   33,
+   "Mohammed Al-Owais",
+   "GK",
+   "KSA"
+  ],
+  [
+   35,
+   "Rayan Al-Dossary",
+   "GK",
+   "KSA"
+  ],
+  [
+   37,
+   "Yassine Bounou",
+   "GK",
+   "MAR"
+  ],
+  [
+   38,
+   "Crysencio Summerville",
+   "FW",
+   "NED"
+  ],
+  [
+   44,
+   "Saad Al-Mutairi",
+   "DF",
+   "KSA"
+  ]
+ ],
+ "Nassr": [
+  [
+   1,
+   "Nawaf Al-Aqidi",
+   "GK",
+   "KSA"
+  ],
+  [
+   2,
+   "Sultan Al-Ghannam",
+   "DF",
+   "KSA"
+  ],
+  [
+   3,
+   "Mohamed Simakan",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Nader Al-Sharari",
+   "DF",
+   "KSA"
+  ],
+  [
+   5,
+   "Abdulelah Al-Amri",
+   "DF",
+   "KSA"
+  ],
+  [
+   6,
+   "Saad Al-Nasser",
+   "DF",
+   "KSA"
+  ],
+  [
+   7,
+   "Cristiano Ronaldo",
+   "FW",
+   "POR"
+  ],
+  [
+   8,
+   "Hayder Abdulkareem",
+   "MF",
+   "IRQ"
+  ],
+  [
+   9,
+   "Abdullah Al-Hamdan",
+   "FW",
+   "KSA"
+  ],
+  [
+   10,
+   "Sadio Mané",
+   "FW",
+   "SEN"
+  ],
+  [
+   11,
+   "Samú Costa",
+   "MF",
+   "POR"
+  ],
+  [
+   12,
+   "Nawaf Boushal",
+   "DF",
+   "KSA"
+  ],
+  [
+   14,
+   "Sami Al-Najei",
+   "MF",
+   "KSA"
+  ],
+  [
+   16,
+   "Mohammed Maran",
+   "FW",
+   "KSA"
+  ],
+  [
+   17,
+   "Abdullah Al-Khaibari",
+   "MF",
+   "KSA"
+  ],
+  [
+   20,
+   "Ângelo Gabriel",
+   "MF",
+   "BRA"
+  ],
+  [
+   21,
+   "Kingsley Coman",
+   "FW",
+   "FRA"
+  ],
+  [
+   23,
+   "Ayman Yahya",
+   "MF",
+   "KSA"
+  ],
+  [
+   24,
+   "Bento (footballer)",
+   "GK",
+   "BRA"
+  ],
+  [
+   26,
+   "Iñigo Martínez",
+   "DF",
+   "ESP"
+  ],
+  [
+   29,
+   "Abdulrahman Ghareeb",
+   "MF",
+   "KSA"
+  ],
+  [
+   36,
+   "Raghed Al-Najjar",
+   "GK",
+   "KSA"
+  ],
+  [
+   40,
+   "Youssef Al-Tahan",
+   "DF",
+   "KSA"
+  ]
+ ],
+ "Ahli": [
+  [
+   1,
+   "Abdulrahman Al-Sanbi",
+   "GK",
+   "KSA"
+  ],
+  [
+   2,
+   "Zakaria Hawsawi",
+   "DF",
+   "KSA"
+  ],
+  [
+   3,
+   "Roger Ibañez",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Ibrahima Diaby",
+   "MF",
+   "FRA"
+  ],
+  [
+   5,
+   "Mohammed Sulaiman (footballer)",
+   "DF",
+   "KSA"
+  ],
+  [
+   6,
+   "Valentin Atangana",
+   "MF",
+   "FRA"
+  ],
+  [
+   7,
+   "Francisco Trincão",
+   "FW",
+   "POR"
+  ],
+  [
+   8,
+   "Eduard Spertsyan",
+   "MF",
+   "ARM"
+  ],
+  [
+   9,
+   "Firas Al-Buraikan",
+   "FW",
+   "KSA"
+  ],
+  [
+   11,
+   "Meshal Al-Mutairi (footballer, born 1999)",
+   "MF",
+   "KSA"
+  ],
+  [
+   13,
+   "Galeno",
+   "FW",
+   "BRA"
+  ],
+  [
+   15,
+   "Saeed Baattiah",
+   "DF",
+   "KSA"
+  ],
+  [
+   16,
+   "Édouard Mendy",
+   "GK",
+   "SEN"
+  ],
+  [
+   17,
+   "Ivan Toney",
+   "FW",
+   "ENG"
+  ],
+  [
+   20,
+   "Matheus Gonçalves",
+   "MF",
+   "BRA"
+  ],
+  [
+   21,
+   "Abdullah Radif",
+   "FW",
+   "KSA"
+  ],
+  [
+   23,
+   "Ibrahim Azzam",
+   "MF",
+   "KSA"
+  ],
+  [
+   24,
+   "Abubacarr Sedi Kinteh",
+   "DF",
+   "GAM"
+  ],
+  [
+   25,
+   "Faisal Fallatah",
+   "MF",
+   "KSA"
+  ],
+  [
+   27,
+   "Ali Majrashi",
+   "DF",
+   "KSA"
+  ],
+  [
+   28,
+   "Merih Demiral",
+   "DF",
+   "TUR"
+  ],
+  [
+   29,
+   "Mohammed Abdulrahman (footballer, born 2003)",
+   "DF",
+   "KSA"
+  ],
+  [
+   30,
+   "Ziyad Al-Johani",
+   "MF",
+   "KSA"
+  ],
+  [
+   31,
+   "Saad Balobaid",
+   "DF",
+   "KSA"
+  ]
+ ],
+ "Ittihad": [
+  [
+   1,
+   "Predrag Rajković",
+   "GK",
+   "SRB"
+  ],
+  [
+   2,
+   "Danilo Pereira",
+   "MF",
+   "POR"
+  ],
+  [
+   4,
+   "Jan-Carlo Simić",
+   "DF",
+   "SRB"
+  ],
+  [
+   6,
+   "Saad Al-Mousa",
+   "DF",
+   "KSA"
+  ],
+  [
+   7,
+   "Roger Fernandes",
+   "FW",
+   "POR"
+  ],
+  [
+   8,
+   "Mukhtar Ali",
+   "MF",
+   "KSA"
+  ],
+  [
+   9,
+   "George Ilenikhena",
+   "FW",
+   "NGR"
+  ],
+  [
+   10,
+   "Houssem Aouar",
+   "MF",
+   "ALG"
+  ],
+  [
+   11,
+   "Saleh Al-Shehri",
+   "FW",
+   "KSA"
+  ],
+  [
+   13,
+   "Muhannad Al-Shanqeeti",
+   "DF",
+   "KSA"
+  ],
+  [
+   15,
+   "Hassan Kadesh",
+   "DF",
+   "KSA"
+  ],
+  [
+   17,
+   "Mahamadou Doumbia",
+   "MF",
+   "MLI"
+  ],
+  [
+   20,
+   "Ahmed Sharahili",
+   "DF",
+   "KSA"
+  ],
+  [
+   21,
+   "Youssef En-Nesyri",
+   "FW",
+   "MAR"
+  ],
+  [
+   22,
+   "Marwan Al-Sahafi",
+   "MF",
+   "KSA"
+  ],
+  [
+   23,
+   "Georginio Wijnaldum",
+   "MF",
+   "NED"
+  ],
+  [
+   25,
+   "Faris Abdi",
+   "DF",
+   "KSA"
+  ],
+  [
+   27,
+   "Ahmed Al-Ghamdi (footballer)",
+   "MF",
+   "KSA"
+  ],
+  [
+   29,
+   "Farhah Al-Shamrani",
+   "MF",
+   "KSA"
+  ],
+  [
+   30,
+   "Dion Lopy",
+   "MF",
+   "SEN"
+  ],
+  [
+   32,
+   "Ahmed Al-Julaydan",
+   "DF",
+   "KSA"
+  ],
+  [
+   34,
+   "Steven Bergwijn",
+   "FW",
+   "NED"
+  ],
+  [
+   41,
+   "Mohammed Fallatah",
+   "MF",
+   "KSA"
+  ],
+  [
+   42,
+   "Muath Faqeehi",
+   "DF",
+   "KSA"
+  ]
+ ],
+ "Shabab": [
+  [
+   1,
+   "Mory Diaw",
+   "GK",
+   "SEN"
+  ],
+  [
+   2,
+   "Mohammed Al-Shwirekh",
+   "DF",
+   "KSA"
+  ],
+  [
+   4,
+   "Tin Jedvaj",
+   "DF",
+   "CRO"
+  ],
+  [
+   5,
+   "Ali Makki",
+   "DF",
+   "KSA"
+  ],
+  [
+   6,
+   "Awad Al-Nashri",
+   "MF",
+   "KSA"
+  ],
+  [
+   8,
+   "Josh Brownhill",
+   "MF",
+   "ENG"
+  ],
+  [
+   9,
+   "Roger Martínez",
+   "FW",
+   "COL"
+  ],
+  [
+   10,
+   "Yannick Carrasco",
+   "MF",
+   "BEL"
+  ],
+  [
+   11,
+   "Daniel Podence",
+   "MF",
+   "POR"
+  ],
+  [
+   12,
+   "Sultan Al-Anize",
+   "DF",
+   "KSA"
+  ],
+  [
+   17,
+   "Mohammed Al-Thani",
+   "DF",
+   "KSA"
+  ],
+  [
+   18,
+   "Thomas Partey",
+   "MF",
+   "GHA"
+  ],
+  [
+   21,
+   "Dhari Al-Anazi",
+   "DF",
+   "KSA"
+  ],
+  [
+   22,
+   "Hammam Al-Hammami",
+   "MF",
+   "KSA"
+  ],
+  [
+   23,
+   "Abdulaziz Al-Awairdhi",
+   "GK",
+   "KSA"
+  ],
+  [
+   24,
+   "Abdulrahman Al-Aboud",
+   "MF",
+   "KSA"
+  ],
+  [
+   26,
+   "Amjad Haraj",
+   "DF",
+   "KSA"
+  ],
+  [
+   29,
+   "Yacine Adli",
+   "MF",
+   "FRA"
+  ],
+  [
+   33,
+   "Mohammed Al-Mahasneh",
+   "GK",
+   "KSA"
+  ],
+  [
+   37,
+   "Abdullah Matuq",
+   "FW",
+   "KSA"
+  ],
+  [
+   38,
+   "Mohammed Harbush",
+   "DF",
+   "KSA"
+  ],
+  [
+   44,
+   "Awaji Olwani",
+   "DF",
+   "KSA"
+  ]
+ ],
+ "Riyadh": [
+  [
+   2,
+   "Sultan Al-Essa",
+   "DF",
+   "KSA"
+  ],
+  [
+   4,
+   "Mohammed Al-Shammari",
+   "DF",
+   "KSA"
+  ],
+  [
+   5,
+   "Hussam Majrashi",
+   "DF",
+   "KSA"
+  ],
+  [
+   6,
+   "Kader Keïta (footballer, born 2000)",
+   "MF",
+   "CIV"
+  ],
+  [
+   7,
+   "Trézéguet (Egyptian footballer)",
+   "FW",
+   "EGY"
+  ],
+  [
+   9,
+   "Mamadou Sylla (footballer, born 1994)",
+   "FW",
+   "SEN"
+  ],
+  [
+   10,
+   "Teddy Okou",
+   "FW",
+   "FRA"
+  ],
+  [
+   12,
+   "Sulaiman Hazazi",
+   "DF",
+   "KSA"
+  ],
+  [
+   13,
+   "Osama Al-Bawardi",
+   "DF",
+   "KSA"
+  ],
+  [
+   14,
+   "Essam Bahri",
+   "MF",
+   "KSA"
+  ],
+  [
+   15,
+   "Amin Abu Khalifa",
+   "MF",
+   "JOR"
+  ],
+  [
+   16,
+   "Faisal Al-Sobhi",
+   "MF",
+   "KSA"
+  ],
+  [
+   17,
+   "Hussain Al-Raqwani",
+   "MF",
+   "KSA"
+  ],
+  [
+   19,
+   "Hussain Al-Shurafa",
+   "MF",
+   "KSA"
+  ],
+  [
+   20,
+   "Battal Al-Harthi",
+   "FW",
+   "KSA"
+  ],
+  [
+   21,
+   "Awad Dahal",
+   "DF",
+   "KSA"
+  ],
+  [
+   22,
+   "Victor Lekhal",
+   "MF",
+   "ALG"
+  ],
+  [
+   24,
+   "Abdulelah Al-Talea",
+   "MF",
+   "KSA"
+  ],
+  [
+   26,
+   "Rodrigo Abascal",
+   "DF",
+   "URU"
+  ],
+  [
+   28,
+   "Jan Petek",
+   "GK",
+   "SVN"
+  ],
+  [
+   29,
+   "Salman Al-Matar",
+   "MF",
+   "KSA"
+  ],
+  [
+   32,
+   "Luca Ramirez",
+   "FW",
+   "ARG"
+  ],
+  [
+   43,
+   "Bernard Mensah (footballer, born October 1994)",
+   "MF",
+   "GHA"
+  ]
+ ],
+ "Taawoun": [
+  [
+   1,
+   "Mailson (footballer, born 1996)",
+   "GK",
+   "BRA"
+  ],
+  [
+   4,
+   "Nasser Al-Hulayel",
+   "DF",
+   "KSA"
+  ],
+  [
+   5,
+   "Zineddine Belaid",
+   "DF",
+   "ALG"
+  ],
+  [
+   6,
+   "Bassam Al-Hurayji",
+   "DF",
+   "KSA"
+  ],
+  [
+   7,
+   "Mohammed Al-Kuwaykibi",
+   "MF",
+   "KSA"
+  ],
+  [
+   8,
+   "Parfait Guiagon",
+   "MF",
+   "CIV"
+  ],
+  [
+   9,
+   "Abderrazak Hamdallah",
+   "FW",
+   "MAR"
+  ],
+  [
+   14,
+   "Saif Rajab",
+   "FW",
+   "KSA"
+  ],
+  [
+   16,
+   "Faris Al-Ghamdi",
+   "MF",
+   "KSA"
+  ],
+  [
+   17,
+   "Mohammed Al-Aqel",
+   "MF",
+   "KSA"
+  ],
+  [
+   18,
+   "Aschraf El Mahdioui",
+   "MF",
+   "MAR"
+  ],
+  [
+   19,
+   "Oscar Dorley",
+   "MF",
+   "LBR"
+  ],
+  [
+   20,
+   "Bassem Al-Arini",
+   "FW",
+   "KSA"
+  ],
+  [
+   23,
+   "Rakan Al-Tulayhi",
+   "MF",
+   "KSA"
+  ],
+  [
+   25,
+   "Abdulrahman Al-Senaid",
+   "GK",
+   "KSA"
+  ],
+  [
+   27,
+   "Adeeb Al-Hassan",
+   "DF",
+   "KSA"
+  ],
+  [
+   30,
+   "Abdullah Al-Jadaani",
+   "GK",
+   "KSA"
+  ],
+  [
+   31,
+   "Abdulrahman Al-Marwani",
+   "MF",
+   "KSA"
+  ],
+  [
+   32,
+   "Muteb Al-Mufarrij",
+   "DF",
+   "KSA"
+  ],
+  [
+   33,
+   "Anas Al-Ghamdi",
+   "FW",
+   "KSA"
+  ],
+  [
+   39,
+   "Abdulrahman Al-Ghamdi (footballer, born 2006)",
+   "GK",
+   "KSA"
+  ],
+  [
+   40,
+   "Ibrahim Mahnashi",
+   "MF",
+   "KSA"
+  ],
+  [
+   43,
+   "Nawaf Al-Huwairy",
+   "DF",
+   "KSA"
+  ],
+  [
+   45,
+   "Mohammed Al-Saadi",
+   "MF",
+   "KSA"
+  ]
+ ],
+ "Ettifaq": [
+  [
+   1,
+   "Marek Rodák",
+   "GK",
+   "SVK"
+  ],
+  [
+   3,
+   "Abdullah Madu",
+   "DF",
+   "KSA"
+  ],
+  [
+   4,
+   "Jack Hendry (footballer, born 1995)",
+   "DF",
+   "SCO"
+  ],
+  [
+   7,
+   "Khalid Al-Ghannam",
+   "MF",
+   "KSA"
+  ],
+  [
+   9,
+   "Moussa Dembélé (French footballer)",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Álvaro Medrán",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Ondrej Duda",
+   "MF",
+   "SVK"
+  ],
+  [
+   13,
+   "Mishal Al-Alaeli",
+   "DF",
+   "KSA"
+  ],
+  [
+   14,
+   "Turki Al-Madani",
+   "DF",
+   "KSA"
+  ],
+  [
+   15,
+   "Abdullah Al-Bishi",
+   "DF",
+   "KSA"
+  ],
+  [
+   17,
+   "Jordan Larsson",
+   "FW",
+   "SWE"
+  ],
+  [
+   20,
+   "Abdulhakim Maghfori",
+   "MF",
+   "KSA"
+  ],
+  [
+   22,
+   "Abdulbasit Hawsawi",
+   "GK",
+   "KSA"
+  ],
+  [
+   23,
+   "Ahmed Al-Rehaili",
+   "GK",
+   "KSA"
+  ],
+  [
+   24,
+   "Jalal Al-Salem",
+   "FW",
+   "KSA"
+  ],
+  [
+   27,
+   "Hassan Al-Musallam",
+   "MF",
+   "KSA"
+  ],
+  [
+   29,
+   "Ziyad Al-Ghamdi",
+   "MF",
+   "KSA"
+  ],
+  [
+   33,
+   "Madallah Al-Olayan",
+   "DF",
+   "KSA"
+  ],
+  [
+   42,
+   "Abdoulaye Kanté (footballer, born 2005)",
+   "MF",
+   "CIV"
+  ],
+  [
+   43,
+   "Bersant Celina",
+   "MF",
+   "KOS"
+  ]
+ ],
+ "Khaleej": [
+  [
+   1,
+   "Mohammed Al Ibrahim",
+   "GK",
+   "KSA"
+  ],
+  [
+   2,
+   "Hamad Al-Jayzani",
+   "DF",
+   "KSA"
+  ],
+  [
+   3,
+   "Mohammed Al-Khabrani",
+   "DF",
+   "KSA"
+  ],
+  [
+   4,
+   "Kiki Kouyaté",
+   "DF",
+   "GUI"
+  ],
+  [
+   5,
+   "Pedro Rebocho",
+   "DF",
+   "POR"
+  ],
+  [
+   7,
+   "Joshua King (footballer, born 1992)",
+   "FW",
+   "NOR"
+  ],
+  [
+   8,
+   "Omar Mascarell",
+   "MF",
+   "EQG"
+  ],
+  [
+   10,
+   "Angelo Fulgini",
+   "MF",
+   "NCL"
+  ],
+  [
+   11,
+   "Saleh Al-Amri",
+   "MF",
+   "KSA"
+  ],
+  [
+   12,
+   "Majed Kanabah",
+   "MF",
+   "KSA"
+  ],
+  [
+   13,
+   "Ahmed Assiri (footballer, born 1991)",
+   "DF",
+   "KSA"
+  ],
+  [
+   14,
+   "Ali Al-Shaafi",
+   "DF",
+   "KSA"
+  ],
+  [
+   15,
+   "Mansour Hamzi",
+   "MF",
+   "KSA"
+  ],
+  [
+   16,
+   "Bader Munshi",
+   "MF",
+   "KSA"
+  ],
+  [
+   17,
+   "Abdullah Al-Hafith",
+   "DF",
+   "KSA"
+  ],
+  [
+   18,
+   "Nawaf Al-Sadi",
+   "MF",
+   "KSA"
+  ],
+  [
+   19,
+   "Miguel Crespo",
+   "MF",
+   "POR"
+  ],
+  [
+   20,
+   "Wilson Diogo Monteiro da Cruz",
+   "FW",
+   "CPV"
+  ],
+  [
+   23,
+   "Rakan Al-Kaabi",
+   "MF",
+   "KSA"
+  ],
+  [
+   24,
+   "Ali Abdulrouf",
+   "MF",
+   "KSA"
+  ],
+  [
+   28,
+   "Hussain Al-Eisa",
+   "MF",
+   "KSA"
+  ],
+  [
+   29,
+   "Raed Al-Shanqiti",
+   "DF",
+   "KSA"
+  ],
+  [
+   31,
+   "Mohammed Al-Ghanem",
+   "GK",
+   "KSA"
+  ],
+  [
+   39,
+   "Saeed Al Hamsal",
+   "DF",
+   "KSA"
+  ]
+ ],
+ "Fateh": [
+  [
+   1,
+   "Adrian Šemper",
+   "GK",
+   "CRO"
+  ],
+  [
+   3,
+   "Kennedy Boateng (footballer, born 1996)",
+   "DF",
+   "TOG"
+  ],
+  [
+   4,
+   "Ziyad Al-Jari",
+   "DF",
+   "KSA"
+  ],
+  [
+   5,
+   "Faisal Darisi",
+   "DF",
+   "KSA"
+  ],
+  [
+   6,
+   "Ali Al-Hassan",
+   "MF",
+   "KSA"
+  ],
+  [
+   7,
+   "Fahad Al-Zubaidi",
+   "FW",
+   "KSA"
+  ],
+  [
+   8,
+   "Mihai Lixandru",
+   "MF",
+   "ROU"
+  ],
+  [
+   9,
+   "Wilfried Kanga",
+   "FW",
+   "CIV"
+  ],
+  [
+   10,
+   "Lukáš Haraslín",
+   "MF",
+   "SVK"
+  ],
+  [
+   11,
+   "Mourad Batna",
+   "FW",
+   "MAR"
+  ],
+  [
+   17,
+   "Marwane Saâdane",
+   "DF",
+   "MAR"
+  ],
+  [
+   18,
+   "Abdulaziz Al-Fawaz",
+   "MF",
+   "KSA"
+  ],
+  [
+   19,
+   "Robin Kelder",
+   "DF",
+   "NED"
+  ],
+  [
+   21,
+   "Jefferson Ramos",
+   "FW",
+   "CPV"
+  ],
+  [
+   22,
+   "Abdulrahman Al-Khaibari (footballer, born 2000)",
+   "DF",
+   "KSA"
+  ],
+  [
+   24,
+   "Mehdi Al-Aboud",
+   "MF",
+   "KSA"
+  ],
+  [
+   25,
+   "Mohammed Al-Sahaihi",
+   "MF",
+   "KSA"
+  ],
+  [
+   28,
+   "Zaydou Youssouf",
+   "MF",
+   "COM"
+  ],
+  [
+   29,
+   "Ali Al-Masoud",
+   "FW",
+   "KSA"
+  ],
+  [
+   31,
+   "Habib Al-Wotayan",
+   "GK",
+   "KSA"
+  ],
+  [
+   34,
+   "Mahmoud Al-Burayh",
+   "GK",
+   "KSA"
+  ],
+  [
+   38,
+   "Ibrahim Al-Aboud",
+   "GK",
+   "KSA"
+  ]
+ ],
+ "Abha": [
+  [
+   3,
+   "Juriën Gaari",
+   "DF",
+   "CUW"
+  ],
+  [
+   5,
+   "Muayad Bunayan",
+   "DF",
+   "KSA"
+  ],
+  [
+   7,
+   "Firas Al-Ghamdi",
+   "MF",
+   "KSA"
+  ],
+  [
+   8,
+   "Nasser Al-Daajani",
+   "MF",
+   "KSA"
+  ],
+  [
+   9,
+   "Kamil Boumedmed",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Nabil Fekir",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Alimami Gory",
+   "FW",
+   "FRA"
+  ],
+  [
+   16,
+   "Donovan Léon",
+   "GK",
+   "GUF"
+  ],
+  [
+   18,
+   "Mohammed Al Hamsal",
+   "MF",
+   "KSA"
+  ],
+  [
+   19,
+   "Abdullah Al-Fahad",
+   "DF",
+   "KSA"
+  ],
+  [
+   21,
+   "Abdulrahman Al-Bouq",
+   "GK",
+   "KSA"
+  ],
+  [
+   22,
+   "Abdou Diallo",
+   "DF",
+   "SEN"
+  ],
+  [
+   23,
+   "Mohammed Al-Dossari (footballer, born 1999)",
+   "DF",
+   "KSA"
+  ],
+  [
+   26,
+   "Mustafa Malayekah",
+   "GK",
+   "KSA"
+  ],
+  [
+   28,
+   "Bader Al-Mutairi (Saudi footballer)",
+   "MF",
+   "KSA"
+  ],
+  [
+   29,
+   "Majed Dawran",
+   "MF",
+   "KSA"
+  ],
+  [
+   32,
+   "Loreintz Rosier",
+   "MF",
+   "FRA"
+  ],
+  [
+   37,
+   "Abdulbassit Hindi",
+   "DF",
+   "KSA"
+  ],
+  [
+   39,
+   "Mohammed Al-Zaid",
+   "MF",
+   "KSA"
+  ],
+  [
+   44,
+   "Michy Batshuayi",
+   "FW",
+   "BEL"
+  ]
+ ],
+ "Fayha": [
+  [
+   1,
+   "Abdulraouf Al-Duqayl",
+   "GK",
+   "KSA"
+  ],
+  [
+   2,
+   "Mukhair Al-Rashidi",
+   "DF",
+   "KSA"
+  ],
+  [
+   5,
+   "Hugo Moura",
+   "MF",
+   "BRA"
+  ],
+  [
+   6,
+   "Ali Al-Hussain",
+   "MF",
+   "KSA"
+  ],
+  [
+   7,
+   "Nawaf Al-Harthi",
+   "MF",
+   "KSA"
+  ],
+  [
+   9,
+   "Malek Al-Abdulmenem",
+   "FW",
+   "KSA"
+  ],
+  [
+   10,
+   "Fashion Sakala",
+   "FW",
+   "ZAM"
+  ],
+  [
+   13,
+   "Sattam Al-Shammari",
+   "GK",
+   "KSA"
+  ],
+  [
+   14,
+   "Mansor Al-Beshe",
+   "MF",
+   "KSA"
+  ],
+  [
+   15,
+   "Paulo Oliveira",
+   "DF",
+   "POR"
+  ],
+  [
+   20,
+   "Abdullah Al-Qahtani",
+   "MF",
+   "KSA"
+  ],
+  [
+   21,
+   "Ziyad Al-Sahafi",
+   "DF",
+   "KSA"
+  ],
+  [
+   22,
+   "Mohammed Al-Baqawi",
+   "DF",
+   "KSA"
+  ],
+  [
+   23,
+   "Jason (Spanish footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   24,
+   "Ahmed Bamsaud",
+   "DF",
+   "KSA"
+  ],
+  [
+   25,
+   "Omar Colley",
+   "DF",
+   "GAM"
+  ],
+  [
+   27,
+   "Sultan Al-Jabri",
+   "FW",
+   "KSA"
+  ],
+  [
+   29,
+   "Albaraa Adawi",
+   "MF",
+   "KSA"
+  ],
+  [
+   30,
+   "Alfa Semedo",
+   "MF",
+   "GNB"
+  ],
+  [
+   31,
+   "Osama Al-Thumairy",
+   "GK",
+   "KSA"
+  ],
+  [
+   41,
+   "Ammar Al-Khaibari",
+   "FW",
+   "KSA"
+  ],
+  [
+   42,
+   "Ali Al Harshan",
+   "DF",
+   "KSA"
+  ],
+  [
+   43,
+   "Fahad Al-Hubaishi",
+   "MF",
+   "KSA"
+  ],
+  [
+   44,
+   "Ali Al-Nakhli",
+   "DF",
+   "KSA"
+  ]
+ ]
+}

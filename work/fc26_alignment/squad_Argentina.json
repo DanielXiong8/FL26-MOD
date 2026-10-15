@@ -1,0 +1,5432 @@
+{
+ "Boca": [
+  [
+   1,
+   "Álvaro Montero (Colombian footballer)",
+   "GK",
+   "COL"
+  ],
+  [
+   2,
+   "Lautaro Di Lollo",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Lautaro Blanco",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Nicolás Figal",
+   "DF",
+   "ARG"
+  ],
+  [
+   6,
+   "Rodrigo Battaglia",
+   "MF",
+   "ARG"
+  ],
+  [
+   7,
+   "Carlos Palacios (Chilean footballer)",
+   "MF",
+   "CHI"
+  ],
+  [
+   8,
+   "Tomás Belmonte",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Milton Giménez",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Tomás Aranda",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Ángel Romero (footballer)",
+   "FW",
+   "PAR"
+  ],
+  [
+   12,
+   "Leandro Brey",
+   "GK",
+   "ARG"
+  ],
+  [
+   13,
+   "Javier García (Argentine footballer)",
+   "GK",
+   "ARG"
+  ],
+  [
+   15,
+   "Williams Alarcón",
+   "MF",
+   "CHI"
+  ],
+  [
+   16,
+   "Miguel Merentiel",
+   "FW",
+   "URU"
+  ],
+  [
+   17,
+   "Leandro Lozano",
+   "DF",
+   "URU"
+  ],
+  [
+   18,
+   "Milton Delgado",
+   "MF",
+   "ARG"
+  ],
+  [
+   19,
+   "Leonel Flores",
+   "FW",
+   "ARG"
+  ],
+  [
+   20,
+   "Alan Velasco",
+   "MF",
+   "ARG"
+  ],
+  [
+   22,
+   "Sebastián Villa (footballer)",
+   "MF",
+   "COL"
+  ],
+  [
+   23,
+   "Camilo Rey Domenech",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Dylan Gorosito",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Santiago Ascacíbar",
+   "MF",
+   "ARG"
+  ],
+  [
+   26,
+   "Marco Pellegrino",
+   "DF",
+   "ARG"
+  ],
+  [
+   27,
+   "Malcom Braida",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Adam Bareiro",
+   "FW",
+   "PAR"
+  ],
+  [
+   30,
+   "Enner Valencia",
+   "FW",
+   "ECU"
+  ],
+  [
+   31,
+   "Tomás Márquez",
+   "MF",
+   "ARG"
+  ],
+  [
+   32,
+   "Ayrton Costa",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Lautaro Mendieta",
+   "FW",
+   "ARG"
+  ],
+  [
+   34,
+   "Juan Cruz Payal",
+   "MF",
+   "ARG"
+  ],
+  [
+   35,
+   "Franco Pérez",
+   "MF",
+   "COL"
+  ],
+  [
+   37,
+   ":es:Gonzalo Gelini",
+   "FW",
+   "ARG"
+  ],
+  [
+   39,
+   "Matías Calegari",
+   "MF",
+   "ARG"
+  ],
+  [
+   42,
+   "Facundo Herrera",
+   "DF",
+   "ARG"
+  ],
+  [
+   44,
+   "Rodrigo Bacidalupe",
+   "FW",
+   "ARG"
+  ],
+  [
+   45,
+   "Miguel Ventos",
+   "FW",
+   "ARG"
+  ]
+ ],
+ "River": [
+  [
+   2,
+   "Tobías Ramírez",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Francisco Ortega (footballer, born 1999)",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Juan Portillo",
+   "DF",
+   "ARG"
+  ],
+  [
+   6,
+   "Aníbal Moreno",
+   "MF",
+   "ARG"
+  ],
+  [
+   8,
+   "Mauro Arambarri",
+   "MF",
+   "URU"
+  ],
+  [
+   9,
+   "Sebastián Driussi",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Ángel Correa",
+   "FW",
+   "ARG"
+  ],
+  [
+   13,
+   "Lautaro Rivero",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Fausto Vera",
+   "MF",
+   "ARG"
+  ],
+  [
+   18,
+   "Lucas Beltrán",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Rafael Santos Borré",
+   "FW",
+   "COL"
+  ],
+  [
+   20,
+   "Giovanni González",
+   "DF",
+   "URU"
+  ],
+  [
+   21,
+   "Marcos Acuña",
+   "DF",
+   "ARG"
+  ],
+  [
+   23,
+   "Thiago Almada",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Juan Cruz Meza",
+   "MF",
+   "ARG"
+  ],
+  [
+   25,
+   "Lautaro Pereyra",
+   "FW",
+   "ARG"
+  ],
+  [
+   26,
+   "Tomás Galván",
+   "MF",
+   "ARG"
+  ],
+  [
+   27,
+   "Santiago Espíndola",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Lucas Martínez Quarta",
+   "DF",
+   "ARG"
+  ],
+  [
+   29,
+   "Gonzalo Montiel",
+   "DF",
+   "ARG"
+  ],
+  [
+   30,
+   "Nicolás Otamendi",
+   "DF",
+   "ARG"
+  ],
+  [
+   31,
+   "Facundo González (footballer, born 2006)",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Agustín Ruberto",
+   "FW",
+   "ARG"
+  ],
+  [
+   33,
+   "Ezequiel Centurión",
+   "GK",
+   "ARG"
+  ],
+  [
+   41,
+   "Santiago Beltrán",
+   "GK",
+   "ARG"
+  ],
+  [
+   43,
+   "Valentín Lucero",
+   "DF",
+   "ARG"
+  ],
+  [
+   44,
+   "Lucas Silva (footballer, born 2007)",
+   "MF",
+   "ARG"
+  ],
+  [
+   45,
+   "Maximiliano Soria",
+   "MF",
+   "ARG"
+  ]
+ ],
+ "Velez": [
+  [
+   1,
+   "Tomás Marchiori",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Emanuel Mammana",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Elías Gómez (footballer, born 1994)",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Joaquín García (footballer, born 2001)",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Claudio Baeza",
+   "MF",
+   "CHL"
+  ],
+  [
+   6,
+   "Aarón Quirós",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Michael Santos (footballer)",
+   "FW",
+   "URU"
+  ],
+  [
+   8,
+   "Lucas Robertone",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Francisco Pozzo",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Diego Valdés (Chilean footballer)",
+   "MF",
+   "CHL"
+  ],
+  [
+   10,
+   "Elías Cabrera",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Matías Pellegrini",
+   "FW",
+   "ARG"
+  ],
+  [
+   14,
+   "Agustín Lagos",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Dilan Godoy",
+   "FW",
+   "ARG"
+  ],
+  [
+   16,
+   "Lisandro Magallán",
+   "DF",
+   "ARG"
+  ],
+  [
+   17,
+   "Álex Verón",
+   "FW",
+   "ARG"
+  ],
+  [
+   18,
+   "Manuel Fernández",
+   "FW",
+   "ARG"
+  ],
+  [
+   18,
+   "Simón Escobar",
+   "DF",
+   "ARG"
+  ],
+  [
+   19,
+   "Leo Cristaldo",
+   "DF",
+   "PAR"
+  ],
+  [
+   19,
+   "Leonel Roldán",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Jano Gordon",
+   "DF",
+   "ARG"
+  ],
+  [
+   22,
+   "Manuel Lanzini",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Patricio Pernicone",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Facundo Sanguinetti",
+   "GK",
+   "ARG"
+  ],
+  [
+   25,
+   "Jonathan Berón",
+   "FW",
+   "ARG"
+  ],
+  [
+   29,
+   "Rodrigo Aliendro",
+   "MF",
+   "ARG"
+  ],
+  [
+   32,
+   "Thiago Silvero",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Kevin Vázquez",
+   "MF",
+   "ARG"
+  ],
+  [
+   34,
+   "Álvaro Busso",
+   "GK",
+   "ARG"
+  ],
+  [
+   35,
+   "Matías Arias",
+   "MF",
+   "ARG"
+  ],
+  [
+   37,
+   "Juan Cruz Policella",
+   "FW",
+   "ARG"
+  ],
+  [
+   37,
+   "Tomás Cavanagh",
+   "DF",
+   "ARG"
+  ],
+  [
+   39,
+   "Thiago Aguirre",
+   "FW",
+   "ARG"
+  ]
+ ],
+ "Racing": [
+  [
+   1,
+   "Francisco Gómez",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Matías Pérez (footballer, born 1999)",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Marco Di Cesare",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Matías Kranevitter",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Marcos Rojo",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Duván Vergara",
+   "FW",
+   "COL"
+  ],
+  [
+   8,
+   "Alan Forneris",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Adrián Martínez (footballer, born July 1992)",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Matko Miljevic",
+   "MF",
+   "USA"
+  ],
+  [
+   11,
+   "Matías Zaracho",
+   "MF",
+   "ARG"
+  ],
+  [
+   12,
+   "Thiago De Bellis",
+   "GK",
+   "ARG"
+  ],
+  [
+   16,
+   "Ulises Ortegoza",
+   "MF",
+   "CHI"
+  ],
+  [
+   17,
+   "Tomás Conechny",
+   "FW",
+   "ARG"
+  ],
+  [
+   18,
+   "Alfonso Espino",
+   "DF",
+   "URU"
+  ],
+  [
+   19,
+   "Ignacio Rodríguez (footballer, born 2002)",
+   "DF",
+   "ARG"
+  ],
+  [
+   20,
+   "Gastón Lodico",
+   "MF",
+   "ARG"
+  ],
+  [
+   22,
+   "Elías Torres",
+   "FW",
+   "ARG"
+  ],
+  [
+   23,
+   "Nazareno Colombo",
+   "DF",
+   "ARG"
+  ],
+  [
+   24,
+   "Adrián Fernández",
+   "MF",
+   "ARG"
+  ],
+  [
+   25,
+   "Facundo Cambeses",
+   "GK",
+   "ARG"
+  ],
+  [
+   30,
+   "Matías Tagliamonte",
+   "GK",
+   "ARG"
+  ],
+  [
+   31,
+   "Benjamín González",
+   "DF",
+   "ARG"
+  ],
+  [
+   36,
+   "Bautista Pérez",
+   "MF",
+   "ARG"
+  ],
+  [
+   37,
+   "Santino Aguirre",
+   "MF",
+   "ARG"
+  ],
+  [
+   38,
+   "Mateo Martínez",
+   "MF",
+   "ARG"
+  ],
+  [
+   40,
+   "Francisco Fraga",
+   "FW",
+   "ARG"
+  ],
+  [
+   41,
+   "Samir Meza",
+   "DF",
+   "ARG"
+  ],
+  [
+   42,
+   "Galo Volpe",
+   "DF",
+   "ARG"
+  ],
+  [
+   43,
+   "Gonzalo Escudero (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   45,
+   "Ezequiel Pérez",
+   "MF",
+   "ARG"
+  ]
+ ],
+ "SanLorenzo": [
+  [
+   1,
+   "Mateo Clemente",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Danilo Arboleda",
+   "DF",
+   "COL"
+  ],
+  [
+   3,
+   "Teo Rodríguez Pagano",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Ignacio Perruzzi",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Mathías De Ritis",
+   "DF",
+   "URU"
+  ],
+  [
+   7,
+   "Ezequiel Cerutti",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Manuel Insaurralde",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Alexis Cuello",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Facundo Gulli",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Matías Reali",
+   "FW",
+   "ARG"
+  ],
+  [
+   13,
+   "Juan Rattalino",
+   "MF",
+   "ARG"
+  ],
+  [
+   14,
+   "Agustín Ladstatter",
+   "FW",
+   "ARG"
+  ],
+  [
+   15,
+   "Mauricio Cardillo",
+   "MF",
+   "ARG"
+  ],
+  [
+   16,
+   "Guzmán Corujo",
+   "DF",
+   "URU"
+  ],
+  [
+   18,
+   "Diego Herazo",
+   "FW",
+   "COL"
+  ],
+  [
+   19,
+   "Emiliano Amor",
+   "DF",
+   "SYR"
+  ],
+  [
+   20,
+   "Facundo Altamirano",
+   "GK",
+   "ARG"
+  ],
+  [
+   21,
+   "Gustavo Del Prete",
+   "FW",
+   "ARG"
+  ],
+  [
+   22,
+   "Juan Pablo Álvarez",
+   "FW",
+   "ARG"
+  ],
+  [
+   23,
+   "Gastón Hernández",
+   "DF",
+   "ARG"
+  ],
+  [
+   24,
+   "Nicolás Tripichio",
+   "MF",
+   "ARG"
+  ],
+  [
+   25,
+   "José Devecchi",
+   "GK",
+   "ARG"
+  ],
+  [
+   28,
+   "Nahuel Barrios",
+   "FW",
+   "ARG"
+  ],
+  [
+   30,
+   "Nahuel Arias",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Ezequiel Herrera",
+   "DF",
+   "ARG"
+  ],
+  [
+   35,
+   "Alejo Córdoba",
+   "DF",
+   "ARG"
+  ],
+  [
+   36,
+   "Daniel Herrera",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Thiago Perugini",
+   "FW",
+   "ARG"
+  ],
+  [
+   39,
+   "Uriel Ojeda",
+   "MF",
+   "ARG"
+  ],
+  [
+   41,
+   "Alejo Rivas",
+   "MF",
+   "ARG"
+  ],
+  [
+   42,
+   "Franco Lorenzón",
+   "DF",
+   "ARG"
+  ],
+  [
+   43,
+   "Valentín Escalante",
+   "FW",
+   "ARG"
+  ]
+ ],
+ "Defensa": [
+  [
+   2,
+   "Samuel Lucero",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Fernando Román (footballer, born 1998)",
+   "DF",
+   "PAR"
+  ],
+  [
+   5,
+   "Julián López (footballer, born 2000)",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Ezequiel Burdín",
+   "DF",
+   "URU"
+  ],
+  [
+   8,
+   "César Pérez (footballer)",
+   "MF",
+   "CHI"
+  ],
+  [
+   9,
+   "Leandro Fernández (footballer, born 1991)",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Aarón Molinas",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Éver Banega",
+   "MF",
+   "ARG"
+  ],
+  [
+   15,
+   "Santiago Sosa",
+   "MF",
+   "ARG"
+  ],
+  [
+   16,
+   "Ayrton Portillo",
+   "DF",
+   "ARG"
+  ],
+  [
+   17,
+   "Agustín Hausch",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "David Barbona",
+   "FW",
+   "ARG"
+  ],
+  [
+   23,
+   "Mateo Aguiar",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Juan Manuel Gutiérrez",
+   "FW",
+   "URU"
+  ],
+  [
+   26,
+   "Jeremías Lucco",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Valentín Loza",
+   "DF",
+   "ARG"
+  ],
+  [
+   29,
+   "Damián Fernández",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Nazareno Roselli",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Lucas Souto",
+   "DF",
+   "ARG"
+  ],
+  [
+   34,
+   "Lautaro Escalante",
+   "MF",
+   "ARG"
+  ],
+  [
+   35,
+   "Mateo López",
+   "DF",
+   "ARG"
+  ],
+  [
+   36,
+   "Lautaro Amadé",
+   "GK",
+   "ARG"
+  ],
+  [
+   40,
+   "Máximo Rodríguez",
+   "DF",
+   "ARG"
+  ],
+  [
+   41,
+   "Ramiro Gagliardi",
+   "FW",
+   "ARG"
+  ],
+  [
+   42,
+   "Juan Pablo Moreno",
+   "MF",
+   "ARG"
+  ],
+  [
+   43,
+   "Emiliano Cantero",
+   "FW",
+   "PAR"
+  ],
+  [
+   44,
+   "Jonás Cabrera",
+   "MF",
+   "ARG"
+  ]
+ ],
+ "Lanus": [
+  [
+   1,
+   "Franco Petroli",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Luciano Romero",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Nicolás Morgantini",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Gonzalo Pérez (footballer)",
+   "DF",
+   "URU"
+  ],
+  [
+   5,
+   "Felipe Peña",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Sasha Marcich",
+   "DF",
+   "ARG"
+  ],
+  [
+   8,
+   "Franco Watson",
+   "MF",
+   "ARG"
+  ],
+  [
+   10,
+   "Marcelino Moreno",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Eduardo Salvio",
+   "FW",
+   "ARG"
+  ],
+  [
+   12,
+   "Evaristo Dieguiz",
+   "GK",
+   "ARG"
+  ],
+  [
+   13,
+   "José Canale",
+   "DF",
+   "PAR"
+  ],
+  [
+   14,
+   "Mateo Ramírez",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Raúl Loaiza",
+   "MF",
+   "COL"
+  ],
+  [
+   16,
+   "Matías Sepúlveda",
+   "MF",
+   "CHI"
+  ],
+  [
+   17,
+   "Agustín Medina (footballer, born 2006)",
+   "MF",
+   "ARG"
+  ],
+  [
+   18,
+   "Jeremías Chavero",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Yoshan Valois",
+   "FW",
+   "COL"
+  ],
+  [
+   20,
+   "Allan Wlk",
+   "FW",
+   "PAR"
+  ],
+  [
+   21,
+   "Alexis Duarte",
+   "FW",
+   "PAR"
+  ],
+  [
+   22,
+   "Alexis González",
+   "DF",
+   "ARG"
+  ],
+  [
+   23,
+   "Ramiro Carrera",
+   "MF",
+   "ARG"
+  ],
+  [
+   26,
+   "Nahuel Losada",
+   "GK",
+   "ARG"
+  ],
+  [
+   27,
+   "Facundo Sánchez",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Octavio Ontivero",
+   "DF",
+   "ARG"
+  ],
+  [
+   29,
+   "Dante Blanco",
+   "DF",
+   "ARG"
+  ],
+  [
+   30,
+   "Agustín Cardozo (footballer, born 1997)",
+   "MF",
+   "ARG"
+  ],
+  [
+   31,
+   "Martín Díaz",
+   "GK",
+   "ARG"
+  ],
+  [
+   32,
+   "Elián Acosta",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Tobías Quiroz",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Tomás Guidara",
+   "DF",
+   "ARG"
+  ],
+  [
+   35,
+   "Ronaldo Dejesús",
+   "DF",
+   "PAR"
+  ],
+  [
+   37,
+   "Thomás De Martis",
+   "FW",
+   "ARG"
+  ],
+  [
+   38,
+   "Benjamín Acosta",
+   "FW",
+   "ARG"
+  ],
+  [
+   39,
+   "Thiago Laplace",
+   "MF",
+   "ARG"
+  ],
+  [
+   40,
+   "Tomás López",
+   "DF",
+   "ARG"
+  ],
+  [
+   41,
+   "Thiago Balbuena",
+   "FW",
+   "ARG"
+  ],
+  [
+   43,
+   "Gonzalo Lobos",
+   "MF",
+   "PAR"
+  ],
+  [
+   44,
+   "Mateo Peralta",
+   "FW",
+   "ARG"
+  ],
+  [
+   45,
+   "Tomás Silva",
+   "GK",
+   "ARG"
+  ]
+ ],
+ "Argentinos": [
+  [
+   1,
+   "Agustín Mangiaut",
+   "GK",
+   "ARG"
+  ],
+  [
+   3,
+   "Luciano Sánchez (footballer, born January 1994)",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Érik Godoy",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Facundo Carrizo",
+   "MF",
+   "ARG"
+  ],
+  [
+   5,
+   "Juan Cardozo",
+   "MF",
+   "PAR"
+  ],
+  [
+   6,
+   "Franco Vázquez",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Diego Porcel",
+   "FW",
+   "ARG"
+  ],
+  [
+   7,
+   "Lautaro Giaccone",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Hernán López (footballer)",
+   "MF",
+   "ARG"
+  ],
+  [
+   8,
+   "Lucas Gómez",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Gastón Verón",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Gabriel Florentín",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Nicolás Oroz",
+   "MF",
+   "ARG"
+  ],
+  [
+   12,
+   "Gonzalo Siri",
+   "GK",
+   "ARG"
+  ],
+  [
+   13,
+   "Santino Gianini",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Kevin Coronel",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Leonel Mosevich",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Facundo Gutiérrez",
+   "MF",
+   "ARG"
+  ],
+  [
+   16,
+   "Francisco Álvarez (footballer, born 2000)",
+   "DF",
+   "ARG"
+  ],
+  [
+   17,
+   "Cristian Ferreira",
+   "MF",
+   "ARG"
+  ],
+  [
+   17,
+   "Franco Paredes",
+   "DF",
+   "ARG"
+  ],
+  [
+   18,
+   "Leandro Fernández (footballer, born 1991)",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Juan Román Pucheta",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Luciano Gómez",
+   "DF",
+   "ARG"
+  ],
+  [
+   19,
+   "Matías Giménez (footballer, born 1999)",
+   "FW",
+   "ARG"
+  ],
+  [
+   20,
+   "Sebastián Prieto (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Brayan Cortés",
+   "GK",
+   "CHI"
+  ],
+  [
+   26,
+   "Claudio Bravo (footballer, born 1997)",
+   "DF",
+   "ARG"
+  ],
+  [
+   27,
+   "Tomás Molina",
+   "FW",
+   "ARG"
+  ],
+  [
+   28,
+   "Joaquín Gho",
+   "MF",
+   "ARG"
+  ],
+  [
+   29,
+   "Emiliano Viveros",
+   "FW",
+   "ARG"
+  ],
+  [
+   30,
+   "Alan Núñez",
+   "DF",
+   "PAR"
+  ],
+  [
+   30,
+   "Iván Morales (footballer)",
+   "FW",
+   "CHI"
+  ],
+  [
+   31,
+   "Manuel Guillén",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Gino Infantino",
+   "MF",
+   "ARG"
+  ],
+  [
+   33,
+   "Manuel Brondo",
+   "FW",
+   "ARG"
+  ],
+  [
+   35,
+   "Alan Alcaraz",
+   "FW",
+   "ARG"
+  ],
+  [
+   35,
+   "Leandro Finochietto",
+   "GK",
+   "ARG"
+  ],
+  [
+   35,
+   "Valentín Catalán",
+   "GK",
+   "ARG"
+  ],
+  [
+   36,
+   "Gastón Bouhier",
+   "MF",
+   "ARG"
+  ],
+  [
+   37,
+   "Matías Lugo",
+   "MF",
+   "ARG"
+  ],
+  [
+   38,
+   "Rodrigo Fernández",
+   "FW",
+   "ARG"
+  ],
+  [
+   39,
+   "Yair González",
+   "MF",
+   "ARG"
+  ],
+  [
+   40,
+   "Mateo Antoni",
+   "DF",
+   "URU"
+  ],
+  [
+   41,
+   "Lautaro Ovando",
+   "FW",
+   "ARG"
+  ],
+  [
+   41,
+   "Santiago Silveira",
+   "DF",
+   "ARG"
+  ],
+  [
+   42,
+   "Juan Manuel Cabrera",
+   "DF",
+   "ARG"
+  ],
+  [
+   43,
+   "Jonathan Galván",
+   "DF",
+   "ARG"
+  ],
+  [
+   44,
+   "Pablo Minissale",
+   "DF",
+   "ARG"
+  ],
+  [
+   45,
+   "Thiago Santamaría",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "RosarioCentral": [
+  [
+   2,
+   "Sebastián Zaracho",
+   "DF",
+   "PAR"
+  ],
+  [
+   3,
+   "Agustín Sández",
+   "DF",
+   "PAR"
+  ],
+  [
+   4,
+   "Ulises Ciccioli",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Franco Ibarra",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Juan Cruz Komar",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Marcelo Cabrera",
+   "MF",
+   "ARG"
+  ],
+  [
+   8,
+   "Jaminton Campaz",
+   "FW",
+   "COL"
+  ],
+  [
+   9,
+   "Marco Ruben",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Franco Cervi",
+   "FW",
+   "ARG"
+  ],
+  [
+   11,
+   "Ángel Di María",
+   "FW",
+   "ARG"
+  ],
+  [
+   12,
+   "Ezequiel Zapata",
+   "GK",
+   "ARG"
+  ],
+  [
+   14,
+   "Asael Oviedo",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Facundo Mallo",
+   "DF",
+   "URU"
+  ],
+  [
+   16,
+   "Tomás Badaloni",
+   "FW",
+   "ARG"
+  ],
+  [
+   17,
+   "Ignacio Moreno",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Santiago Segovia",
+   "MF",
+   "ARG"
+  ],
+  [
+   19,
+   "Thiago Ponce",
+   "FW",
+   "ARG"
+  ],
+  [
+   20,
+   "Vicente Pizarro",
+   "MF",
+   "CHI"
+  ],
+  [
+   21,
+   "Santiago Burgos",
+   "DF",
+   "ARG"
+  ],
+  [
+   22,
+   "Enzo Copetti",
+   "FW",
+   "ARG"
+  ],
+  [
+   24,
+   "Juan Giménez",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Juan Ignacio Guzmán",
+   "MF",
+   "ARG"
+  ],
+  [
+   26,
+   "Giovanni Cantizano",
+   "FW",
+   "ARG"
+  ],
+  [
+   27,
+   "Gaspar Duarte",
+   "FW",
+   "ARG"
+  ],
+  [
+   28,
+   "Pol Fernández",
+   "MF",
+   "ARG"
+  ],
+  [
+   29,
+   "Marco Ruben",
+   "FW",
+   "ARG"
+  ],
+  [
+   30,
+   "Tomás Salteño",
+   "MF",
+   "ARG"
+  ],
+  [
+   31,
+   "Federico Navarro",
+   "MF",
+   "ARG"
+  ],
+  [
+   32,
+   "Emanuel Coronel",
+   "DF",
+   "ARG"
+  ],
+  [
+   34,
+   "Samuel Beltrán",
+   "MF",
+   "ARG"
+  ],
+  [
+   35,
+   "Lucas Ramos",
+   "MF",
+   "ARG"
+  ],
+  [
+   36,
+   "Álvaro Güich",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Lisandro Duarte",
+   "FW",
+   "PAR"
+  ],
+  [
+   38,
+   "Damián Fernández",
+   "GK",
+   "ARG"
+  ],
+  [
+   39,
+   "Fabricio Oviedo",
+   "FW",
+   "ARG"
+  ],
+  [
+   40,
+   "Bautista Cantero",
+   "MF",
+   "ARG"
+  ],
+  [
+   41,
+   "Leonardo Ríos",
+   "DF",
+   "ARG"
+  ],
+  [
+   42,
+   "Elías Verón",
+   "DF",
+   "ARG"
+  ],
+  [
+   43,
+   "Kevin Gutiérrez",
+   "MF",
+   "ARG"
+  ],
+  [
+   44,
+   "Paolo Giaccone",
+   "MF",
+   "ARG"
+  ],
+  [
+   45,
+   "Juan Ignacio Scaglia",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "Newells": [
+  [
+   2,
+   "Ian Glavinovich",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Martín Luciano",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Alejo Montero",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Luca Regiardo",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Martín Ortega",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Walter Mazzantti",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "David Sotelo",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Matías Cóccaro",
+   "FW",
+   "URU"
+  ],
+  [
+   10,
+   "Valentino Acuña",
+   "MF",
+   "ARG"
+  ],
+  [
+   15,
+   "Alan Soñora",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Lucas Carrizo",
+   "DF",
+   "ARG"
+  ],
+  [
+   17,
+   "Lautaro Giannetti",
+   "DF",
+   "ARG"
+  ],
+  [
+   18,
+   "Mateo García",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Jerónimo Gómez Mattar",
+   "MF",
+   "ARG"
+  ],
+  [
+   20,
+   "Facundo Guch",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Gabriel Arias (footballer)",
+   "GK",
+   "CHI"
+  ],
+  [
+   22,
+   "Oscar Salomón (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   23,
+   "Nicolás Goitea",
+   "DF",
+   "ARG"
+  ],
+  [
+   24,
+   "Franco Escobar",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Bruno Cabrera",
+   "DF",
+   "ARG"
+  ],
+  [
+   26,
+   "Rodrigo Herrera",
+   "MF",
+   "ARG"
+  ],
+  [
+   27,
+   "Lucas Gómez",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Santiago Solari (footballer, born 1998)",
+   "FW",
+   "ARG"
+  ],
+  [
+   29,
+   "Marcelo Esponda",
+   "MF",
+   "ARG"
+  ],
+  [
+   30,
+   "Josué Reinatti",
+   "GK",
+   "ARG"
+  ],
+  [
+   33,
+   "Walter Núñez",
+   "FW",
+   "ARG"
+  ],
+  [
+   34,
+   "Valentino Torrente",
+   "DF",
+   "ARG"
+  ],
+  [
+   36,
+   "Francisco Scarpeccio",
+   "FW",
+   "ARG"
+  ],
+  [
+   37,
+   "Lucas Baños",
+   "DF",
+   "ARG"
+  ],
+  [
+   39,
+   "Thomas Rios",
+   "FW",
+   "ARG"
+  ]
+ ],
+ "EstudiantesLP": [
+  [
+   1,
+   "Fabricio Iacovich",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Facundo Rodríguez (footballer, born 2000)",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Máximo Desábato",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Santiago Núñez",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "José Sosa",
+   "MF",
+   "ARG"
+  ],
+  [
+   8,
+   "Gabriel Neves",
+   "MF",
+   "URU"
+  ],
+  [
+   9,
+   "Guido Carrillo",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Tiago Palacios",
+   "FW",
+   "URU"
+  ],
+  [
+   11,
+   "Facundo Farías",
+   "MF",
+   "ARG"
+  ],
+  [
+   12,
+   "Matías Lisandro Mansilla",
+   "GK",
+   "ARG"
+  ],
+  [
+   12,
+   "Rodrigo Borzone",
+   "GK",
+   "ARG"
+  ],
+  [
+   13,
+   "Gastón Benedetti",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Leandro González Pírez",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Santiago Arzamendia",
+   "DF",
+   "PAR"
+  ],
+  [
+   16,
+   "Fernando Muslera",
+   "GK",
+   "URU"
+  ],
+  [
+   17,
+   "Joaquín Tobio Burgos",
+   "FW",
+   "ARG"
+  ],
+  [
+   18,
+   "Edwuin Cetré",
+   "FW",
+   "COL"
+  ],
+  [
+   18,
+   "Juan Cruz Guasone",
+   "DF",
+   "ARG"
+  ],
+  [
+   19,
+   "Adolfo Gaich",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Alexis Manyoma",
+   "FW",
+   "COL"
+  ],
+  [
+   20,
+   "Eric Meza",
+   "DF",
+   "ARG"
+  ],
+  [
+   20,
+   "Matías Godoy",
+   "FW",
+   "ARG"
+  ],
+  [
+   21,
+   "Ezequiel Naya",
+   "FW",
+   "ARG"
+  ],
+  [
+   21,
+   "Lucas Piovi",
+   "MF",
+   "ARG"
+  ],
+  [
+   22,
+   "Alexis Castro (footballer, born 1994)",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Franco Domínguez",
+   "FW",
+   "ARG"
+  ],
+  [
+   23,
+   "Gonzalo Piñeiro",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Tomás Palacios (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Ciro Spalletta",
+   "FW",
+   "ARG"
+  ],
+  [
+   25,
+   "Juan Pablo Zozaya",
+   "GK",
+   "ARG"
+  ],
+  [
+   26,
+   "Ramiro Funes Mori",
+   "DF",
+   "ARG"
+  ],
+  [
+   27,
+   "Lucas Alario",
+   "FW",
+   "ARG"
+  ],
+  [
+   28,
+   "Agustín Palavecino",
+   "FW",
+   "ARG"
+  ],
+  [
+   28,
+   "Brian Aguirre",
+   "FW",
+   "ARG"
+  ],
+  [
+   29,
+   "Axel Atum",
+   "MF",
+   "ARG"
+  ],
+  [
+   29,
+   "Fabricio Pérez",
+   "FW",
+   "ARG"
+  ],
+  [
+   30,
+   "Tiziano Van Der Tuin",
+   "GK",
+   "ARG"
+  ],
+  [
+   31,
+   "Baltasar Rodríguez",
+   "MF",
+   "ARG"
+  ],
+  [
+   32,
+   "Joaquín Correa",
+   "FW",
+   "ARG"
+  ],
+  [
+   33,
+   "Faustino Messina",
+   "DF",
+   "ARG"
+  ],
+  [
+   34,
+   "Miguel Monsalve",
+   "MF",
+   "COL"
+  ],
+  [
+   35,
+   "Valente Pierani",
+   "DF",
+   "ARG"
+  ],
+  [
+   36,
+   "Joaquín Pereyra",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Matías Magdaleno",
+   "DF",
+   "ARG"
+  ],
+  [
+   38,
+   "Franco Basualdo",
+   "MF",
+   "ARG"
+  ],
+  [
+   39,
+   "Jalil Elías",
+   "MF",
+   "SYR"
+  ],
+  [
+   39,
+   "Lucas Cornejo",
+   "MF",
+   "ARG"
+  ],
+  [
+   40,
+   "Eros Mancuso",
+   "DF",
+   "ARG"
+  ],
+  [
+   41,
+   "Benjamín Sagüés Barreiro",
+   "FW",
+   "ARG"
+  ],
+  [
+   42,
+   "Martín Naser",
+   "MF",
+   "ARG"
+  ],
+  [
+   43,
+   "Santino Crego",
+   "FW",
+   "ARG"
+  ],
+  [
+   44,
+   "Juan Fernández Soler",
+   "FW",
+   "ARG"
+  ],
+  [
+   45,
+   "Jorge Georgieff",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "Sarmiento": [
+  [
+   1,
+   "Iván Arboleda",
+   "GK",
+   "COL"
+  ],
+  [
+   5,
+   "Manuel García",
+   "MF",
+   "ARG"
+  ],
+  [
+   7,
+   "Pablo Magnín",
+   "FW",
+   "ARG"
+  ],
+  [
+   9,
+   "Diego Churín",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Jhon Rentería",
+   "FW",
+   "COL"
+  ],
+  [
+   12,
+   "Thyago Ayala",
+   "GK",
+   "ARG"
+  ],
+  [
+   14,
+   "Mauricio Martínez (Argentine footballer)",
+   "MF",
+   "ARG"
+  ],
+  [
+   15,
+   "Cristian Zabala",
+   "MF",
+   "ARG"
+  ],
+  [
+   17,
+   "Jeremías Vallejos",
+   "DF",
+   "ARG"
+  ],
+  [
+   18,
+   "Osmar Giménez",
+   "MF",
+   "PAR"
+  ],
+  [
+   23,
+   "Danilo Monza",
+   "GK",
+   "ARG"
+  ],
+  [
+   23,
+   "Elián Giménez",
+   "MF",
+   "ARG"
+  ],
+  [
+   26,
+   "Yair Arismendi",
+   "FW",
+   "ARG"
+  ],
+  [
+   33,
+   "Gabriel Díaz",
+   "DF",
+   "ARG"
+  ],
+  [
+   34,
+   "Agustín Seyral",
+   "DF",
+   "ARG"
+  ],
+  [
+   35,
+   "Facundo Alaggia",
+   "MF",
+   "ARG"
+  ],
+  [
+   37,
+   "Renzo Lobianco",
+   "FW",
+   "ARG"
+  ],
+  [
+   39,
+   "Joel Godoy",
+   "DF",
+   "ARG"
+  ],
+  [
+   40,
+   "Brandon Márquez",
+   "FW",
+   "ARG"
+  ]
+ ],
+ "Huracan": [
+  [
+   1,
+   "Hernán Galíndez",
+   "GK",
+   "ECU"
+  ],
+  [
+   2,
+   "Lucas Blondel",
+   "DF",
+   "SUI"
+  ],
+  [
+   3,
+   "Lucas Carrizo",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Federico Vera",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Rodrigo Fernández (footballer)",
+   "MF",
+   "URU"
+  ],
+  [
+   6,
+   "Fabio Pereyra",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Óscar Cortés (footballer, born 2003)",
+   "FW",
+   "COL"
+  ],
+  [
+   8,
+   "Leonardo Gil",
+   "MF",
+   "CHI"
+  ],
+  [
+   9,
+   "Jordy Caicedo",
+   "FW",
+   "ECU"
+  ],
+  [
+   10,
+   "Óscar Romero (footballer)",
+   "MF",
+   "PAR"
+  ],
+  [
+   11,
+   "Thaiel Peralta",
+   "MF",
+   "ARG"
+  ],
+  [
+   17,
+   "Juan Bisanz",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Leandro Lescano",
+   "DF",
+   "ARG"
+  ],
+  [
+   20,
+   "Emmanuel Ojeda",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Hugo Nervo",
+   "DF",
+   "ARG"
+  ],
+  [
+   22,
+   "Daniel Zabala",
+   "DF",
+   "ARG"
+  ],
+  [
+   23,
+   "Ignacio Pussetto",
+   "FW",
+   "ARG"
+  ],
+  [
+   25,
+   "César Ibáñez (footballer, born 1999)",
+   "DF",
+   "ARG"
+  ],
+  [
+   27,
+   "Nazareno Durán",
+   "GK",
+   "ARG"
+  ],
+  [
+   32,
+   "Sebastián Meza",
+   "GK",
+   "ARG"
+  ],
+  [
+   33,
+   "Bruno Barticciotto",
+   "FW",
+   "CHI"
+  ],
+  [
+   34,
+   "Ignacio Campo",
+   "DF",
+   "ARG"
+  ],
+  [
+   34,
+   "Santiago Luján",
+   "MF",
+   "ARG"
+  ],
+  [
+   35,
+   "Máximo Palazzo",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Thiago Pérez",
+   "MF",
+   "ARG"
+  ],
+  [
+   41,
+   "Lautaro Mora",
+   "MF",
+   "ARG"
+  ]
+ ],
+ "Platense": [
+  [
+   1,
+   "Brian Bustos",
+   "GK",
+   "ARG"
+  ],
+  [
+   3,
+   "Tomás Silva (footballer, born 2003)",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Agustín Lagos",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Iván Gómez (footballer, born 1997)",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Eugenio Raggio",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Guido Mainero",
+   "FW",
+   "ARG"
+  ],
+  [
+   9,
+   "Tomás Nasif",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Franco Zapiola",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Nicolás López (footballer, born 1993)",
+   "FW",
+   "URU"
+  ],
+  [
+   13,
+   "Ignacio Vázquez (footballer, born 1997)",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Maximiliano Amarfil",
+   "MF",
+   "ARG"
+  ],
+  [
+   16,
+   "Gastón Togni",
+   "FW",
+   "ARG"
+  ],
+  [
+   17,
+   "Felipe Bussio",
+   "MF",
+   "ARG"
+  ],
+  [
+   18,
+   "Bautista Merlini",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Héctor Bobadilla",
+   "FW",
+   "PAR"
+  ],
+  [
+   20,
+   "Luciano Giménez",
+   "FW",
+   "ARG"
+  ],
+  [
+   21,
+   "Augusto Lotti",
+   "FW",
+   "ARG"
+  ],
+  [
+   22,
+   "Nicolás Sumavil",
+   "GK",
+   "ARG"
+  ],
+  [
+   23,
+   "Leonardo Heredia",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Martín Barrios",
+   "MF",
+   "URU"
+  ],
+  [
+   25,
+   "Juan Ignacio Saborido",
+   "DF",
+   "ARG"
+  ],
+  [
+   26,
+   "Pablo Ferreira",
+   "MF",
+   "ARG"
+  ],
+  [
+   27,
+   "Santiago Dalmasso",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Manuel Tucker",
+   "FW",
+   "ARG"
+  ],
+  [
+   29,
+   "Franco Minerva",
+   "FW",
+   "ARG"
+  ],
+  [
+   30,
+   "Juan Pablo Cozzani",
+   "GK",
+   "ARG"
+  ],
+  [
+   31,
+   "Víctor Cuesta",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Santiago Quirós",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Juan Carlos Gauto",
+   "FW",
+   "ARG"
+  ],
+  [
+   34,
+   "Mateo Mendía",
+   "DF",
+   "ARG"
+  ],
+  [
+   35,
+   "Demian Troya",
+   "MF",
+   "ARG"
+  ],
+  [
+   36,
+   "Joaquín Giudice",
+   "GK",
+   "ARG"
+  ],
+  [
+   37,
+   "Santino Cambiasso",
+   "GK",
+   "ARG"
+  ],
+  [
+   38,
+   "Celías Ingenthron",
+   "DF",
+   "ARG"
+  ],
+  [
+   40,
+   "Nicolás Ortiz",
+   "MF",
+   "ARG"
+  ],
+  [
+   41,
+   "Thiago Currado",
+   "DF",
+   "ARG"
+  ],
+  [
+   42,
+   "Gonzalo Goñi",
+   "DF",
+   "ARG"
+  ],
+  [
+   43,
+   "Nicolás Retamar",
+   "FW",
+   "ARG"
+  ],
+  [
+   44,
+   "Agustín Maglione",
+   "DF",
+   "ARG"
+  ],
+  [
+   45,
+   "Tomás Giménez",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "Banfield": [
+  [
+   4,
+   "Juan Luis Alfaro",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Lisandro Piñero",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Lautaro Ríos",
+   "MF",
+   "ARG"
+  ],
+  [
+   10,
+   "Lautaro Gómez",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Favio Álvarez",
+   "MF",
+   "ARG"
+  ],
+  [
+   12,
+   "Marcos López",
+   "DF",
+   "ARG"
+  ],
+  [
+   13,
+   "Brandon Oviedo",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Nehuén Paz",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Santiago Esquivel",
+   "MF",
+   "ARG"
+  ],
+  [
+   18,
+   "Federico Medina",
+   "MF",
+   "ARG"
+  ],
+  [
+   19,
+   "Lautaro Cano",
+   "DF",
+   "ARG"
+  ],
+  [
+   20,
+   "Tomás Adoryán",
+   "MF",
+   "ARM"
+  ],
+  [
+   21,
+   "Lautaro Villegas",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Lucas Palavecino",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Santiago López (footballer, born December 1997)",
+   "MF",
+   "ARG"
+  ],
+  [
+   25,
+   "Gino Santilli",
+   "GK",
+   "ARG"
+  ],
+  [
+   27,
+   "Ignacio Abraham",
+   "DF",
+   "SYR"
+  ],
+  [
+   29,
+   "Juan Iribarren",
+   "DF",
+   "ARG"
+  ],
+  [
+   30,
+   "Federico Anselmo",
+   "FW",
+   "ARG"
+  ],
+  [
+   31,
+   "Joaquín Molina",
+   "GK",
+   "ARG"
+  ],
+  [
+   33,
+   "Neyder Moreno",
+   "MF",
+   "COL"
+  ],
+  [
+   35,
+   "Nacho Pais",
+   "MF",
+   "ARG"
+  ],
+  [
+   37,
+   "Renzo Malanca",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "CentralCórdoba": [
+  [
+   2,
+   "Alejandro Maciel",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Leonardo Marchi",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Tiago Cravero",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Facundo Mansilla",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Diego Barrera",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Fernando Juárez",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Lucas Varaldo",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Marco Iacobellis",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Horacio Tijanovich",
+   "MF",
+   "ARG"
+  ],
+  [
+   12,
+   "Máximo Alvarez",
+   "GK",
+   "ARG"
+  ],
+  [
+   13,
+   "José Gómez",
+   "DF",
+   "ARG"
+  ],
+  [
+   17,
+   "Yuri Casermeiro",
+   "DF",
+   "ARG"
+  ],
+  [
+   18,
+   "Lucas González (footballer, born 2000)",
+   "MF",
+   "ARG"
+  ],
+  [
+   19,
+   "Ezequiel Naya",
+   "FW",
+   "ARG"
+  ],
+  [
+   20,
+   "Fernando Martínez",
+   "DF",
+   "ARG"
+  ],
+  [
+   21,
+   "Felipe Aguilar (footballer)",
+   "DF",
+   "COL"
+  ],
+  [
+   22,
+   "Matías Vera",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Darío Cáceres",
+   "DF",
+   "PAR"
+  ],
+  [
+   25,
+   "Javier Vallejos",
+   "GK",
+   "ARG"
+  ],
+  [
+   26,
+   "Lucas Bernabéu",
+   "DF",
+   "ARG"
+  ],
+  [
+   27,
+   "Michael Santos (footballer)",
+   "FW",
+   "URU"
+  ],
+  [
+   28,
+   "Leonardo Sequeira",
+   "FW",
+   "ARG"
+  ],
+  [
+   29,
+   "Joaquín Flores",
+   "FW",
+   "ARG"
+  ],
+  [
+   33,
+   "Santiago Moyano",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Alan Daian Laprida",
+   "FW",
+   "ARG"
+  ],
+  [
+   42,
+   "Juan Pablo Pignani",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "Tucuman": [
+  [
+   1,
+   "Luis Ingolotti",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Ramiro Paunero",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Maximiliano Villa",
+   "DF",
+   "URU"
+  ],
+  [
+   6,
+   "Gianluca Ferrari",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Martín Benítez",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Ezequiel Ham",
+   "MF",
+   "SYR"
+  ],
+  [
+   9,
+   "Leandro Díaz (footballer, born 1992)",
+   "FW",
+   "ARG"
+  ],
+  [
+   11,
+   "Renzo Tesuri",
+   "MF",
+   "ARG"
+  ],
+  [
+   12,
+   "Patricio Albornoz",
+   "GK",
+   "ARG"
+  ],
+  [
+   15,
+   "Rodrigo Granillo",
+   "FW",
+   "ARG"
+  ],
+  [
+   16,
+   "Moisés Brandán",
+   "DF",
+   "ARG"
+  ],
+  [
+   17,
+   "Enrique Maza",
+   "GK",
+   "ARG"
+  ],
+  [
+   18,
+   "Ramiro Ruiz Rodríguez",
+   "MF",
+   "ARG"
+  ],
+  [
+   19,
+   "Leonel Vega",
+   "MF",
+   "ARG"
+  ],
+  [
+   20,
+   "Gastón Suso",
+   "DF",
+   "ARG"
+  ],
+  [
+   22,
+   "Facundo Pimienta",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Nicolás Laméndola",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Leonel Di Plácido",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Tomás Durso",
+   "GK",
+   "ARG"
+  ],
+  [
+   28,
+   "Gabriel Compagnucci",
+   "MF",
+   "ARG"
+  ],
+  [
+   29,
+   "Martín Ortega",
+   "FW",
+   "ARG"
+  ],
+  [
+   31,
+   "Lautaro Godoy",
+   "MF",
+   "ARG"
+  ],
+  [
+   32,
+   "Juan Infante",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Ramiro González",
+   "DF",
+   "ARG"
+  ],
+  [
+   35,
+   "Gabriel Abeldaño",
+   "FW",
+   "ARG"
+  ],
+  [
+   36,
+   "Luciano Vallejo",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Ezequiel Godoy",
+   "MF",
+   "ARG"
+  ],
+  [
+   38,
+   "Juan Posse",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "Tigre": [
+  [
+   1,
+   "Luka Fuster",
+   "GK",
+   "ARG"
+  ],
+  [
+   3,
+   "Nahuel Banegas",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Valentín Moreno",
+   "DF",
+   "ARG"
+  ],
+  [
+   8,
+   "Martín Garay",
+   "DF",
+   "ARG"
+  ],
+  [
+   12,
+   "Felipe Zenobio",
+   "GK",
+   "ARG"
+  ],
+  [
+   13,
+   "Máximo Leguizamón",
+   "GK",
+   "ARG"
+  ],
+  [
+   15,
+   "Ángelo Marchese",
+   "DF",
+   "ARG"
+  ],
+  [
+   19,
+   "Alfio Oviedo",
+   "FW",
+   "PAR"
+  ],
+  [
+   20,
+   "Alan Barrionuevo",
+   "DF",
+   "ARG"
+  ],
+  [
+   21,
+   "Sebastián Medina",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Federico Álvarez",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Ian Subiabre",
+   "MF",
+   "ARG"
+  ],
+  [
+   27,
+   "Santiago González (footballer, born 2003)",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Pity Martínez",
+   "MF",
+   "ARG"
+  ],
+  [
+   29,
+   "Ignacio Russo",
+   "FW",
+   "ARG"
+  ],
+  [
+   32,
+   "Juan Villalba",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Mauro Méndez",
+   "FW",
+   "URU"
+  ],
+  [
+   34,
+   "Nicolás Afonso",
+   "MF",
+   "ARG"
+  ],
+  [
+   35,
+   "Jordan Andrusisen",
+   "FW",
+   "ARG"
+  ],
+  [
+   36,
+   "Lucian Carracedo",
+   "MF",
+   "ARG"
+  ],
+  [
+   37,
+   "Bautista Feversani",
+   "DF",
+   "ARG"
+  ],
+  [
+   38,
+   "Tomás Fernández",
+   "DF",
+   "ARG"
+  ],
+  [
+   39,
+   "Alejandro Medina",
+   "FW",
+   "ARG"
+  ],
+  [
+   40,
+   "Luciano Minniti",
+   "DF",
+   "ARG"
+  ],
+  [
+   41,
+   "Lucas Molas",
+   "DF",
+   "ARG"
+  ],
+  [
+   42,
+   "Ramón Arias",
+   "DF",
+   "URU"
+  ],
+  [
+   43,
+   "Benjamín Figueredo",
+   "FW",
+   "ARG"
+  ],
+  [
+   44,
+   "Gastón Pérez",
+   "MF",
+   "ARG"
+  ],
+  [
+   45,
+   "Román Pesolilla",
+   "MF",
+   "ARG"
+  ]
+ ],
+ "Barracas": [
+  [
+   1,
+   "Juan Espínola (footballer, born 1994)",
+   "GK",
+   "PAR"
+  ],
+  [
+   2,
+   "Nicolás Capraro",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Damián Martínez (footballer, born January 1990)",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Dardo Miloc",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Rodrigo Insúa",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Juan Barbieri",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Tomás Porra",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Gonzalo Morales (footballer)",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Iván Tapia",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Norberto Briasco",
+   "FW",
+   "ARM"
+  ],
+  [
+   13,
+   "Rafael Barrios",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Kevin Jappert",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Yonatthan Rak",
+   "DF",
+   "URU"
+  ],
+  [
+   16,
+   "Iván Guaraz",
+   "MF",
+   "ARG"
+  ],
+  [
+   17,
+   "Elías Pereyra",
+   "DF",
+   "ARG"
+  ],
+  [
+   18,
+   "Manuel Duarte",
+   "MF",
+   "ARG"
+  ],
+  [
+   19,
+   "Carlos Arce (footballer, born 1990)",
+   "MF",
+   "ARG"
+  ],
+  [
+   20,
+   "Jhonatan Candia",
+   "FW",
+   "URU"
+  ],
+  [
+   21,
+   "Lucas Gamba",
+   "FW",
+   "ARG"
+  ],
+  [
+   23,
+   "Wilfredo Rivera (footballer)",
+   "FW",
+   "PUR"
+  ],
+  [
+   24,
+   "Enzo Taborda",
+   "MF",
+   "ARG"
+  ],
+  [
+   25,
+   "Yeison Gordillo",
+   "MF",
+   "COL"
+  ],
+  [
+   28,
+   "Rodrigo Bogarín",
+   "MF",
+   "PAR"
+  ],
+  [
+   30,
+   "Marcelo Miño",
+   "GK",
+   "ARG"
+  ],
+  [
+   31,
+   "Nicolás Demartini",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Fernando Tobio",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Gonzalo Maroni",
+   "MF",
+   "ARG"
+  ],
+  [
+   34,
+   "Nicolás Orsini",
+   "FW",
+   "ARG"
+  ],
+  [
+   35,
+   "Esteban Rolón",
+   "MF",
+   "ARG"
+  ],
+  [
+   36,
+   "Tomás Lavezzi",
+   "MF",
+   "ARG"
+  ],
+  [
+   37,
+   "Gastón Campi",
+   "DF",
+   "ARG"
+  ],
+  [
+   38,
+   "Juan Pablo Insúa",
+   "GK",
+   "ARG"
+  ]
+ ],
+ "Belgrano": [
+  [
+   2,
+   "Alexis Maldonado",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Adrián Spörle",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Agustín Griguol",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Santiago Longo",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Lucas Passerini",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Lucas Zelarayán",
+   "MF",
+   "ARM"
+  ],
+  [
+   11,
+   "Francisco González Metilli",
+   "MF",
+   "ARG"
+  ],
+  [
+   13,
+   "Álvaro Ocampo",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Leonardo Morales (footballer, born 1991)",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Ramiro Tulián",
+   "MF",
+   "ARG"
+  ],
+  [
+   16,
+   "Federico Ricca",
+   "DF",
+   "URU"
+  ],
+  [
+   17,
+   "Lisandro López (footballer, born 1989)",
+   "DF",
+   "ARG"
+  ],
+  [
+   19,
+   "Santino Gatti",
+   "MF",
+   "ARG"
+  ],
+  [
+   20,
+   "Franco Vázquez",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Adrián Sánchez (footballer)",
+   "MF",
+   "ARG"
+  ],
+  [
+   22,
+   "Nicolás Fernández (footballer, born 1996)",
+   "FW",
+   "ARG"
+  ],
+  [
+   23,
+   "Manuel Vicentini",
+   "GK",
+   "ARG"
+  ],
+  [
+   24,
+   "Emiliano Rigoni",
+   "MF",
+   "ARG"
+  ],
+  [
+   25,
+   "Thiago Cardozo",
+   "GK",
+   "URU"
+  ],
+  [
+   26,
+   "Alcides Benítez",
+   "DF",
+   "PAR"
+  ],
+  [
+   28,
+   "Matías Daniele",
+   "GK",
+   "ARG"
+  ],
+  [
+   29,
+   "Agustín Melano",
+   "FW",
+   "ARG"
+  ],
+  [
+   30,
+   "Gonzalo Zelarayán",
+   "MF",
+   "ARG"
+  ],
+  [
+   37,
+   "Lautaro Gutiérrez",
+   "FW",
+   "ARG"
+  ],
+  [
+   43,
+   "Jeremías Biani",
+   "DF",
+   "ARG"
+  ],
+  [
+   44,
+   "Thiago Charras",
+   "MF",
+   "ARG"
+  ],
+  [
+   45,
+   "Agustín Falcón",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "GimnasiaMendoza": [
+  [
+   2,
+   "Diego Mondino",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Matías Recalde",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Ezequiel Muñoz",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Nahuel Barboza",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Imanol González",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Luciano Cingolani",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Matías Vargas (footballer, born 1997)",
+   "MF",
+   "ARG"
+  ],
+  [
+   10,
+   "Nicolás Romano",
+   "FW",
+   "ARG"
+  ],
+  [
+   11,
+   "Santiago Rodríguez (footballer, born 1997)",
+   "FW",
+   "ARG"
+  ],
+  [
+   15,
+   "Ulises Sánchez",
+   "FW",
+   "ARG"
+  ],
+  [
+   16,
+   "Germán Guiffrey",
+   "DF",
+   "ARG"
+  ],
+  [
+   17,
+   "Ignacio Sabatini",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Julián Ceballos",
+   "MF",
+   "ARG"
+  ],
+  [
+   20,
+   "Tomás Ortiz",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Fermín Antonini",
+   "MF",
+   "ARG"
+  ],
+  [
+   22,
+   "Juan Franco",
+   "DF",
+   "PAR"
+  ],
+  [
+   23,
+   "César Rigamonti",
+   "GK",
+   "ARG"
+  ],
+  [
+   24,
+   "Franco Saavedra",
+   "DF",
+   "ARG"
+  ],
+  [
+   26,
+   "Facundo Lencioni",
+   "FW",
+   "ARG"
+  ],
+  [
+   27,
+   "Blas Armoa",
+   "FW",
+   "PAR"
+  ],
+  [
+   28,
+   "Tomás O'Connor (footballer)",
+   "MF",
+   "ARG"
+  ],
+  [
+   29,
+   "Agustín Módica",
+   "FW",
+   "ITA"
+  ],
+  [
+   30,
+   "Esteban Fernández",
+   "MF",
+   "ARG"
+  ],
+  [
+   31,
+   "Lautaro Petruchi",
+   "GK",
+   "ARG"
+  ],
+  [
+   32,
+   "Luciano Paredes",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Brian Andrada",
+   "FW",
+   "ARG"
+  ],
+  [
+   35,
+   "Valentino Simoni",
+   "FW",
+   "ARG"
+  ],
+  [
+   36,
+   "Ismael Cortéz",
+   "DF",
+   "ARG"
+  ],
+  [
+   40,
+   "Julián Moya",
+   "FW",
+   "ARG"
+  ],
+  [
+   41,
+   "Gerónimo Patritti",
+   "DF",
+   "ARG"
+  ],
+  [
+   42,
+   "Lautaro Carrera",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "Riestra": [
+  [
+   1,
+   "Ignacio Arce",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Carlos Quintana (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Eric Tovo",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Nicolás Caro",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Yeison Murillo",
+   "DF",
+   "COL"
+  ],
+  [
+   5,
+   "Pedro Ramírez (footballer, born 2000)",
+   "DF",
+   "ARG"
+  ],
+  [
+   6,
+   "Ignacio Gariglio",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Antony Alonso",
+   "FW",
+   "URU"
+  ],
+  [
+   8,
+   "Milton Céliz",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Nicolás Benegas",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Braian Sánchez",
+   "MF",
+   "ARG"
+  ],
+  [
+   10,
+   "Gonzalo Bravo",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Alexander Díaz",
+   "FW",
+   "ARG"
+  ],
+  [
+   11,
+   "Gustavo Fernández (Argentine footballer)",
+   "FW",
+   "ARG"
+  ],
+  [
+   13,
+   "Rodrigo Gallo",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Pablo Monje",
+   "MF",
+   "ARG"
+  ],
+  [
+   15,
+   "Nicolás Sansotre",
+   "DF",
+   "ARG"
+  ],
+  [
+   17,
+   "Ángel Almada",
+   "FW",
+   "ARG"
+  ],
+  [
+   18,
+   "Benjamín Pérez",
+   "MF",
+   "ARG"
+  ],
+  [
+   18,
+   "Ramón González",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Juan Randazzo",
+   "DF",
+   "ARG"
+  ],
+  [
+   20,
+   "Thiago Lauro",
+   "MF",
+   "ARG"
+  ],
+  [
+   22,
+   "Cristian Paz",
+   "DF",
+   "ARG"
+  ],
+  [
+   23,
+   "Marino Arzamendia",
+   "GK",
+   "PAR"
+  ],
+  [
+   26,
+   "Jorge Luque",
+   "GK",
+   "ARG"
+  ],
+  [
+   27,
+   "Jonatan Goitía",
+   "MF",
+   "ARG"
+  ],
+  [
+   29,
+   "Agustín Graneros",
+   "FW",
+   "ARG"
+  ],
+  [
+   31,
+   "Mauro Smarra",
+   "MF",
+   "ARG"
+  ],
+  [
+   33,
+   "Justo Rodríguez Ares",
+   "DF",
+   "ARG"
+  ],
+  [
+   34,
+   "Alejo Duarte",
+   "MF",
+   "ARG"
+  ],
+  [
+   35,
+   "Ángel Stringa",
+   "FW",
+   "ARG"
+  ],
+  [
+   36,
+   "Mariano Bracamonte",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Dariel Sánchez",
+   "MF",
+   "ARG"
+  ],
+  [
+   38,
+   "Carlos Gugenheim",
+   "FW",
+   "ARG"
+  ],
+  [
+   40,
+   "Gabriel Obredor",
+   "FW",
+   "ARG"
+  ],
+  [
+   41,
+   "Lautaro Córtez",
+   "DF",
+   "ARG"
+  ],
+  [
+   42,
+   "Luciano Cremona",
+   "MF",
+   "ARG"
+  ],
+  [
+   43,
+   "Luciano De Reatti",
+   "MF",
+   "ARG"
+  ],
+  [
+   44,
+   "Francisco De Zuñiga",
+   "GK",
+   "ARG"
+  ],
+  [
+   45,
+   "Fabricio Ventresca",
+   "FW",
+   "ARG"
+  ]
+ ],
+ "Aldosivi": [
+  [
+   2,
+   "Leonardo Sigali",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Rodrigo González (footballer, born 2000)",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Nicolás Linares",
+   "MF",
+   "ARG"
+  ],
+  [
+   7,
+   "Natanael Guzmán",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Martín García",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Nicolás Cordero",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Nico Gaitán",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Agustín Palavecino",
+   "FW",
+   "ARG"
+  ],
+  [
+   13,
+   "Braian Cufré",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Elías Brítez",
+   "MF",
+   "ARG"
+  ],
+  [
+   14,
+   "Elías López",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Francisco Perruzzi",
+   "MF",
+   "ARG"
+  ],
+  [
+   16,
+   "Bautista Dadín",
+   "FW",
+   "ARG"
+  ],
+  [
+   17,
+   "Federico Laurelli",
+   "DF",
+   "ARG"
+  ],
+  [
+   18,
+   "Andrés Chávez",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Lucas Castro",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Matías Godoy",
+   "FW",
+   "ARG"
+  ],
+  [
+   22,
+   "Alan Sosa",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Ignacio Chicco",
+   "GK",
+   "ARG"
+  ],
+  [
+   24,
+   "Felipe Anso",
+   "FW",
+   "ARG"
+  ],
+  [
+   25,
+   "Néstor Breitenbruch",
+   "DF",
+   "ARG"
+  ],
+  [
+   27,
+   "Tomás Fernández (footballer, born 1998)",
+   "FW",
+   "ARG"
+  ],
+  [
+   28,
+   "Santiago Moya",
+   "DF",
+   "ARG"
+  ],
+  [
+   29,
+   "Andrés Vombergar",
+   "FW",
+   "SLO"
+  ],
+  [
+   31,
+   "Augusto Fernández",
+   "FW",
+   "ARG"
+  ],
+  [
+   32,
+   "Joaquín Pombo",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Nicolás Zalazar",
+   "DF",
+   "ARG"
+  ],
+  [
+   38,
+   "Segundo Fernández",
+   "MF",
+   "ARG"
+  ],
+  [
+   40,
+   "Joaquín Salinas",
+   "MF",
+   "ARG"
+  ],
+  [
+   41,
+   "Kevin Báez",
+   "GK",
+   "PAR"
+  ],
+  [
+   42,
+   "Lucas Acosta (footballer, born 1995)",
+   "GK",
+   "ARG"
+  ]
+ ],
+ "EstudiantesRC": [
+  [
+   1,
+   "Lucas Bruera",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Gonzalo Maffini",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Lucas Baños",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Valentín Fenoglio",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Alejandro Cabrera (footballer)",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Juan Antonini",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Lucas González (footballer, born 1997)",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Siro Rosané",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Javier Ferreira",
+   "FW",
+   "PAR"
+  ],
+  [
+   10,
+   "Tomás González",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Martín Garnerone",
+   "FW",
+   "ARG"
+  ],
+  [
+   12,
+   "Francisco Gualtieri",
+   "GK",
+   "ARG"
+  ],
+  [
+   13,
+   "Francisco Romero (footballer)",
+   "MF",
+   "ARG"
+  ],
+  [
+   14,
+   "Gonzalo González",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Ramiro Bornia",
+   "FW",
+   "ARG"
+  ],
+  [
+   16,
+   "Yeison Moreno",
+   "FW",
+   "COL"
+  ],
+  [
+   17,
+   "Gabriel Alanís",
+   "MF",
+   "ARG"
+  ],
+  [
+   19,
+   "Nicolás Talpone",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Matías Ruiz Díaz",
+   "DF",
+   "ARG"
+  ],
+  [
+   22,
+   "Mauro Valiente",
+   "FW",
+   "ARG"
+  ],
+  [
+   23,
+   "Fernando Rodríguez",
+   "DF",
+   "ARG"
+  ],
+  [
+   27,
+   "Benjamín Moyano",
+   "FW",
+   "ARG"
+  ],
+  [
+   27,
+   "Juan Garro",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Facundo Cobos",
+   "DF",
+   "ARG"
+  ],
+  [
+   29,
+   "Agustín Quiroga",
+   "DF",
+   "ARG"
+  ],
+  [
+   30,
+   "Sergio Ojeda (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   31,
+   "Matías Valenti",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Mateo Bajamich",
+   "FW",
+   "ARG"
+  ],
+  [
+   34,
+   "Lautaro Herrera",
+   "GK",
+   "ARG"
+  ],
+  [
+   35,
+   "Facundo Gallardo",
+   "FW",
+   "ARG"
+  ],
+  [
+   38,
+   "Lautaro Cepeha",
+   "MF",
+   "ARG"
+  ],
+  [
+   40,
+   "Francesco Lo Celso",
+   "MF",
+   "ARG"
+  ],
+  [
+   43,
+   "Agustín Lastra",
+   "GK",
+   "ARG"
+  ],
+  [
+   45,
+   "Raúl Lozano (footballer)",
+   "DF",
+   "ARG"
+  ]
+ ],
+ "Independiente": [
+  [
+   1,
+   "Joaquín Blázquez",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Federico Vera",
+   "DF",
+   "ARG"
+  ],
+  [
+   2,
+   "Franco Calderón",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Jonathan De Irastorza",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Patricio Ostachuk",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Santiago Arias",
+   "DF",
+   "COL"
+  ],
+  [
+   5,
+   "Rodrigo Fernández Cedrés",
+   "MF",
+   "URU"
+  ],
+  [
+   6,
+   "Chimy Ávila",
+   "FW",
+   "ARG"
+  ],
+  [
+   7,
+   "Santiago Montiel",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Kevin López",
+   "MF",
+   "ARG"
+  ],
+  [
+   8,
+   "Maximiliano Meza (footballer, born 1992)",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Luciano Cabral",
+   "MF",
+   "CHI"
+  ],
+  [
+   13,
+   "Juan Manuel Fedorco",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Lautaro Millán",
+   "MF",
+   "CHI"
+  ],
+  [
+   15,
+   "Imanol Machuca",
+   "FW",
+   "ARG"
+  ],
+  [
+   16,
+   "Facundo Valdez",
+   "FW",
+   "ARG"
+  ],
+  [
+   16,
+   "Mateo Pérez Curci",
+   "MF",
+   "ARG"
+  ],
+  [
+   17,
+   "Walter Mazzantti",
+   "FW",
+   "ARG"
+  ],
+  [
+   18,
+   "Ignacio Maestro Puch",
+   "FW",
+   "ARG"
+  ],
+  [
+   18,
+   "Tomás Rambert",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Lucas Román",
+   "FW",
+   "ITA"
+  ],
+  [
+   19,
+   "Matías Abaldo",
+   "FW",
+   "URU"
+  ],
+  [
+   20,
+   "Rodrigo Márquez",
+   "FW",
+   "ARG"
+  ],
+  [
+   22,
+   "Braian Martínez",
+   "FW",
+   "ARG"
+  ],
+  [
+   22,
+   "Facundo Zabala",
+   "DF",
+   "ARG"
+  ],
+  [
+   23,
+   "Iván Marcone",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Josías Palais",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Santiago López (footballer, born 2006)",
+   "FW",
+   "ARG"
+  ],
+  [
+   25,
+   "Diego Segovia",
+   "GK",
+   "URU"
+  ],
+  [
+   25,
+   "Ignacio Pussetto",
+   "FW",
+   "ARG"
+  ],
+  [
+   28,
+   "Enzo Taborda",
+   "FW",
+   "ARG"
+  ],
+  [
+   28,
+   "Jhonny Quiñónez",
+   "MF",
+   "ECU"
+  ],
+  [
+   29,
+   "Leonardo Godoy",
+   "DF",
+   "ARG"
+  ],
+  [
+   30,
+   "Tomás Parmo",
+   "MF",
+   "ARG"
+  ],
+  [
+   31,
+   "Gonzalo Bordón",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "David Martínez",
+   "MF",
+   "ARG"
+  ],
+  [
+   32,
+   "Franco Paredes",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Rodrigo Rey",
+   "GK",
+   "ARG"
+  ],
+  [
+   34,
+   "Felipe Tempone",
+   "FW",
+   "ARG"
+  ],
+  [
+   35,
+   "Juan Miguel Arrayago",
+   "DF",
+   "ARG"
+  ],
+  [
+   35,
+   "Santiago Salle",
+   "MF",
+   "ARG"
+  ],
+  [
+   36,
+   "Sebastián Valdez",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Joel Medina",
+   "MF",
+   "ARG"
+  ],
+  [
+   38,
+   "Agustín Quiroga",
+   "DF",
+   "ARG"
+  ],
+  [
+   38,
+   "Luciano Barros Ayala",
+   "DF",
+   "ARG"
+  ],
+  [
+   40,
+   "Víctor Malcorra",
+   "MF",
+   "ARG"
+  ],
+  [
+   41,
+   "Mathías De Las Carreras",
+   "FW",
+   "ARG"
+  ],
+  [
+   42,
+   "Fernando Closter",
+   "DF",
+   "ARG"
+  ],
+  [
+   42,
+   "Sergio Ortíz",
+   "MF",
+   "ARG"
+  ]
+ ],
+ "GimnasiaLP": [
+  [
+   1,
+   "Máximo Cabrera",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Gonzalo González",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Renzo Giampaoli",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Ignacio Miramón",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Diego Mastrángelo",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Manuel Panaro",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Ignacio Fernández (footballer)",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Ivo Mammini",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Nicolás Barros Schelotto",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Jeremías Merlo",
+   "FW",
+   "ARG"
+  ],
+  [
+   12,
+   "Patricio Schroeder",
+   "GK",
+   "IRL"
+  ],
+  [
+   13,
+   "Germán Conti",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Gonzalo Errecalde",
+   "DF",
+   "ARG"
+  ],
+  [
+   15,
+   "Alejo Gelsomino",
+   "DF",
+   "ARG"
+  ],
+  [
+   16,
+   "Augusto Max",
+   "MF",
+   "ARG"
+  ],
+  [
+   18,
+   "Mateo Seoane",
+   "MF",
+   "ARG"
+  ],
+  [
+   19,
+   "Lucas Castro",
+   "MF",
+   "ARG"
+  ],
+  [
+   20,
+   "Juan José Pérez",
+   "FW",
+   "COL"
+  ],
+  [
+   21,
+   "Enzo Martínez (footballer, born 1998)",
+   "DF",
+   "URU"
+  ],
+  [
+   22,
+   "Matías Melluso",
+   "DF",
+   "ARG"
+  ],
+  [
+   23,
+   "Nelson Insfrán",
+   "GK",
+   "ARG"
+  ],
+  [
+   24,
+   "Pedro Silva Torrejón",
+   "DF",
+   "ARG"
+  ],
+  [
+   25,
+   "Alexis Steimbach",
+   "DF",
+   "ARG"
+  ],
+  [
+   26,
+   "Franco Torres",
+   "FW",
+   "ARG"
+  ],
+  [
+   27,
+   "Julián Kadijević",
+   "GK",
+   "ARG"
+  ],
+  [
+   28,
+   "Cayetano Bolzán",
+   "FW",
+   "ARG"
+  ],
+  [
+   28,
+   "Fabricio Corbalán",
+   "DF",
+   "ARG"
+  ],
+  [
+   29,
+   "Agustín Auzmendi",
+   "FW",
+   "ARG"
+  ],
+  [
+   30,
+   "Jorge de Asís",
+   "FW",
+   "ARG"
+  ],
+  [
+   31,
+   "Bautista Barros Schelotto",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Marcelo Torres",
+   "FW",
+   "ARG"
+  ],
+  [
+   33,
+   "Pablo Aguiar",
+   "MF",
+   "PAR"
+  ],
+  [
+   34,
+   "Leandro Mamut",
+   "MF",
+   "ARG"
+  ],
+  [
+   35,
+   "Juan Cortazzo",
+   "DF",
+   "ARG"
+  ],
+  [
+   39,
+   "Facundo Di Biasi",
+   "MF",
+   "ARG"
+  ],
+  [
+   42,
+   "Santiago Villarreal",
+   "MF",
+   "ARG"
+  ],
+  [
+   43,
+   "Maximiliano Zalazar",
+   "FW",
+   "ARG"
+  ]
+ ],
+ "GodoyCruz": [
+  [
+   1,
+   "Franco Petroli",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Hector Luna",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Juan Morán",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Lucas Arce",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Juan Escobar (Paraguayan footballer)",
+   "MF",
+   "PAR"
+  ],
+  [
+   6,
+   "Leandro Quiroz",
+   "DF",
+   "ARG"
+  ],
+  [
+   8,
+   "Agustín Valverde",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Yaqub",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Isaac Ayala",
+   "FW",
+   "ARG"
+  ],
+  [
+   11,
+   "Daniel Barrea",
+   "FW",
+   "ARG"
+  ],
+  [
+   13,
+   "Nicolás Fernández (footballer, born 1998)",
+   "MF",
+   "URU"
+  ],
+  [
+   14,
+   "Agustín Villalobos",
+   "MF",
+   "ARG"
+  ],
+  [
+   20,
+   "Misael Sosa",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Andrés Meli",
+   "DF",
+   "ARG"
+  ],
+  [
+   22,
+   "Pol Fernández",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Federico Rasmussen",
+   "DF",
+   "ARG"
+  ],
+  [
+   24,
+   "Bastián Yáñez",
+   "FW",
+   "CHI"
+  ],
+  [
+   25,
+   "Vicente Poggi",
+   "MF",
+   "URU"
+  ],
+  [
+   27,
+   "Santino Andino",
+   "MF",
+   "ARG"
+  ],
+  [
+   29,
+   "Leonardo Jara",
+   "DF",
+   "ARG"
+  ],
+  [
+   31,
+   "Agustín Auzmendi",
+   "FW",
+   "ARG"
+  ],
+  [
+   32,
+   "Gonzalo Abrego",
+   "MF",
+   "ARG"
+  ],
+  [
+   35,
+   "Luciano Pascual",
+   "MF",
+   "ARG"
+  ],
+  [
+   40,
+   "Edilson Salinas",
+   "GK",
+   "ARG"
+  ],
+  [
+   41,
+   "Facundo Altamira",
+   "FW",
+   "ARG"
+  ]
+ ]
+}

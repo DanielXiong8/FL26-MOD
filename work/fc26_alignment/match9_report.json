@@ -1,0 +1,9948 @@
+{
+ "DE2": {
+  "Hertha": {
+   "tid": 20136,
+   "pairs": [
+    {
+     "real": "Josip Brekalo",
+     "num": 7,
+     "pos": "FW",
+     "nat": "CRO",
+     "game": "Brekalovic",
+     "pid": 100249,
+     "jersey": 7,
+     "ovr": 69,
+     "sc": 0.824
+    },
+    {
+     "real": "Kevin Sessa",
+     "num": 8,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Sesa",
+     "pid": 108575,
+     "jersey": 8,
+     "ovr": 63,
+     "sc": 0.889
+    },
+    {
+     "real": "Luca Schuler",
+     "num": 18,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Schulel",
+     "pid": 108717,
+     "jersey": 18,
+     "ovr": 62,
+     "sc": 0.857
+    },
+    {
+     "real": "Jón Dagur Þorsteinsson",
+     "num": 24,
+     "pos": "FW",
+     "nat": "ISL",
+     "game": "J.Thorsteinssen",
+     "pid": 145419,
+     "jersey": 24,
+     "ovr": 65,
+     "sc": 0.8
+    },
+    {
+     "real": "Paul Seguin",
+     "num": 30,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Segin",
+     "pid": 105077,
+     "jersey": 30,
+     "ovr": 72,
+     "sc": 0.909
+    },
+    {
+     "real": "Márton Dárdai",
+     "num": 31,
+     "pos": "DF",
+     "nat": "HUN",
+     "game": "Dardai",
+     "pid": 119889,
+     "jersey": 20,
+     "ovr": 64,
+     "sc": 1.0
+    },
+    {
+     "real": "Marius Gersbeck",
+     "num": 35,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Gersbek",
+     "pid": 108678,
+     "jersey": 35,
+     "ovr": 70,
+     "sc": 0.933
+    },
+    {
+     "real": "Pascal Klemens",
+     "num": 41,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Klemons",
+     "pid": 150727,
+     "jersey": 41,
+     "ovr": 62,
+     "sc": 0.857
+    },
+    {
+     "real": "Deyovaisio Zeefuik",
+     "num": 42,
+     "pos": "DF",
+     "nat": "SUR",
+     "game": "Zeefiek",
+     "pid": 104935,
+     "jersey": 42,
+     "ovr": 63,
+     "sc": 0.857
+    },
+    {
+     "real": "Tim Goller",
+     "num": 43,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Gollor",
+     "pid": 150726,
+     "jersey": 43,
+     "ovr": 57,
+     "sc": 0.833
+    },
+    {
+     "real": "Linus Gechter",
+     "num": 44,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Gecher",
+     "pid": 119884,
+     "jersey": 44,
+     "ovr": 62,
+     "sc": 0.923
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Julian Eitschberger",
+     "DF",
+     "GER"
+    ],
+    [
+     13,
+     "Konstantin Heide",
+     "GK",
+     "GER"
+    ],
+    [
+     17,
+     "Sebastian Grønning",
+     "FW",
+     "DEN"
+    ],
+    [
+     21,
+     "Boris Mamuzah Lum",
+     "MF",
+     "GER"
+    ],
+    [
+     22,
+     "Mads Valentin",
+     "DF",
+     "DEN"
+    ],
+    [
+     26,
+     "Niklas Hildebrandt",
+     "FW",
+     "GER"
+    ],
+    [
+     27,
+     "Niklas Kolbe",
+     "DF",
+     "GER"
+    ],
+    [
+     28,
+     "Jelani Ndi",
+     "FW",
+     "GER"
+    ],
+    [
+     29,
+     "Jerome Diallo",
+     "DF",
+     "GER"
+    ],
+    [
+     33,
+     "Soufian Gouram",
+     "MF",
+     "EST"
+    ],
+    [
+     34,
+     "Mayson Grothe",
+     "DF",
+     "GER"
+    ],
+    [
+     36,
+     "Kian Todorović",
+     "MF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Ernste",
+    "Kalbownik",
+    "Leinster",
+    "Deme",
+    "Rese",
+    "Winklar",
+    "Cuizance",
+    "Kovnazki",
+    "Dudsiak",
+    "Lumm",
+    "Previljak",
+    "Husein",
+    "Roger",
+    "Rölk",
+    "Gotshalk",
+    "Jansen",
+    "Smarsh",
+    "Brukes",
+    "Bouchalakos"
+   ]
+  },
+  "Bielefeld": {
+   "tid": 20143,
+   "pairs": [
+    {
+     "real": "Jonas Kersken",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Kersgen",
+     "pid": 109643,
+     "jersey": 1,
+     "ovr": 76,
+     "sc": 0.857
+    },
+    {
+     "real": "Maximilian Bauer",
+     "num": 5,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Bauel",
+     "pid": 106763,
+     "jersey": 5,
+     "ovr": 71,
+     "sc": 0.8
+    },
+    {
+     "real": "Marvin Mehlem",
+     "num": 6,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Mehrem",
+     "pid": 108624,
+     "jersey": 2,
+     "ovr": 72,
+     "sc": 0.833
+    },
+    {
+     "real": "Sam Schreck",
+     "num": 8,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Schleck",
+     "pid": 123417,
+     "jersey": 8,
+     "ovr": 65,
+     "sc": 0.857
+    },
+    {
+     "real": "Jannik Rochelt",
+     "num": 10,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Rochert",
+     "pid": 109510,
+     "jersey": 22,
+     "ovr": 66,
+     "sc": 0.857
+    },
+    {
+     "real": "Thaddäus-Monju Momuluh",
+     "num": 14,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Momulo",
+     "pid": 151693,
+     "jersey": 14,
+     "ovr": 62,
+     "sc": 0.769
+    },
+    {
+     "real": "Arne Sicker",
+     "num": 17,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Shiker",
+     "pid": 117341,
+     "jersey": 17,
+     "ovr": 62,
+     "sc": 0.833
+    },
+    {
+     "real": "Leo Oppermann",
+     "num": 18,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Opperman",
+     "pid": 123409,
+     "jersey": 18,
+     "ovr": 65,
+     "sc": 0.941
+    },
+    {
+     "real": "Maximilian Großer",
+     "num": 19,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Groser",
+     "pid": 123414,
+     "jersey": 19,
+     "ovr": 66,
+     "sc": 0.909
+    },
+    {
+     "real": "Stefano Russo",
+     "num": 21,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Ruso",
+     "pid": 109538,
+     "jersey": 21,
+     "ovr": 68,
+     "sc": 0.889
+    },
+    {
+     "real": "Roberts Uldriķis",
+     "num": 28,
+     "pos": "FW",
+     "nat": "LVA",
+     "game": "R.Urdrikis",
+     "pid": 142546,
+     "jersey": 28,
+     "ovr": 61,
+     "sc": 0.824
+    },
+    {
+     "real": "Tim Handwerker",
+     "num": 29,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Handwerkel",
+     "pid": 105183,
+     "jersey": 29,
+     "ovr": 63,
+     "sc": 0.9
+    },
+    {
+     "real": "Marius Wörl",
+     "num": 38,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Wohl",
+     "pid": 123415,
+     "jersey": 38,
+     "ovr": 67,
+     "sc": 0.75
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Felix Hagmann",
+     "DF",
+     "GER"
+    ],
+    [
+     3,
+     "Joel Felix",
+     "DF",
+     "DNK"
+    ],
+    [
+     7,
+     "Henri Koudossou",
+     "DF",
+     "GER"
+    ],
+    [
+     11,
+     "Joel Grodowski",
+     "FW",
+     "GER"
+    ],
+    [
+     13,
+     "Lukas Kunze",
+     "MF",
+     "GER"
+    ],
+    [
+     23,
+     "Leon Schneider",
+     "DF",
+     "GER"
+    ],
+    [
+     27,
+     "Benjamin Boakye",
+     "MF",
+     "GER"
+    ],
+    [
+     30,
+     "Isaiah Young",
+     "FW",
+     "USA"
+    ],
+    [
+     31,
+     "Leon Jensen",
+     "MF",
+     "GER"
+    ],
+    [
+     42,
+     "Till Wegener",
+     "MF",
+     "GER"
+    ],
+    [
+     43,
+     "Daniel Richter",
+     "MF",
+     "GER"
+    ],
+    [
+     44,
+     "Eyyüb Yasar",
+     "MF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Knohe",
+    "Yirdirim",
+    "Klaus",
+    "Hirtelman",
+    "Belkaia",
+    "S.Bazey",
+    "Winsheimer",
+    "Lamnert",
+    "Schneyder",
+    "Ozcan",
+    "Geekens",
+    "Boujeyab",
+    "Grote",
+    "Misuta",
+    "Cherni",
+    "Kohr",
+    "Biankati",
+    "Putalo"
+   ]
+  },
+  "Bochum": {
+   "tid": 20142,
+   "pairs": [
+    {
+     "real": "Timo Horn",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Hohn",
+     "pid": 104958,
+     "jersey": 1,
+     "ovr": 73,
+     "sc": 0.75
+    },
+    {
+     "real": "Gerrit Holtmann",
+     "num": 17,
+     "pos": "FW",
+     "nat": "PHI",
+     "game": "Hortman",
+     "pid": 105019,
+     "jersey": 17,
+     "ovr": 69,
+     "sc": 0.8
+    },
+    {
+     "real": "Kōji Miyoshi",
+     "num": 23,
+     "pos": "MF",
+     "nat": "JPN",
+     "game": "Miyochi",
+     "pid": 100574,
+     "jersey": 23,
+     "ovr": 63,
+     "sc": 0.857
+    },
+    {
+     "real": "Mats Pannewig",
+     "num": 24,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Pannwig",
+     "pid": 150210,
+     "jersey": 24,
+     "ovr": 61,
+     "sc": 0.933
+    },
+    {
+     "real": "Philipp Hofmann",
+     "num": 33,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Hoffmann",
+     "pid": 110963,
+     "jersey": 33,
+     "ovr": 75,
+     "sc": 0.933
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Sean Klaiber",
+     "DF",
+     "SUR"
+    ],
+    [
+     3,
+     "Philipp Strompf",
+     "DF",
+     "GER"
+    ],
+    [
+     4,
+     "Yiğit Karademir",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Karol Mets",
+     "DF",
+     "EST"
+    ],
+    [
+     6,
+     "Enis Çokaj",
+     "MF",
+     "ALB"
+    ],
+    [
+     7,
+     "Christian Rasmussen",
+     "FW",
+     "DEN"
+    ],
+    [
+     8,
+     "Jean-Manuel Mbom",
+     "MF",
+     "GER"
+    ],
+    [
+     10,
+     "Berkan Taz",
+     "FW",
+     "GER"
+    ],
+    [
+     13,
+     "Oliver Olsen",
+     "DF",
+     "DEN"
+    ],
+    [
+     15,
+     "Michael Steinwender",
+     "DF",
+     "AUT"
+    ],
+    [
+     16,
+     "Tino Casali",
+     "GK",
+     "AUT"
+    ],
+    [
+     19,
+     "Daniel Hanslik",
+     "FW",
+     "GER"
+    ],
+    [
+     27,
+     "Babis Drakas",
+     "FW",
+     "GER"
+    ],
+    [
+     29,
+     "Mansour Ouro-Tagba",
+     "FW",
+     "TOG"
+    ],
+    [
+     31,
+     "Leon Sawas",
+     "DF",
+     "GER"
+    ],
+    [
+     32,
+     "Maximilian Wittek",
+     "DF",
+     "GER"
+    ],
+    [
+     34,
+     "Tom Meyer",
+     "MF",
+     "GER"
+    ],
+    [
+     36,
+     "Luis Pick",
+     "FW",
+     "GER"
+    ],
+    [
+     37,
+     "Alessandro Crimaldi",
+     "MF",
+     "ITA"
+    ],
+    [
+     38,
+     "Hugo Rölleke",
+     "GK",
+     "GER"
+    ],
+    [
+     39,
+     "Lasse Isbruch",
+     "MF",
+     "GER"
+    ]
+   ],
+   "extras": [
+    "Wittig",
+    "Fogt",
+    "Rosy",
+    "Morgala",
+    "Velo",
+    "Daschnar",
+    "A.Erezi",
+    "Cissoko",
+    "Koerth",
+    "Alfa-Ruprrecht",
+    "Gambo",
+    "Marcell",
+    "Graver",
+    "Sobotka",
+    "Bambia",
+    "Klaine-Bekel",
+    "Kwarten",
+    "Losila",
+    "Ordits",
+    "Talba",
+    "Masovich",
+    "Wätsen",
+    "John"
+   ]
+  },
+  "Braunschweig": {
+   "tid": 20341,
+   "pairs": [
+    {
+     "real": "Andi Hoti",
+     "num": 4,
+     "pos": "DF",
+     "nat": "KVX",
+     "game": "Hati",
+     "pid": 124694,
+     "jersey": 4,
+     "ovr": 66,
+     "sc": 0.75
+    },
+    {
+     "real": "Frederik Jäkel",
+     "num": 5,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Jakel",
+     "pid": 106778,
+     "jersey": 5,
+     "ovr": 62,
+     "sc": 1.0
+    },
+    {
+     "real": "Florian Flick",
+     "num": 6,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Flik",
+     "pid": 110953,
+     "jersey": 6,
+     "ovr": 62,
+     "sc": 0.889
+    },
+    {
+     "real": "Aaron Opoku",
+     "num": 17,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Opocu",
+     "pid": 117900,
+     "jersey": 17,
+     "ovr": 53,
+     "sc": 0.8
+    },
+    {
+     "real": "Lino Tempelmann",
+     "num": 20,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Tempelman",
+     "pid": 105184,
+     "jersey": 20,
+     "ovr": 71,
+     "sc": 0.947
+    },
+    {
+     "real": "Kevin Ehlers",
+     "num": 21,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Ehlert",
+     "pid": 109545,
+     "jersey": 21,
+     "ovr": 61,
+     "sc": 0.833
+    },
+    {
+     "real": "Sidi Sané",
+     "num": 24,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Sani",
+     "pid": 152039,
+     "jersey": 24,
+     "ovr": 61,
+     "sc": 0.75
+    },
+    {
+     "real": "Robin Heußer",
+     "num": 30,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Haußer",
+     "pid": 125039,
+     "jersey": 30,
+     "ovr": 68,
+     "sc": 0.8
+    },
+    {
+     "real": "Sidney Raebiger",
+     "num": 37,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Rebiger",
+     "pid": 152035,
+     "jersey": 37,
+     "ovr": 57,
+     "sc": 0.933
+    }
+   ],
+   "unmatched": [
+    [
+     7,
+     "Yann Sturm",
+     "FW",
+     "GER"
+    ],
+    [
+     8,
+     "Mehmet-Can Aydın",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Maximilian Entrup",
+     "FW",
+     "AUT"
+    ],
+    [
+     10,
+     "Samuele Di Benedetto",
+     "MF",
+     "GER"
+    ],
+    [
+     15,
+     "Max Marie",
+     "MF",
+     "GER"
+    ],
+    [
+     19,
+     "Arlet Junior Zé",
+     "FW",
+     "SUI"
+    ],
+    [
+     22,
+     "Fabio Di Michele Sanchez",
+     "DF",
+     "GER"
+    ],
+    [
+     23,
+     "Isidoros Koutsidis",
+     "DF",
+     "GRE"
+    ],
+    [
+     25,
+     "Sanoussy Ba",
+     "DF",
+     "GER"
+    ],
+    [
+     26,
+     "Tristan Wagner",
+     "MF",
+     "GER"
+    ],
+    [
+     29,
+     "Lukas Frenkert",
+     "DF",
+     "GER"
+    ],
+    [
+     32,
+     "Benjamin Uphoff",
+     "GK",
+     "GER"
+    ],
+    [
+     33,
+     "Nick Bodon",
+     "GK",
+     "GER"
+    ],
+    [
+     43,
+     "Damjan Kovacevic",
+     "DF",
+     "AUT"
+    ]
+   ],
+   "extras": [
+    "Hoffman",
+    "Bicakcic",
+    "Nku",
+    "Bell",
+    "Aidin",
+    "Mary",
+    "Gomes",
+    "Alido",
+    "Yardimchi",
+    "Mijatovici",
+    "Doda",
+    "Kähler",
+    "Casal",
+    "Kofman",
+    "Huenberg",
+    "Ivanof",
+    "Bolter",
+    "Johanson",
+    "Jaeger",
+    "Sabo",
+    "Rhanos",
+    "Kastratj",
+    "Da Michele Sanchez",
+    "Braunig",
+    "Nikolov",
+    "Driger"
+   ]
+  },
+  "Darmstadt": {
+   "tid": 20335,
+   "pairs": [
+    {
+     "real": "Patric Pfeiffer",
+     "num": 6,
+     "pos": "DF",
+     "nat": "GHA",
+     "game": "P.Pfeffer",
+     "pid": 108630,
+     "jersey": 6,
+     "ovr": 67,
+     "sc": 0.875
+    },
+    {
+     "real": "Luca Marseiler",
+     "num": 8,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Marseilel",
+     "pid": 105127,
+     "jersey": 8,
+     "ovr": 70,
+     "sc": 0.889
+    },
+    {
+     "real": "Meldin Drešković",
+     "num": 14,
+     "pos": "DF",
+     "nat": "MNE",
+     "game": "M.Draskovic",
+     "pid": 137465,
+     "jersey": 14,
+     "ovr": 63,
+     "sc": 0.842
+    },
+    {
+     "real": "Fabian Nürnberger",
+     "num": 15,
+     "pos": "MF",
+     "nat": "BUL",
+     "game": "Nurnberger",
+     "pid": 105186,
+     "jersey": 15,
+     "ovr": 70,
+     "sc": 1.0
+    },
+    {
+     "real": "Hiroki Akiyama",
+     "num": 16,
+     "pos": "MF",
+     "nat": "JPN",
+     "game": "Akiama",
+     "pid": 118682,
+     "jersey": 16,
+     "ovr": 70,
+     "sc": 0.923
+    },
+    {
+     "real": "Kai Klefisch",
+     "num": 17,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Klefish",
+     "pid": 122997,
+     "jersey": 17,
+     "ovr": 68,
+     "sc": 0.933
+    },
+    {
+     "real": "Raoul Petretta",
+     "num": 18,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Petreta",
+     "pid": 114101,
+     "jersey": 18,
+     "ovr": 61,
+     "sc": 0.933
+    },
+    {
+     "real": "Fynn Lakenmacher",
+     "num": 19,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Lakenmach",
+     "pid": 123818,
+     "jersey": 19,
+     "ovr": 58,
+     "sc": 0.9
+    },
+    {
+     "real": "Aleksandar Vukotić",
+     "num": 20,
+     "pos": "DF",
+     "nat": "SRB",
+     "game": "Vakotić",
+     "pid": 125036,
+     "jersey": 20,
+     "ovr": 59,
+     "sc": 0.857
+    },
+    {
+     "real": "Merveille Papela",
+     "num": 21,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Papera",
+     "pid": 117342,
+     "jersey": 21,
+     "ovr": 66,
+     "sc": 0.833
+    },
+    {
+     "real": "Matthias Bader",
+     "num": 26,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Bayer",
+     "pid": 151696,
+     "jersey": 44,
+     "ovr": 47,
+     "sc": 0.8
+    },
+    {
+     "real": "Alexander Brunst",
+     "num": 30,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Brunste",
+     "pid": 108629,
+     "jersey": 30,
+     "ovr": 66,
+     "sc": 0.923
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Florian Kleinhansl",
+     "DF",
+     "GER"
+    ],
+    [
+     4,
+     "Grayson Dettoni",
+     "DF",
+     "USA"
+    ],
+    [
+     5,
+     "Marco Richter",
+     "MF",
+     "GER"
+    ],
+    [
+     7,
+     "Noah Weißhaupt",
+     "FW",
+     "GER"
+    ],
+    [
+     9,
+     "Lee Ho-jae",
+     "FW",
+     "KOR"
+    ],
+    [
+     10,
+     "Nicolas Verkooijen",
+     "MF",
+     "BEL"
+    ],
+    [
+     11,
+     "Ibrahim El Kadiri",
+     "FW",
+     "MAR"
+    ],
+    [
+     22,
+     "Lars Kehl",
+     "FW",
+     "GER"
+    ],
+    [
+     23,
+     "Carlo Sickinger",
+     "MF",
+     "GER"
+    ],
+    [
+     24,
+     "Benedikt Börner",
+     "GK",
+     "GER"
+    ],
+    [
+     25,
+     "William Mikelbrencis",
+     "DF",
+     "FRA"
+    ],
+    [
+     28,
+     "Christopher Lannert",
+     "DF",
+     "GER"
+    ],
+    [
+     41,
+     "Lance Duijvestijn",
+     "DF",
+     "NED"
+    ],
+    [
+     44,
+     "Yosuke Furukawa",
+     "FW",
+     "JAP"
+    ],
+    [
+     45,
+     "Max Pfister",
+     "DF",
+     "GER"
+    ]
+   ],
+   "extras": [
+    "Schhen",
+    "Magrica",
+    "Lapez",
+    "Rishter",
+    "Harnbee",
+    "Lidrberg",
+    "Torsello",
+    "El Idris",
+    "Coredor",
+    "Aranya",
+    "Gülar",
+    "Niamczycki",
+    "Hollant",
+    "Schmit",
+    "Vilhermson",
+    "Thied",
+    "Gjesula",
+    "Boetius",
+    "Badel",
+    "Zimmerman",
+    "Bialik",
+    "Kenpr"
+   ]
+  },
+  "Dresden": {
+   "tid": 20381,
+   "pairs": [
+    {
+     "real": "Tim Schreiber",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Schreyber",
+     "pid": 108749,
+     "jersey": 1,
+     "ovr": 73,
+     "sc": 0.889
+    },
+    {
+     "real": "Luca Herrmann",
+     "num": 8,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Herrman",
+     "pid": 109558,
+     "jersey": 8,
+     "ovr": 62,
+     "sc": 0.933
+    },
+    {
+     "real": "Vincent Vermeij",
+     "num": 9,
+     "pos": "FW",
+     "nat": "NED",
+     "game": "Vermaij",
+     "pid": 124336,
+     "jersey": 9,
+     "ovr": 66,
+     "sc": 0.857
+    },
+    {
+     "real": "Jakob Lemmer",
+     "num": 10,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Lemar",
+     "pid": 151092,
+     "jersey": 10,
+     "ovr": 60,
+     "sc": 0.727
+    },
+    {
+     "real": "Nils Fröling",
+     "num": 16,
+     "pos": "FW",
+     "nat": "SWE",
+     "game": "Froling",
+     "pid": 108614,
+     "jersey": 16,
+     "ovr": 70,
+     "sc": 1.0
+    },
+    {
+     "real": "Robert Wagner",
+     "num": 18,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Wagnar",
+     "pid": 117633,
+     "jersey": 18,
+     "ovr": 65,
+     "sc": 0.833
+    },
+    {
+     "real": "Alexander Rossipal",
+     "num": 19,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Rossipel",
+     "pid": 109536,
+     "jersey": 19,
+     "ovr": 66,
+     "sc": 0.875
+    },
+    {
+     "real": "Ben Bobzien",
+     "num": 20,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Bobsien",
+     "pid": 110920,
+     "jersey": 20,
+     "ovr": 65,
+     "sc": 0.857
+    },
+    {
+     "real": "Lennart Grill",
+     "num": 22,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Griel",
+     "pid": 152029,
+     "jersey": 22,
+     "ovr": 72,
+     "sc": 0.8
+    },
+    {
+     "real": "Lars Bünning",
+     "num": 23,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Bunning",
+     "pid": 108550,
+     "jersey": 23,
+     "ovr": 62,
+     "sc": 1.0
+    },
+    {
+     "real": "Niklas Hauptmann",
+     "num": 27,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Hauptman",
+     "pid": 104971,
+     "jersey": 27,
+     "ovr": 67,
+     "sc": 0.941
+    },
+    {
+     "real": "Lukas Boeder",
+     "num": 29,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Boider",
+     "pid": 109575,
+     "jersey": 29,
+     "ovr": 64,
+     "sc": 0.833
+    },
+    {
+     "real": "Jonas Sterner",
+     "num": 32,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Starner",
+     "pid": 125115,
+     "jersey": 32,
+     "ovr": 62,
+     "sc": 0.857
+    },
+    {
+     "real": "Christoph Daferner",
+     "num": 33,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Dafernar",
+     "pid": 124720,
+     "jersey": 33,
+     "ovr": 70,
+     "sc": 0.875
+    },
+    {
+     "real": "Thomas Keller",
+     "num": 39,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Kellner",
+     "pid": 108571,
+     "jersey": 39,
+     "ovr": 64,
+     "sc": 0.923
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Kenneth Schmidt",
+     "DF",
+     "GER"
+    ],
+    [
+     6,
+     "Nicolai Rapp",
+     "DF",
+     "GER"
+    ],
+    [
+     11,
+     "Kaan İnanoğlu",
+     "FW",
+     "TUR"
+    ],
+    [
+     14,
+     "Brooklyn Ezeh",
+     "DF",
+     "GER"
+    ],
+    [
+     17,
+     "Ahmet Muhamedbegović",
+     "DF",
+     "AUT"
+    ],
+    [
+     21,
+     "Tobias Raschl",
+     "MF",
+     "GER"
+    ],
+    [
+     37,
+     "Daniel Mesenhöler",
+     "GK",
+     "GER"
+    ],
+    [
+     40,
+     "Elias Bethke",
+     "GK",
+     "GER"
+    ],
+    [
+     42,
+     "Friedrich Müller",
+     "DF",
+     "GER"
+    ],
+    [
+     44,
+     "Simon Straudi",
+     "DF",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Pali",
+    "Saphina",
+    "Czeka",
+    "Boganov",
+    "Hese",
+    "Rish",
+    "Meyer",
+    "Kutscher",
+    "Fabel",
+    "Burger",
+    "Bohem",
+    "Mantel",
+    "Kabetta",
+    "Max",
+    "Omenchen",
+    "Meisner",
+    "Kammerkncht",
+    "Duran",
+    "Lehman",
+    "Mershon"
+   ]
+  },
+  "Furth": {
+   "tid": 20146,
+   "pairs": [
+    {
+     "real": "Sacha Bansé",
+     "num": 6,
+     "pos": "MF",
+     "nat": "BFA",
+     "game": "Bansy",
+     "pid": 150789,
+     "jersey": 6,
+     "ovr": 61,
+     "sc": 0.8
+    },
+    {
+     "real": "Dennis Srbeny",
+     "num": 7,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Srbeni",
+     "pid": 105124,
+     "jersey": 7,
+     "ovr": 68,
+     "sc": 0.833
+    },
+    {
+     "real": "Paul Will",
+     "num": 13,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Well",
+     "pid": 109547,
+     "jersey": 13,
+     "ovr": 57,
+     "sc": 0.75
+    },
+    {
+     "real": "Jannik Dehm",
+     "num": 23,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Dem",
+     "pid": 105163,
+     "jersey": 23,
+     "ovr": 65,
+     "sc": 0.857
+    },
+    {
+     "real": "Luca Itter",
+     "num": 27,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Iter",
+     "pid": 105085,
+     "jersey": 8,
+     "ovr": 63,
+     "sc": 0.889
+    },
+    {
+     "real": "Felix Klaus",
+     "num": 30,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Klause",
+     "pid": 105138,
+     "jersey": 30,
+     "ovr": 68,
+     "sc": 0.909
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Lukas Reich",
+     "DF",
+     "GER"
+    ],
+    [
+     5,
+     "Maxim Dal",
+     "DF",
+     "GER"
+    ],
+    [
+     8,
+     "Shinta Appelkamp",
+     "MF",
+     "GER"
+    ],
+    [
+     9,
+     "Jordan Pefok",
+     "FW",
+     "USA"
+    ],
+    [
+     10,
+     "Ole Pohlmann",
+     "MF",
+     "GER"
+    ],
+    [
+     11,
+     "Aaron Keller",
+     "MF",
+     "SUI"
+    ],
+    [
+     18,
+     "Omar Megeed",
+     "MF",
+     "EGY"
+    ],
+    [
+     19,
+     "Benjamin Zank",
+     "FW",
+     "GER"
+    ],
+    [
+     22,
+     "Jannis Heuer",
+     "DF",
+     "GER"
+    ],
+    [
+     28,
+     "Doni Arifi",
+     "MF",
+     "FIN"
+    ],
+    [
+     36,
+     "Philipp Müller",
+     "MF",
+     "GER"
+    ],
+    [
+     37,
+     "Faton Ademi",
+     "MF",
+     "KOS"
+    ],
+    [
+     39,
+     "Christian Ortag",
+     "GK",
+     "GER"
+    ],
+    [
+     42,
+     "Omar Sillah",
+     "FW",
+     "GER"
+    ],
+    [
+     43,
+     "Silas Prüfrock",
+     "GK",
+     "GER"
+    ],
+    [
+     44,
+     "Mehmet Avlayici",
+     "MF",
+     "GER"
+    ]
+   ],
+   "extras": [
+    "Kirner",
+    "Münze",
+    "P.Zereis",
+    "Glean",
+    "Jon",
+    "Horgota",
+    "Futkeo",
+    "Mase",
+    "Ollesen",
+    "Pop",
+    "Waggner",
+    "Motica",
+    "Pfaffenroth",
+    "Micharski",
+    "Mustafa",
+    "Calhanolu",
+    "Meyerhofer",
+    "Elverdy",
+    "Mhendi",
+    "Consbrush",
+    "Schulte",
+    "Giesemann",
+    "Boerwink",
+    "Dardary",
+    "Ditz",
+    "Masimo"
+   ]
+  },
+  "Hannover": {
+   "tid": 20149,
+   "pairs": [
+    {
+     "real": "Boris Tomiak",
+     "num": 3,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Tomyak",
+     "pid": 108541,
+     "jersey": 3,
+     "ovr": 68,
+     "sc": 0.833
+    },
+    {
+     "real": "Mustapha Bundu",
+     "num": 7,
+     "pos": "FW",
+     "nat": "SLE",
+     "game": "Burndu",
+     "pid": 102070,
+     "jersey": 7,
+     "ovr": 63,
+     "sc": 0.909
+    },
+    {
+     "real": "Waniss Taïbi",
+     "num": 8,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Taibi",
+     "pid": 119870,
+     "jersey": 9,
+     "ovr": 63,
+     "sc": 1.0
+    },
+    {
+     "real": "Benedikt Pichler",
+     "num": 11,
+     "pos": "FW",
+     "nat": "AUT",
+     "game": "Pichter",
+     "pid": 108747,
+     "jersey": 11,
+     "ovr": 59,
+     "sc": 0.857
+    },
+    {
+     "real": "Franz Roggow",
+     "num": 13,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Rogow",
+     "pid": 108656,
+     "jersey": 13,
+     "ovr": 58,
+     "sc": 0.909
+    },
+    {
+     "real": "Husseyn Chakroun",
+     "num": 14,
+     "pos": "MF",
+     "nat": "LBN",
+     "game": "Charon",
+     "pid": 151692,
+     "jersey": 14,
+     "ovr": 66,
+     "sc": 0.857
+    },
+    {
+     "real": "Stefán Teitur Þórðarson",
+     "num": 23,
+     "pos": "MF",
+     "nat": "ISL",
+     "game": "Thorðarson",
+     "pid": 152894,
+     "jersey": 23,
+     "ovr": 69,
+     "sc": 0.875
+    },
+    {
+     "real": "Lars Gindorf",
+     "num": 25,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Gindov",
+     "pid": 151690,
+     "jersey": 25,
+     "ovr": 64,
+     "sc": 0.769
+    },
+    {
+     "real": "Kolja Oudenne",
+     "num": 29,
+     "pos": "MF",
+     "nat": "SWE",
+     "game": "Odenne",
+     "pid": 151691,
+     "jersey": 29,
+     "ovr": 59,
+     "sc": 0.923
+    },
+    {
+     "real": "Leo Weinkauf",
+     "num": 30,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Weinkauff",
+     "pid": 108669,
+     "jersey": 30,
+     "ovr": 71,
+     "sc": 0.941
+    },
+    {
+     "real": "Maurice Neubauer",
+     "num": 33,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Neuboer",
+     "pid": 109504,
+     "jersey": 33,
+     "ovr": 68,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Pascal Loretz",
+     "GK",
+     "SUI"
+    ],
+    [
+     4,
+     "Jean Hugonet",
+     "DF",
+     "FRA"
+    ],
+    [
+     5,
+     "Virgil Ghiță",
+     "DF",
+     "ROU"
+    ],
+    [
+     9,
+     "Benjamin Källman",
+     "FW",
+     "FIN"
+    ],
+    [
+     10,
+     "Marcel Hartel",
+     "MF",
+     "GER"
+    ],
+    [
+     16,
+     "Karl Steinmann",
+     "DF",
+     "GER"
+    ],
+    [
+     17,
+     "Bastian Allgeier",
+     "DF",
+     "GER"
+    ],
+    [
+     20,
+     "Ime Okon",
+     "DF",
+     "RSA"
+    ],
+    [
+     21,
+     "Mwisho Mhango",
+     "MF",
+     "MWI"
+    ],
+    [
+     22,
+     "Noah Engelbreth",
+     "MF",
+     "GER"
+    ],
+    [
+     24,
+     "Yunus Ünal",
+     "MF",
+     "GER"
+    ],
+    [
+     26,
+     "Tom Hobrecht",
+     "FW",
+     "GER"
+    ],
+    [
+     27,
+     "Hayate Matsuda",
+     "DF",
+     "JPN"
+    ],
+    [
+     28,
+     "Taycan Etçibaşı",
+     "FW",
+     "GER"
+    ],
+    [
+     35,
+     "Joschua Siewert",
+     "DF",
+     "GER"
+    ],
+    [
+     37,
+     "Alexander Vogel",
+     "MF",
+     "GER"
+    ],
+    [
+     39,
+     "Taycan Kurt",
+     "FW",
+     "TUR"
+    ],
+    [
+     40,
+     "Jonas Schwanke",
+     "GK",
+     "GER"
+    ],
+    [
+     44,
+     "Emir Sahiti",
+     "MF",
+     "KOS"
+    ]
+   ],
+   "extras": [
+    "Noel",
+    "M.Newrock",
+    "Halsterberg",
+    "Leopord",
+    "Weishaupt",
+    "D.Yokoda",
+    "Sad",
+    "Moroya",
+    "Ulmann",
+    "Eseh",
+    "Ndom",
+    "Nilsen",
+    "Kocolo",
+    "Nkiliu",
+    "Blanc",
+    "Wdowic",
+    "I.Okom"
+   ]
+  },
+  "Heidenheim": {
+   "tid": 20332,
+   "pairs": [
+    {
+     "real": "Frank Feller",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Fellar",
+     "pid": 150355,
+     "jersey": 40,
+     "ovr": 69,
+     "sc": 0.833
+    },
+    {
+     "real": "Jan Schöppner",
+     "num": 3,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Schappner",
+     "pid": 108563,
+     "jersey": 3,
+     "ovr": 68,
+     "sc": 0.889
+    },
+    {
+     "real": "Tim Siersleben",
+     "num": 4,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Siersreben",
+     "pid": 108570,
+     "jersey": 4,
+     "ovr": 70,
+     "sc": 0.9
+    },
+    {
+     "real": "Christian Conteh",
+     "num": 10,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Conte",
+     "pid": 123002,
+     "jersey": 31,
+     "ovr": 70,
+     "sc": 0.909
+    },
+    {
+     "real": "Budu Zivzivadze",
+     "num": 11,
+     "pos": "FW",
+     "nat": "GEO",
+     "game": "Zivzivadza",
+     "pid": 125033,
+     "jersey": 11,
+     "ovr": 72,
+     "sc": 0.9
+    },
+    {
+     "real": "Julian Niehues",
+     "num": 16,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Nyhues",
+     "pid": 108544,
+     "jersey": 16,
+     "ovr": 68,
+     "sc": 0.769
+    },
+    {
+     "real": "Mathias Honsak",
+     "num": 17,
+     "pos": "MF",
+     "nat": "AUT",
+     "game": "Honsakt",
+     "pid": 123435,
+     "jersey": 17,
+     "ovr": 62,
+     "sc": 0.923
+    },
+    {
+     "real": "Jonas Föhrenbach",
+     "num": 19,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Fuhrebach",
+     "pid": 108559,
+     "jersey": 19,
+     "ovr": 67,
+     "sc": 0.842
+    },
+    {
+     "real": "Luca Kerber",
+     "num": 20,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Kerbel",
+     "pid": 109568,
+     "jersey": 20,
+     "ovr": 68,
+     "sc": 0.833
+    },
+    {
+     "real": "Leart Paqarada",
+     "num": 23,
+     "pos": "DF",
+     "nat": "KOS",
+     "game": "Pasharada",
+     "pid": 108639,
+     "jersey": 32,
+     "ovr": 72,
+     "sc": 0.824
+    },
+    {
+     "real": "Mikkel Kaufmann",
+     "num": 29,
+     "pos": "FW",
+     "nat": "DEN",
+     "game": "Kaufman",
+     "pid": 108697,
+     "jersey": 29,
+     "ovr": 66,
+     "sc": 0.933
+    },
+    {
+     "real": "Paul Tschernuth",
+     "num": 34,
+     "pos": "GK",
+     "nat": "AUT",
+     "game": "Tschernot",
+     "pid": 150356,
+     "jersey": 34,
+     "ovr": 60,
+     "sc": 0.842
+    }
+   ],
+   "unmatched": [
+    [
+     8,
+     "Paul Hennrich",
+     "MF",
+     "GER"
+    ],
+    [
+     14,
+     "Maximilian Breunig",
+     "FW",
+     "GER"
+    ],
+    [
+     22,
+     "Oualid Mhamdi",
+     "DF",
+     "MAR"
+    ],
+    [
+     24,
+     "Marcel Costly",
+     "FW",
+     "GER"
+    ],
+    [
+     27,
+     "Michael Heule",
+     "DF",
+     "SUI"
+    ],
+    [
+     28,
+     "Adam Kölle",
+     "DF",
+     "GER"
+    ],
+    [
+     31,
+     "Sirlord Conteh",
+     "MF",
+     "GER"
+    ],
+    [
+     33,
+     "Thomas Dähne",
+     "GK",
+     "GER"
+    ],
+    [
+     38,
+     "Yannik Wagner",
+     "FW",
+     "GER"
+    ],
+    [
+     40,
+     "Felix Mark",
+     "GK",
+     "GER"
+    ],
+    [
+     41,
+     "Marko Zrilić",
+     "MF",
+     "CRO"
+    ]
+   ],
+   "extras": [
+    "D.Ramay",
+    "Maynka",
+    "Traré",
+    "Ibrahimovic",
+    "Dorsh",
+    "Dinksi",
+    "Peringer",
+    "A.Becker",
+    "Gimbel",
+    "Conto",
+    "Stergu",
+    "H.Buhrans",
+    "Schimmur",
+    "Bush"
+   ]
+  },
+  "Kaiserslautern": {
+   "tid": 20331,
+   "pairs": [
+    {
+     "real": "Julian Krahl",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Krehl",
+     "pid": 124320,
+     "jersey": 1,
+     "ovr": 73,
+     "sc": 0.8
+    },
+    {
+     "real": "Simon Asta",
+     "num": 2,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Asda",
+     "pid": 105087,
+     "jersey": 2,
+     "ovr": 65,
+     "sc": 0.75
+    },
+    {
+     "real": "Fabian Kunze",
+     "num": 6,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Kunse",
+     "pid": 108663,
+     "jersey": 6,
+     "ovr": 71,
+     "sc": 0.8
+    },
+    {
+     "real": "Semih Şahin",
+     "num": 8,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Zahin",
+     "pid": 109508,
+     "jersey": 8,
+     "ovr": 71,
+     "sc": 0.8
+    },
+    {
+     "real": "Ivan Prtajin",
+     "num": 9,
+     "pos": "FW",
+     "nat": "CRO",
+     "game": "Prtajan",
+     "pid": 125043,
+     "jersey": 9,
+     "ovr": 67,
+     "sc": 0.857
+    },
+    {
+     "real": "Jacob Rasmussen",
+     "num": 14,
+     "pos": "DF",
+     "nat": "DEN",
+     "game": "Rasmusen",
+     "pid": 106453,
+     "jersey": 4,
+     "ovr": 68,
+     "sc": 0.941
+    },
+    {
+     "real": "Naatan Skyttä",
+     "num": 15,
+     "pos": "MF",
+     "nat": "FIN",
+     "game": "Skytto",
+     "pid": 119560,
+     "jersey": 15,
+     "ovr": 67,
+     "sc": 0.833
+    },
+    {
+     "real": "Mërgim Berisha",
+     "num": 20,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Belisha",
+     "pid": 110926,
+     "jersey": 20,
+     "ovr": 73,
+     "sc": 0.857
+    },
+    {
+     "real": "Paul Joly",
+     "num": 26,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Joli",
+     "pid": 109347,
+     "jersey": 26,
+     "ovr": 64,
+     "sc": 0.75
+    },
+    {
+     "real": "Leon Robinson",
+     "num": 37,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Robson",
+     "pid": 152494,
+     "jersey": 37,
+     "ovr": 59,
+     "sc": 0.857
+    },
+    {
+     "real": "Owen Gibs",
+     "num": 43,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Gibbs",
+     "pid": 108552,
+     "jersey": 38,
+     "ovr": 50,
+     "sc": 0.889
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Maxwell Gyamfi",
+     "DF",
+     "GER"
+    ],
+    [
+     22,
+     "Mika Haas",
+     "DF",
+     "GER"
+    ],
+    [
+     33,
+     "Jan Elvedi",
+     "DF",
+     "SUI"
+    ],
+    [
+     34,
+     "Yannick Onohiol",
+     "GK",
+     "GER"
+    ],
+    [
+     39,
+     "Thierry Tazemeta",
+     "FW",
+     "AUT"
+    ],
+    [
+     40,
+     "Enis Kamga",
+     "GK",
+     "GER"
+    ],
+    [
+     41,
+     "David Schramm",
+     "MF",
+     "GER"
+    ],
+    [
+     42,
+     "Erik Müller",
+     "MF",
+     "GER"
+    ],
+    [
+     44,
+     "Dion Hofmeister",
+     "MF",
+     "GER"
+    ]
+   ],
+   "extras": [
+    "Heier",
+    "Syrch",
+    "Blom",
+    "Rachl",
+    "Rendongo",
+    "Riter",
+    "Basset",
+    "Toure",
+    "Kaloch",
+    "Spaxic",
+    "Hek",
+    "Ronstat",
+    "Zimer",
+    "Clement",
+    "Hansrik",
+    "Hoss",
+    "Wekeser",
+    "Emrely",
+    "Kleinansl",
+    "Kimmy",
+    "Suck",
+    "Abyama"
+   ]
+  },
+  "Karlsruhe": {
+   "tid": 20339,
+   "pairs": [
+    {
+     "real": "Sebastian Jung",
+     "num": 2,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Jong",
+     "pid": 108693,
+     "jersey": 2,
+     "ovr": 64,
+     "sc": 0.75
+    },
+    {
+     "real": "Marvin Wanitzek",
+     "num": 10,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Wanisek",
+     "pid": 108685,
+     "jersey": 10,
+     "ovr": 74,
+     "sc": 0.8
+    },
+    {
+     "real": "Shiō Fukuda",
+     "num": 13,
+     "pos": "FW",
+     "nat": "JPN",
+     "game": "S.Fukuta",
+     "pid": 133103,
+     "jersey": 13,
+     "ovr": 63,
+     "sc": 0.769
+    },
+    {
+     "real": "Christoph Kobald",
+     "num": 22,
+     "pos": "DF",
+     "nat": "AUT",
+     "game": "Kobalder",
+     "pid": 108691,
+     "jersey": 22,
+     "ovr": 61,
+     "sc": 0.857
+    },
+    {
+     "real": "Lilian Egloff",
+     "num": 25,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Eglof",
+     "pid": 110938,
+     "jersey": 25,
+     "ovr": 69,
+     "sc": 0.909
+    },
+    {
+     "real": "Marcel Franke",
+     "num": 28,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Frank",
+     "pid": 108680,
+     "jersey": 28,
+     "ovr": 67,
+     "sc": 0.909
+    },
+    {
+     "real": "Robin Himmelmann",
+     "num": 30,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Himmelman",
+     "pid": 150862,
+     "jersey": 3,
+     "ovr": 70,
+     "sc": 0.947
+    },
+    {
+     "real": "Rafael Pinto Pedrosa",
+     "num": 36,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Pedroza",
+     "pid": 150865,
+     "jersey": 36,
+     "ovr": 66,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Hans Christian Bernat",
+     "GK",
+     "DEN"
+    ],
+    [
+     4,
+     "Héliton",
+     "DF",
+     "BRA"
+    ],
+    [
+     5,
+     "Kwon Hyeok-kyu",
+     "DF",
+     "KOR"
+    ],
+    [
+     6,
+     "Santeri Väänänen",
+     "MF",
+     "FIN"
+    ],
+    [
+     7,
+     "Kevin Wiethaup",
+     "MF",
+     "GER"
+    ],
+    [
+     11,
+     "Noel Eichinger",
+     "FW",
+     "GER"
+    ],
+    [
+     15,
+     "Paul Scholl",
+     "DF",
+     "GER"
+    ],
+    [
+     17,
+     "Eymen Laghrissi",
+     "FW",
+     "GER"
+    ],
+    [
+     18,
+     "Ferdinand Gebert",
+     "GK",
+     "GER"
+    ],
+    [
+     23,
+     "Tim Civeja",
+     "MF",
+     "ALB"
+    ],
+    [
+     24,
+     "Sandro Trémoulet",
+     "DF",
+     "MAD"
+    ],
+    [
+     26,
+     "Danyal Zor",
+     "MF",
+     "GER"
+    ],
+    [
+     27,
+     "John Davis Meyer",
+     "FW",
+     "GER"
+    ],
+    [
+     33,
+     "Viktor Bergh",
+     "DF",
+     "SWE"
+    ],
+    [
+     37,
+     "Jason Ponente-Ramirez",
+     "FW",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Herald",
+    "Baifus",
+    "Burny",
+    "Wäschembach",
+    "Schleusenar",
+    "Ben Farat",
+    "A.Muller",
+    "Ersugur",
+    "Hunzaker",
+    "Kwan K.",
+    "Opis",
+    "Simic",
+    "Ambrocius",
+    "Rap",
+    "Sihlaraglu",
+    "Kock",
+    "Kritz",
+    "Ruppel",
+    "Firster"
+   ]
+  },
+  "Kiel": {
+   "tid": 20336,
+   "pairs": [
+    {
+     "real": "Timon Weiner",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Wainer",
+     "pid": 125104,
+     "jersey": 1,
+     "ovr": 71,
+     "sc": 0.833
+    },
+    {
+     "real": "Tyler Doğan",
+     "num": 1,
+     "pos": "GK",
+     "nat": "TUR",
+     "game": "Dogen",
+     "pid": 150361,
+     "jersey": 40,
+     "ovr": 53,
+     "sc": 0.8
+    },
+    {
+     "real": "Steven Skrzybski",
+     "num": 7,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Skrzybsky",
+     "pid": 108748,
+     "jersey": 7,
+     "ovr": 74,
+     "sc": 0.889
+    },
+    {
+     "real": "Ivan Nekić",
+     "num": 13,
+     "pos": "DF",
+     "nat": "CRO",
+     "game": "I.Neković",
+     "pid": 160651,
+     "jersey": 13,
+     "ovr": 48,
+     "sc": 0.769
+    },
+    {
+     "real": "Andu Kelati",
+     "num": 16,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Kelato",
+     "pid": 150366,
+     "jersey": 16,
+     "ovr": 48,
+     "sc": 0.833
+    },
+    {
+     "real": "Phil Harres",
+     "num": 19,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Harris",
+     "pid": 150368,
+     "jersey": 19,
+     "ovr": 62,
+     "sc": 0.833
+    },
+    {
+     "real": "Lasse Rosenboom",
+     "num": 23,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Rosenbom",
+     "pid": 125110,
+     "jersey": 23,
+     "ovr": 58,
+     "sc": 0.941
+    },
+    {
+     "real": "Jonas Meffert",
+     "num": 28,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Meffertz",
+     "pid": 105098,
+     "jersey": 28,
+     "ovr": 65,
+     "sc": 0.933
+    },
+    {
+     "real": "Marcel Engelhardt",
+     "num": 31,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Engalhardt",
+     "pid": 125105,
+     "jersey": 31,
+     "ovr": 67,
+     "sc": 0.9
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Frederik Roslyng",
+     "DF",
+     "DEN"
+    ],
+    [
+     2,
+     "Henrik Arnold",
+     "DF",
+     "GER"
+    ],
+    [
+     3,
+     "Leon Parduzi",
+     "DF",
+     "KOS"
+    ],
+    [
+     4,
+     "Caspar Medlin",
+     "DF",
+     "GER"
+    ],
+    [
+     4,
+     "Sebastian Schonlau",
+     "DF",
+     "GER"
+    ],
+    [
+     5,
+     "Noah Madsen",
+     "DF",
+     "DEN"
+    ],
+    [
+     6,
+     "Ikem Ugoh",
+     "MF",
+     "GER"
+    ],
+    [
+     7,
+     "Lenny Borges",
+     "MF",
+     "GER"
+    ],
+    [
+     8,
+     "Finn Wirlmann",
+     "DF",
+     "GER"
+    ],
+    [
+     8,
+     "Guillermo Balzi",
+     "MF",
+     "ARG"
+    ],
+    [
+     9,
+     "Etienne Sohn",
+     "FW",
+     "GER"
+    ],
+    [
+     9,
+     "Giorgi Kvilitaia",
+     "FW",
+     "GEO"
+    ],
+    [
+     10,
+     "Jonas Therkelsen",
+     "MF",
+     "NOR"
+    ],
+    [
+     11,
+     "Gyan de Regt",
+     "FW",
+     "NED"
+    ],
+    [
+     11,
+     "Jorden Winter",
+     "FW",
+     "GER"
+    ],
+    [
+     12,
+     "Henrie Müller-Kalthoff",
+     "GK",
+     "GER"
+    ],
+    [
+     13,
+     "Oskar von Esebeck",
+     "FW",
+     "GER"
+    ],
+    [
+     14,
+     "Cenğizhan Koç",
+     "MF",
+     "GER"
+    ],
+    [
+     15,
+     "Kasper Davidsen",
+     "MF",
+     "DEN"
+    ],
+    [
+     15,
+     "Tim Ottlinger",
+     "DF",
+     "GER"
+    ],
+    [
+     16,
+     "Tim Spieckermann",
+     "DF",
+     "GER"
+    ],
+    [
+     17,
+     "Faride Alidou",
+     "FW",
+     "GER"
+    ],
+    [
+     17,
+     "Veit Lückner",
+     "DF",
+     "GER"
+    ],
+    [
+     18,
+     "Ali Abdulla",
+     "MF",
+     "GER"
+    ],
+    [
+     19,
+     "Laurynas Kulikas",
+     "FW",
+     "GER"
+    ],
+    [
+     20,
+     "Adrián Kaprálik",
+     "FW",
+     "SVK"
+    ],
+    [
+     20,
+     "Islam Matene",
+     "FW",
+     "ALG"
+    ],
+    [
+     21,
+     "Kjell Knaak",
+     "FW",
+     "GER"
+    ],
+    [
+     22,
+     "Moritz Reimers",
+     "FW",
+     "GER"
+    ],
+    [
+     22,
+     "Mätthi Meyer",
+     "FW",
+     "GER"
+    ],
+    [
+     23,
+     "Enes Rüzgar",
+     "FW",
+     "TUR"
+    ],
+    [
+     24,
+     "Malte Petersen",
+     "DF",
+     "GER"
+    ],
+    [
+     26,
+     "David Zec",
+     "DF",
+     "SVN"
+    ],
+    [
+     26,
+     "Lasse Soldanski",
+     "MF",
+     "GER"
+    ],
+    [
+     27,
+     "Ikem Ugoh",
+     "MF",
+     "GER"
+    ],
+    [
+     29,
+     "Gustav Karimi",
+     "MF",
+     "SWE"
+    ],
+    [
+     30,
+     "Lio Rothenhagen",
+     "GK",
+     "GER"
+    ],
+    [
+     30,
+     "Tayar Tasdelen",
+     "MF",
+     "GER"
+    ],
+    [
+     31,
+     "Felix Boelter",
+     "DF",
+     "GER"
+    ],
+    [
+     32,
+     "Hamza Muqaj",
+     "MF",
+     "KOS"
+    ],
+    [
+     40,
+     "Leon Parduzi",
+     "DF",
+     "KOS"
+    ],
+    [
+     41,
+     "Lio Rothenhagen",
+     "GK",
+     "GER"
+    ]
+   ],
+   "extras": [
+    "Krumey",
+    "Ivazić",
+    "Johanson",
+    "Komeida",
+    "Torkin",
+    "Tohmcu",
+    "Knuden",
+    "Bernhardson",
+    "Eras",
+    "Schuls",
+    "Cvjatinovic",
+    "Kester",
+    "Wagbay",
+    "Prase",
+    "Arrp",
+    "S.Schvab"
+   ]
+  },
+  "Magdeburg": {
+   "tid": 20340,
+   "pairs": [
+    {
+     "real": "Dominik Reimann",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Reiman",
+     "pid": 108698,
+     "jersey": 1,
+     "ovr": 73,
+     "sc": 0.923
+    },
+    {
+     "real": "Eldin Džogović",
+     "num": 3,
+     "pos": "DF",
+     "nat": "LUX",
+     "game": "Dsogovic",
+     "pid": 108713,
+     "jersey": 4,
+     "ovr": 52,
+     "sc": 0.875
+    },
+    {
+     "real": "Eldin Džogović",
+     "num": 4,
+     "pos": "DF",
+     "nat": "LUX",
+     "game": "El Zuin",
+     "pid": 125339,
+     "jersey": 4,
+     "ovr": 65,
+     "sc": 0.727
+    },
+    {
+     "real": "Tobias Müller",
+     "num": 5,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Muller",
+     "pid": 122993,
+     "jersey": 5,
+     "ovr": 68,
+     "sc": 1.0
+    },
+    {
+     "real": "Herbert Bockhorn",
+     "num": 7,
+     "pos": "DF",
+     "nat": "UGA",
+     "game": "Backhorn",
+     "pid": 124697,
+     "jersey": 7,
+     "ovr": 58,
+     "sc": 0.875
+    },
+    {
+     "real": "Mathis Froberg",
+     "num": 8,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Mathison",
+     "pid": 125035,
+     "jersey": 16,
+     "ovr": 68,
+     "sc": 0.857
+    },
+    {
+     "real": "Daniel Heber",
+     "num": 15,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Haber",
+     "pid": 124695,
+     "jersey": 15,
+     "ovr": 65,
+     "sc": 0.8
+    },
+    {
+     "real": "Alexander Nollenberger",
+     "num": 17,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Nallenberger",
+     "pid": 124702,
+     "jersey": 17,
+     "ovr": 57,
+     "sc": 0.917
+    },
+    {
+     "real": "Lubambo Musonda",
+     "num": 19,
+     "pos": "DF",
+     "nat": "ZAM",
+     "game": "Muzonda",
+     "pid": 116848,
+     "jersey": 19,
+     "ovr": 61,
+     "sc": 0.857
+    },
+    {
+     "real": "Barış Atik",
+     "num": 23,
+     "pos": "FW",
+     "nat": "TUR",
+     "game": "Artik",
+     "pid": 108706,
+     "jersey": 23,
+     "ovr": 62,
+     "sc": 0.889
+    },
+    {
+     "real": "Tarek Chahed",
+     "num": 24,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Chahad",
+     "pid": 124698,
+     "jersey": 34,
+     "ovr": 58,
+     "sc": 0.833
+    },
+    {
+     "real": "Richmond Tachie",
+     "num": 29,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Tachia",
+     "pid": 124322,
+     "jersey": 6,
+     "ovr": 64,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Tom Schlitter",
+     "GK",
+     "GER"
+    ],
+    [
+     3,
+     "Anselmo García MacNulty",
+     "DF",
+     "IRL"
+    ],
+    [
+     4,
+     "Rick Lemke",
+     "DF",
+     "GER"
+    ],
+    [
+     5,
+     "Batuhan Deliboyraz",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Paul Jaeckel",
+     "DF",
+     "GER"
+    ],
+    [
+     6,
+     "Timo Birk",
+     "MF",
+     "GER"
+    ],
+    [
+     7,
+     "Elisio Widmann",
+     "FW",
+     "GER"
+    ],
+    [
+     8,
+     "Emmanuel Iyoha",
+     "FW",
+     "GER"
+    ],
+    [
+     9,
+     "Luc Elsner",
+     "FW",
+     "GER"
+    ],
+    [
+     10,
+     "Moritz Kwarteng",
+     "MF",
+     "GER"
+    ],
+    [
+     10,
+     "Stefan Korsch",
+     "FW",
+     "GER"
+    ],
+    [
+     11,
+     "Luis Trus",
+     "FW",
+     "GER"
+    ],
+    [
+     14,
+     "Tony Reitz",
+     "MF",
+     "GER"
+    ],
+    [
+     17,
+     "Jeremie Niklaus",
+     "DF",
+     "GER"
+    ],
+    [
+     20,
+     "Kevin Manthey",
+     "MF",
+     "GER"
+    ],
+    [
+     20,
+     "Nick Meier",
+     "MF",
+     "GER"
+    ],
+    [
+     21,
+     "Falko Michel",
+     "MF",
+     "GER"
+    ],
+    [
+     21,
+     "Gennaro Mewes",
+     "DF",
+     "GER"
+    ],
+    [
+     22,
+     "Mateusz Żukowski",
+     "FW",
+     "POL"
+    ],
+    [
+     22,
+     "Philipp Flemming",
+     "GK",
+     "GER"
+    ],
+    [
+     23,
+     "Steven Probst",
+     "DF",
+     "GER"
+    ],
+    [
+     25,
+     "Mihailo Trkulja",
+     "DF",
+     "BIH"
+    ],
+    [
+     26,
+     "Torben Müsel",
+     "MF",
+     "GER"
+    ],
+    [
+     28,
+     "Marcel Zajusch",
+     "DF",
+     "POL"
+    ],
+    [
+     28,
+     "Pierre Nadjombe",
+     "DF",
+     "TGO"
+    ],
+    [
+     29,
+     "Cornelius Bräunling",
+     "FW",
+     "GER"
+    ],
+    [
+     30,
+     "Noah Kruth",
+     "GK",
+     "GER"
+    ],
+    [
+     33,
+     "Leon Mergner",
+     "MF",
+     "GER"
+    ],
+    [
+     34,
+     "Leander Beimborn",
+     "DF",
+     "GER"
+    ],
+    [
+     34,
+     "Tarek Chahed",
+     "DF",
+     "GER"
+    ],
+    [
+     35,
+     "Magnus Baars",
+     "MF",
+     "GER"
+    ],
+    [
+     37,
+     "Kevin Manthey",
+     "MF",
+     "GER"
+    ],
+    [
+     38,
+     "Luka Hyryläinen",
+     "MF",
+     "FIN"
+    ],
+    [
+     39,
+     "Armin Sivic",
+     "FW",
+     "GER"
+    ],
+    [
+     40,
+     "Robert Kampa",
+     "GK",
+     "GER"
+    ]
+   ],
+   "extras": [
+    "Gnarka",
+    "Huganet",
+    "Krempicky",
+    "Herchel",
+    "Adu",
+    "Leipers",
+    "Brenig",
+    "Ghreb",
+    "Piciny",
+    "Leric",
+    "Cacutarua",
+    "Castagnos",
+    "Gaschwill",
+    "J.Lawlence"
+   ]
+  },
+  "Nurnberg": {
+   "tid": 20150,
+   "pairs": [
+    {
+     "real": "Jan Reichert",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Reicher",
+     "pid": 150871,
+     "jersey": 1,
+     "ovr": 70,
+     "sc": 0.933
+    },
+    {
+     "real": "Styopa Mkrtchyan",
+     "num": 5,
+     "pos": "DF",
+     "nat": "ARM",
+     "game": "Mkrtchan",
+     "pid": 137496,
+     "jersey": 44,
+     "ovr": 58,
+     "sc": 0.941
+    },
+    {
+     "real": "Julian Justvan",
+     "num": 10,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Justwan",
+     "pid": 119222,
+     "jersey": 10,
+     "ovr": 73,
+     "sc": 0.857
+    },
+    {
+     "real": "Christian Mathenia",
+     "num": 26,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "Mathenga",
+     "pid": 105177,
+     "jersey": 26,
+     "ovr": 70,
+     "sc": 0.875
+    },
+    {
+     "real": "Winners Osawe",
+     "num": 38,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Osawi",
+     "pid": 150881,
+     "jersey": 38,
+     "ovr": 57,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Alexis Kalogeropoulos",
+     "DF",
+     "GRE"
+    ],
+    [
+     6,
+     "Adam Markhiyev",
+     "MF",
+     "FIN"
+    ],
+    [
+     7,
+     "Rayan Ghrieb",
+     "FW",
+     "FRA"
+    ],
+    [
+     9,
+     "Sigurd Hauso Haugen",
+     "FW",
+     "NOR"
+    ],
+    [
+     13,
+     "Robin Lisewski",
+     "GK",
+     "POL"
+    ],
+    [
+     14,
+     "Andrea Ceresoli",
+     "DF",
+     "ITA"
+    ],
+    [
+     16,
+     "Marko Soldić",
+     "MF",
+     "GER"
+    ],
+    [
+     18,
+     "Rafael Lubach",
+     "MF",
+     "GER"
+    ],
+    [
+     19,
+     "Piet Scobel",
+     "FW",
+     "GER"
+    ],
+    [
+     20,
+     "Fynn Otto",
+     "DF",
+     "GER"
+    ],
+    [
+     21,
+     "Giannis Masouras",
+     "DF",
+     "GRE"
+    ],
+    [
+     22,
+     "Finn Ole Becker",
+     "MF",
+     "GER"
+    ],
+    [
+     23,
+     "Mohamed Ali Zoma",
+     "FW",
+     "ITA"
+    ],
+    [
+     28,
+     "Can Moustfa",
+     "FW",
+     "SYR"
+    ],
+    [
+     32,
+     "Tim Janisch",
+     "DF",
+     "GER"
+    ],
+    [
+     35,
+     "Marc Kornwachs Barjuan",
+     "MF",
+     "GER"
+    ],
+    [
+     36,
+     "Kristian Mandić",
+     "DF",
+     "CRO"
+    ],
+    [
+     39,
+     "Adriano Grimaldi",
+     "FW",
+     "GER"
+    ],
+    [
+     41,
+     "Eric Porstner",
+     "DF",
+     "GER"
+    ],
+    [
+     43,
+     "Tobias Heß",
+     "DF",
+     "GER"
+    ]
+   ],
+   "extras": [
+    "Yilmaz",
+    "Lochoshvli",
+    "R.Nzingoura",
+    "Janik",
+    "Koudessu",
+    "Lobak",
+    "Beckker",
+    "Sevik",
+    "Birone",
+    "Soales",
+    "Huffman",
+    "Valentin",
+    "Kukuk",
+    "Okunaki",
+    "Ortigal",
+    "Galler",
+    "Joachis",
+    "Grimardy",
+    "Sera",
+    "Buchmanns",
+    "Karafjat"
+   ]
+  },
+  "StPauli": {
+   "tid": 20337,
+   "pairs": [
+    {
+     "real": "David Nemeth",
+     "num": 4,
+     "pos": "DF",
+     "nat": "AUT",
+     "game": "Nemet",
+     "pid": 108640,
+     "jersey": 4,
+     "ovr": 65,
+     "sc": 0.909
+    },
+    {
+     "real": "Abdoulie Ceesay",
+     "num": 9,
+     "pos": "FW",
+     "nat": "GAM",
+     "game": "A.Cesay",
+     "pid": 172707,
+     "jersey": 9,
+     "ovr": 56,
+     "sc": 0.833
+    },
+    {
+     "real": "Arkadiusz Pyrka",
+     "num": 11,
+     "pos": "DF",
+     "nat": "POL",
+     "game": "Pyrkaa",
+     "pid": 172705,
+     "jersey": 11,
+     "ovr": 60,
+     "sc": 0.909
+    },
+    {
+     "real": "Joel Chima Fujita",
+     "num": 16,
+     "pos": "MF",
+     "nat": "JPN",
+     "game": "J.Fugita",
+     "pid": 145483,
+     "jersey": 16,
+     "ovr": 67,
+     "sc": 0.769
+    },
+    {
+     "real": "Taichi Hara",
+     "num": 18,
+     "pos": "FW",
+     "nat": "JPN",
+     "game": "Ara",
+     "pid": 107708,
+     "jersey": 18,
+     "ovr": 68,
+     "sc": 0.857
+    },
+    {
+     "real": "Martijn Kaars",
+     "num": 19,
+     "pos": "FW",
+     "nat": "NED",
+     "game": "M.Kars",
+     "pid": 172706,
+     "jersey": 19,
+     "ovr": 72,
+     "sc": 0.8
+    },
+    {
+     "real": "Mathias Rasmussen",
+     "num": 20,
+     "pos": "MF",
+     "nat": "NOR",
+     "game": "M.Rasmusson",
+     "pid": 145314,
+     "jersey": 20,
+     "ovr": 71,
+     "sc": 0.842
+    },
+    {
+     "real": "Lars Ritzka",
+     "num": 21,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Ritska",
+     "pid": 124017,
+     "jersey": 21,
+     "ovr": 62,
+     "sc": 0.833
+    },
+    {
+     "real": "Connor Metcalfe",
+     "num": 24,
+     "pos": "MF",
+     "nat": "AUS",
+     "game": "Metcalf",
+     "pid": 108654,
+     "jersey": 24,
+     "ovr": 71,
+     "sc": 0.933
+    },
+    {
+     "real": "Ricky-Jade Jones",
+     "num": 26,
+     "pos": "FW",
+     "nat": "ENG",
+     "game": "Jons",
+     "pid": 110021,
+     "jersey": 26,
+     "ovr": 70,
+     "sc": 0.889
+    },
+    {
+     "real": "Simon Spari",
+     "num": 30,
+     "pos": "GK",
+     "nat": "AUT",
+     "game": "Sparri",
+     "pid": 172703,
+     "jersey": 30,
+     "ovr": 64,
+     "sc": 0.909
+    },
+    {
+     "real": "Jannik Robatsch",
+     "num": 34,
+     "pos": "DF",
+     "nat": "AUT",
+     "game": "Robatche",
+     "pid": 172704,
+     "jersey": 34,
+     "ovr": 61,
+     "sc": 0.875
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Ben Voll",
+     "GK",
+     "GER"
+    ],
+    [
+     1,
+     "Niklas Petzsch",
+     "GK",
+     "GER"
+    ],
+    [
+     2,
+     "Luca Günther",
+     "DF",
+     "GER"
+    ],
+    [
+     2,
+     "Rony Jansson",
+     "DF",
+     "FIN"
+    ],
+    [
+     4,
+     "Jannik Westphal",
+     "DF",
+     "GER"
+    ],
+    [
+     5,
+     "Gísli Þórðarson",
+     "MF",
+     "ISL"
+    ],
+    [
+     5,
+     "Joris Bente",
+     "DF",
+     "GER"
+    ],
+    [
+     6,
+     "Joel Addo",
+     "DF",
+     "GER"
+    ],
+    [
+     6,
+     "Marcus Mathisen",
+     "DF",
+     "DEN"
+    ],
+    [
+     7,
+     "Haron Sabah",
+     "FW",
+     "GER"
+    ],
+    [
+     7,
+     "Romeo Aigbekaen",
+     "FW",
+     "GER"
+    ],
+    [
+     7,
+     "Youssoupha Niang",
+     "FW",
+     "GER"
+    ],
+    [
+     8,
+     "Eric Smith",
+     "MF",
+     "SWE"
+    ],
+    [
+     8,
+     "Mats Herrmann",
+     "MF",
+     "GER"
+    ],
+    [
+     9,
+     "Noah Palapies",
+     "FW",
+     "GER"
+    ],
+    [
+     10,
+     "Branimir Hrgota",
+     "FW",
+     "SWE"
+    ],
+    [
+     10,
+     "Noah Gumpert",
+     "MF",
+     "GER"
+    ],
+    [
+     14,
+     "Erik Ahlstrand",
+     "MF",
+     "SWE"
+    ],
+    [
+     14,
+     "Sisco Ngambia Dzonga",
+     "DF",
+     "GER"
+    ],
+    [
+     15,
+     "Fynn Braun",
+     "DF",
+     "GER"
+    ],
+    [
+     15,
+     "Tomoya Ando",
+     "DF",
+     "JPN"
+    ],
+    [
+     17,
+     "Mamadou Djalo",
+     "FW",
+     "GNB"
+    ],
+    [
+     17,
+     "Scott Banks",
+     "MF",
+     "SCO"
+    ],
+    [
+     18,
+     "Rawley St. John",
+     "MF",
+     "AUS"
+    ],
+    [
+     19,
+     "Jack Wardius",
+     "FW",
+     "GER"
+    ],
+    [
+     20,
+     "Wissou Kaba",
+     "FW",
+     "GER"
+    ],
+    [
+     21,
+     "Kenan Aydin",
+     "DF",
+     "GER"
+    ],
+    [
+     22,
+     "Abdul Alassani",
+     "MF",
+     "GER"
+    ],
+    [
+     22,
+     "Sam Klein",
+     "MF",
+     "AUS"
+    ],
+    [
+     23,
+     "Ammon Moser",
+     "DF",
+     "GER"
+    ],
+    [
+     23,
+     "Louis Oppie",
+     "DF",
+     "GER"
+    ],
+    [
+     24,
+     "Hendrik Wurr",
+     "DF",
+     "GER"
+    ],
+    [
+     25,
+     "Adam Dźwigała",
+     "DF",
+     "POL"
+    ],
+    [
+     27,
+     "Hugo Weber",
+     "MF",
+     "GER"
+    ],
+    [
+     28,
+     "Mathias Pereira Lage",
+     "MF",
+     "POR"
+    ],
+    [
+     29,
+     "Lucas Schulze",
+     "MF",
+     "GER"
+    ],
+    [
+     30,
+     "Nikky Goguadze",
+     "FW",
+     "NED"
+    ],
+    [
+     32,
+     "Anton Lange",
+     "DF",
+     "GER"
+    ],
+    [
+     33,
+     "Dimitar Mitov",
+     "GK",
+     "BUL"
+    ],
+    [
+     40,
+     "Theo Moerchen",
+     "GK",
+     "GER"
+    ],
+    [
+     42,
+     "Marwin Schmitz",
+     "MF",
+     "GER"
+    ],
+    [
+     44,
+     "Nick Schmidt",
+     "MF",
+     "JPN"
+    ]
+   ],
+   "extras": [
+    "Vasili",
+    "Meets",
+    "Smis",
+    "Wahr",
+    "Oppy",
+    "Irwin",
+    "Sandz",
+    "Salikas",
+    "Sinana",
+    "Darbigala",
+    "F.Steven",
+    "T.Anto",
+    "B.Vorl",
+    "E.Gezdoc",
+    "Huntongi",
+    "P.Rage",
+    "Hana",
+    "Sand"
+   ]
+  },
+  "Wolfsburg": {
+   "tid": 20133,
+   "pairs": [
+    {
+     "real": "Kilian Fischer",
+     "num": 2,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Fisher",
+     "pid": 117209,
+     "jersey": 2,
+     "ovr": 67,
+     "sc": 0.923
+    },
+    {
+     "real": "Bence Dárdai",
+     "num": 8,
+     "pos": "MF",
+     "nat": "HUN",
+     "game": "Dardai",
+     "pid": 119887,
+     "jersey": 8,
+     "ovr": 73,
+     "sc": 1.0
+    },
+    {
+     "real": "Pavao Pervan",
+     "num": 12,
+     "pos": "GK",
+     "nat": "AUT",
+     "game": "Pervano",
+     "pid": 101456,
+     "jersey": 12,
+     "ovr": 72,
+     "sc": 0.923
+    },
+    {
+     "real": "Rogério",
+     "num": 13,
+     "pos": "DF",
+     "nat": "BRA",
+     "game": "Rogerio",
+     "pid": 107598,
+     "jersey": 13,
+     "ovr": 70,
+     "sc": 1.0
+    },
+    {
+     "real": "Jonas Adjetey",
+     "num": 18,
+     "pos": "DF",
+     "nat": "GHA",
+     "game": "Adjatey",
+     "pid": 125408,
+     "jersey": 18,
+     "ovr": 70,
+     "sc": 0.857
+    },
+    {
+     "real": "Joakim Mæhle",
+     "num": 21,
+     "pos": "DF",
+     "nat": "DEN",
+     "game": "Mohle",
+     "pid": 100272,
+     "jersey": 21,
+     "ovr": 79,
+     "sc": 0.889
+    },
+    {
+     "real": "Aaron Zehnter",
+     "num": 25,
+     "pos": "DF",
+     "nat": "GER",
+     "game": "Zenter",
+     "pid": 152009,
+     "jersey": 25,
+     "ovr": 69,
+     "sc": 0.923
+    },
+    {
+     "real": "Yannick Gerhardt",
+     "num": 31,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Gerhart",
+     "pid": 104878,
+     "jersey": 31,
+     "ovr": 75,
+     "sc": 0.933
+    },
+    {
+     "real": "Mattias Svanberg",
+     "num": 32,
+     "pos": "MF",
+     "nat": "SWE",
+     "game": "Svenberg",
+     "pid": 100937,
+     "jersey": 32,
+     "ovr": 77,
+     "sc": 0.875
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Timon Wellenreuther",
+     "GK",
+     "GER"
+    ],
+    [
+     5,
+     "Vinícius Souza",
+     "MF",
+     "BRA"
+    ],
+    [
+     6,
+     "Hauke Wahl",
+     "DF",
+     "GER"
+    ],
+    [
+     7,
+     "Kento Shiogai",
+     "FW",
+     "JPN"
+    ],
+    [
+     10,
+     "Fraser Hornby",
+     "FW",
+     "SCO"
+    ],
+    [
+     11,
+     "Fabian Reese",
+     "FW",
+     "GER"
+    ],
+    [
+     14,
+     "Pharell Hensel",
+     "MF",
+     "GER"
+    ],
+    [
+     17,
+     "Alexander Bernhardsson",
+     "FW",
+     "SWE"
+    ],
+    [
+     19,
+     "Robert Glatzel",
+     "FW",
+     "GER"
+    ],
+    [
+     20,
+     "Muhammed Damar",
+     "MF",
+     "GER"
+    ],
+    [
+     22,
+     "Mathys Angély",
+     "DF",
+     "FRA"
+    ],
+    [
+     23,
+     "Alessio Besio",
+     "FW",
+     "SUI"
+    ],
+    [
+     26,
+     "Saël Kumbedi",
+     "DF",
+     "FRA"
+    ],
+    [
+     30,
+     "Jakub Zieliński",
+     "GK",
+     "POL"
+    ],
+    [
+     33,
+     "Cleiton",
+     "DF",
+     "BRA"
+    ],
+    [
+     36,
+     "Aster Vranckx",
+     "MF",
+     "BEL"
+    ],
+    [
+     37,
+     "Elvis Rexhbeçaj",
+     "MF",
+     "KOS"
+    ],
+    [
+     42,
+     "Bruno Katz",
+     "FW",
+     "FIN"
+    ],
+    [
+     43,
+     "Trevor Benedict",
+     "FW",
+     "GER"
+    ]
+   ],
+   "extras": [
+    "Grabarra",
+    "Jens",
+    "D.Wavro",
+    "Kumebo",
+    "Arnord",
+    "Ericsen",
+    "Mayer",
+    "Paredis",
+    "Wimmert",
+    "M.Amoula",
+    "Lindstrom",
+    "Winda",
+    "Clayten",
+    "Shion",
+    "P.Hencal",
+    "Serlt",
+    "K.Kourierakis",
+    "Pejchinovic",
+    "Dagim",
+    "Muller",
+    "Sousa",
+    "Berocian"
+   ]
+  }
+ },
+ "IT2": {
+  "Sudtirol": {
+   "tid": 20354,
+   "pairs": [],
+   "unmatched": [],
+   "extras": [
+    "Adamons",
+    "Zedidka",
+    "Vezeli",
+    "Kafler",
+    "El Kaoakibi",
+    "Morina",
+    "Arrigony",
+    "Cesiraghi",
+    "Tart",
+    "Pacorino",
+    "Markaj",
+    "Bordun",
+    "Martine",
+    "Malamo",
+    "Davin",
+    "Vimerkati",
+    "Odagwu",
+    "Dave",
+    "Craspi",
+    "Rottenstiner",
+    "Pietrangel",
+    "Thainer",
+    "Giargini",
+    "Poruzy",
+    "Verdy",
+    "Coulibary",
+    "Cargano",
+    "Cepitelly",
+    "Praserik",
+    "Cagno",
+    "Crnigoj",
+    "J.Kurtič",
+    "Masiel",
+    "Bareca"
+   ]
+  },
+  "Ascoli": {
+   "tid": 20345,
+   "pairs": [
+    {
+     "real": "Andrea Silipo",
+     "num": 7,
+     "pos": "FW",
+     "nat": "ITA",
+     "game": "Silipor",
+     "pid": 150983,
+     "jersey": 7,
+     "ovr": 60,
+     "sc": 0.923
+    },
+    {
+     "real": "Simone D'Uffizi",
+     "num": 15,
+     "pos": "FW",
+     "nat": "ITA",
+     "game": "D'Ufizi",
+     "pid": 123946,
+     "jersey": 15,
+     "ovr": 40,
+     "sc": 0.923
+    },
+    {
+     "real": "Manuel Alagna",
+     "num": 23,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Alagny",
+     "pid": 150974,
+     "jersey": 23,
+     "ovr": 61,
+     "sc": 0.833
+    },
+    {
+     "real": "Marcos Curado",
+     "num": 30,
+     "pos": "DF",
+     "nat": "ARG",
+     "game": "Curato",
+     "pid": 108981,
+     "jersey": 2,
+     "ovr": 69,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Samuele Vitale",
+     "GK",
+     "ITA"
+    ],
+    [
+     3,
+     "Manuel Nicoletti",
+     "DF",
+     "ITA"
+    ],
+    [
+     4,
+     "Samuele Damiani",
+     "MF",
+     "ITA"
+    ],
+    [
+     8,
+     "Giovanni Corradini",
+     "MF",
+     "ITA"
+    ],
+    [
+     9,
+     "Mohammed Chakir",
+     "FW",
+     "ITA"
+    ],
+    [
+     13,
+     "Gennaro Acampora",
+     "MF",
+     "ITA"
+    ],
+    [
+     16,
+     "Antonio Russo",
+     "MF",
+     "ITA"
+    ],
+    [
+     18,
+     "Luca Lo Scalzo",
+     "MF",
+     "ITA"
+    ],
+    [
+     19,
+     "Abdoul Guiebre",
+     "DF",
+     "BFA"
+    ],
+    [
+     27,
+     "Matteo Ricci",
+     "MF",
+     "ITA"
+    ],
+    [
+     32,
+     "Federico Gattoni",
+     "DF",
+     "ARG"
+    ],
+    [
+     33,
+     "Nicholas Rizzo",
+     "DF",
+     "ITA"
+    ],
+    [
+     35,
+     "Gabriele Gori",
+     "FW",
+     "ITA"
+    ],
+    [
+     41,
+     "Rok Bržan",
+     "GK",
+     "SVN"
+    ],
+    [
+     45,
+     "Gian Marco Crespi",
+     "GK",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Livery",
+    "Maurizi",
+    "Galyolo",
+    "Adjapang",
+    "Bertino",
+    "Silvestro",
+    "Varoni",
+    "Marsuri",
+    "Ashik",
+    "Corazzy",
+    "Bandu",
+    "Tirellan",
+    "Cozzolie",
+    "Campagano",
+    "Cosimo",
+    "Caccavon",
+    "Gagliardo",
+    "Piermarin",
+    "Abaty",
+    "Raffael",
+    "Miranese",
+    "Menan",
+    "Tasčar",
+    "Tranorada",
+    "Forter"
+   ]
+  },
+  "Benevento": {
+   "tid": 20093,
+   "pairs": [
+    {
+     "real": "Antonio Prisco",
+     "num": 4,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Prisko",
+     "pid": 152229,
+     "jersey": 4,
+     "ovr": 58,
+     "sc": 0.833
+    },
+    {
+     "real": "Davide Lamesta",
+     "num": 11,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Lametta",
+     "pid": 152231,
+     "jersey": 73,
+     "ovr": 63,
+     "sc": 0.857
+    },
+    {
+     "real": "Pier Luigi Simonetti",
+     "num": 18,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Simonati",
+     "pid": 125064,
+     "jersey": 18,
+     "ovr": 56,
+     "sc": 0.824
+    },
+    {
+     "real": "Angelo Talia",
+     "num": 38,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Tali",
+     "pid": 125060,
+     "jersey": 38,
+     "ovr": 56,
+     "sc": 0.889
+    }
+   ],
+   "unmatched": [
+    [
+     5,
+     "Luca Caldirola",
+     "DF",
+     "ITA"
+    ],
+    [
+     6,
+     "Antonis Siatounis",
+     "MF",
+     "GRE"
+    ],
+    [
+     8,
+     "Mattia Maita",
+     "MF",
+     "ITA"
+    ],
+    [
+     9,
+     "Francesco Salvemini",
+     "FW",
+     "ITA"
+    ],
+    [
+     13,
+     "Raffaele Celia",
+     "DF",
+     "ITA"
+    ],
+    [
+     14,
+     "Stefano Scognamillo",
+     "DF",
+     "ITA"
+    ],
+    [
+     15,
+     "Christian Dalle Mura",
+     "DF",
+     "ITA"
+    ],
+    [
+     17,
+     "Leonardo Sernicola",
+     "DF",
+     "ITA"
+    ],
+    [
+     19,
+     "Vincenzo Battista",
+     "FW",
+     "ITA"
+    ],
+    [
+     20,
+     "Pietro Beruatto",
+     "DF",
+     "ITA"
+    ],
+    [
+     21,
+     "Emanuele Schimmenti",
+     "FW",
+     "ITA"
+    ],
+    [
+     22,
+     "Manuel Esposito",
+     "GK",
+     "ITA"
+    ],
+    [
+     23,
+     "Pietro Saio",
+     "DF",
+     "ITA"
+    ],
+    [
+     25,
+     "Raffaele Romano",
+     "DF",
+     "ITA"
+    ],
+    [
+     26,
+     "Gianmarco Vannucchi",
+     "GK",
+     "ITA"
+    ],
+    [
+     28,
+     "Christian Kouan",
+     "MF",
+     "CIV"
+    ],
+    [
+     29,
+     "David Okereke",
+     "FW",
+     "NGR"
+    ],
+    [
+     30,
+     "Logan",
+     "FW",
+     "BRA"
+    ],
+    [
+     31,
+     "Giacomo Ricci",
+     "DF",
+     "ITA"
+    ],
+    [
+     32,
+     "Guglielmo Mignani",
+     "FW",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Manfrediny",
+    "Viscarty",
+    "Toca",
+    "Bera",
+    "Ukhedda",
+    "Virviany",
+    "Borero",
+    "Stareta",
+    "Mancani",
+    "Lukateli",
+    "Agazzy",
+    "Narde",
+    "Pinarto",
+    "Meccariella",
+    "Lariny",
+    "Caperlny",
+    "Carfara",
+    "Perlenger",
+    "Acanpora",
+    "Senna",
+    "Avola",
+    "Veltori",
+    "Ferara",
+    "Ciurlio"
+   ]
+  },
+  "Carrarese": {
+   "tid": 20411,
+   "pairs": [
+    {
+     "real": "Colin Dagba",
+     "num": 2,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Olina",
+     "pid": 151953,
+     "jersey": 6,
+     "ovr": 60,
+     "sc": 0.8
+    },
+    {
+     "real": "Niccolò Belloni",
+     "num": 7,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Bellony",
+     "pid": 110171,
+     "jersey": 7,
+     "ovr": 66,
+     "sc": 0.857
+    },
+    {
+     "real": "Fabio Abiuso",
+     "num": 9,
+     "pos": "FW",
+     "nat": "ITA",
+     "game": "Abiusa",
+     "pid": 150615,
+     "jersey": 9,
+     "ovr": 67,
+     "sc": 0.833
+    },
+    {
+     "real": "Fabio Andrea Ruggeri",
+     "num": 13,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Ruggero",
+     "pid": 151006,
+     "jersey": 26,
+     "ovr": 65,
+     "sc": 0.857
+    },
+    {
+     "real": "Nicolás Schiavi",
+     "num": 18,
+     "pos": "MF",
+     "nat": "ARG",
+     "game": "Schavi",
+     "pid": 110146,
+     "jersey": 18,
+     "ovr": 71,
+     "sc": 0.923
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "David Vujević",
+     "DF",
+     "CRO"
+    ],
+    [
+     6,
+     "Filippo Oliana",
+     "DF",
+     "ITA"
+    ],
+    [
+     8,
+     "Yanis Khafi",
+     "MF",
+     "MAR"
+    ],
+    [
+     12,
+     "Giovanni Garofani",
+     "GK",
+     "ITA"
+    ],
+    [
+     23,
+     "Matthias Braunöder",
+     "MF",
+     "AUT"
+    ],
+    [
+     27,
+     "Giulio Cianti",
+     "DF",
+     "ITA"
+    ],
+    [
+     28,
+     "Jacopo Martini",
+     "MF",
+     "ITA"
+    ],
+    [
+     30,
+     "Nicola Ravaglia",
+     "GK",
+     "ITA"
+    ],
+    [
+     32,
+     "Mattia Finotto",
+     "FW",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Brebe",
+    "Illanez",
+    "Imperiare",
+    "Capporalo",
+    "Haza",
+    "Zaelli",
+    "Zanan",
+    "Valco",
+    "Balah",
+    "Roui",
+    "Mazini",
+    "Torregrosa",
+    "Capezey",
+    "Palmiari",
+    "Accornera",
+    "Grasiny",
+    "Hermansson",
+    "Caperro",
+    "Distafano",
+    "Fiolilro",
+    "Malese",
+    "Marisa",
+    "Chiara",
+    "Meregony",
+    "Panyko",
+    "B.Saramon",
+    "Finley",
+    "Cabion",
+    "Sekurov",
+    "Lordkipani"
+   ]
+  },
+  "Catanzaro": {
+   "tid": 20414,
+   "pairs": [
+    {
+     "real": "Matias Antonini",
+     "num": 4,
+     "pos": "DF",
+     "nat": "BRA",
+     "game": "Antonin",
+     "pid": 150764,
+     "jersey": 4,
+     "ovr": 62,
+     "sc": 0.933
+    },
+    {
+     "real": "Jacopo Petriccione",
+     "num": 10,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Petricione",
+     "pid": 104322,
+     "jersey": 10,
+     "ovr": 70,
+     "sc": 0.952
+    },
+    {
+     "real": "N'dri Philippe Koffi",
+     "num": 19,
+     "pos": "FW",
+     "nat": "CIV",
+     "game": "Koffy",
+     "pid": 119531,
+     "jersey": 39,
+     "ovr": 61,
+     "sc": 0.8
+    },
+    {
+     "real": "Mirko Pigliacelli",
+     "num": 22,
+     "pos": "GK",
+     "nat": "ITA",
+     "game": "Pigriacely",
+     "pid": 108778,
+     "jersey": 22,
+     "ovr": 72,
+     "sc": 0.762
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Christian Marietta",
+     "GK",
+     "ITA"
+    ],
+    [
+     3,
+     "Marco Imperiale",
+     "DF",
+     "ITA"
+    ],
+    [
+     6,
+     "Niccolò Postiglione",
+     "DF",
+     "ITA"
+    ],
+    [
+     7,
+     "Nicolò Buso",
+     "MF",
+     "ITA"
+    ],
+    [
+     14,
+     "Samuel Giovane",
+     "MF",
+     "ITA"
+    ],
+    [
+     18,
+     "Alejo Garnica",
+     "FW",
+     "ARG"
+    ],
+    [
+     25,
+     "Franck Tchaouna",
+     "FW",
+     "CHA"
+    ],
+    [
+     26,
+     "Bruno Verrengia",
+     "DF",
+     "ITA"
+    ],
+    [
+     28,
+     "Franky Tchaouna",
+     "MF",
+     "CHA"
+    ],
+    [
+     29,
+     "Federico Di Francesco",
+     "FW",
+     "ITA"
+    ],
+    [
+     30,
+     "Gabriele Alesi",
+     "MF",
+     "ITA"
+    ],
+    [
+     31,
+     "Emanuele Pecorino",
+     "FW",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Brighenty",
+    "T.Casandro",
+    "D'Alesandro",
+    "Di Fransisco",
+    "Pontizzo",
+    "Favasali",
+    "Iemmerro",
+    "Pitarelo",
+    "Seick",
+    "Cissy",
+    "Rafel",
+    "LaManty",
+    "Situm",
+    "Borelli",
+    "Ouding",
+    "Scognamiro",
+    "Biascy",
+    "Volp",
+    "Pirras",
+    "Nuama",
+    "Bugrio",
+    "Pandorfy",
+    "Briccola",
+    "DiChiary",
+    "Cerisoli",
+    "Pompetty",
+    "Diny",
+    "Bettela",
+    "Buzo",
+    "Maiola",
+    "Esterves",
+    "Brite",
+    "F.Jack",
+    "Turikia"
+   ]
+  },
+  "Cremonese": {
+   "tid": 20368,
+   "pairs": [
+    {
+     "real": "Morten Thorsby",
+     "num": 2,
+     "pos": "MF",
+     "nat": "NOR",
+     "game": "Torsby",
+     "pid": 101416,
+     "jersey": 2,
+     "ovr": 74,
+     "sc": 0.923
+    },
+    {
+     "real": "Giuseppe Pezzella",
+     "num": 3,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Pezeya",
+     "pid": 107678,
+     "jersey": 3,
+     "ovr": 74,
+     "sc": 0.714
+    },
+    {
+     "real": "Tommaso Barbieri",
+     "num": 4,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Barbiari",
+     "pid": 124560,
+     "jersey": 4,
+     "ovr": 68,
+     "sc": 0.875
+    },
+    {
+     "real": "Sebastiano Luperto",
+     "num": 5,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Lupirdo",
+     "pid": 107615,
+     "jersey": 5,
+     "ovr": 75,
+     "sc": 0.714
+    },
+    {
+     "real": "Federico Baschirotto",
+     "num": 6,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Baschroto",
+     "pid": 109286,
+     "jersey": 6,
+     "ovr": 70,
+     "sc": 0.9
+    },
+    {
+     "real": "Matteo Bianchetti",
+     "num": 15,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Bianchety",
+     "pid": 109266,
+     "jersey": 15,
+     "ovr": 71,
+     "sc": 0.842
+    },
+    {
+     "real": "Michele Collocolo",
+     "num": 18,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Collocoro",
+     "pid": 108824,
+     "jersey": 18,
+     "ovr": 70,
+     "sc": 0.889
+    },
+    {
+     "real": "Jari Vandeputte",
+     "num": 27,
+     "pos": "MF",
+     "nat": "BEL",
+     "game": "Vandepute",
+     "pid": 110209,
+     "jersey": 27,
+     "ovr": 70,
+     "sc": 0.947
+    },
+    {
+     "real": "Alberto Grassi",
+     "num": 33,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Grasy",
+     "pid": 104308,
+     "jersey": 33,
+     "ovr": 68,
+     "sc": 0.727
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Andrea Fulignati",
+     "GK",
+     "ITA"
+    ],
+    [
+     7,
+     "David Stückler",
+     "FW",
+     "DEN"
+    ],
+    [
+     8,
+     "Simone Lottici Tessadri",
+     "MF",
+     "ITA"
+    ],
+    [
+     9,
+     "Manuel De Luca",
+     "FW",
+     "ITA"
+    ],
+    [
+     11,
+     "Milan Đurić",
+     "FW",
+     "BIH"
+    ],
+    [
+     12,
+     "Marco Festa",
+     "GK",
+     "ITA"
+    ],
+    [
+     14,
+     "Tommaso Berti",
+     "MF",
+     "ITA"
+    ],
+    [
+     16,
+     "Fabio Gerli",
+     "DF",
+     "ITA"
+    ],
+    [
+     17,
+     "Adrian Lickūnas",
+     "FW",
+     "LTU"
+    ],
+    [
+     19,
+     "Marco Nasti",
+     "FW",
+     "ITA"
+    ],
+    [
+     20,
+     "Simone Pontisso",
+     "MF",
+     "ITA"
+    ],
+    [
+     21,
+     "Yuri Rocchetti",
+     "DF",
+     "ITA"
+    ],
+    [
+     22,
+     "Federico Agazzi",
+     "GK",
+     "ITA"
+    ],
+    [
+     25,
+     "Dachi Lordkipanidze",
+     "MF",
+     "GEO"
+    ],
+    [
+     38,
+     "Alessandro Vogliacco",
+     "DF",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Audro",
+    "Teraciano",
+    "Bongdo",
+    "Pallero",
+    "Vardi",
+    "Bonasoly",
+    "Maleq",
+    "L.Naava",
+    "D.Okerek",
+    "Djulic",
+    "Shilvestry",
+    "Musolini",
+    "Follino",
+    "F.Moumbagna",
+    "Ceccheriny",
+    "T.Sanabry",
+    "Serbin",
+    "Fae"
+   ]
+  },
+  "Empoli": {
+   "tid": 20090,
+   "pairs": [
+    {
+     "real": "Samuele Perisan",
+     "num": 1,
+     "pos": "GK",
+     "nat": "ITA",
+     "game": "Perizan",
+     "pid": 111182,
+     "jersey": 1,
+     "ovr": 74,
+     "sc": 0.857
+    },
+    {
+     "real": "Simone Romagnoli",
+     "num": 6,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Romanaoli",
+     "pid": 104176,
+     "jersey": 4,
+     "ovr": 66,
+     "sc": 0.889
+    },
+    {
+     "real": "Luca Magnino",
+     "num": 8,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Megrino",
+     "pid": 108975,
+     "jersey": 8,
+     "ovr": 69,
+     "sc": 0.714
+    },
+    {
+     "real": "Stiven Shpendi",
+     "num": 11,
+     "pos": "FW",
+     "nat": "ALB",
+     "game": "Shpendy",
+     "pid": 123501,
+     "jersey": 11,
+     "ovr": 60,
+     "sc": 0.857
+    },
+    {
+     "real": "Gerard Yepes",
+     "num": 21,
+     "pos": "MF",
+     "nat": "ESP",
+     "game": "Iepes",
+     "pid": 111199,
+     "jersey": 14,
+     "ovr": 68,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     5,
+     "Duccio Degli Innocenti",
+     "MF",
+     "ITA"
+    ],
+    [
+     10,
+     "Edoardo Saporiti",
+     "FW",
+     "ITA"
+    ],
+    [
+     12,
+     "Jacopo Seghetti",
+     "GK",
+     "ITA"
+    ],
+    [
+     13,
+     "Emiliano Filippis",
+     "GK",
+     "ITA"
+    ],
+    [
+     15,
+     "Joseph Ceesay",
+     "MF",
+     "GAM"
+    ],
+    [
+     17,
+     "Salvatore Monaco",
+     "FW",
+     "ITA"
+    ],
+    [
+     20,
+     "Filippo Distefano",
+     "FW",
+     "ITA"
+    ],
+    [
+     23,
+     "Filippo Bandinelli",
+     "MF",
+     "ITA"
+    ],
+    [
+     25,
+     "Marco Curto",
+     "DF",
+     "ITA"
+    ],
+    [
+     28,
+     "Gabriele Indragoli",
+     "DF",
+     "ITA"
+    ],
+    [
+     33,
+     "Cristian Cauz",
+     "DF",
+     "ITA"
+    ],
+    [
+     35,
+     "Matteo Egan",
+     "MF",
+     "IRL"
+    ],
+    [
+     39,
+     "Edoardo Biondini",
+     "MF",
+     "ITA"
+    ],
+    [
+     40,
+     "Roberto Berizzi",
+     "DF",
+     "ITA"
+    ],
+    [
+     45,
+     "Andrea Orlandi",
+     "MF",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Furignaty",
+    "S.Eria",
+    "Obarettin",
+    "Garino",
+    "Lovarto",
+    "Candera",
+    "Ghon",
+    "Ignacchit",
+    "Pellegry",
+    "Sanbia",
+    "Bienchy",
+    "Gario",
+    "Culdo",
+    "Ebueki",
+    "Hars",
+    "DeScigrio",
+    "Nasty",
+    "Degli Inocenti",
+    "Ilya"
+   ]
+  },
+  "Verona": {
+   "tid": 20094,
+   "pairs": [
+    {
+     "real": "Andrias Edmundsson",
+     "num": 5,
+     "pos": "DF",
+     "nat": "FRO",
+     "game": "Edmundson",
+     "pid": 137595,
+     "jersey": 5,
+     "ovr": 65,
+     "sc": 0.947
+    },
+    {
+     "real": "Domagoj Bradarić",
+     "num": 6,
+     "pos": "DF",
+     "nat": "CRO",
+     "game": "Bradaric",
+     "pid": 106815,
+     "jersey": 12,
+     "ovr": 69,
+     "sc": 1.0
+    },
+    {
+     "real": "Suat Serdar",
+     "num": 8,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "Sardar",
+     "pid": 104932,
+     "jersey": 8,
+     "ovr": 76,
+     "sc": 0.833
+    },
+    {
+     "real": "Amin Sarr",
+     "num": 9,
+     "pos": "FW",
+     "nat": "SWE",
+     "game": "Sar",
+     "pid": 117259,
+     "jersey": 9,
+     "ovr": 65,
+     "sc": 0.857
+    },
+    {
+     "real": "Tomáš Suslov",
+     "num": 10,
+     "pos": "MF",
+     "nat": "SVK",
+     "game": "Susrov",
+     "pid": 106556,
+     "jersey": 31,
+     "ovr": 67,
+     "sc": 0.833
+    },
+    {
+     "real": "Abdou Harroui",
+     "num": 21,
+     "pos": "MF",
+     "nat": "MAR",
+     "game": "Harrowi",
+     "pid": 106592,
+     "jersey": 21,
+     "ovr": 71,
+     "sc": 0.857
+    },
+    {
+     "real": "Giacomo Toniolo",
+     "num": 22,
+     "pos": "GK",
+     "nat": "ITA",
+     "game": "Tonyolo",
+     "pid": 172623,
+     "jersey": 94,
+     "ovr": 63,
+     "sc": 0.857
+    },
+    {
+     "real": "Antoine Bernède",
+     "num": 24,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Bernade",
+     "pid": 172627,
+     "jersey": 24,
+     "ovr": 70,
+     "sc": 0.857
+    },
+    {
+     "real": "Daniel Mosquera",
+     "num": 25,
+     "pos": "FW",
+     "nat": "COL",
+     "game": "Mosquira",
+     "pid": 150272,
+     "jersey": 25,
+     "ovr": 64,
+     "sc": 0.875
+    },
+    {
+     "real": "Tobias Slotsager",
+     "num": 28,
+     "pos": "DF",
+     "nat": "DEN",
+     "game": "Slotesager",
+     "pid": 172624,
+     "jersey": 19,
+     "ovr": 68,
+     "sc": 0.947
+    },
+    {
+     "real": "Simone Perilli",
+     "num": 34,
+     "pos": "GK",
+     "nat": "ITA",
+     "game": "Perilly",
+     "pid": 123257,
+     "jersey": 34,
+     "ovr": 64,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Nicola Leali",
+     "GK",
+     "ITA"
+    ],
+    [
+     3,
+     "Martin Frese",
+     "DF",
+     "DEN"
+    ],
+    [
+     14,
+     "Dailon Livramento",
+     "FW",
+     "CPV"
+    ],
+    [
+     18,
+     "Leorat Bega",
+     "MF",
+     "SUI"
+    ],
+    [
+     20,
+     "Grigoris Kastanos",
+     "MF",
+     "CYP"
+    ],
+    [
+     23,
+     "Nunzio Lella",
+     "MF",
+     "ITA"
+    ],
+    [
+     27,
+     "Paweł Dawidowicz",
+     "MF",
+     "POL"
+    ],
+    [
+     33,
+     "Noé Maël Tagne",
+     "DF",
+     "FRA"
+    ],
+    [
+     35,
+     "Salvatore Cerbone",
+     "FW",
+     "ITA"
+    ],
+    [
+     37,
+     "Nicolò Calabrese",
+     "DF",
+     "ITA"
+    ],
+    [
+     38,
+     "Ruben Akalé",
+     "FW",
+     "FRA"
+    ],
+    [
+     44,
+     "Edoardo Iannoni",
+     "MF",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Montipor",
+    "Bela Kotchap",
+    "Nelson",
+    "R.Berghali",
+    "Galiardiny",
+    "Nyass",
+    "G.Olban",
+    "AkpaAkpre",
+    "Al Black",
+    "Boey",
+    "Oyegok",
+    "Lovris",
+    "Lovren",
+    "Valentin",
+    "Isak",
+    "Freza",
+    "Ajai",
+    "Rirora",
+    "F.Chamu"
+   ]
+  },
+  "Modena": {
+   "tid": 20352,
+   "pairs": [
+    {
+     "real": "Leandro Chichizola",
+     "num": 1,
+     "pos": "GK",
+     "nat": "ARG",
+     "game": "Chichisola",
+     "pid": 107675,
+     "jersey": 1,
+     "ovr": 71,
+     "sc": 0.9
+    },
+    {
+     "real": "Alessandro Sersanti",
+     "num": 5,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Sersantino",
+     "pid": 150991,
+     "jersey": 5,
+     "ovr": 68,
+     "sc": 0.889
+    },
+    {
+     "real": "Francesco Zampano",
+     "num": 7,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Sampano",
+     "pid": 107652,
+     "jersey": 7,
+     "ovr": 64,
+     "sc": 0.857
+    },
+    {
+     "real": "Simone Santoro",
+     "num": 8,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Sandoro",
+     "pid": 108995,
+     "jersey": 8,
+     "ovr": 73,
+     "sc": 0.857
+    },
+    {
+     "real": "Bryant Nieling",
+     "num": 20,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "Nielson",
+     "pid": 153149,
+     "jersey": 20,
+     "ovr": 70,
+     "sc": 0.714
+    }
+   ],
+   "unmatched": [
+    [
+     9,
+     "Daniele Montevago",
+     "FW",
+     "ITA"
+    ],
+    [
+     10,
+     "Giuseppe Caso",
+     "MF",
+     "ITA"
+    ],
+    [
+     11,
+     "Andrea Belotti",
+     "FW",
+     "ITA"
+    ],
+    [
+     12,
+     "Andrea Maran",
+     "GK",
+     "ITA"
+    ],
+    [
+     14,
+     "Tito Fabbri",
+     "MF",
+     "ITA"
+    ],
+    [
+     15,
+     "Martino Odero",
+     "DF",
+     "ITA"
+    ],
+    [
+     16,
+     "Gastón Brugman",
+     "MF",
+     "URU"
+    ],
+    [
+     17,
+     "Kleis Bozhanaj",
+     "MF",
+     "ALB"
+    ],
+    [
+     18,
+     "Joris Manquant",
+     "FW",
+     "FRA"
+    ],
+    [
+     19,
+     "Steven Nador",
+     "DF",
+     "TOG"
+    ],
+    [
+     22,
+     "Leonardo Consiglio",
+     "GK",
+     "ITA"
+    ],
+    [
+     25,
+     "Abdullah Laidani",
+     "GK",
+     "SUI"
+    ],
+    [
+     26,
+     "Antonio Imputato",
+     "MF",
+     "ITA"
+    ],
+    [
+     27,
+     "Paulo Azzi",
+     "MF",
+     "BRA"
+    ],
+    [
+     28,
+     "Davide Adorni",
+     "DF",
+     "ITA"
+    ],
+    [
+     29,
+     "Luca Bacchin",
+     "FW",
+     "ITA"
+    ],
+    [
+     33,
+     "Stênio",
+     "FW",
+     "BRA"
+    ],
+    [
+     34,
+     "Diego Ronco",
+     "DF",
+     "ITA"
+    ],
+    [
+     37,
+     "Treasure Egharevba",
+     "DF",
+     "ITA"
+    ],
+    [
+     42,
+     "Alessandro Bianco",
+     "MF",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Saro",
+    "Caldala",
+    "Zarimacchia",
+    "Garly",
+    "Y.Massorin",
+    "Mendez",
+    "DeRucca",
+    "Bageria",
+    "Dallavalle",
+    "Beyukuo",
+    "Defrer",
+    "Boteghin",
+    "Caus",
+    "Dusa",
+    "Batistella",
+    "Persy",
+    "Ambrasino",
+    "Olivae",
+    "DiMaliano",
+    "Perglefy",
+    "Pyhtiä",
+    "Cotary",
+    "Grozzy",
+    "Gaggna",
+    "Albertie",
+    "Sasi"
+   ]
+  },
+  "Palermo": {
+   "tid": 20343,
+   "pairs": [
+    {
+     "real": "Tommaso Augello",
+     "num": 3,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Augero",
+     "pid": 107563,
+     "jersey": 3,
+     "ovr": 70,
+     "sc": 0.769
+    },
+    {
+     "real": "Antonio Palumbo",
+     "num": 5,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Palunbo",
+     "pid": 108946,
+     "jersey": 5,
+     "ovr": 74,
+     "sc": 0.857
+    },
+    {
+     "real": "Claudio Gomes",
+     "num": 6,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Gomez",
+     "pid": 117594,
+     "jersey": 6,
+     "ovr": 75,
+     "sc": 0.8
+    },
+    {
+     "real": "Jacopo Segre",
+     "num": 8,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Sergre",
+     "pid": 117595,
+     "jersey": 8,
+     "ovr": 75,
+     "sc": 0.909
+    },
+    {
+     "real": "Filippo Ranocchia",
+     "num": 10,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Ranoqia",
+     "pid": 109309,
+     "jersey": 10,
+     "ovr": 70,
+     "sc": 0.75
+    },
+    {
+     "real": "Emanuel Gyasi",
+     "num": 11,
+     "pos": "MF",
+     "nat": "GHA",
+     "game": "Gyasy",
+     "pid": 100401,
+     "jersey": 11,
+     "ovr": 74,
+     "sc": 0.8
+    },
+    {
+     "real": "Manfredi Nespola",
+     "num": 12,
+     "pos": "GK",
+     "nat": "ITA",
+     "game": "Naspola",
+     "pid": 151700,
+     "jersey": 12,
+     "ovr": 61,
+     "sc": 0.857
+    },
+    {
+     "real": "Mattia Bani",
+     "num": 13,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Bany",
+     "pid": 104108,
+     "jersey": 13,
+     "ovr": 75,
+     "sc": 0.75
+    },
+    {
+     "real": "Joel Pohjanpalo",
+     "num": 20,
+     "pos": "FW",
+     "nat": "FIN",
+     "game": "Pohjanpulo",
+     "pid": 104829,
+     "jersey": 20,
+     "ovr": 76,
+     "sc": 0.9
+    },
+    {
+     "real": "Niccolò Pierozzi",
+     "num": 27,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Pierozy",
+     "pid": 108793,
+     "jersey": 27,
+     "ovr": 70,
+     "sc": 0.8
+    },
+    {
+     "real": "Patryk Peda",
+     "num": 29,
+     "pos": "DF",
+     "nat": "POL",
+     "game": "Pedae",
+     "pid": 151702,
+     "jersey": 29,
+     "ovr": 70,
+     "sc": 0.889
+    },
+    {
+     "real": "Pietro Ceccaroni",
+     "num": 32,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Ceccarony",
+     "pid": 104346,
+     "jersey": 32,
+     "ovr": 75,
+     "sc": 0.889
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Mattia Perin",
+     "GK",
+     "ITA"
+    ],
+    [
+     7,
+     "Gabriel Strefezza",
+     "MF",
+     "BRA"
+    ],
+    [
+     17,
+     "Dennis Johnsen",
+     "FW",
+     "NOR"
+    ],
+    [
+     23,
+     "Hernani",
+     "MF",
+     "BRA"
+    ],
+    [
+     24,
+     "Nahuel Estévez",
+     "MF",
+     "ARG"
+    ],
+    [
+     36,
+     "Luca Mazzitelli",
+     "MF",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Joronen",
+    "Beresynski",
+    "LeDouron",
+    "Avela",
+    "Gomiz",
+    "Saric",
+    "Brin",
+    "Basic",
+    "Insiner",
+    "Nedercearu",
+    "Butalo",
+    "Verali",
+    "Modest",
+    "Yonsen",
+    "Desplanes",
+    "Apuah",
+    "Bardy",
+    "Diakite",
+    "Magnany",
+    "Siligur",
+    "Veree",
+    "Di Bartal",
+    "Giovanne"
+   ]
+  },
+  "Pisa": {
+   "tid": 20350,
+   "pairs": [
+    {
+     "real": "Simone Scuffet",
+     "num": 1,
+     "pos": "GK",
+     "nat": "ITA",
+     "game": "Schuffet",
+     "pid": 104156,
+     "jersey": 22,
+     "ovr": 75,
+     "sc": 0.933
+    },
+    {
+     "real": "Rosen Bozhinov",
+     "num": 2,
+     "pos": "DF",
+     "nat": "BUL",
+     "game": "R.Boshinov",
+     "pid": 145326,
+     "jersey": 2,
+     "ovr": 65,
+     "sc": 0.824
+    },
+    {
+     "real": "Samuele Angori",
+     "num": 3,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Angory",
+     "pid": 108993,
+     "jersey": 3,
+     "ovr": 69,
+     "sc": 0.833
+    },
+    {
+     "real": "Simone Canestrelli",
+     "num": 5,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Canestrely",
+     "pid": 108930,
+     "jersey": 5,
+     "ovr": 67,
+     "sc": 0.857
+    },
+    {
+     "real": "Mehdi Léris",
+     "num": 7,
+     "pos": "MF",
+     "nat": "ALG",
+     "game": "Leris",
+     "pid": 111200,
+     "jersey": 7,
+     "ovr": 68,
+     "sc": 1.0
+    },
+    {
+     "real": "Mattéo Tramoni",
+     "num": 10,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Tramony",
+     "pid": 107609,
+     "jersey": 10,
+     "ovr": 70,
+     "sc": 0.857
+    },
+    {
+     "real": "İsak Vural",
+     "num": 21,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "İ.Vurar",
+     "pid": 133138,
+     "jersey": 21,
+     "ovr": 60,
+     "sc": 0.727
+    },
+    {
+     "real": "Leonardo Loria",
+     "num": 22,
+     "pos": "GK",
+     "nat": "ITA",
+     "game": "Loran",
+     "pid": 150277,
+     "jersey": 99,
+     "ovr": 61,
+     "sc": 0.8
+    },
+    {
+     "real": "Francesco Coppola",
+     "num": 26,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Copola",
+     "pid": 172640,
+     "jersey": 26,
+     "ovr": 60,
+     "sc": 0.923
+    },
+    {
+     "real": "Stefano Moreo",
+     "num": 32,
+     "pos": "FW",
+     "nat": "ITA",
+     "game": "Moore",
+     "pid": 104181,
+     "jersey": 32,
+     "ovr": 70,
+     "sc": 0.8
+    },
+    {
+     "real": "Arturo Calabresi",
+     "num": 33,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Carabresy",
+     "pid": 108933,
+     "jersey": 33,
+     "ovr": 66,
+     "sc": 0.778
+    },
+    {
+     "real": "Gabriele Piccinini",
+     "num": 36,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Picinini",
+     "pid": 124562,
+     "jersey": 36,
+     "ovr": 68,
+     "sc": 0.941
+    },
+    {
+     "real": "Daniel Denoon",
+     "num": 44,
+     "pos": "DF",
+     "nat": "SUI",
+     "game": "D.Denon",
+     "pid": 172641,
+     "jersey": 44,
+     "ovr": 56,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Antonio Caracciolo",
+     "DF",
+     "ITA"
+    ],
+    [
+     8,
+     "Filippo Pittarello",
+     "FW",
+     "ITA"
+    ],
+    [
+     11,
+     "Ichem Ferrah",
+     "FW",
+     "FRA"
+    ],
+    [
+     13,
+     "Andrea Primasso",
+     "DF",
+     "ITA"
+    ],
+    [
+     14,
+     "Felipe Loyola",
+     "MF",
+     "CHI"
+    ],
+    [
+     16,
+     "Louis Buffon",
+     "FW",
+     "CZE"
+    ],
+    [
+     19,
+     "Tomás Esteves",
+     "MF",
+     "POR"
+    ],
+    [
+     23,
+     "Tommaso Marras",
+     "FW",
+     "ITA"
+    ],
+    [
+     29,
+     "Omar Correia",
+     "MF",
+     "FRA"
+    ],
+    [
+     37,
+     "Andrea Petagna",
+     "FW",
+     "ITA"
+    ]
+   ],
+   "extras": [
+    "Semper",
+    "Caraxiro",
+    "Ebischer",
+    "Malin",
+    "Toure",
+    "Meistor",
+    "Nicolas",
+    "Quadrado",
+    "Durosini",
+    "Høholt",
+    "F.Luyolo",
+    "Strengs",
+    "R.Arbior",
+    "Stoiljkovic",
+    "Akinsamiro"
+   ]
+  },
+  "Sampdoria": {
+   "tid": 20095,
+   "pairs": [
+    {
+     "real": "Mattia Viti",
+     "num": 2,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Vitali",
+     "pid": 150776,
+     "jersey": 26,
+     "ovr": 54,
+     "sc": 0.8
+    },
+    {
+     "real": "Liam Henderson",
+     "num": 6,
+     "pos": "MF",
+     "nat": "SCO",
+     "game": "Hendeson",
+     "pid": 107555,
+     "jersey": 16,
+     "ovr": 71,
+     "sc": 0.941
+    },
+    {
+     "real": "Tjaš Begić",
+     "num": 11,
+     "pos": "FW",
+     "nat": "SVN",
+     "game": "Vegic",
+     "pid": 110140,
+     "jersey": 11,
+     "ovr": 62,
+     "sc": 0.8
+    },
+    {
+     "real": "Fabio Depaoli",
+     "num": 23,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Depauri",
+     "pid": 111203,
+     "jersey": 23,
+     "ovr": 72,
+     "sc": 0.714
+    },
+    {
+     "real": "Alex Ferrari",
+     "num": 25,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Ferary",
+     "pid": 111197,
+     "jersey": 25,
+     "ovr": 69,
+     "sc": 0.769
+    },
+    {
+     "real": "Oliver Abildgaard",
+     "num": 28,
+     "pos": "MF",
+     "nat": "DEN",
+     "game": "Abildgard",
+     "pid": 117225,
+     "jersey": 28,
+     "ovr": 67,
+     "sc": 0.947
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Stefan Gartenmann",
+     "DF",
+     "SUI"
+    ],
+    [
+     5,
+     "Bjorn Meijer",
+     "DF",
+     "NED"
+    ],
+    [
+     7,
+     "Manuel Cicconi",
+     "MF",
+     "ITA"
+    ],
+    [
+     9,
+     "Tobias Lauritsen",
+     "FW",
+     "NOR"
+    ],
+    [
+     10,
+     "Lorenzo Insigne",
+     "FW",
+     "ITA"
+    ],
+    [
+     12,
+     "Andrey Krastev",
+     "GK",
+     "BUL"
+    ],
+    [
+     13,
+     "Luca Ravanelli",
+     "DF",
+     "ITA"
+    ],
+    [
+     14,
+     "Yann Karamoh",
+     "FW",
+     "FRA"
+    ],
+    [
+     16,
+     "Yari Verschaeren",
+     "MF",
+     "BEL"
+    ],
+    [
+     18,
+     "Nikola Sekulov",
+     "MF",
+     "ITA"
+    ],
+    [
+     20,
+     "Danel Sinani",
+     "MF",
+     "LUX"
+    ],
+    [
+     29,
+     "Alessandro Di Pardo",
+     "DF",
+     "ITA"
+    ],
+    [
+     33,
+     "Francesco Conti",
+     "MF",
+     "ITA"
+    ],
+    [
+     38,
+     "Karim Diop",
+     "DF",
+     "ITA"
+    ],
+    [
+     39,
+     "Lorenzo Mezzotero",
+     "FW",
+     "AZE"
+    ],
+    [
+     43,
+     "Kevin Mbabu",
+     "DF",
+     "SUI"
+    ]
+   ],
+   "extras": [
+    "Martirelli",
+    "Virdi",
+    "Hadzikadunic",
+    "Cissony",
+    "Espozito",
+    "DiPaldo",
+    "Pieriny",
+    "Bruno",
+    "Vismar",
+    "Palmo",
+    "Girely",
+    "Gurmina",
+    "Venti",
+    "Kasarmy",
+    "Naro",
+    "Corta",
+    "Couke",
+    "Sorery",
+    "Ravagria",
+    "Pafundy",
+    "Benedetty",
+    "Tudino",
+    "Riqi",
+    "Sibilry",
+    "Ioanou",
+    "Boriny",
+    "Ferry",
+    "Cherian",
+    "Ghdorty",
+    "Valikić",
+    "Balak",
+    "Giordaro",
+    "Ricio"
+   ]
+  },
+  "Vicenza": {
+   "tid": 20410,
+   "pairs": [
+    {
+     "real": "Maxime Leverbe",
+     "num": 6,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Laverbe",
+     "pid": 124559,
+     "jersey": 89,
+     "ovr": 63,
+     "sc": 0.857
+    },
+    {
+     "real": "Nicola Rauti",
+     "num": 7,
+     "pos": "FW",
+     "nat": "ITA",
+     "game": "Rati",
+     "pid": 125745,
+     "jersey": 31,
+     "ovr": 59,
+     "sc": 0.889
+    },
+    {
+     "real": "Thomas Sandon",
+     "num": 27,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Sardon",
+     "pid": 110136,
+     "jersey": 73,
+     "ovr": 54,
+     "sc": 0.833
+    },
+    {
+     "real": "Raul Talarico",
+     "num": 44,
+     "pos": "MF",
+     "nat": "ITA",
+     "game": "Talarica",
+     "pid": 125623,
+     "jersey": 44,
+     "ovr": 54,
+     "sc": 0.875
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Fabrizio Bagheria",
+     "GK",
+     "ITA"
+    ],
+    [
+     4,
+     "Marco Carraro",
+     "MF",
+     "ITA"
+    ],
+    [
+     5,
+     "Riccardo Marchizza",
+     "DF",
+     "ITA"
+    ],
+    [
+     8,
+     "Alessandro Bellemo",
+     "MF",
+     "ITA"
+    ],
+    [
+     9,
+     "Claudio Morra",
+     "FW",
+     "ITA"
+    ],
+    [
+     10,
+     "Mattia Valoti",
+     "MF",
+     "ITA"
+    ],
+    [
+     11,
+     "Gabriele Moncini",
+     "FW",
+     "ITA"
+    ],
+    [
+     14,
+     "Giuseppe Cuomo",
+     "DF",
+     "ITA"
+    ],
+    [
+     16,
+     "Riccardo Gagno",
+     "GK",
+     "ITA"
+    ],
+    [
+     23,
+     "Nicolò Brighenti",
+     "DF",
+     "ITA"
+    ],
+    [
+     24,
+     "Filippo Alessio",
+     "FW",
+     "ITA"
+    ],
+    [
+     26,
+     "Giulio Pellizzari",
+     "MF",
+     "ITA"
+    ],
+    [
+     28,
+     "Lorenzo Caferri",
+     "DF",
+     "ITA"
+    ],
+    [
+     29,
+     "Loris Zonta",
+     "MF",
+     "ITA"
+    ],
+    [
+     30,
+     "Matteo Vescovi",
+     "DF",
+     "ITA"
+    ],
+    [
+     32,
+     "Filippo Costa",
+     "DF",
+     "ITA"
+    ],
+    [
+     33,
+     "Silvio Merkaj",
+     "FW",
+     "ALB"
+    ]
+   ],
+   "extras": [
+    "Confenta",
+    "Ierardy",
+    "Goremis",
+    "Laeza",
+    "Cozta",
+    "Ronardo",
+    "Preia",
+    "Lata",
+    "Ross",
+    "Ferrary",
+    "Pellegri",
+    "Greko",
+    "Massonor",
+    "Pasiny",
+    "Variety",
+    "Rolfiny",
+    "Tranchin",
+    "Jiménes",
+    "Curmore",
+    "Marte",
+    "De Mao",
+    "Scarzella",
+    "Catardy",
+    "DeKor"
+   ]
+  }
+ },
+ "FR2": {
+  "Annecy": {
+   "tid": 20374,
+   "pairs": [
+    {
+     "real": "Florian Escales",
+     "num": 1,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Ecales",
+     "pid": 109403,
+     "jersey": 1,
+     "ovr": 68,
+     "sc": 0.923
+    },
+    {
+     "real": "Ahmed Kashi",
+     "num": 5,
+     "pos": "MF",
+     "nat": "ALG",
+     "game": "Kashee",
+     "pid": 109407,
+     "jersey": 5,
+     "ovr": 59,
+     "sc": 0.727
+    },
+    {
+     "real": "François Lajugie",
+     "num": 6,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Laugie",
+     "pid": 109404,
+     "jersey": 6,
+     "ovr": 61,
+     "sc": 0.923
+    },
+    {
+     "real": "Thomas Callens",
+     "num": 16,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Calens",
+     "pid": 103853,
+     "jersey": 16,
+     "ovr": 66,
+     "sc": 0.923
+    },
+    {
+     "real": "Clément Billemaz",
+     "num": 22,
+     "pos": "FW",
+     "nat": "FRA",
+     "game": "Bilemaz",
+     "pid": 109420,
+     "jersey": 22,
+     "ovr": 52,
+     "sc": 0.933
+    },
+    {
+     "real": "Antoine Larose",
+     "num": 28,
+     "pos": "FW",
+     "nat": "FRA",
+     "game": "Laroze",
+     "pid": 119862,
+     "jersey": 28,
+     "ovr": 65,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Sacha Lima",
+     "DF",
+     "FRA"
+    ],
+    [
+     7,
+     "Alan Mondesir",
+     "FW",
+     "FRA"
+    ],
+    [
+     8,
+     "Alexis Casadei",
+     "MF",
+     "FRA"
+    ],
+    [
+     9,
+     "Thibault Rambaud",
+     "FW",
+     "FRA"
+    ],
+    [
+     11,
+     "Souleymane Fofana",
+     "MF",
+     "CIV"
+    ],
+    [
+     14,
+     "Mohamed Koné",
+     "MF",
+     "CIV"
+    ],
+    [
+     15,
+     "Pascal Mozie",
+     "MF",
+     "POL"
+    ],
+    [
+     19,
+     "Kilyan Jusseron-Veniere",
+     "MF",
+     "FRA"
+    ],
+    [
+     20,
+     "Adam Yahi",
+     "FW",
+     "FRA"
+    ],
+    [
+     21,
+     "Esteban Marre",
+     "DF",
+     "FRA"
+    ],
+    [
+     23,
+     "Mattéo Veillon",
+     "DF",
+     "FRA"
+    ],
+    [
+     24,
+     "Nolan Ferro",
+     "MF",
+     "FRA"
+    ],
+    [
+     25,
+     "Paul Venot",
+     "MF",
+     "FRA"
+    ],
+    [
+     26,
+     "Jonathan Do Marcolino",
+     "DF",
+     "GAB"
+    ],
+    [
+     27,
+     "Julien Kouadio",
+     "DF",
+     "CTA"
+    ],
+    [
+     30,
+     "Matéo Gonzalez",
+     "GK",
+     "FRA"
+    ],
+    [
+     32,
+     "David Oduro",
+     "DF",
+     "GHA"
+    ],
+    [
+     34,
+     "Esteban Riou",
+     "DF",
+     "FRA"
+    ],
+    [
+     41,
+     "Thibault Delphis",
+     "DF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Koulan",
+    "Droulan",
+    "Delfan",
+    "V.Pajote",
+    "Jakob",
+    "Dione",
+    "Djoko",
+    "N'Sakara",
+    "Vallen",
+    "K.Cise",
+    "Tialebégo",
+    "A.Rodríguez",
+    "Soukounat",
+    "Makutunu",
+    "Toura",
+    "Ntigne",
+    "Malac",
+    "Lemna"
+   ]
+  },
+  "Clermont": {
+   "tid": 20066,
+   "pairs": [
+    {
+     "real": "El Hadj Koné",
+     "num": 6,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Konate",
+     "pid": 123643,
+     "jersey": 15,
+     "ovr": 66,
+     "sc": 0.8
+    },
+    {
+     "real": "Maïdine Douane",
+     "num": 11,
+     "pos": "FW",
+     "nat": "ALG",
+     "game": "Doane",
+     "pid": 117496,
+     "jersey": 11,
+     "ovr": 62,
+     "sc": 0.909
+    },
+    {
+     "real": "Vital Nsimba",
+     "num": 12,
+     "pos": "DF",
+     "nat": "COD",
+     "game": "Nsinba",
+     "pid": 119137,
+     "jersey": 12,
+     "ovr": 63,
+     "sc": 0.833
+    },
+    {
+     "real": "Massamba Ndiaye",
+     "num": 16,
+     "pos": "GK",
+     "nat": "SEN",
+     "game": "Ndaye",
+     "pid": 109194,
+     "jersey": 1,
+     "ovr": 71,
+     "sc": 0.909
+    },
+    {
+     "real": "Ousmane Diop",
+     "num": 17,
+     "pos": "FW",
+     "nat": "SEN",
+     "game": "Diopa",
+     "pid": 151546,
+     "jersey": 17,
+     "ovr": 54,
+     "sc": 0.889
+    },
+    {
+     "real": "Mohamed-Amine Bouchenna",
+     "num": 19,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Bouchnna",
+     "pid": 151547,
+     "jersey": 19,
+     "ovr": 45,
+     "sc": 0.941
+    },
+    {
+     "real": "Yoann Salmier",
+     "num": 21,
+     "pos": "DF",
+     "nat": "GUF",
+     "game": "Salmiel",
+     "pid": 103924,
+     "jersey": 21,
+     "ovr": 68,
+     "sc": 0.857
+    },
+    {
+     "real": "Adrien Hunou",
+     "num": 23,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Huno",
+     "pid": 111320,
+     "jersey": 23,
+     "ovr": 65,
+     "sc": 0.889
+    },
+    {
+     "real": "Ivan M'Bahia",
+     "num": 28,
+     "pos": "DF",
+     "nat": "CIV",
+     "game": "M'Baya",
+     "pid": 151542,
+     "jersey": 28,
+     "ovr": 59,
+     "sc": 0.727
+    },
+    {
+     "real": "Théo Guivarch",
+     "num": 30,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Guivart",
+     "pid": 151540,
+     "jersey": 30,
+     "ovr": 67,
+     "sc": 0.8
+    },
+    {
+     "real": "Allan Ackra",
+     "num": 44,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Ackla",
+     "pid": 119526,
+     "jersey": 44,
+     "ovr": 59,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Abdellah Baallal",
+     "MF",
+     "MAR"
+    ],
+    [
+     3,
+     "Andy Pelmard",
+     "DF",
+     "MAD"
+    ],
+    [
+     4,
+     "Ethan Kena Kabeya",
+     "DF",
+     "COD"
+    ],
+    [
+     5,
+     "Jean Grillot",
+     "MF",
+     "FRA"
+    ],
+    [
+     8,
+     "Yuliwes Bellache",
+     "MF",
+     "ALG"
+    ],
+    [
+     9,
+     "Luís Semedo",
+     "FW",
+     "POR"
+    ],
+    [
+     10,
+     "Junior Sambia",
+     "MF",
+     "CTA"
+    ],
+    [
+     13,
+     "Julien Astic",
+     "MF",
+     "FRA"
+    ],
+    [
+     18,
+     "Noam Strotz",
+     "MF",
+     "FRA"
+    ],
+    [
+     26,
+     "Rominigue Kouamé",
+     "MF",
+     "MLI"
+    ],
+    [
+     29,
+     "Arthur Saintorens",
+     "FW",
+     "FRA"
+    ],
+    [
+     39,
+     "Jean Nyindong Tsamouna",
+     "FW",
+     "FRA"
+    ],
+    [
+     45,
+     "Matys Donavin",
+     "DF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Bodo",
+    "Torraine",
+    "Jastien",
+    "Magning",
+    "Fakily",
+    "Cambran",
+    "Banba",
+    "Diedou",
+    "M.Guido",
+    "Gnaliga",
+    "Saad",
+    "Caufries",
+    "Toru",
+    "Mwimba Esala",
+    "Inchaude",
+    "Diagoraga",
+    "Sayvet",
+    "Borny",
+    "O.Dhoco",
+    "Maurel",
+    "Armogom",
+    "Sou"
+   ]
+  },
+  "Dijon": {
+   "tid": 20073,
+   "pairs": [
+    {
+     "real": "Quentin Bernard",
+     "num": 5,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Bernarde",
+     "pid": 124503,
+     "jersey": 5,
+     "ovr": 63,
+     "sc": 0.933
+    },
+    {
+     "real": "Ben-Chayeel Hamada",
+     "num": 7,
+     "pos": "MF",
+     "nat": "COM",
+     "game": "Hamadah",
+     "pid": 151252,
+     "jersey": 7,
+     "ovr": 50,
+     "sc": 0.923
+    },
+    {
+     "real": "Júlio Tavares",
+     "num": 11,
+     "pos": "FW",
+     "nat": "CPV",
+     "game": "J.Tavarez",
+     "pid": 122284,
+     "jersey": 11,
+     "ovr": 59,
+     "sc": 0.8
+    },
+    {
+     "real": "Jordan Marié",
+     "num": 14,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Marie",
+     "pid": 103960,
+     "jersey": 14,
+     "ovr": 71,
+     "sc": 1.0
+    },
+    {
+     "real": "Paul Delecroix",
+     "num": 16,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Dalecroix",
+     "pid": 124500,
+     "jersey": 16,
+     "ovr": 65,
+     "sc": 0.889
+    },
+    {
+     "real": "Adel Lembezat",
+     "num": 17,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Lembizat",
+     "pid": 151253,
+     "jersey": 11,
+     "ovr": 52,
+     "sc": 0.875
+    },
+    {
+     "real": "Hugo Vargas-Rios",
+     "num": 20,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Vargas-Rio",
+     "pid": 151248,
+     "jersey": 20,
+     "ovr": 63,
+     "sc": 0.947
+    },
+    {
+     "real": "Abdelmajid Djae",
+     "num": 37,
+     "pos": "FW",
+     "nat": "COM",
+     "game": "Djea",
+     "pid": 151255,
+     "jersey": 37,
+     "ovr": 52,
+     "sc": 0.75
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Mickaël Barreto",
+     "MF",
+     "FRA"
+    ],
+    [
+     6,
+     "Waly Diouf",
+     "DF",
+     "SEN"
+    ],
+    [
+     8,
+     "Paul Bellon",
+     "MF",
+     "FRA"
+    ],
+    [
+     9,
+     "Tyris Dong",
+     "FW",
+     "FRA"
+    ],
+    [
+     10,
+     "Yanis Barka",
+     "FW",
+     "FRA"
+    ],
+    [
+     15,
+     "Axel Bargain",
+     "DF",
+     "FRA"
+    ],
+    [
+     18,
+     "Brandon Ndezi",
+     "MF",
+     "DRC"
+    ],
+    [
+     19,
+     "César Obongo",
+     "DF",
+     "FRA"
+    ],
+    [
+     21,
+     "Samy Chouchane",
+     "MF",
+     "TUN"
+    ],
+    [
+     23,
+     "Lenny Lacroix",
+     "DF",
+     "FRA"
+    ],
+    [
+     29,
+     "Alexis Ntamack",
+     "FW",
+     "FRA"
+    ],
+    [
+     30,
+     "Hatem Mimoune",
+     "MF",
+     "FRA"
+    ],
+    [
+     31,
+     "Moussa Faty",
+     "DF",
+     "FRA"
+    ],
+    [
+     33,
+     "Florian Rombogouera",
+     "FW",
+     "FRA"
+    ],
+    [
+     42,
+     "Ylan Aka",
+     "FW",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Schul",
+    "Cisse",
+    "Titeba",
+    "Souci",
+    "Chalid",
+    "N'Choby",
+    "Diala",
+    "Mocoa",
+    "Syla",
+    "Mendez",
+    "Meier",
+    "Posson",
+    "Ben Fredy",
+    "Mortfond"
+   ]
+  },
+  "Dunkerque": {
+   "tid": 20416,
+   "pairs": [
+    {
+     "real": "Bram Lagae",
+     "num": 4,
+     "pos": "DF",
+     "nat": "BEL",
+     "game": "B.Ragae",
+     "pid": 145458,
+     "jersey": 4,
+     "ovr": 52,
+     "sc": 0.8
+    },
+    {
+     "real": "Victor Mayela",
+     "num": 22,
+     "pos": "DF",
+     "nat": "COD",
+     "game": "Maylena",
+     "pid": 151259,
+     "jersey": 22,
+     "ovr": 57,
+     "sc": 0.769
+    },
+    {
+     "real": "Opa Sanganté",
+     "num": 26,
+     "pos": "DF",
+     "nat": "GNB",
+     "game": "Sangante",
+     "pid": 110372,
+     "jersey": 26,
+     "ovr": 63,
+     "sc": 1.0
+    },
+    {
+     "real": "Abner Felipe",
+     "num": 30,
+     "pos": "DF",
+     "nat": "BRA",
+     "game": "Abnar",
+     "pid": 151481,
+     "jersey": 30,
+     "ovr": 65,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     6,
+     "Jordan Morel",
+     "MF",
+     "FRA"
+    ],
+    [
+     9,
+     "Gaëtan Robail",
+     "FW",
+     "FRA"
+    ],
+    [
+     10,
+     "Adrien Lebeau",
+     "MF",
+     "FRA"
+    ],
+    [
+     11,
+     "Yegor Prutsev",
+     "MF",
+     "RUS"
+    ],
+    [
+     15,
+     "Steven Nzonzi",
+     "MF",
+     "FRA"
+    ],
+    [
+     16,
+     "Maxence Prévot",
+     "GK",
+     "FRA"
+    ],
+    [
+     17,
+     "Pape Malick Dieng",
+     "FW",
+     "SEN"
+    ],
+    [
+     18,
+     "Théna Massock",
+     "MF",
+     "FRA"
+    ],
+    [
+     19,
+     "Souleymane Keita",
+     "FW",
+     "FRA"
+    ],
+    [
+     21,
+     "Lenny Dziki Loussilaho",
+     "DF",
+     "CGO"
+    ],
+    [
+     23,
+     "Arthylio Nadé",
+     "FW",
+     "CIV"
+    ],
+    [
+     24,
+     "Lenny Vallier",
+     "DF",
+     "FRA"
+    ],
+    [
+     27,
+     "Allan Linguet",
+     "DF",
+     "FRA"
+    ],
+    [
+     36,
+     "Mouhamed Sissokho",
+     "GK",
+     "SEN"
+    ],
+    [
+     42,
+     "Maedine Makhloufi",
+     "DF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Kone",
+    "Saso",
+    "George",
+    "Dion",
+    "Bal",
+    "Bardely",
+    "Sekou",
+    "Essam",
+    "Robinot",
+    "N.Foltuna",
+    "Laveen",
+    "Bessia",
+    "Bokel",
+    "Silvestr",
+    "Courte",
+    "Dahor",
+    "Yousouf",
+    "Ducet",
+    "Bamou",
+    "Pirtu",
+    "Sennovile",
+    "Lingay",
+    "Ewaras"
+   ]
+  },
+  "Grenoble": {
+   "tid": 20360,
+   "pairs": [
+    {
+     "real": "Moussa Djitté",
+     "num": 2,
+     "pos": "FW",
+     "nat": "SEN",
+     "game": "Djitta",
+     "pid": 123992,
+     "jersey": 3,
+     "ovr": 59,
+     "sc": 0.833
+    },
+    {
+     "real": "Clément Vidal",
+     "num": 5,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Vidar",
+     "pid": 109395,
+     "jersey": 5,
+     "ovr": 64,
+     "sc": 0.8
+    },
+    {
+     "real": "Baptiste Mouazan",
+     "num": 10,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Mouazin",
+     "pid": 110317,
+     "jersey": 15,
+     "ovr": 64,
+     "sc": 0.857
+    },
+    {
+     "real": "Mamady Bangré",
+     "num": 11,
+     "pos": "FW",
+     "nat": "BFA",
+     "game": "Bangre",
+     "pid": 109160,
+     "jersey": 11,
+     "ovr": 67,
+     "sc": 1.0
+    },
+    {
+     "real": "Ugo Bonnet",
+     "num": 12,
+     "pos": "FW",
+     "nat": "FRA",
+     "game": "Bonet",
+     "pid": 109094,
+     "jersey": 14,
+     "ovr": 61,
+     "sc": 0.909
+    },
+    {
+     "real": "Bobby Allain",
+     "num": 16,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Allin",
+     "pid": 124415,
+     "jersey": 16,
+     "ovr": 64,
+     "sc": 0.909
+    },
+    {
+     "real": "Ange-Loïc N'Gatta",
+     "num": 22,
+     "pos": "DF",
+     "nat": "CIV",
+     "game": "N'Gattin",
+     "pid": 150341,
+     "jersey": 22,
+     "ovr": 51,
+     "sc": 0.769
+    },
+    {
+     "real": "Matthéo Xantippe",
+     "num": 27,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Xantipe",
+     "pid": 124416,
+     "jersey": 27,
+     "ovr": 55,
+     "sc": 0.933
+    },
+    {
+     "real": "Mohamed Bechikh",
+     "num": 37,
+     "pos": "FW",
+     "nat": "FRA",
+     "game": "Bechik",
+     "pid": 150104,
+     "jersey": 37,
+     "ovr": 48,
+     "sc": 0.923
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Alexandre Olliero",
+     "GK",
+     "FRA"
+    ],
+    [
+     3,
+     "Farouq Limouri",
+     "DF",
+     "NED"
+    ],
+    [
+     6,
+     "Yohann Magnin",
+     "MF",
+     "FRA"
+    ],
+    [
+     8,
+     "Lucas Bernadou",
+     "MF",
+     "FRA"
+    ],
+    [
+     9,
+     "Arthur Lallias",
+     "FW",
+     "FRA"
+    ],
+    [
+     14,
+     "Mael Corboz",
+     "MF",
+     "USA"
+    ],
+    [
+     17,
+     "Leonardo Cerri",
+     "FW",
+     "ITA"
+    ],
+    [
+     19,
+     "Nesta Zahui",
+     "DF",
+     "FRA"
+    ],
+    [
+     23,
+     "Dillon Hoogewerf",
+     "FW",
+     "NED"
+    ],
+    [
+     25,
+     "Théo Borne",
+     "GK",
+     "FRA"
+    ],
+    [
+     30,
+     "Samba Lélé Diba",
+     "MF",
+     "SEN"
+    ],
+    [
+     34,
+     "Zé Leite",
+     "FW",
+     "POR"
+    ],
+    [
+     43,
+     "Aurélien Pelon",
+     "DF",
+     "FRA"
+    ],
+    [
+     44,
+     "Owen Martinez-Jullien",
+     "MF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Diopp",
+    "Mouyokoro",
+    "Pakes",
+    "Deros",
+    "Valla",
+    "Bennet",
+    "Diabé",
+    "Saricaya",
+    "Yamiogo",
+    "Mbenba",
+    "Nestol",
+    "Pattiel",
+    "Tourey",
+    "Tchaptcher",
+    "Diara",
+    "Kerouadan",
+    "Mendi",
+    "Mamvo",
+    "Riga",
+    "Mbcork",
+    "Jaseph"
+   ]
+  },
+  "Guingamp": {
+   "tid": 20355,
+   "pairs": [
+    {
+     "real": "Teddy Bartouche",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GLP",
+     "game": "Bartouche-Salbonne",
+     "pid": 123839,
+     "jersey": 1,
+     "ovr": 64,
+     "sc": 0.78
+    },
+    {
+     "real": "Erwin Koffi",
+     "num": 2,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Kofi",
+     "pid": 109187,
+     "jersey": 2,
+     "ovr": 56,
+     "sc": 0.889
+    },
+    {
+     "real": "Dylan Louiserre",
+     "num": 4,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Louisere",
+     "pid": 109023,
+     "jersey": 4,
+     "ovr": 66,
+     "sc": 0.941
+    },
+    {
+     "real": "Donatien Gomis",
+     "num": 7,
+     "pos": "DF",
+     "nat": "SEN",
+     "game": "D.Gomiz",
+     "pid": 109020,
+     "jersey": 7,
+     "ovr": 50,
+     "sc": 0.727
+    },
+    {
+     "real": "Amine Hemia",
+     "num": 10,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Hemie",
+     "pid": 110346,
+     "jersey": 3,
+     "ovr": 70,
+     "sc": 0.8
+    },
+    {
+     "real": "Adrián Ortolá",
+     "num": 16,
+     "pos": "GK",
+     "nat": "ESP",
+     "game": "Ortolan",
+     "pid": 151479,
+     "jersey": 16,
+     "ovr": 71,
+     "sc": 0.923
+    },
+    {
+     "real": "Noah Marec",
+     "num": 40,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Marek",
+     "pid": 151464,
+     "jersey": 40,
+     "ovr": 62,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Jérémie Matumona",
+     "DF",
+     "FRA"
+    ],
+    [
+     5,
+     "Tuomas Ollila",
+     "DF",
+     "FIN"
+    ],
+    [
+     6,
+     "Darly Nlandu",
+     "MF",
+     "FRA"
+    ],
+    [
+     8,
+     "Florent Sanchez Da Silva",
+     "MF",
+     "FRA"
+    ],
+    [
+     11,
+     "Teddy Averlant",
+     "FW",
+     "GAB"
+    ],
+    [
+     17,
+     "Amadou Samoura",
+     "FW",
+     "FRA"
+    ],
+    [
+     18,
+     "Stanislas Kielt",
+     "FW",
+     "FRA"
+    ],
+    [
+     20,
+     "Samir Ben Brahim",
+     "MF",
+     "FRA"
+    ],
+    [
+     21,
+     "Tanguy Ahile",
+     "MF",
+     "FRA"
+    ],
+    [
+     22,
+     "Brandon Bokangu",
+     "FW",
+     "COD"
+    ],
+    [
+     23,
+     "Jasser Chamakh",
+     "MF",
+     "FRA"
+    ],
+    [
+     24,
+     "Jeovanni Dianganga",
+     "DF",
+     "BEL"
+    ],
+    [
+     25,
+     "Tom Ducrocq",
+     "MF",
+     "FRA"
+    ],
+    [
+     30,
+     "Gautier Ott",
+     "FW",
+     "FRA"
+    ],
+    [
+     31,
+     "Joël Matondo",
+     "MF",
+     "FRA"
+    ],
+    [
+     32,
+     "Ibrahima Diakité",
+     "DF",
+     "FRA"
+    ],
+    [
+     35,
+     "Nathan Fondja",
+     "DF",
+     "FRA"
+    ],
+    [
+     36,
+     "Albin Demouchy",
+     "DF",
+     "FRA"
+    ],
+    [
+     39,
+     "Vimoj Muntu Wa Mungu",
+     "DF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Aballa",
+    "Nazir",
+    "Cissoko",
+    "Sidibe",
+    "Sania",
+    "Mafota",
+    "Labear",
+    "Phoenix",
+    "Melvin",
+    "Lavambo",
+    "Ndor",
+    "Damoncy",
+    "Nyass",
+    "Sive",
+    "Mbenba",
+    "Phira",
+    "Gunther"
+   ]
+  },
+  "Laval": {
+   "tid": 20357,
+   "pairs": [
+    {
+     "real": "Maxime Hautbois",
+     "num": 1,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Haulboys",
+     "pid": 109374,
+     "jersey": 1,
+     "ovr": 64,
+     "sc": 0.75
+    },
+    {
+     "real": "William Bianda",
+     "num": 3,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Bienda",
+     "pid": 151265,
+     "jersey": 3,
+     "ovr": 61,
+     "sc": 0.833
+    },
+    {
+     "real": "Julien Maggiotti",
+     "num": 5,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Maggioti",
+     "pid": 109371,
+     "jersey": 28,
+     "ovr": 65,
+     "sc": 0.941
+    },
+    {
+     "real": "Sam Sanna",
+     "num": 6,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Sana",
+     "pid": 104007,
+     "jersey": 6,
+     "ovr": 64,
+     "sc": 0.889
+    },
+    {
+     "real": "Trévis Dago",
+     "num": 11,
+     "pos": "FW",
+     "nat": "FRA",
+     "game": "Dargo",
+     "pid": 151981,
+     "jersey": 11,
+     "ovr": 58,
+     "sc": 0.889
+    },
+    {
+     "real": "Mattéo Commaret",
+     "num": 12,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Commarat",
+     "pid": 124485,
+     "jersey": 12,
+     "ovr": 51,
+     "sc": 0.875
+    },
+    {
+     "real": "Cyril Mandouki",
+     "num": 14,
+     "pos": "MF",
+     "nat": "MTQ",
+     "game": "Mandouky",
+     "pid": 109079,
+     "jersey": 14,
+     "ovr": 65,
+     "sc": 0.875
+    },
+    {
+     "real": "Mamadou Samassa",
+     "num": 30,
+     "pos": "GK",
+     "nat": "MLI",
+     "game": "Samasa",
+     "pid": 124545,
+     "jersey": 30,
+     "ovr": 69,
+     "sc": 0.923
+    }
+   ],
+   "unmatched": [
+    [
+     7,
+     "Chafik Gourichy",
+     "MF",
+     "FRA"
+    ],
+    [
+     8,
+     "Teddy Bouriaud",
+     "MF",
+     "FRA"
+    ],
+    [
+     13,
+     "Francis Coquelin",
+     "MF",
+     "FRA"
+    ],
+    [
+     17,
+     "Corentin Fatou",
+     "FW",
+     "FRA"
+    ],
+    [
+     18,
+     "Aboubacar Lô",
+     "DF",
+     "SEN"
+    ],
+    [
+     20,
+     "Ethan Clavreul",
+     "MF",
+     "FRA"
+    ],
+    [
+     21,
+     "Alessio Beaudouin",
+     "MF",
+     "FRA"
+    ],
+    [
+     22,
+     "Jules Gaudin",
+     "DF",
+     "FRA"
+    ],
+    [
+     23,
+     "Esteban Mouton",
+     "DF",
+     "FRA"
+    ],
+    [
+     24,
+     "Sidi Bane",
+     "DF",
+     "SEN"
+    ],
+    [
+     26,
+     "Hermann Esmel",
+     "MF",
+     "FRA"
+    ],
+    [
+     27,
+     "Alpha Diallo",
+     "MF",
+     "FRA"
+    ],
+    [
+     28,
+     "Aboubakary Kanté",
+     "FW",
+     "GAM"
+    ],
+    [
+     29,
+     "Mamadou Sidibé",
+     "DF",
+     "GUI"
+    ],
+    [
+     31,
+     "Mathys Houdayer",
+     "FW",
+     "FRA"
+    ],
+    [
+     32,
+     "Yanis Court",
+     "MF",
+     "FRA"
+    ],
+    [
+     35,
+     "Layousse Samb",
+     "DF",
+     "SEN"
+    ]
+   ],
+   "extras": [
+    "Roie",
+    "Ouane",
+    "Bargas",
+    "Camara",
+    "M.Serouki",
+    "Tchokonte",
+    "Kouassy",
+    "Nazeih",
+    "Adileh",
+    "Martens",
+    "Zohy",
+    "Seidon",
+    "Arad",
+    "Mady",
+    "Tavales",
+    "Gonzalves",
+    "Tel",
+    "Thomaz",
+    "Mapemba",
+    "Adeoti",
+    "Pellenald"
+   ]
+  },
+  "Metz": {
+   "tid": 20068,
+   "pairs": [
+    {
+     "real": "Maxime Colin",
+     "num": 2,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Colyn",
+     "pid": 108165,
+     "jersey": 2,
+     "ovr": 67,
+     "sc": 0.8
+    },
+    {
+     "real": "Urie-Michel Mboula",
+     "num": 4,
+     "pos": "DF",
+     "nat": "GAB",
+     "game": "Mbula",
+     "pid": 172553,
+     "jersey": 4,
+     "ovr": 60,
+     "sc": 0.909
+    },
+    {
+     "real": "Jessy Deminguet",
+     "num": 8,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Deminguet",
+     "pid": 103941,
+     "jersey": 20,
+     "ovr": 69,
+     "sc": 1.0
+    },
+    {
+     "real": "Giorgi Abuashvili",
+     "num": 9,
+     "pos": "FW",
+     "nat": "GEO",
+     "game": "Abuashivili",
+     "pid": 172554,
+     "jersey": 9,
+     "ovr": 55,
+     "sc": 0.952
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Jonathan Fischer",
+     "GK",
+     "DEN"
+    ],
+    [
+     3,
+     "Florian Miguel",
+     "DF",
+     "FRA"
+    ],
+    [
+     5,
+     "Jean Ruiz",
+     "DF",
+     "FRA"
+    ],
+    [
+     6,
+     "Nampalys Mendy",
+     "MF",
+     "SEN"
+    ],
+    [
+     7,
+     "Ibou Sané",
+     "FW",
+     "SEN"
+    ],
+    [
+     10,
+     "Téji Savanier",
+     "MF",
+     "FRA"
+    ],
+    [
+     11,
+     "Pape Moussa Fall",
+     "FW",
+     "SEN"
+    ],
+    [
+     12,
+     "Alpha Touré",
+     "MF",
+     "SEN"
+    ],
+    [
+     16,
+     "Vincent Gomis",
+     "GK",
+     "SEN"
+    ],
+    [
+     17,
+     "Joseph Mangondo",
+     "FW",
+     "FRA"
+    ],
+    [
+     18,
+     "Believe Munongo",
+     "MF",
+     "FRA"
+    ],
+    [
+     19,
+     "Morgan Bokele",
+     "FW",
+     "CMR"
+    ],
+    [
+     21,
+     "Jahyann Pandore",
+     "MF",
+     "FRA"
+    ],
+    [
+     22,
+     "Nathan Mbala",
+     "FW",
+     "DRC"
+    ],
+    [
+     23,
+     "Diego Duarte",
+     "MF",
+     "LUX"
+    ],
+    [
+     26,
+     "Abdoulaye Nassoko",
+     "DF",
+     "FRA"
+    ],
+    [
+     27,
+     "Alassane Sy",
+     "MF",
+     "SEN"
+    ],
+    [
+     30,
+     "Tahirys dos Santos",
+     "DF",
+     "FRA"
+    ],
+    [
+     32,
+     "Adam Marchal",
+     "DF",
+     "FRA"
+    ],
+    [
+     33,
+     "Abdourahmane Mbodj",
+     "FW",
+     "SEN"
+    ],
+    [
+     38,
+     "Hamza Kadamani",
+     "FW",
+     "LUX"
+    ],
+    [
+     39,
+     "Bryan Song",
+     "DF",
+     "CMR"
+    ],
+    [
+     40,
+     "Ousmane Ba",
+     "GK",
+     "SEN"
+    ],
+    [
+     42,
+     "Cristian Devenish",
+     "DF",
+     "COL"
+    ]
+   ],
+   "extras": [
+    "J.Fisher",
+    "Ballo-Toure",
+    "Yegbi",
+    "K.Kuao",
+    "Traore",
+    "Tsiteishvili",
+    "L.Michel",
+    "G.Hain",
+    "Dyallo",
+    "Azolo",
+    "Sarl",
+    "Sye",
+    "Y.Lauson",
+    "G.Kviritaia",
+    "Stambauli",
+    "Sani",
+    "Tory",
+    "O.Bah"
+   ]
+  },
+  "Montpellier": {
+   "tid": 20056,
+   "pairs": [
+    {
+     "real": "Mathieu Michel",
+     "num": 1,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Micheal",
+     "pid": 109123,
+     "jersey": 1,
+     "ovr": 68,
+     "sc": 0.923
+    },
+    {
+     "real": "Julien Laporte",
+     "num": 15,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Julien",
+     "pid": 111292,
+     "jersey": 6,
+     "ovr": 62,
+     "sc": 1.0
+    },
+    {
+     "real": "Théo Sainte-Luce",
+     "num": 17,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Sainte-Luis",
+     "pid": 103707,
+     "jersey": 17,
+     "ovr": 63,
+     "sc": 0.8
+    },
+    {
+     "real": "Simon Ngapandouetnbu",
+     "num": 31,
+     "pos": "GK",
+     "nat": "CMR",
+     "game": "Ngapandouetbu",
+     "pid": 111412,
+     "jersey": 31,
+     "ovr": 71,
+     "sc": 0.963
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Naoufel El Hannach",
+     "DF",
+     "MAR"
+    ],
+    [
+     5,
+     "Florian Tardieu",
+     "MF",
+     "FRA"
+    ],
+    [
+     6,
+     "Yaël Mouanga",
+     "DF",
+     "FRA"
+    ],
+    [
+     9,
+     "Laciné Megnan-Pavé",
+     "FW",
+     "FRA"
+    ],
+    [
+     10,
+     "Yassine Benhattab",
+     "FW",
+     "FRA"
+    ],
+    [
+     11,
+     "Mamadou Camara",
+     "FW",
+     "MLI"
+    ],
+    [
+     12,
+     "Oscar Etoundi",
+     "DF",
+     "CMR"
+    ],
+    [
+     18,
+     "Nicolas Pays",
+     "FW",
+     "FRA"
+    ],
+    [
+     19,
+     "Nordan Mukiele",
+     "FW",
+     "FRA"
+    ],
+    [
+     20,
+     "Nabil Homssa",
+     "MF",
+     "FRA"
+    ],
+    [
+     22,
+     "Axel Gueguin",
+     "FW",
+     "FRA"
+    ],
+    [
+     23,
+     "Daryll Benlahlou",
+     "FW",
+     "ALG"
+    ],
+    [
+     25,
+     "Wilfried Ndollo Bille",
+     "DF",
+     "CMR"
+    ],
+    [
+     26,
+     "Yvan Djemba Mbappé",
+     "MF",
+     "CMR"
+    ],
+    [
+     27,
+     "Daylam Meddah",
+     "DF",
+     "FRA"
+    ],
+    [
+     28,
+     "Yanis Zouaoui",
+     "DF",
+     "FRA"
+    ],
+    [
+     39,
+     "Jérémy Hatchi",
+     "FW",
+     "FRA"
+    ],
+    [
+     44,
+     "Théo Chennahi",
+     "MF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "L.Micarelli",
+    "Omeragy",
+    "Raport",
+    "Thchato",
+    "Everston",
+    "B.Traoure",
+    "Mbenku",
+    "Fayat",
+    "Savaniar",
+    "Khazir",
+    "Silla",
+    "Sako",
+    "Bertaod",
+    "E.Molado",
+    "Maximovich",
+    "G.Ngoso",
+    "Sisuba"
+   ]
+  },
+  "Nancy": {
+   "tid": 20419,
+   "pairs": [
+    {
+     "real": "Enzo Basilio",
+     "num": 1,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Basirio",
+     "pid": 109019,
+     "jersey": 1,
+     "ovr": 74,
+     "sc": 0.857
+    },
+    {
+     "real": "Nehemiah Fernandez",
+     "num": 4,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Fernande",
+     "pid": 125099,
+     "jersey": 4,
+     "ovr": 58,
+     "sc": 0.941
+    },
+    {
+     "real": "Zakaria Fdaouch",
+     "num": 7,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Fdaoch",
+     "pid": 110348,
+     "jersey": 7,
+     "ovr": 45,
+     "sc": 0.923
+    },
+    {
+     "real": "Walid Bouabdeli",
+     "num": 8,
+     "pos": "FW",
+     "nat": "FRA",
+     "game": "Boabdeli",
+     "pid": 124776,
+     "jersey": 8,
+     "ovr": 52,
+     "sc": 0.941
+    },
+    {
+     "real": "Adrian Dabasse",
+     "num": 10,
+     "pos": "FW",
+     "nat": "FRA",
+     "game": "Dabase",
+     "pid": 110278,
+     "jersey": 10,
+     "ovr": 51,
+     "sc": 0.923
+    },
+    {
+     "real": "Nicolas Saint-Ruf",
+     "num": 14,
+     "pos": "DF",
+     "nat": "GLP",
+     "game": "Saint-Rouf",
+     "pid": 110263,
+     "jersey": 14,
+     "ovr": 63,
+     "sc": 0.941
+    },
+    {
+     "real": "Elydjah Mendy",
+     "num": 21,
+     "pos": "DF",
+     "nat": "GNB",
+     "game": "Mendi",
+     "pid": 110305,
+     "jersey": 15,
+     "ovr": 63,
+     "sc": 0.8
+    },
+    {
+     "real": "Jérémy Gelin",
+     "num": 25,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "J.Gelin",
+     "pid": 103721,
+     "jersey": 25,
+     "ovr": 63,
+     "sc": 0.909
+    },
+    {
+     "real": "Geoffrey Lembet",
+     "num": 30,
+     "pos": "GK",
+     "nat": "CTA",
+     "game": "Lembitt",
+     "pid": 138029,
+     "jersey": 30,
+     "ovr": 71,
+     "sc": 0.769
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Héliohdino Tavares",
+     "DF",
+     "FRA"
+    ],
+    [
+     5,
+     "Pape Meïssa Ba",
+     "FW",
+     "SEN"
+    ],
+    [
+     6,
+     "Kouroufia Kébé",
+     "MF",
+     "FRA"
+    ],
+    [
+     9,
+     "Ilyes Housni",
+     "FW",
+     "MAR"
+    ],
+    [
+     11,
+     "Sidi Cissé",
+     "MF",
+     "FRA"
+    ],
+    [
+     17,
+     "Mamadou Fofana",
+     "MF",
+     "MTN"
+    ],
+    [
+     18,
+     "Hugo Barbier",
+     "MF",
+     "FRA"
+    ],
+    [
+     19,
+     "Thierno Baldé",
+     "DF",
+     "FRA"
+    ],
+    [
+     22,
+     "Logan Ndenbe",
+     "DF",
+     "BEL"
+    ],
+    [
+     24,
+     "Yanis Delaveau",
+     "MF",
+     "ALG"
+    ],
+    [
+     26,
+     "Zakaria Ztouti",
+     "MF",
+     "FRA"
+    ],
+    [
+     28,
+     "Issam Bouaoune",
+     "MF",
+     "ALG"
+    ],
+    [
+     40,
+     "Yanis Kouini",
+     "GK",
+     "MAR"
+    ],
+    [
+     44,
+     "Enzo Tacafred",
+     "DF",
+     "FRA"
+    ],
+    [
+     45,
+     "Chafik El Hansar",
+     "MF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Borgault",
+    "Bouriad",
+    "Carliar",
+    "Nangys",
+    "Falade",
+    "Giagnoria",
+    "Jullou",
+    "Bussman",
+    "Soursac",
+    "Nahounu",
+    "Orako",
+    "Aloe",
+    "Maouasa",
+    "Tayet",
+    "Diabi",
+    "Experience",
+    "Gramat",
+    "Pellegrni",
+    "Inikarogha",
+    "Gamel",
+    "Carnet",
+    "Camera",
+    "Otero",
+    "Nonenmacher",
+    "Livas"
+   ]
+  },
+  "Nantes": {
+   "tid": 20062,
+   "pairs": [
+    {
+     "real": "Johann Lepenant",
+     "num": 8,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Lepenan",
+     "pid": 111254,
+     "jersey": 8,
+     "ovr": 73,
+     "sc": 0.933
+    },
+    {
+     "real": "Alexis Mirbach",
+     "num": 16,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Mirbah",
+     "pid": 172546,
+     "jersey": 50,
+     "ovr": 59,
+     "sc": 0.923
+    },
+    {
+     "real": "Fabien Centonze",
+     "num": 18,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Centonse",
+     "pid": 103862,
+     "jersey": 18,
+     "ovr": 57,
+     "sc": 0.875
+    },
+    {
+     "real": "Louis Leroux",
+     "num": 19,
+     "pos": "MF",
+     "nat": "FRA",
+     "game": "Lerouxe",
+     "pid": 172547,
+     "jersey": 66,
+     "ovr": 69,
+     "sc": 0.923
+    },
+    {
+     "real": "Frédéric Guilbert",
+     "num": 24,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Guiberto",
+     "pid": 103397,
+     "jersey": 24,
+     "ovr": 69,
+     "sc": 0.875
+    },
+    {
+     "real": "Ibrahima Sissoko",
+     "num": 28,
+     "pos": "MF",
+     "nat": "MLI",
+     "game": "Cissoko",
+     "pid": 103736,
+     "jersey": 28,
+     "ovr": 74,
+     "sc": 0.857
+    },
+    {
+     "real": "Ignatius Ganago",
+     "num": 37,
+     "pos": "FW",
+     "nat": "CMR",
+     "game": "Gango",
+     "pid": 100159,
+     "jersey": 37,
+     "ovr": 67,
+     "sc": 0.909
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Maxime Dupé",
+     "GK",
+     "FRA"
+    ],
+    [
+     5,
+     "Lucas Perrin",
+     "DF",
+     "FRA"
+    ],
+    [
+     7,
+     "Antoine Joujou",
+     "FW",
+     "FRA"
+    ],
+    [
+     12,
+     "Killian Corredor",
+     "FW",
+     "FRA"
+    ],
+    [
+     13,
+     "Fodé Doucouré",
+     "DF",
+     "MLI"
+    ],
+    [
+     14,
+     "Lamine Diack",
+     "MF",
+     "SEN"
+    ],
+    [
+     17,
+     "Dehmaine Tabibou",
+     "MF",
+     "FRA"
+    ],
+    [
+     20,
+     "Mathieu Cafaro",
+     "MF",
+     "FRA"
+    ],
+    [
+     23,
+     "Wilitty Younoussa",
+     "MF",
+     "CMR"
+    ],
+    [
+     26,
+     "Ryad Hachem",
+     "MF",
+     "FRA"
+    ],
+    [
+     27,
+     "Thomas Robinet",
+     "FW",
+     "FRA"
+    ],
+    [
+     40,
+     "Yanel Zézé",
+     "GK",
+     "FRA"
+    ],
+    [
+     44,
+     "Balthazar Pierret",
+     "MF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Lopez",
+    "Kozza",
+    "C.Awasiem",
+    "Radakovich",
+    "Cabeya",
+    "Mohamd",
+    "ElAraby",
+    "Karba",
+    "Taati",
+    "Machoto",
+    "A.Yousef",
+    "Cocelin",
+    "Amien",
+    "Carlgron",
+    "Assouman",
+    "Guirassi",
+    "Silla",
+    "Abrine",
+    "A.Camana"
+   ]
+  },
+  "Pau": {
+   "tid": 20364,
+   "pairs": [
+    {
+     "real": "Tom Pouilly",
+     "num": 2,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Poilly",
+     "pid": 150108,
+     "jersey": 2,
+     "ovr": 66,
+     "sc": 0.923
+    },
+    {
+     "real": "Souleymane Basse",
+     "num": 8,
+     "pos": "DF",
+     "nat": "SEN",
+     "game": "Barse",
+     "pid": 123385,
+     "jersey": 8,
+     "ovr": 60,
+     "sc": 0.8
+    },
+    {
+     "real": "Anthony Briançon",
+     "num": 23,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Brianson",
+     "pid": 103698,
+     "jersey": 23,
+     "ovr": 64,
+     "sc": 0.875
+    },
+    {
+     "real": "Esteban Salles",
+     "num": 30,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Sales",
+     "pid": 109114,
+     "jersey": 5,
+     "ovr": 64,
+     "sc": 0.909
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Brice Maubleu",
+     "GK",
+     "FRA"
+    ],
+    [
+     5,
+     "Lorenzo Rajot",
+     "MF",
+     "FRA"
+    ],
+    [
+     6,
+     "Cheikh Fall",
+     "MF",
+     "SEN"
+    ],
+    [
+     7,
+     "Hacène Benali",
+     "FW",
+     "ALG"
+    ],
+    [
+     9,
+     "Babacar Leye",
+     "FW",
+     "FRA"
+    ],
+    [
+     11,
+     "Alexis Lefebvre",
+     "FW",
+     "FRA"
+    ],
+    [
+     14,
+     "Royce Openda",
+     "FW",
+     "GAB"
+    ],
+    [
+     16,
+     "Maxime Adam",
+     "GK",
+     "FRA"
+    ],
+    [
+     19,
+     "Tom Saettel",
+     "FW",
+     "FRA"
+    ],
+    [
+     21,
+     "Jessy Benet",
+     "MF",
+     "FRA"
+    ],
+    [
+     22,
+     "Rony Mimb Baheng",
+     "DF",
+     "CMR"
+    ],
+    [
+     25,
+     "Quentin Daubin",
+     "MF",
+     "FRA"
+    ],
+    [
+     29,
+     "Gaëtan Paquiez",
+     "DF",
+     "FRA"
+    ],
+    [
+     39,
+     "Mathys Tourraine",
+     "DF",
+     "MAR"
+    ]
+   ],
+   "extras": [
+    "Kalu",
+    "Ruis",
+    "J.Gaspal",
+    "Chairi",
+    "Bobichom",
+    "Tazgar",
+    "Don",
+    "Sadeek",
+    "Meddan",
+    "Lapinasse",
+    "Jeeannin",
+    "Rope",
+    "Anziany",
+    "Boutaib",
+    "Ahosu",
+    "Gasniar",
+    "Kuasi",
+    "Kante",
+    "Pardowski",
+    "Beausnar",
+    "Njoe"
+   ]
+  },
+  "Reims": {
+   "tid": 20069,
+   "pairs": [
+    {
+     "real": "Joseph Okumu",
+     "num": 2,
+     "pos": "DF",
+     "nat": "KEN",
+     "game": "Ogumu",
+     "pid": 116747,
+     "jersey": 3,
+     "ovr": 69,
+     "sc": 0.8
+    },
+    {
+     "real": "Théo Leoni",
+     "num": 6,
+     "pos": "MF",
+     "nat": "BEL",
+     "game": "Leon",
+     "pid": 119903,
+     "jersey": 6,
+     "ovr": 71,
+     "sc": 0.889
+    },
+    {
+     "real": "Yaya Fofana",
+     "num": 8,
+     "pos": "MF",
+     "nat": "CIV",
+     "game": "Fofani",
+     "pid": 150193,
+     "jersey": 8,
+     "ovr": 65,
+     "sc": 0.833
+    },
+    {
+     "real": "Mohamed Daramy",
+     "num": 9,
+     "pos": "FW",
+     "nat": "DEN",
+     "game": "Darami",
+     "pid": 122938,
+     "jersey": 7,
+     "ovr": 69,
+     "sc": 0.833
+    },
+    {
+     "real": "Sergio Akieme",
+     "num": 18,
+     "pos": "DF",
+     "nat": "ESP",
+     "game": "Akime",
+     "pid": 104600,
+     "jersey": 18,
+     "ovr": 67,
+     "sc": 0.909
+    },
+    {
+     "real": "Samuel Kotto",
+     "num": 22,
+     "pos": "DF",
+     "nat": "CMR",
+     "game": "Kotta",
+     "pid": 152610,
+     "jersey": 22,
+     "ovr": 57,
+     "sc": 0.8
+    },
+    {
+     "real": "Mory Gbane",
+     "num": 24,
+     "pos": "MF",
+     "nat": "CIV",
+     "game": "Gbana",
+     "pid": 125687,
+     "jersey": 24,
+     "ovr": 66,
+     "sc": 0.8
+    },
+    {
+     "real": "John Patrick",
+     "num": 30,
+     "pos": "MF",
+     "nat": "IRL",
+     "game": "J.Patick",
+     "pid": 147346,
+     "jersey": 30,
+     "ovr": 68,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Tom Ritzy Hülsmann",
+     "GK",
+     "GER"
+    ],
+    [
+     5,
+     "John Otomewo",
+     "MF",
+     "NGA"
+    ],
+    [
+     7,
+     "Tidiane Diarrassouba",
+     "FW",
+     "FRA"
+    ],
+    [
+     10,
+     "Youssef El Kachati",
+     "FW",
+     "MAR"
+    ],
+    [
+     12,
+     "Edin Omeragić",
+     "GK",
+     "SUI"
+    ],
+    [
+     21,
+     "Jean Mambuku",
+     "DF",
+     "ITA"
+    ],
+    [
+     27,
+     "Daouda Guindo",
+     "DF",
+     "MLI"
+    ],
+    [
+     28,
+     "Elie N'Tamon",
+     "DF",
+     "CIV"
+    ]
+   ],
+   "extras": [
+    "Jaylen",
+    "Palloic",
+    "Konay",
+    "Busay",
+    "Nagamura",
+    "Diara",
+    "Benhatab",
+    "Butele",
+    "Bojan",
+    "Olyero"
+   ]
+  },
+  "Rodez": {
+   "tid": 20366,
+   "pairs": [
+    {
+     "real": "Quentin Braat",
+     "num": 1,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Brant",
+     "pid": 108013,
+     "jersey": 1,
+     "ovr": 68,
+     "sc": 0.8
+    },
+    {
+     "real": "Raphaël Lipinski",
+     "num": 3,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Lipinski",
+     "pid": 119866,
+     "jersey": 3,
+     "ovr": 61,
+     "sc": 1.0
+    },
+    {
+     "real": "Jean Lambert Evans",
+     "num": 15,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Evens",
+     "pid": 109184,
+     "jersey": 15,
+     "ovr": 58,
+     "sc": 0.8
+    },
+    {
+     "real": "Lucas Margueron",
+     "num": 16,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "L.Margeron",
+     "pid": 145745,
+     "jersey": 16,
+     "ovr": 64,
+     "sc": 0.889
+    },
+    {
+     "real": "Ryan Ponti",
+     "num": 20,
+     "pos": "DF",
+     "nat": "MAD",
+     "game": "Ponty",
+     "pid": 110329,
+     "jersey": 20,
+     "ovr": 43,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Mathis Magnin",
+     "DF",
+     "SWI"
+    ],
+    [
+     5,
+     "Mohamed Sylla",
+     "DF",
+     "FRA"
+    ],
+    [
+     6,
+     "Jordan Mendes",
+     "MF",
+     "CPV"
+    ],
+    [
+     7,
+     "Kenny Nagera",
+     "FW",
+     "FRA"
+    ],
+    [
+     8,
+     "Damjan Pavlović",
+     "MF",
+     "SRB"
+    ],
+    [
+     9,
+     "Nachon Nsingi",
+     "FW",
+     "BEL"
+    ],
+    [
+     11,
+     "Mathis Touho",
+     "FW",
+     "FRA"
+    ],
+    [
+     13,
+     "Corentin Issanchou",
+     "FW",
+     "FRA"
+    ],
+    [
+     17,
+     "Dylan Vangi",
+     "DF",
+     "FRA"
+    ],
+    [
+     19,
+     "Hermann Tebily",
+     "FW",
+     "FRA"
+    ],
+    [
+     21,
+     "Kélian Nsona",
+     "FW",
+     "FRA"
+    ],
+    [
+     22,
+     "Octave Joly",
+     "MF",
+     "FRA"
+    ],
+    [
+     23,
+     "Cheick Doumbia",
+     "DF",
+     "MLI"
+    ],
+    [
+     24,
+     "Loni Laurent",
+     "DF",
+     "FRA"
+    ],
+    [
+     27,
+     "Marco Essimi",
+     "FW",
+     "FRA"
+    ],
+    [
+     28,
+     "Steven Luyambula",
+     "DF",
+     "FRA"
+    ],
+    [
+     29,
+     "Antonin Cartillier",
+     "MF",
+     "FRA"
+    ],
+    [
+     30,
+     "Enzo Crombez",
+     "GK",
+     "FRA"
+    ],
+    [
+     34,
+     "Yanis Dahalani",
+     "MF",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Chougrany",
+    "Sissoko",
+    "Galve",
+    "Trouilet",
+    "Younousa",
+    "Benchyama",
+    "Arcont",
+    "Hountondzi",
+    "Tavily",
+    "Sibois",
+    "Achy",
+    "Rauks Yao",
+    "Valerio",
+    "Baloudj",
+    "Van den abele",
+    "Deprez",
+    "Pak",
+    "Ngoyama",
+    "Buadez",
+    "K.Nakera"
+   ]
+  },
+  "SaintEtienne": {
+   "tid": 20054,
+   "pairs": [
+    {
+     "real": "Mahmoud Jaber",
+     "num": 5,
+     "pos": "MF",
+     "nat": "ISR",
+     "game": "M.Jabar",
+     "pid": 147594,
+     "jersey": 5,
+     "ovr": 65,
+     "sc": 0.727
+    },
+    {
+     "real": "Maxime Bernauer",
+     "num": 6,
+     "pos": "DF",
+     "nat": "FRA",
+     "game": "Bernaoer",
+     "pid": 109067,
+     "jersey": 6,
+     "ovr": 63,
+     "sc": 0.875
+    },
+    {
+     "real": "Irvin Cardona",
+     "num": 7,
+     "pos": "FW",
+     "nat": "MLT",
+     "game": "Cartona",
+     "pid": 103810,
+     "jersey": 2,
+     "ovr": 71,
+     "sc": 0.857
+    },
+    {
+     "real": "João Ferreira",
+     "num": 13,
+     "pos": "DF",
+     "nat": "POR",
+     "game": "Fereira",
+     "pid": 119228,
+     "jersey": 13,
+     "ovr": 74,
+     "sc": 0.933
+    },
+    {
+     "real": "Chico Lamba",
+     "num": 15,
+     "pos": "DF",
+     "nat": "POR",
+     "game": "Lamia",
+     "pid": 151550,
+     "jersey": 15,
+     "ovr": 65,
+     "sc": 0.8
+    },
+    {
+     "real": "Augustine Boakye",
+     "num": 20,
+     "pos": "FW",
+     "nat": "GHA",
+     "game": "Bokyé",
+     "pid": 150352,
+     "jersey": 20,
+     "ovr": 62,
+     "sc": 0.909
+    },
+    {
+     "real": "Zuriko Davitashvili",
+     "num": 22,
+     "pos": "FW",
+     "nat": "GEO",
+     "game": "Davitashvli",
+     "pid": 119147,
+     "jersey": 22,
+     "ovr": 70,
+     "sc": 0.957
+    },
+    {
+     "real": "Gautier Larsonneur",
+     "num": 30,
+     "pos": "GK",
+     "nat": "FRA",
+     "game": "Gaultier",
+     "pid": 119853,
+     "jersey": 34,
+     "ovr": 58,
+     "sc": 0.933
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Mamour Ndiaye",
+     "GK",
+     "SEN"
+    ],
+    [
+     2,
+     "Strahinja Stojković",
+     "DF",
+     "SRB"
+    ],
+    [
+     8,
+     "Thierno Ballo",
+     "FW",
+     "AUT"
+    ],
+    [
+     10,
+     "Jakob Breum",
+     "MF",
+     "DEN"
+    ],
+    [
+     11,
+     "Ben Old",
+     "DF",
+     "NZL"
+    ],
+    [
+     14,
+     "Áron Csongvai",
+     "MF",
+     "HUN"
+    ],
+    [
+     16,
+     "Tamar Svetlin",
+     "MF",
+     "SLO"
+    ],
+    [
+     17,
+     "Joshua Duffus",
+     "FW",
+     "ENG"
+    ],
+    [
+     18,
+     "Sohaib Naïr",
+     "DF",
+     "ALG"
+    ],
+    [
+     21,
+     "Paul Eymard",
+     "MF",
+     "FRA"
+    ],
+    [
+     23,
+     "Kévin Pedro",
+     "DF",
+     "DRC"
+    ],
+    [
+     24,
+     "Loïc Perrin",
+     "DF",
+     "FRA"
+    ],
+    [
+     26,
+     "Julien Le Cardinal",
+     "DF",
+     "FRA"
+    ],
+    [
+     31,
+     "Nadir El Jamali",
+     "MF",
+     "FRA"
+    ],
+    [
+     32,
+     "Adam Baallal",
+     "MF",
+     "MAR"
+    ],
+    [
+     33,
+     "Marten Paalberg",
+     "FW",
+     "EST"
+    ],
+    [
+     34,
+     "Lassana Traoré",
+     "DF",
+     "SEN"
+    ],
+    [
+     40,
+     "Lucas Lavallée",
+     "GK",
+     "FRA"
+    ]
+   ],
+   "extras": [
+    "Larsoner",
+    "Le Cardinar",
+    "Nate",
+    "Tardiv",
+    "Moueffec",
+    "L.Stasin",
+    "Appia",
+    "Cornuit",
+    "Abderhamid",
+    "Batubinsica",
+    "Solomon",
+    "Older",
+    "Mason",
+    "Miladinov",
+    "Maubleau",
+    "Farl",
+    "Kante",
+    "Wahji"
+   ]
+  }
+ },
+ "ES2": {
+  "Tenerife": {
+   "tid": 20308,
+   "pairs": [
+    {
+     "real": "Dani Martín",
+     "num": 1,
+     "pos": "GK",
+     "nat": "ESP",
+     "game": "Martin",
+     "pid": 119912,
+     "jersey": 21,
+     "ovr": 65,
+     "sc": 1.0
+    },
+    {
+     "real": "David Rodríguez",
+     "num": 2,
+     "pos": "DF",
+     "nat": "ESP",
+     "game": "Rodri",
+     "pid": 151490,
+     "jersey": 2,
+     "ovr": 54,
+     "sc": 0.714
+    },
+    {
+     "real": "José León",
+     "num": 4,
+     "pos": "DF",
+     "nat": "ESP",
+     "game": "Leon",
+     "pid": 108079,
+     "jersey": 4,
+     "ovr": 68,
+     "sc": 1.0
+    },
+    {
+     "real": "Anthony Landázuri",
+     "num": 12,
+     "pos": "DF",
+     "nat": "ECU",
+     "game": "A.Landasuri",
+     "pid": 142157,
+     "jersey": 12,
+     "ovr": 64,
+     "sc": 0.842
+    },
+    {
+     "real": "Gerard Valentín",
+     "num": 14,
+     "pos": "DF",
+     "nat": "ESP",
+     "game": "Gerardo",
+     "pid": 151489,
+     "jersey": 14,
+     "ovr": 64,
+     "sc": 0.923
+    },
+    {
+     "real": "Enric Gallego",
+     "num": 18,
+     "pos": "FW",
+     "nat": "ESP",
+     "game": "E.Gayego",
+     "pid": 108087,
+     "jersey": 18,
+     "ovr": 72,
+     "sc": 0.714
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Roko Jureškin",
+     "DF",
+     "CRO"
+    ],
+    [
+     5,
+     "Jorge Moreno",
+     "DF",
+     "ESP"
+    ],
+    [
+     6,
+     "Juan José Sánchez Romero",
+     "MF",
+     "ESP"
+    ],
+    [
+     7,
+     "Martin Pečar",
+     "MF",
+     "SVN"
+    ],
+    [
+     8,
+     "Víctor Moreno",
+     "FW",
+     "ESP"
+    ],
+    [
+     9,
+     "Jesús de Miguel",
+     "FW",
+     "ESP"
+    ],
+    [
+     10,
+     "Nacho Gil",
+     "MF",
+     "ESP"
+    ],
+    [
+     11,
+     "Noel López",
+     "FW",
+     "ESP"
+    ],
+    [
+     15,
+     "Fabricio Assis de Souza Barbosa",
+     "MF",
+     "BRA"
+    ],
+    [
+     16,
+     "Jesús Álvarez",
+     "MF",
+     "ESP"
+    ],
+    [
+     17,
+     "Christian Gomis",
+     "FW",
+     "SEN"
+    ],
+    [
+     19,
+     "César Álvarez",
+     "DF",
+     "ESP"
+    ],
+    [
+     20,
+     "Mauro Pittón",
+     "MF",
+     "ARG"
+    ],
+    [
+     21,
+     "Marc Mateu",
+     "DF",
+     "ESP"
+    ],
+    [
+     22,
+     "Grant-Leon Ranos",
+     "FW",
+     "ARM"
+    ],
+    [
+     23,
+     "Anes Krdžalić",
+     "MF",
+     "BIH"
+    ],
+    [
+     24,
+     "Iván Chapela",
+     "FW",
+     "ESP"
+    ],
+    [
+     26,
+     "Baba Diocou",
+     "FW",
+     "ESP"
+    ],
+    [
+     27,
+     "Neal Viereck",
+     "DF",
+     "NED"
+    ],
+    [
+     28,
+     "Pau Fernández Velasco",
+     "DF",
+     "ESP"
+    ],
+    [
+     29,
+     "Dani Fernández",
+     "MF",
+     "ESP"
+    ],
+    [
+     30,
+     "Sergio Aragoneses Padilla",
+     "GK",
+     "ESP"
+    ],
+    [
+     31,
+     "Joel Pérez Ramírez",
+     "MF",
+     "ESP"
+    ],
+    [
+     34,
+     "Óscar Bazaga Casas",
+     "FW",
+     "ESP"
+    ],
+    [
+     37,
+     "Mauro Costa Bueso",
+     "MF",
+     "ESP"
+    ],
+    [
+     40,
+     "Gabriel Lozano De Vuyst",
+     "GK",
+     "ESP"
+    ]
+   ],
+   "extras": [
+    "E.Bardia",
+    "Messa",
+    "Juandel",
+    "J.Melrot",
+    "Bodigel",
+    "Aitol Sans",
+    "Wardo",
+    "Anger",
+    "Romelo",
+    "Gonzalez",
+    "Senhadi",
+    "Carrano",
+    "Geyà",
+    "Yaecobtshaili",
+    "Gill",
+    "Amor"
+   ]
+  },
+  "Girona": {
+   "tid": 20371,
+   "pairs": [
+    {
+     "real": "David López",
+     "num": 5,
+     "pos": "DF",
+     "nat": "ESP",
+     "game": "D.Lopes",
+     "pid": 109326,
+     "jersey": 5,
+     "ovr": 77,
+     "sc": 0.727
+    },
+    {
+     "real": "Donny van de Beek",
+     "num": 6,
+     "pos": "MF",
+     "nat": "NED",
+     "game": "van de Beck",
+     "pid": 100634,
+     "jersey": 6,
+     "ovr": 73,
+     "sc": 0.696
+    },
+    {
+     "real": "Cristhian Stuani",
+     "num": 7,
+     "pos": "FW",
+     "nat": "URU",
+     "game": "Sturany",
+     "pid": 109342,
+     "jersey": 7,
+     "ovr": 74,
+     "sc": 0.769
+    },
+    {
+     "real": "Fran Beltrán",
+     "num": 8,
+     "pos": "MF",
+     "nat": "ESP",
+     "game": "F.Bertran",
+     "pid": 104643,
+     "jersey": 8,
+     "ovr": 76,
+     "sc": 0.8
+    },
+    {
+     "real": "Portu",
+     "num": 10,
+     "pos": "FW",
+     "nat": "ESP",
+     "game": "Porto",
+     "pid": 104453,
+     "jersey": 10,
+     "ovr": 74,
+     "sc": 0.8
+    },
+    {
+     "real": "Paulo Gazzaniga",
+     "num": 13,
+     "pos": "GK",
+     "nat": "ARG",
+     "game": "Gazaniga",
+     "pid": 111088,
+     "jersey": 13,
+     "ovr": 78,
+     "sc": 0.941
+    },
+    {
+     "real": "Alejandro Francés",
+     "num": 16,
+     "pos": "DF",
+     "nat": "ESP",
+     "game": "A.Franses",
+     "pid": 108036,
+     "jersey": 16,
+     "ovr": 75,
+     "sc": 0.8
+    },
+    {
+     "real": "Vladyslav Vanat",
+     "num": 19,
+     "pos": "FW",
+     "nat": "UKR",
+     "game": "V.Varat",
+     "pid": 142106,
+     "jersey": 19,
+     "ovr": 79,
+     "sc": 0.727
+    },
+    {
+     "real": "Vladyslav Krapyvtsov",
+     "num": 25,
+     "pos": "GK",
+     "nat": "UKR",
+     "game": "Krapivtsov",
+     "pid": 172675,
+     "jersey": 25,
+     "ovr": 64,
+     "sc": 0.9
+    },
+    {
+     "real": "Lass Kourouma",
+     "num": 29,
+     "pos": "MF",
+     "nat": "GUI",
+     "game": "Korouma",
+     "pid": 152714,
+     "jersey": 29,
+     "ovr": 65,
+     "sc": 0.933
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Sergi Puig",
+     "GK",
+     "ESP"
+    ],
+    [
+     2,
+     "Abdul Mumin",
+     "DF",
+     "GHA"
+    ],
+    [
+     3,
+     "Mateu Morey",
+     "DF",
+     "ESP"
+    ],
+    [
+     4,
+     "Javier Boñar",
+     "DF",
+     "ESP"
+    ],
+    [
+     9,
+     "Abel Ruiz",
+     "FW",
+     "ESP"
+    ],
+    [
+     11,
+     "Àlex Moreno",
+     "DF",
+     "ESP"
+    ],
+    [
+     14,
+     "Iván Morante",
+     "MF",
+     "ESP"
+    ],
+    [
+     15,
+     "Oleksandr Pyshchur",
+     "FW",
+     "UKR"
+    ],
+    [
+     17,
+     "Bryan Gil",
+     "FW",
+     "ESP"
+    ],
+    [
+     21,
+     "Jastin García",
+     "FW",
+     "POR"
+    ],
+    [
+     22,
+     "Yáser Asprilla",
+     "FW",
+     "COL"
+    ],
+    [
+     23,
+     "Carles Pérez",
+     "FW",
+     "ESP"
+    ],
+    [
+     24,
+     "Izan González",
+     "MF",
+     "ESP"
+    ],
+    [
+     28,
+     "Gibert Jordana Camara",
+     "DF",
+     "ESP"
+    ],
+    [
+     30,
+     "Unai Hernández",
+     "MF",
+     "ESP"
+    ],
+    [
+     32,
+     "Juan Arango Jr.",
+     "FW",
+     "VEN"
+    ],
+    [
+     33,
+     "Mauro Furtado",
+     "DF",
+     "POR"
+    ],
+    [
+     35,
+     "Mohamed Hamony",
+     "FW",
+     "MAR"
+    ],
+    [
+     36,
+     "Javier Sarasa Camañes",
+     "MF",
+     "ESP"
+    ],
+    [
+     38,
+     "Holmes Junior",
+     "DF",
+     "ESP"
+    ],
+    [
+     39,
+     "Guillem Badia Gutiérrez",
+     "DF",
+     "ESP"
+    ],
+    [
+     44,
+     "Jordi Bilali Danso",
+     "GK",
+     "ESP"
+    ]
+   ],
+   "extras": [
+    "A.Moleno",
+    "Wittsel",
+    "Rhys",
+    "Arnau",
+    "Onahi",
+    "Lemal",
+    "Gill",
+    "Tsyganov",
+    "ter Stgen",
+    "Hecheverri",
+    "I.Martin",
+    "Brind",
+    "R.Blanko",
+    "Juan Karlos",
+    "Rokka",
+    "Rinncón",
+    "Aber Ruis"
+   ]
+  }
+ }
+}

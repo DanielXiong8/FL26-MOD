@@ -1,0 +1,86 @@
+{
+ "phase": "13B",
+ "title": "Game-Equivalent Appearance Preview",
+ "updated": "2026-09-08 13:10",
+ "gates": {
+  "APPEARANCE_MAPPING_READY": {
+   "status": "GREEN_TABLE+GREEN_DEVICE_PARTIAL",
+   "note": "b5/b14/b6/b10 device-confirmed; roster cap discovered (43 dead / 33 OK); b3 card-level inconclusive (needs 3D); hair-color 3D-vs-icon discrepancy open",
+   "evidence": [
+    "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\appearance_mapping.json",
+    "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\mapping_tables_raw.json",
+    "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\appearance_stats.json",
+    "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\face_templates.json",
+    "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\hair_inventory.json"
+   ]
+  },
+  "HAIR_PREVIEW_VALID": {
+   "status": "GREEN_DEVICE_COLOR",
+   "blocking": "device A/B P13B_P01..P06 + Previewer hair-GO loading",
+   "note": "b5 hair color DEVICE-CONFIRMED in 3D gameplay (P05 pink); b3 index->asset naming still pending 3D shape comparison"
+  },
+  "BEARD_PREVIEW_VALID": {
+   "status": "PENDING",
+   "blocking": "device A/B P13B_P07..P09 + Previewer atlas composite render"
+  },
+  "FACE_SHAPE_PREVIEW_VALID": {
+   "status": "BLOCKED_MORPH_DECODE",
+   "blocking": "b14 -> FaceTemplate[7skins x 20] x 53 params decoded at table level; params drive IL2CPP procedural morph (no blendshapes on face meshes); PC 1:1 needs morph decode, or Reference Player route + device ground truth per template"
+  },
+  "EYE_PREVIEW_VALID": {
+   "status": "PENDING",
+   "blocking": "Option A iris-submesh replication in Previewer; iris selector byte unresolved (default darkbrown assumed)"
+  },
+  "PC_ANDROID_APPEARANCE_MATCH": {
+   "status": "GREEN_PARTIAL",
+   "blocking": "probes now visible on device; next = PC renders of same states + 3D view screenshots per probe",
+   "note": "PC pre-tinted-texture route matches game tint path; b5 direction confirmed both sides; strict per-state PNG A/B pending (b3 shapes, b14 morph on PC side)"
+  }
+ },
+ "GAME_EQUIVALENT_PREVIEW": "IN_PROGRESS",
+ "phase14_browser_face_builder": {
+  "ready": false,
+  "missing": [
+   "device A/B verdicts",
+   "Previewer composition upgrade (Option B: resident Unity + hot-swap)",
+   "iris selector byte (auto-closes if default iris satisfies match)"
+  ]
+ },
+ "deliverables": {
+  "report": "D:\\FL26_Mod\\recon\\reports\\PHASE13B_APPEARANCE_MAPPING_REPORT.md",
+  "mapping": "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\appearance_mapping.json",
+  "schema": "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\appearance_state.schema.json",
+  "regression": "D:\\FL26_Mod\\recon\\baselines\\APPEARANCE_REGRESSION\\PROBE_MANIFEST.json",
+  "probe_apk": "D:\\FL26_Mod\\dist\\fl26_phase13b_probe.apk",
+  "probe_apk_sha256_16": "2cae935f4a179942"
+ },
+ "protected_assets_touched": false,
+ "next_actions": [
+  "PC Previewer: render the same 18 appearance states (head+hair GO+b5 color+FaceTemplate blendshapes) for side-by-side",
+  "capture 3D match-view screenshots per probe on device for per-byte A/B",
+  "product fix: add Archives DB layer to injection pipeline (SaveExport/edit protobuf/SaveImport) OR document fresh-install requirement",
+  "then Phase 14 Browser Face Builder"
+ ],
+ "root_cause_save_db": {
+  "finding": "roster UI reads device Archives save DBs (protobuf), imported once from gamedata at first launch; later gamedata edits ignored",
+  "fix": "fresh install re-imports (probes verified visible) OR edit Archives DBs via SaveExport/SaveImport",
+  "evidence": "D:\\FL26_Mod\\recon\\baselines\\APPEARANCE_REGRESSION\\device_screens"
+ },
+ "pc_composition_renderer": {
+  "file": "D:\\FL26_Mod\\tools\\FL26_AvatarPreviewer\\Assets\\Scripts\\Editor\\Phase13BRender.cs",
+  "capability": "one Unity batch renders N appearance states: head prefab (dual submesh: iris tex + face tex) + hair GO (bind pose static) + pre-tinted hair texture + iris texture; 4 views each",
+  "batch1": "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\renders\\pc_batch1 (8/8 states OK)",
+  "hair_tint": "pre-tinted texture route (hairColorConfig mainColor remapped onto hair lum channel); _Color multiply failed (hair tex too dark, RGB ~22)",
+  "pixel_verification": "hair-region RGB: dark[22,16,13] red[38,24,25] light[38,44,52], pairwise dist 21-51 (visible); iris diff region confirmed lighter (23->38/43/45)",
+  "known_limits": [
+   "b14 face morph NOT reproduced (IL2CPP procedural, no blendshapes)",
+   "hair needsMat fallback replaces ALL slots with one Standard material (approximation of game assign)",
+   "beard/eyebrow atlas composite not yet drawn"
+  ]
+ },
+ "device_health": {
+  "current_apk": "fl26_phase13b_probe_v4_8.apk (8 probes, China=33)",
+  "state": "FULLY NORMAL - v4 8-probe APK, all avatars, P05 pink in 3D (user confirmed)",
+  "afh_root_cause": "roster over-cap (43 men), NOT corrupted save, NOT signature check"
+ }
+}

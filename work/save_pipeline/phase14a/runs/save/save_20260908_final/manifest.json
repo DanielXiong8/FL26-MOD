@@ -1,0 +1,19 @@
+{
+ "run_id": "save_20260908_final",
+ "operation": "remove P13B_P07 (pid 175931) from China NT 10059 roster in Friendly/friendly.db team_blob (packed varint list), 33->32 men",
+ "chain": [
+  "SaveExportActivity on device",
+  "pull",
+  "protobuf edit (save_editor.py, byte-preserving)",
+  "push to save_import",
+  "SaveImportActivity IMPORT DONE",
+  "reinstall game APK (install -r, data preserved)",
+  "game load"
+ ],
+ "result": "USER CONFIRMED: P13B_P07 gone from China squad in game = SAVE_ROUNDTRIP PASS",
+ "sha256_modified_db": "4826bbc1d55704e32852ab786de3aed9551bd303b1f5b9316ee36976be34497a",
+ "limitations": [
+  "SAVE_IMPORT_LIMITATION: player_blob = state summary (pid/state/team/ovr); names/attrs/appearance live in gamedata. Save import moves/removes EXISTING gamedata players between rosters; it cannot CREATE players. New players need gamedata rebuild (APK)."
+ ],
+ "timestamp": "2026-09-08 19:20"
+}

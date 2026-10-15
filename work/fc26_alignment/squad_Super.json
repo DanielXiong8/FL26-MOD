@@ -1,0 +1,2002 @@
+{
+ "Besiktas": [
+  [
+   1,
+   "Alexander Nübel",
+   "GK",
+   "GER"
+  ],
+  [
+   4,
+   "Wilfred Ndidi",
+   "MF",
+   "NGA"
+  ],
+  [
+   6,
+   "Salih Özcan",
+   "MF",
+   "TUR"
+  ],
+  [
+   7,
+   "Milot Rashica",
+   "FW",
+   "KOS"
+  ],
+  [
+   8,
+   "Kartal Yılmaz",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Oh Hyeon-gyu",
+   "FW",
+   "KOR"
+  ],
+  [
+   10,
+   "Orkun Kökçü",
+   "MF",
+   "TR"
+  ],
+  [
+   11,
+   "Kassoum Ouattara",
+   "DF",
+   "CIV"
+  ],
+  [
+   12,
+   "Emmanuel Agbadou",
+   "DF",
+   "CIV"
+  ],
+  [
+   15,
+   "Junior Olaitan",
+   "MF",
+   "BEN"
+  ],
+  [
+   18,
+   "Václav Černý (footballer)",
+   "MF",
+   "CZE"
+  ],
+  [
+   19,
+   "Leandro Trossard",
+   "MF",
+   "BEL"
+  ],
+  [
+   22,
+   "Taylan Bulut",
+   "DF",
+   "GER"
+  ],
+  [
+   23,
+   "Mustafa Erhan Hekimoğlu",
+   "FW",
+   "TUR"
+  ],
+  [
+   28,
+   "Dušan Vlahović",
+   "FW",
+   "SER"
+  ],
+  [
+   29,
+   "İlhan Fakılı",
+   "FW",
+   "TUR"
+  ],
+  [
+   33,
+   "Rıdvan Yılmaz",
+   "DF",
+   "TUR"
+  ],
+  [
+   35,
+   "Tiago Djaló",
+   "DF",
+   "POR"
+  ]
+ ],
+ "Basaksehir": [
+  [
+   1,
+   "Volkan Babacan",
+   "GK",
+   "TUR"
+  ],
+  [
+   3,
+   "Jerome Opoku",
+   "DF",
+   "GHA"
+  ],
+  [
+   4,
+   "Onur Ergün",
+   "MF",
+   "TUR"
+  ],
+  [
+   6,
+   "Onur Bulut",
+   "DF",
+   "TUR"
+  ],
+  [
+   7,
+   "Yusuf Sarı",
+   "MF",
+   "TUR"
+  ],
+  [
+   8,
+   "Olivier Kemen",
+   "MF",
+   "CMR"
+  ],
+  [
+   9,
+   "Davie Selke",
+   "FW",
+   "GER"
+  ],
+  [
+   10,
+   "Edin Višća",
+   "MF",
+   "BIH"
+  ],
+  [
+   11,
+   "Abbosbek Fayzullaev",
+   "MF",
+   "UZB"
+  ],
+  [
+   14,
+   "Eldor Shomurodov",
+   "FW",
+   "UZB"
+  ],
+  [
+   15,
+   "Hamza Güreler",
+   "DF",
+   "TUR"
+  ],
+  [
+   16,
+   "Muhammed Şengezer",
+   "GK",
+   "TUR"
+  ],
+  [
+   17,
+   "Umut Bozok",
+   "FW",
+   "TUR"
+  ],
+  [
+   18,
+   "Jakub Kałuziński",
+   "MF",
+   "POL"
+  ],
+  [
+   19,
+   "Berkay Özcan",
+   "MF",
+   "TUR"
+  ],
+  [
+   20,
+   "Umut Güneş",
+   "MF",
+   "GER"
+  ],
+  [
+   21,
+   "Christopher Opéri",
+   "DF",
+   "CIV"
+  ],
+  [
+   23,
+   "Emin Bayram",
+   "DF",
+   "TUR"
+  ],
+  [
+   27,
+   "Ousseynou Ba",
+   "DF",
+   "SEN"
+  ],
+  [
+   33,
+   "Michał Karbownik",
+   "DF",
+   "POL"
+  ],
+  [
+   38,
+   "Saba Kharebashvili",
+   "DF",
+   "GEO"
+  ],
+  [
+   42,
+   "Ömer Ali Şahiner",
+   "DF",
+   "TUR"
+  ]
+ ],
+ "Galatasaray": [
+  [
+   1,
+   "Uğurcan Çakır",
+   "GK",
+   "TUR"
+  ],
+  [
+   3,
+   "El Chadaille Bitshiabu",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Ismail Jakobs",
+   "DF",
+   "SEN"
+  ],
+  [
+   5,
+   "Eyüp Aydın",
+   "MF",
+   "TUR"
+  ],
+  [
+   6,
+   "Davinson Sánchez",
+   "DF",
+   "COL"
+  ],
+  [
+   7,
+   "Roland Sallai",
+   "DF",
+   "HUN"
+  ],
+  [
+   8,
+   "Gabriel Sara",
+   "MF",
+   "BRA"
+  ],
+  [
+   10,
+   "Leroy Sané",
+   "FW",
+   "GER"
+  ],
+  [
+   11,
+   "Yunus Akgün",
+   "FW",
+   "TUR"
+  ],
+  [
+   17,
+   "Eren Elmalı",
+   "DF",
+   "TUR"
+  ],
+  [
+   18,
+   "Lesley Ugochukwu",
+   "MF",
+   "FRA"
+  ],
+  [
+   19,
+   "Günay Güvenç",
+   "GK",
+   "TUR"
+  ],
+  [
+   20,
+   "İlkay Gündoğan",
+   "MF",
+   "GER"
+  ],
+  [
+   21,
+   "Deniz Gül",
+   "FW",
+   "TUR"
+  ],
+  [
+   23,
+   "Kaan Ayhan",
+   "DF",
+   "TUR"
+  ],
+  [
+   24,
+   "Jankat Yılmaz",
+   "GK",
+   "TUR"
+  ],
+  [
+   27,
+   "Rafael Leão",
+   "FW",
+   "POR"
+  ],
+  [
+   29,
+   "Can Armando Güner",
+   "MF",
+   "ARG"
+  ],
+  [
+   34,
+   "Lucas Torreira",
+   "MF",
+   "URU"
+  ],
+  [
+   42,
+   "Abdülkerim Bardakcı",
+   "DF",
+   "TUR"
+  ],
+  [
+   45,
+   "Victor Osimhen",
+   "FW",
+   "NGA"
+  ]
+ ],
+ "Fenerbahce": [
+  [
+   3,
+   "Archie Brown (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   5,
+   "İsmail Yüksek",
+   "MF",
+   "TUR"
+  ],
+  [
+   6,
+   "Mattéo Guendouzi",
+   "MF",
+   "FRA"
+  ],
+  [
+   7,
+   "Kerem Aktürkoğlu",
+   "FW",
+   "TUR"
+  ],
+  [
+   8,
+   "Mert Hakan Yandaş",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Romelu Lukaku",
+   "FW",
+   "BEL"
+  ],
+  [
+   10,
+   "Marco Asensio",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Mason Greenwood",
+   "FW",
+   "ENG"
+  ],
+  [
+   13,
+   "Tarık Çetin",
+   "GK",
+   "TUR"
+  ],
+  [
+   14,
+   "Yiğit Efe Demir",
+   "DF",
+   "TUR"
+  ],
+  [
+   15,
+   "Nathan Aké",
+   "DF",
+   "NED"
+  ],
+  [
+   17,
+   "İrfan Can Kahveci",
+   "MF",
+   "TUR"
+  ],
+  [
+   18,
+   "Mert Müldür",
+   "DF",
+   "TUR"
+  ],
+  [
+   19,
+   "Vedat Muriqi",
+   "FW",
+   "KOS"
+  ],
+  [
+   21,
+   "Kojo Peprah Oppong",
+   "DF",
+   "GHA"
+  ],
+  [
+   22,
+   "Levent Mercan",
+   "DF",
+   "GER"
+  ],
+  [
+   24,
+   "Jayden Oosterwolde",
+   "DF",
+   "NED"
+  ],
+  [
+   27,
+   "Nélson Semedo",
+   "DF",
+   "POR"
+  ],
+  [
+   28,
+   "Bartuğ Elmaz",
+   "MF",
+   "TUR"
+  ],
+  [
+   30,
+   "Amara Diouf",
+   "FW",
+   "SEN"
+  ],
+  [
+   31,
+   "Ederson (footballer, born 1993)",
+   "GK",
+   "BRA"
+  ],
+  [
+   34,
+   "Mert Günok",
+   "GK",
+   "TUR"
+  ],
+  [
+   37,
+   "Milan Škriniar",
+   "DF",
+   "SVK"
+  ],
+  [
+   45,
+   "Dorgeles Nene",
+   "FW",
+   "MLI"
+  ]
+ ],
+ "Kasimpasa": [
+  [
+   1,
+   "Andreas Gianniotis",
+   "GK",
+   "GRE"
+  ],
+  [
+   2,
+   "Cláudio Winck",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Adem Arous",
+   "DF",
+   "TUN"
+  ],
+  [
+   5,
+   "Jakob Jessen",
+   "DF",
+   "DEN"
+  ],
+  [
+   7,
+   "Ali Yavuz Kol",
+   "MF",
+   "TUR"
+  ],
+  [
+   8,
+   "Atakan Müjde",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Adrian Benedyczak",
+   "FW",
+   "POL"
+  ],
+  [
+   10,
+   "Haris Hajradinović",
+   "MF",
+   "BIH"
+  ],
+  [
+   11,
+   "Thiemoko Diarra",
+   "FW",
+   "MLI"
+  ],
+  [
+   12,
+   "Mortadha Ben Ouanes",
+   "MF",
+   "TUN"
+  ],
+  [
+   14,
+   "Kévin Mouanga",
+   "DF",
+   "FRA"
+  ],
+  [
+   16,
+   "Andri Fannar Baldursson",
+   "MF",
+   "ISL"
+  ],
+  [
+   17,
+   "Jesurun Rak-Sakyi",
+   "FW",
+   "GHA"
+  ],
+  [
+   19,
+   "Marcus Rafferty",
+   "MF",
+   "SWE"
+  ],
+  [
+   22,
+   "Kamil Ahmet Çörekçi",
+   "DF",
+   "TUR"
+  ],
+  [
+   23,
+   "Sinan Alkaş",
+   "FW",
+   "TUR"
+  ],
+  [
+   24,
+   "Salih Arıcı",
+   "DF",
+   "TUR"
+  ],
+  [
+   25,
+   "Ali Emre Yanar",
+   "GK",
+   "TUR"
+  ],
+  [
+   26,
+   "Kerem Demirbay",
+   "MF",
+   "GER"
+  ],
+  [
+   27,
+   "Matei Ilie",
+   "DF",
+   "ROU"
+  ],
+  [
+   29,
+   "Taylan Aydın",
+   "DF",
+   "TUR"
+  ],
+  [
+   30,
+   "Ahmet Taha Dağbaşı",
+   "DF",
+   "TUR"
+  ],
+  [
+   32,
+   "Ramazan Özkanlı",
+   "GK",
+   "TUR"
+  ],
+  [
+   34,
+   "Fousseni Diabaté",
+   "MF",
+   "MLI"
+  ],
+  [
+   35,
+   "Sercan Deniz",
+   "DF",
+   "TUR"
+  ],
+  [
+   45,
+   "Ayberk Karapo",
+   "DF",
+   "TUR"
+  ]
+ ],
+ "Gaziantep": [
+  [
+   2,
+   "Luis Pérez (footballer, born 1995)",
+   "DF",
+   "SPA"
+  ],
+  [
+   3,
+   "Drissa Camara",
+   "MF",
+   "CIV"
+  ],
+  [
+   4,
+   "Arda Kızıldağ",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Efe Sarıkaya",
+   "DF",
+   "TUR"
+  ],
+  [
+   6,
+   "Ulrich Meleke",
+   "MF",
+   "CIV"
+  ],
+  [
+   7,
+   "Juninho Bacuna",
+   "MF",
+   "CUW"
+  ],
+  [
+   8,
+   "Victor Gidado",
+   "MF",
+   "NGR"
+  ],
+  [
+   9,
+   "Trivante Stewart",
+   "FW",
+   "JAM"
+  ],
+  [
+   10,
+   "Kacper Kozłowski (footballer)",
+   "MF",
+   "POL"
+  ],
+  [
+   11,
+   "Mirza Cihan",
+   "MF",
+   "TUR"
+  ],
+  [
+   14,
+   "Myenty Abena",
+   "DF",
+   "SUR"
+  ],
+  [
+   17,
+   "Karamba Gassama",
+   "MF",
+   "GAM"
+  ],
+  [
+   18,
+   "Deian Sorescu",
+   "DF",
+   "ROU"
+  ],
+  [
+   19,
+   "Serdar Dursun",
+   "FW",
+   "TUR"
+  ],
+  [
+   21,
+   "Abakar Sylla",
+   "DF",
+   "CIV"
+  ],
+  [
+   22,
+   "Sontje Hansen",
+   "FW",
+   "CUW"
+  ],
+  [
+   23,
+   "Kerim Çalhanoğlu",
+   "DF",
+   "GER"
+  ],
+  [
+   25,
+   "Kacper Tobiasz",
+   "GK",
+   "POL"
+  ],
+  [
+   27,
+   "Enver Kulašin",
+   "FW",
+   "BIH"
+  ],
+  [
+   28,
+   "Halil Dervişoğlu",
+   "FW",
+   "TUR"
+  ],
+  [
+   35,
+   "Ataberk Dadakdeniz",
+   "GK",
+   "TUR"
+  ],
+  [
+   44,
+   "Alexandru Maxim",
+   "MF",
+   "ROU"
+  ]
+ ],
+ "Trabzonspor": [
+  [
+   1,
+   "Ahmet Doğan Yıldırım",
+   "GK",
+   "TUR"
+  ],
+  [
+   3,
+   "Batista Mendy",
+   "MF",
+   "FRA"
+  ],
+  [
+   4,
+   "Samet Akaydin",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Okay Yokuşlu",
+   "MF",
+   "TUR"
+  ],
+  [
+   6,
+   "Fabinho (footballer, born 1993)",
+   "MF",
+   "BRA"
+  ],
+  [
+   7,
+   "Ernest Muçi",
+   "MF",
+   "ALB"
+  ],
+  [
+   8,
+   "Benjamin Bouchouari",
+   "MF",
+   "MAR"
+  ],
+  [
+   9,
+   "Franculino Djú",
+   "FW",
+   "GNB"
+  ],
+  [
+   10,
+   "Mohamed Salah",
+   "FW",
+   "EGY"
+  ],
+  [
+   11,
+   "Ozan Tufan",
+   "MF",
+   "TUR"
+  ],
+  [
+   14,
+   "Umut Nayir",
+   "FW",
+   "TUR"
+  ],
+  [
+   15,
+   "Stefan Savić",
+   "DF",
+   "MNE"
+  ],
+  [
+   17,
+   "Ruslan Malinovskyi",
+   "MF",
+   "UKR"
+  ],
+  [
+   19,
+   "Mustafa Eskihellaç",
+   "MF",
+   "TUR"
+  ],
+  [
+   20,
+   "Wagner Pina",
+   "DF",
+   "CPV"
+  ],
+  [
+   24,
+   "André Onana",
+   "GK",
+   "CMR"
+  ],
+  [
+   25,
+   "Onuralp Çevikkan",
+   "GK",
+   "TUR"
+  ],
+  [
+   26,
+   "Tim Jabol-Folcarelli",
+   "MF",
+   "FRA"
+  ],
+  [
+   27,
+   "Chibuike Nwaiwu",
+   "DF",
+   "NGR"
+  ],
+  [
+   30,
+   "Paul Onuachu",
+   "FW",
+   "NGA"
+  ],
+  [
+   39,
+   "Cenk Özkacar",
+   "DF",
+   "TUR"
+  ],
+  [
+   44,
+   "Arseniy Batahov",
+   "DF",
+   "UKR"
+  ]
+ ],
+ "Konyaspor": [
+  [
+   1,
+   "Deniz Ertaş",
+   "GK",
+   "TUR"
+  ],
+  [
+   2,
+   "Ahmet Oğuz",
+   "DF",
+   "TUR"
+  ],
+  [
+   3,
+   "Arif Boşluk",
+   "DF",
+   "TUR"
+  ],
+  [
+   4,
+   "Adil Demirbağ",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Uğurcan Yazğılı",
+   "DF",
+   "TUR"
+  ],
+  [
+   7,
+   "Diogo Gonçalves",
+   "MF",
+   "POR"
+  ],
+  [
+   8,
+   "Marko Jevtović (footballer)",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Deniz Türüç",
+   "MF",
+   "TUR"
+  ],
+  [
+   10,
+   "Enis Bardhi",
+   "MF",
+   "MKD"
+  ],
+  [
+   11,
+   "Jackson Muleka",
+   "FW",
+   "COD"
+  ],
+  [
+   13,
+   "Bahadır Han Güngördü",
+   "GK",
+   "TUR"
+  ],
+  [
+   15,
+   "Chidozie Awaziem",
+   "DF",
+   "NGA"
+  ],
+  [
+   16,
+   "Ata Yanık",
+   "DF",
+   "TUR"
+  ],
+  [
+   17,
+   "Yhoan Andzouana",
+   "DF",
+   "CGO"
+  ],
+  [
+   22,
+   "Rayyan Baniya",
+   "DF",
+   "TUR"
+  ],
+  [
+   24,
+   "Mücahit İbrahimoğlu",
+   "MF",
+   "AUT"
+  ],
+  [
+   25,
+   "Ömer Çobanoğlu",
+   "MF",
+   "TUR"
+  ],
+  [
+   26,
+   "Arthur Masuaku",
+   "DF",
+   "COD"
+  ],
+  [
+   29,
+   "Egemen Aydın",
+   "GK",
+   "TUR"
+  ],
+  [
+   41,
+   "Da Mata",
+   "DF",
+   "BRA"
+  ],
+  [
+   42,
+   "Mostafa Mohamed (footballer)",
+   "DF",
+   "EGY"
+  ],
+  [
+   45,
+   "Emir Bars",
+   "MF",
+   "TUR"
+  ]
+ ],
+ "Alanyaspor": [
+  [
+   3,
+   "Nuno Lima",
+   "DF",
+   "POR"
+  ],
+  [
+   4,
+   "Bedirhan Özyurt",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Fidan Aliti",
+   "DF",
+   "KOS"
+  ],
+  [
+   7,
+   "İbrahim Kaya",
+   "MF",
+   "TUR"
+  ],
+  [
+   8,
+   "Enes Keskin",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Omar Ben Ali",
+   "FW",
+   "TUN"
+  ],
+  [
+   10,
+   "Ianis Hagi",
+   "MF",
+   "ROU"
+  ],
+  [
+   11,
+   "Ruan (footballer, born 2005)",
+   "MF",
+   "BRA"
+  ],
+  [
+   12,
+   "Meschak Elia",
+   "FW",
+   "COD"
+  ],
+  [
+   14,
+   "Emre Demir",
+   "MF",
+   "TUR"
+  ],
+  [
+   16,
+   "Hwang Ui-jo",
+   "FW",
+   "KOR"
+  ],
+  [
+   17,
+   "Arda Usluoğlu",
+   "FW",
+   "TUR"
+  ],
+  [
+   19,
+   "Iván Cédric",
+   "FW",
+   "CMR"
+  ],
+  [
+   20,
+   "Fatih Aksoy",
+   "DF",
+   "TUR"
+  ],
+  [
+   23,
+   "Mert Bayram",
+   "GK",
+   "TUR"
+  ],
+  [
+   26,
+   "İzzet Çelik",
+   "MF",
+   "TUR"
+  ],
+  [
+   32,
+   "Arouna Soro",
+   "MF",
+   "CIV"
+  ],
+  [
+   42,
+   "Gaius Makouta",
+   "MF",
+   "CGO"
+  ]
+ ],
+ "Rizespor": [
+  [
+   2,
+   "Husniddin Aliqulov",
+   "DF",
+   "UZB"
+  ],
+  [
+   4,
+   "Attila Mocsi",
+   "DF",
+   "HUN"
+  ],
+  [
+   5,
+   "Tayyip Talha Sanuç",
+   "DF",
+   "TUR"
+  ],
+  [
+   7,
+   "Valentin Mihăilă",
+   "MF",
+   "ROU"
+  ],
+  [
+   8,
+   "Dal Varešanović",
+   "MF",
+   "BIH"
+  ],
+  [
+   9,
+   "Ali Sowe",
+   "FW",
+   "GAM"
+  ],
+  [
+   10,
+   "Ibrahim Olawoyin",
+   "MF",
+   "NGA"
+  ],
+  [
+   11,
+   "Adedire Mebude",
+   "FW",
+   "SCO"
+  ],
+  [
+   14,
+   "Taylan Antalyalı",
+   "MF",
+   "TUR"
+  ],
+  [
+   17,
+   "Zakaria Ariss",
+   "DF",
+   "MAR"
+  ],
+  [
+   19,
+   "Umut Erdem",
+   "DF",
+   "TUR"
+  ],
+  [
+   20,
+   "Qazim Laçi",
+   "MF",
+   "ALB"
+  ],
+  [
+   21,
+   "Siaka Bakayoko",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Zafer Görgen",
+   "GK",
+   "TUR"
+  ],
+  [
+   31,
+   "Hasan Döne",
+   "GK",
+   "TUR"
+  ],
+  [
+   37,
+   "Muhammet Taha Şahin",
+   "DF",
+   "TUR"
+  ]
+ ],
+ "Samsunspor": [
+  [
+   1,
+   "Okan Kocuk",
+   "GK",
+   "TUR"
+  ],
+  [
+   2,
+   "Joe Mendes",
+   "DF",
+   "SWE"
+  ],
+  [
+   3,
+   "Igor Drapiński",
+   "DF",
+   "POL"
+  ],
+  [
+   4,
+   "Elliot Watt",
+   "MF",
+   "SCO"
+  ],
+  [
+   5,
+   "Celil Yüksel",
+   "MF",
+   "TUR"
+  ],
+  [
+   7,
+   "Elayis Tavsan",
+   "FW",
+   "TUR"
+  ],
+  [
+   8,
+   "Samed Onur",
+   "MF",
+   "TUR"
+  ],
+  [
+   10,
+   "Tanguy Coulibaly",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Emre Kılınç",
+   "MF",
+   "TUR"
+  ],
+  [
+   13,
+   "Efe Yiğit Üstün",
+   "GK",
+   "TUR"
+  ],
+  [
+   14,
+   "Fatih Kaya",
+   "FW",
+   "TUR"
+  ],
+  [
+   15,
+   "Jaurès Assoumou",
+   "FW",
+   "CIV"
+  ],
+  [
+   17,
+   "Logi Tómasson",
+   "DF",
+   "ISL"
+  ],
+  [
+   18,
+   "Mohamed Bayo",
+   "FW",
+   "GUI"
+  ],
+  [
+   19,
+   "Oskar Øhlenschlæger",
+   "MF",
+   "DEN"
+  ],
+  [
+   20,
+   "Yalçın Kayan",
+   "MF",
+   "TUR"
+  ],
+  [
+   22,
+   "Yunus Emre Çift",
+   "DF",
+   "TUR"
+  ],
+  [
+   23,
+   "Enes Albak",
+   "DF",
+   "TUR"
+  ],
+  [
+   25,
+   "Bilal Bayazıt",
+   "GK",
+   "TUR"
+  ],
+  [
+   29,
+   "Mustafa Tan",
+   "DF",
+   "TUR"
+  ],
+  [
+   30,
+   "Saikuba Jarju",
+   "FW",
+   "GAM"
+  ],
+  [
+   34,
+   "Gabriele Guarino",
+   "DF",
+   "ITA"
+  ],
+  [
+   42,
+   "Anto Sekongo",
+   "MF",
+   "MLI"
+  ]
+ ],
+ "Goztepe": [
+  [
+   1,
+   "Arda Özçimen",
+   "GK",
+   "TUR"
+  ],
+  [
+   2,
+   "Arda Okan Kurtulan",
+   "MF",
+   "ALB"
+  ],
+  [
+   3,
+   "Allan Godói",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Taha Altıkardeş",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Rhaldney",
+   "MF",
+   "BRA"
+  ],
+  [
+   6,
+   "Alex Matos",
+   "MF",
+   "ENG"
+  ],
+  [
+   7,
+   "André Henrique",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Alexis Antunes",
+   "MF",
+   "SUI"
+  ],
+  [
+   9,
+   "Juan (footballer, born March 2002)",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Efkan Bekiroğlu",
+   "MF",
+   "TUR"
+  ],
+  [
+   12,
+   "Richard Akonnor",
+   "DF",
+   "UAE"
+  ],
+  [
+   13,
+   "Ege Yıldırım",
+   "DF",
+   "TUR"
+  ],
+  [
+   14,
+   "Bekir Turaç Böke",
+   "FW",
+   "TUR"
+  ],
+  [
+   16,
+   "Ogün Bayrak",
+   "DF",
+   "TUR"
+  ],
+  [
+   17,
+   "Gökdeniz Bayrakdar",
+   "FW",
+   "TUR"
+  ],
+  [
+   19,
+   "Noah Sonko Sundberg",
+   "DF",
+   "GAM"
+  ],
+  [
+   20,
+   "Novatus Miroshi",
+   "DF",
+   "TAN"
+  ],
+  [
+   21,
+   "Nevzat Üzel",
+   "GK",
+   "TUR"
+  ],
+  [
+   22,
+   "Sinclair Armstrong",
+   "FW",
+   "IRL"
+  ],
+  [
+   23,
+   "Furkan Bayır",
+   "DF",
+   "TUR"
+  ],
+  [
+   25,
+   "Luka Gugeshashvili",
+   "GK",
+   "GEO"
+  ],
+  [
+   26,
+   "Malcom Bokele",
+   "DF",
+   "CMR"
+  ],
+  [
+   33,
+   "Mehmet Şamil Öztürk",
+   "GK",
+   "TUR"
+  ],
+  [
+   39,
+   "Janderson (footballer, born May 1999)",
+   "FW",
+   "BRA"
+  ]
+ ],
+ "Eyupspor": [
+  [
+   1,
+   "Emre Bilgin",
+   "GK",
+   "TUR"
+  ],
+  [
+   3,
+   "Arda Yavuz",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Jawad El Yamiq",
+   "DF",
+   "MAR"
+  ],
+  [
+   7,
+   "Talha Ülvan",
+   "DF",
+   "TUR"
+  ],
+  [
+   8,
+   "David Costa (footballer, born 2004)",
+   "MF",
+   "CPV"
+  ],
+  [
+   10,
+   "Abdelhamid Sabiri",
+   "MF",
+   "MAR"
+  ],
+  [
+   11,
+   "Lenny Pintor",
+   "FW",
+   "FRA"
+  ],
+  [
+   15,
+   "Charles-André Raux-Yao",
+   "MF",
+   "FRA"
+  ],
+  [
+   18,
+   "Hamza Akman",
+   "MF",
+   "TUR"
+  ],
+  [
+   21,
+   "Simone Giordano",
+   "DF",
+   "ITA"
+  ],
+  [
+   29,
+   "Ahmed Abdullahi (footballer)",
+   "FW",
+   "NGR"
+  ],
+  [
+   33,
+   "Zak Jules",
+   "DF",
+   "SCO"
+  ],
+  [
+   42,
+   "Berhan Şatlı",
+   "DF",
+   "TUR"
+  ],
+  [
+   44,
+   "Ömer Ceyhan",
+   "DF",
+   "TUR"
+  ]
+ ],
+ "Erzurumspor": [
+  [
+   1,
+   "Ertuğrul Taşkıran",
+   "GK",
+   "TUR"
+  ],
+  [
+   2,
+   "Festy Ebosele",
+   "DF",
+   "IRL"
+  ],
+  [
+   3,
+   "Yakup Kırtay",
+   "DF",
+   "TUR"
+  ],
+  [
+   4,
+   "Amar Gërxhaliu",
+   "DF",
+   "KOS"
+  ],
+  [
+   6,
+   "Brandon Baiye",
+   "MF",
+   "BEL"
+  ],
+  [
+   8,
+   "Sefa Akgün",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Gyrano Kerk",
+   "FW",
+   "SUR"
+  ],
+  [
+   10,
+   "Eren Tozlu",
+   "FW",
+   "TUR"
+  ],
+  [
+   15,
+   "Guram Giorbelidze",
+   "DF",
+   "GEO"
+  ],
+  [
+   17,
+   "Erkan Anapa",
+   "GK",
+   "TUR"
+  ],
+  [
+   18,
+   "Nihad Mujakić",
+   "DF",
+   "BIH"
+  ],
+  [
+   19,
+   "Ibrahim Diabate",
+   "FW",
+   "CIV"
+  ],
+  [
+   20,
+   "Miguel Cardoso (footballer, born 1994)",
+   "FW",
+   "POR"
+  ],
+  [
+   22,
+   "Mustafa Yumlu",
+   "DF",
+   "TUR"
+  ],
+  [
+   23,
+   "Cengizhan Bayrak",
+   "DF",
+   "TUR"
+  ],
+  [
+   25,
+   "Ömer Arda Kara",
+   "DF",
+   "TUR"
+  ],
+  [
+   31,
+   "Matija Orbanić",
+   "GK",
+   "CRO"
+  ],
+  [
+   42,
+   "Elisha Owusu",
+   "MF",
+   "GHA"
+  ]
+ ],
+ "Genclerbirligi": [
+  [
+   2,
+   "Thalisson",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Hamza Aydar",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Peter Etebo",
+   "MF",
+   "NGA"
+  ],
+  [
+   6,
+   "Dimitrios Goutas",
+   "DF",
+   "GRE"
+  ],
+  [
+   9,
+   "Pedro Mendes (footballer, born 1999)",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Franco Tongya",
+   "MF",
+   "ITA"
+  ],
+  [
+   11,
+   "Kévin Rodrigues",
+   "DF",
+   "POR"
+  ],
+  [
+   13,
+   "Pedro Pereira (footballer, born 1998)",
+   "DF",
+   "POR"
+  ],
+  [
+   14,
+   "Adama Traoré (footballer, born 5 June 1995)",
+   "MF",
+   "MLI"
+  ],
+  [
+   15,
+   "Arda Çağan Çelik",
+   "DF",
+   "TUR"
+  ],
+  [
+   17,
+   "Erk Aslan",
+   "FW",
+   "TUR"
+  ],
+  [
+   20,
+   "Sékou Koïta",
+   "FW",
+   "MLI"
+  ],
+  [
+   23,
+   "Gökhan Akkan",
+   "GK",
+   "TUR"
+  ],
+  [
+   35,
+   "Oğulcan Ülgün",
+   "MF",
+   "TUR"
+  ],
+  [
+   42,
+   "Ousmane Diabaté (footballer, born 2007)",
+   "MF",
+   "GUI"
+  ],
+  [
+   45,
+   "Prince Martor Jr.",
+   "FW",
+   "LBR"
+  ]
+ ],
+ "Kocaelispor": [
+  [
+   1,
+   "Aleksandar Jovanović (footballer, born December 1992)",
+   "GK",
+   "SRB"
+  ],
+  [
+   2,
+   "Anfernee Dijksteel",
+   "DF",
+   "SUR"
+  ],
+  [
+   3,
+   "Muharrem Cinan",
+   "DF",
+   "TUR"
+  ],
+  [
+   4,
+   "Tanguy Zoukrou",
+   "DF",
+   "FRA"
+  ],
+  [
+   5,
+   "Emir Ortakaya",
+   "DF",
+   "TUR"
+  ],
+  [
+   6,
+   "Matej Maglica",
+   "DF",
+   "CRO"
+  ],
+  [
+   7,
+   "Dan Agyei",
+   "FW",
+   "GHA"
+  ],
+  [
+   8,
+   "Tobias Gulliksen",
+   "MF",
+   "NOR"
+  ],
+  [
+   9,
+   "Bruno Petković",
+   "FW",
+   "CRO"
+  ],
+  [
+   10,
+   "Berkan Kutlu",
+   "MF",
+   "TUR"
+  ],
+  [
+   11,
+   "Gonçalo Sousa",
+   "FW",
+   "POR"
+  ],
+  [
+   14,
+   "Show (footballer)",
+   "MF",
+   "ANG"
+  ],
+  [
+   17,
+   "Arda Özyar",
+   "FW",
+   "TUR"
+  ],
+  [
+   19,
+   "Haydar Karataş",
+   "MF",
+   "TUR"
+  ],
+  [
+   20,
+   "Mahamadou Susoho",
+   "MF",
+   "ESP"
+  ],
+  [
+   21,
+   "Massadio Haïdara",
+   "DF",
+   "MLI"
+  ],
+  [
+   22,
+   "Uğur Kaan Yıldız",
+   "DF",
+   "TUR"
+  ],
+  [
+   23,
+   "Onurcan Piri",
+   "GK",
+   "TUR"
+  ],
+  [
+   26,
+   "Metehan Altunbaş",
+   "FW",
+   "TUR"
+  ],
+  [
+   27,
+   "Ege Bilim",
+   "MF",
+   "TUR"
+  ],
+  [
+   32,
+   "Makana Baku",
+   "MF",
+   "GER"
+  ],
+  [
+   41,
+   "Onur Öztonga",
+   "DF",
+   "TUR"
+  ]
+ ]
+}

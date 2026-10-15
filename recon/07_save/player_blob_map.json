@@ -1,0 +1,69 @@
+{
+  "player_blob": {
+    "outer": {
+      "f1": {"type": "varint", "name": "player_id"},
+      "f2": {"type": "varint", "name": "unknown_2"},
+      "f4": {"type": "varint", "name": "position"},
+      "f5": {"type": "varint", "name": "team_id"},
+      "f8": {"type": "varint", "name": "jersey"},
+      "f9": {"type": "message", "name": "details"},
+      "f10": {"type": "varint", "name": "unknown_10"},
+      "f11": {"type": "message", "name": "appearance_ids"}
+    },
+    "f9_details": {
+      "f1": {"type": "string", "name": "player_name"},
+      "f2": {"type": "varint", "name": "birth_year"},
+      "f3": {"type": "varint", "name": "height"},
+      "f4": {"type": "varint", "name": "balance"},
+      "f5": {"type": "varint", "name": "reaction"},
+      "f6": {"type": "varint", "name": "acceleration"},
+      "f7": {"type": "varint", "name": "velocity"},
+      "f8": {"type": "varint", "name": "stamina"},
+      "f9": {"type": "varint", "name": "agility"},
+      "f10": {"type": "varint", "name": "shotpower"},
+      "f11": {"type": "varint", "name": "standingtackle"},
+      "f12": {"type": "varint", "name": "slidingtackle"},
+      "f13": {"type": "varint", "name": "ballcontrol"},
+      "f14": {"type": "varint", "name": "dribble"},
+      "f15": {"type": "varint", "name": "shortpass"},
+      "f16": {"type": "varint", "name": "highpass"},
+      "f17": {"type": "varint", "name": "shot"},
+      "f18": {"type": "varint", "name": "volley"},
+      "f19": {"type": "varint", "name": "mental_defensivepositioning"},
+      "f20": {"type": "varint", "name": "mental_vision"},
+      "f21": {"type": "varint", "name": "overall"},
+      "f22": {"type": "varint", "name": "foot"},
+      "f25": {"type": "bytes", "name": "unknown_25"},
+      "f27": {"type": "varint", "name": "unknown_27"}
+    },
+    "f11_appearance": {
+      "f7": {"type": "varint", "name": "appearance_1"},
+      "f8": {"type": "varint", "name": "appearance_2"},
+      "f10": {"type": "varint", "name": "appearance_3"},
+      "f11": {"type": "varint", "name": "appearance_4"},
+      "f14": {"type": "varint", "name": "appearance_5"},
+      "f15": {"type": "varint", "name": "appearance_6"},
+      "f16": {"type": "varint", "name": "appearance_7"},
+      "f17": {"type": "varint", "name": "appearance_8"},
+      "f18": {"type": "varint", "name": "appearance_9"},
+      "f19": {"type": "varint", "name": "appearance_10"},
+      "f21": {"type": "varint", "name": "appearance_11"}
+    }
+  },
+  "archive_blob": {
+    "f1": {"type": "message", "name": "competition_data"},
+    "f2": {"type": "message", "name": "user_player_meta"},
+    "f2_detail": {
+      "f2": {"type": "varint", "name": "kit_number"},
+      "f3": {"type": "string", "name": "kit_name"},
+      "f4": {"type": "varint", "name": "appearance_id"},
+      "f5": {"type": "varint", "name": "position"}
+    },
+    "f4": {"type": "varint", "name": "unknown_4"},
+    "f5": {"type": "message", "name": "trophy_data"},
+    "f6": {"type": "message[]", "name": "team_season_data"},
+    "f7": {"type": "message", "name": "career_year"},
+    "f8": {"type": "message", "name": "season_state", "note": "f22=user_team_id"},
+    "f9": {"type": "string", "name": "empty_string"}
+  }
+}

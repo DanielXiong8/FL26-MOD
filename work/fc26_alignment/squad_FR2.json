@@ -1,0 +1,2090 @@
+{
+ "Annecy": [
+  [
+   1,
+   "Florian Escales",
+   "GK",
+   "FRA"
+  ],
+  [
+   4,
+   "Sacha Lima",
+   "DF",
+   "FRA"
+  ],
+  [
+   5,
+   "Ahmed Kashi",
+   "MF",
+   "ALG"
+  ],
+  [
+   6,
+   "François Lajugie",
+   "DF",
+   "FRA"
+  ],
+  [
+   7,
+   "Alan Mondesir",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Alexis Casadei",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Thibault Rambaud",
+   "FW",
+   "FRA"
+  ],
+  [
+   11,
+   "Souleymane Fofana",
+   "MF",
+   "CIV"
+  ],
+  [
+   14,
+   "Mohamed Koné",
+   "MF",
+   "CIV"
+  ],
+  [
+   15,
+   "Pascal Mozie",
+   "MF",
+   "POL"
+  ],
+  [
+   16,
+   "Thomas Callens",
+   "GK",
+   "FRA"
+  ],
+  [
+   19,
+   "Kilyan Jusseron-Veniere",
+   "MF",
+   "FRA"
+  ],
+  [
+   20,
+   "Adam Yahi",
+   "FW",
+   "FRA"
+  ],
+  [
+   21,
+   "Esteban Marre",
+   "DF",
+   "FRA"
+  ],
+  [
+   22,
+   "Clément Billemaz",
+   "FW",
+   "FRA"
+  ],
+  [
+   23,
+   "Mattéo Veillon",
+   "DF",
+   "FRA"
+  ],
+  [
+   24,
+   "Nolan Ferro",
+   "MF",
+   "FRA"
+  ],
+  [
+   25,
+   "Paul Venot",
+   "MF",
+   "FRA"
+  ],
+  [
+   26,
+   "Jonathan Do Marcolino",
+   "DF",
+   "GAB"
+  ],
+  [
+   27,
+   "Julien Kouadio",
+   "DF",
+   "CTA"
+  ],
+  [
+   28,
+   "Antoine Larose",
+   "FW",
+   "FRA"
+  ],
+  [
+   30,
+   "Matéo Gonzalez",
+   "GK",
+   "FRA"
+  ],
+  [
+   32,
+   "David Oduro",
+   "DF",
+   "GHA"
+  ],
+  [
+   34,
+   "Esteban Riou",
+   "DF",
+   "FRA"
+  ],
+  [
+   41,
+   "Thibault Delphis",
+   "DF",
+   "FRA"
+  ]
+ ],
+ "Clermont": [
+  [
+   2,
+   "Abdellah Baallal",
+   "MF",
+   "MAR"
+  ],
+  [
+   3,
+   "Andy Pelmard",
+   "DF",
+   "MAD"
+  ],
+  [
+   4,
+   "Ethan Kena Kabeya",
+   "DF",
+   "COD"
+  ],
+  [
+   5,
+   "Jean Grillot",
+   "MF",
+   "FRA"
+  ],
+  [
+   6,
+   "El Hadj Koné",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Yuliwes Bellache",
+   "MF",
+   "ALG"
+  ],
+  [
+   9,
+   "Luís Semedo",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Junior Sambia",
+   "MF",
+   "CTA"
+  ],
+  [
+   11,
+   "Maïdine Douane",
+   "FW",
+   "ALG"
+  ],
+  [
+   12,
+   "Vital Nsimba",
+   "DF",
+   "COD"
+  ],
+  [
+   13,
+   "Julien Astic",
+   "MF",
+   "FRA"
+  ],
+  [
+   16,
+   "Massamba Ndiaye",
+   "GK",
+   "SEN"
+  ],
+  [
+   17,
+   "Ousmane Diop",
+   "FW",
+   "SEN"
+  ],
+  [
+   18,
+   "Noam Strotz",
+   "MF",
+   "FRA"
+  ],
+  [
+   19,
+   "Mohamed-Amine Bouchenna",
+   "MF",
+   "FRA"
+  ],
+  [
+   21,
+   "Yoann Salmier",
+   "DF",
+   "GUF"
+  ],
+  [
+   23,
+   "Adrien Hunou",
+   "MF",
+   "FRA"
+  ],
+  [
+   26,
+   "Rominigue Kouamé",
+   "MF",
+   "MLI"
+  ],
+  [
+   28,
+   "Ivan M'Bahia",
+   "DF",
+   "CIV"
+  ],
+  [
+   29,
+   "Arthur Saintorens",
+   "FW",
+   "FRA"
+  ],
+  [
+   30,
+   "Théo Guivarch",
+   "GK",
+   "FRA"
+  ],
+  [
+   39,
+   "Jean Nyindong Tsamouna",
+   "FW",
+   "FRA"
+  ],
+  [
+   44,
+   "Allan Ackra",
+   "MF",
+   "FRA"
+  ],
+  [
+   45,
+   "Matys Donavin",
+   "DF",
+   "FRA"
+  ]
+ ],
+ "Dijon": [
+  [
+   4,
+   "Mickaël Barreto",
+   "MF",
+   "FRA"
+  ],
+  [
+   5,
+   "Quentin Bernard",
+   "DF",
+   "FRA"
+  ],
+  [
+   6,
+   "Waly Diouf",
+   "DF",
+   "SEN"
+  ],
+  [
+   7,
+   "Ben-Chayeel Hamada",
+   "MF",
+   "COM"
+  ],
+  [
+   8,
+   "Paul Bellon",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Tyris Dong",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Yanis Barka",
+   "FW",
+   "FRA"
+  ],
+  [
+   11,
+   "Júlio Tavares",
+   "FW",
+   "CPV"
+  ],
+  [
+   14,
+   "Jordan Marié",
+   "MF",
+   "FRA"
+  ],
+  [
+   15,
+   "Axel Bargain",
+   "DF",
+   "FRA"
+  ],
+  [
+   16,
+   "Paul Delecroix",
+   "GK",
+   "FRA"
+  ],
+  [
+   17,
+   "Adel Lembezat",
+   "MF",
+   "FRA"
+  ],
+  [
+   18,
+   "Brandon Ndezi",
+   "MF",
+   "DRC"
+  ],
+  [
+   19,
+   "César Obongo",
+   "DF",
+   "FRA"
+  ],
+  [
+   20,
+   "Hugo Vargas-Rios",
+   "MF",
+   "FRA"
+  ],
+  [
+   21,
+   "Samy Chouchane",
+   "MF",
+   "TUN"
+  ],
+  [
+   23,
+   "Lenny Lacroix",
+   "DF",
+   "FRA"
+  ],
+  [
+   29,
+   "Alexis Ntamack",
+   "FW",
+   "FRA"
+  ],
+  [
+   30,
+   "Hatem Mimoune",
+   "MF",
+   "FRA"
+  ],
+  [
+   31,
+   "Moussa Faty",
+   "DF",
+   "FRA"
+  ],
+  [
+   33,
+   "Florian Rombogouera",
+   "FW",
+   "FRA"
+  ],
+  [
+   37,
+   "Abdelmajid Djae",
+   "FW",
+   "COM"
+  ],
+  [
+   42,
+   "Ylan Aka",
+   "FW",
+   "FRA"
+  ]
+ ],
+ "Dunkerque": [
+  [
+   4,
+   "Bram Lagae",
+   "DF",
+   "BEL"
+  ],
+  [
+   6,
+   "Jordan Morel",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Gaëtan Robail",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Adrien Lebeau",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Yegor Prutsev",
+   "MF",
+   "RUS"
+  ],
+  [
+   15,
+   "Steven Nzonzi",
+   "MF",
+   "FRA"
+  ],
+  [
+   16,
+   "Maxence Prévot",
+   "GK",
+   "FRA"
+  ],
+  [
+   17,
+   "Pape Malick Dieng",
+   "FW",
+   "SEN"
+  ],
+  [
+   18,
+   "Théna Massock",
+   "MF",
+   "FRA"
+  ],
+  [
+   19,
+   "Souleymane Keita",
+   "FW",
+   "FRA"
+  ],
+  [
+   21,
+   "Lenny Dziki Loussilaho",
+   "DF",
+   "CGO"
+  ],
+  [
+   22,
+   "Victor Mayela",
+   "DF",
+   "COD"
+  ],
+  [
+   23,
+   "Arthylio Nadé",
+   "FW",
+   "CIV"
+  ],
+  [
+   24,
+   "Lenny Vallier",
+   "DF",
+   "FRA"
+  ],
+  [
+   26,
+   "Opa Sanganté",
+   "DF",
+   "GNB"
+  ],
+  [
+   27,
+   "Allan Linguet",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Abner Felipe",
+   "DF",
+   "BRA"
+  ],
+  [
+   36,
+   "Mouhamed Sissokho",
+   "GK",
+   "SEN"
+  ],
+  [
+   42,
+   "Maedine Makhloufi",
+   "DF",
+   "FRA"
+  ]
+ ],
+ "Grenoble": [
+  [
+   1,
+   "Alexandre Olliero",
+   "GK",
+   "FRA"
+  ],
+  [
+   2,
+   "Moussa Djitté",
+   "FW",
+   "SEN"
+  ],
+  [
+   3,
+   "Farouq Limouri",
+   "DF",
+   "NED"
+  ],
+  [
+   5,
+   "Clément Vidal",
+   "DF",
+   "FRA"
+  ],
+  [
+   6,
+   "Yohann Magnin",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Lucas Bernadou",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Arthur Lallias",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Baptiste Mouazan",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Mamady Bangré",
+   "FW",
+   "BFA"
+  ],
+  [
+   12,
+   "Ugo Bonnet",
+   "FW",
+   "FRA"
+  ],
+  [
+   14,
+   "Mael Corboz",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Bobby Allain",
+   "GK",
+   "FRA"
+  ],
+  [
+   17,
+   "Leonardo Cerri",
+   "FW",
+   "ITA"
+  ],
+  [
+   19,
+   "Nesta Zahui",
+   "DF",
+   "FRA"
+  ],
+  [
+   22,
+   "Ange-Loïc N'Gatta",
+   "DF",
+   "CIV"
+  ],
+  [
+   23,
+   "Dillon Hoogewerf",
+   "FW",
+   "NED"
+  ],
+  [
+   25,
+   "Théo Borne",
+   "GK",
+   "FRA"
+  ],
+  [
+   27,
+   "Matthéo Xantippe",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Samba Lélé Diba",
+   "MF",
+   "SEN"
+  ],
+  [
+   34,
+   "Zé Leite",
+   "FW",
+   "POR"
+  ],
+  [
+   37,
+   "Mohamed Bechikh",
+   "FW",
+   "FRA"
+  ],
+  [
+   43,
+   "Aurélien Pelon",
+   "DF",
+   "FRA"
+  ],
+  [
+   44,
+   "Owen Martinez-Jullien",
+   "MF",
+   "FRA"
+  ]
+ ],
+ "Guingamp": [
+  [
+   1,
+   "Teddy Bartouche",
+   "GK",
+   "GLP"
+  ],
+  [
+   2,
+   "Erwin Koffi",
+   "DF",
+   "FRA"
+  ],
+  [
+   3,
+   "Jérémie Matumona",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Dylan Louiserre",
+   "MF",
+   "FRA"
+  ],
+  [
+   5,
+   "Tuomas Ollila",
+   "DF",
+   "FIN"
+  ],
+  [
+   6,
+   "Darly Nlandu",
+   "MF",
+   "FRA"
+  ],
+  [
+   7,
+   "Donatien Gomis",
+   "DF",
+   "SEN"
+  ],
+  [
+   8,
+   "Florent Sanchez Da Silva",
+   "MF",
+   "FRA"
+  ],
+  [
+   10,
+   "Amine Hemia",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Teddy Averlant",
+   "FW",
+   "GAB"
+  ],
+  [
+   16,
+   "Adrián Ortolá",
+   "GK",
+   "ESP"
+  ],
+  [
+   17,
+   "Amadou Samoura",
+   "FW",
+   "FRA"
+  ],
+  [
+   18,
+   "Stanislas Kielt",
+   "FW",
+   "FRA"
+  ],
+  [
+   20,
+   "Samir Ben Brahim",
+   "MF",
+   "FRA"
+  ],
+  [
+   21,
+   "Tanguy Ahile",
+   "MF",
+   "FRA"
+  ],
+  [
+   22,
+   "Brandon Bokangu",
+   "FW",
+   "COD"
+  ],
+  [
+   23,
+   "Jasser Chamakh",
+   "MF",
+   "FRA"
+  ],
+  [
+   24,
+   "Jeovanni Dianganga",
+   "DF",
+   "BEL"
+  ],
+  [
+   25,
+   "Tom Ducrocq",
+   "MF",
+   "FRA"
+  ],
+  [
+   30,
+   "Gautier Ott",
+   "FW",
+   "FRA"
+  ],
+  [
+   31,
+   "Joël Matondo",
+   "MF",
+   "FRA"
+  ],
+  [
+   32,
+   "Ibrahima Diakité",
+   "DF",
+   "FRA"
+  ],
+  [
+   35,
+   "Nathan Fondja",
+   "DF",
+   "FRA"
+  ],
+  [
+   36,
+   "Albin Demouchy",
+   "DF",
+   "FRA"
+  ],
+  [
+   39,
+   "Vimoj Muntu Wa Mungu",
+   "DF",
+   "FRA"
+  ],
+  [
+   40,
+   "Noah Marec",
+   "GK",
+   "FRA"
+  ]
+ ],
+ "Laval": [
+  [
+   1,
+   "Maxime Hautbois",
+   "GK",
+   "FRA"
+  ],
+  [
+   3,
+   "William Bianda",
+   "DF",
+   "FRA"
+  ],
+  [
+   5,
+   "Julien Maggiotti",
+   "MF",
+   "FRA"
+  ],
+  [
+   6,
+   "Sam Sanna",
+   "MF",
+   "FRA"
+  ],
+  [
+   7,
+   "Chafik Gourichy",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Teddy Bouriaud",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Trévis Dago",
+   "FW",
+   "FRA"
+  ],
+  [
+   12,
+   "Mattéo Commaret",
+   "DF",
+   "FRA"
+  ],
+  [
+   13,
+   "Francis Coquelin",
+   "MF",
+   "FRA"
+  ],
+  [
+   14,
+   "Cyril Mandouki",
+   "MF",
+   "MTQ"
+  ],
+  [
+   17,
+   "Corentin Fatou",
+   "FW",
+   "FRA"
+  ],
+  [
+   18,
+   "Aboubacar Lô",
+   "DF",
+   "SEN"
+  ],
+  [
+   20,
+   "Ethan Clavreul",
+   "MF",
+   "FRA"
+  ],
+  [
+   21,
+   "Alessio Beaudouin",
+   "MF",
+   "FRA"
+  ],
+  [
+   22,
+   "Jules Gaudin",
+   "DF",
+   "FRA"
+  ],
+  [
+   23,
+   "Esteban Mouton",
+   "DF",
+   "FRA"
+  ],
+  [
+   24,
+   "Sidi Bane",
+   "DF",
+   "SEN"
+  ],
+  [
+   26,
+   "Hermann Esmel",
+   "MF",
+   "FRA"
+  ],
+  [
+   27,
+   "Alpha Diallo",
+   "MF",
+   "FRA"
+  ],
+  [
+   28,
+   "Aboubakary Kanté",
+   "FW",
+   "GAM"
+  ],
+  [
+   29,
+   "Mamadou Sidibé",
+   "DF",
+   "GUI"
+  ],
+  [
+   30,
+   "Mamadou Samassa (footballer, born 1990)",
+   "GK",
+   "MLI"
+  ],
+  [
+   31,
+   "Mathys Houdayer",
+   "FW",
+   "FRA"
+  ],
+  [
+   32,
+   "Yanis Court",
+   "MF",
+   "FRA"
+  ],
+  [
+   35,
+   "Layousse Samb",
+   "DF",
+   "SEN"
+  ]
+ ],
+ "Metz": [
+  [
+   1,
+   "Jonathan Fischer",
+   "GK",
+   "DEN"
+  ],
+  [
+   2,
+   "Maxime Colin",
+   "DF",
+   "FRA"
+  ],
+  [
+   3,
+   "Florian Miguel",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Urie-Michel Mboula",
+   "DF",
+   "GAB"
+  ],
+  [
+   5,
+   "Jean Ruiz",
+   "DF",
+   "FRA"
+  ],
+  [
+   6,
+   "Nampalys Mendy",
+   "MF",
+   "SEN"
+  ],
+  [
+   7,
+   "Ibou Sané",
+   "FW",
+   "SEN"
+  ],
+  [
+   8,
+   "Jessy Deminguet",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Giorgi Abuashvili",
+   "FW",
+   "GEO"
+  ],
+  [
+   10,
+   "Téji Savanier",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Pape Moussa Fall",
+   "FW",
+   "SEN"
+  ],
+  [
+   12,
+   "Alpha Touré",
+   "MF",
+   "SEN"
+  ],
+  [
+   16,
+   "Vincent Gomis",
+   "GK",
+   "SEN"
+  ],
+  [
+   17,
+   "Joseph Mangondo",
+   "FW",
+   "FRA"
+  ],
+  [
+   18,
+   "Believe Munongo",
+   "MF",
+   "FRA"
+  ],
+  [
+   19,
+   "Morgan Bokele",
+   "FW",
+   "CMR"
+  ],
+  [
+   21,
+   "Jahyann Pandore",
+   "MF",
+   "FRA"
+  ],
+  [
+   22,
+   "Nathan Mbala",
+   "FW",
+   "DRC"
+  ],
+  [
+   23,
+   "Diego Duarte (footballer, born 2006)",
+   "MF",
+   "LUX"
+  ],
+  [
+   26,
+   "Abdoulaye Nassoko",
+   "DF",
+   "FRA"
+  ],
+  [
+   27,
+   "Alassane Sy",
+   "MF",
+   "SEN"
+  ],
+  [
+   30,
+   "Tahirys dos Santos",
+   "DF",
+   "FRA"
+  ],
+  [
+   32,
+   "Adam Marchal",
+   "DF",
+   "FRA"
+  ],
+  [
+   33,
+   "Abdourahmane Mbodj",
+   "FW",
+   "SEN"
+  ],
+  [
+   38,
+   "Hamza Kadamani",
+   "FW",
+   "LUX"
+  ],
+  [
+   39,
+   "Bryan Song",
+   "DF",
+   "CMR"
+  ],
+  [
+   40,
+   "Ousmane Ba",
+   "GK",
+   "SEN"
+  ],
+  [
+   42,
+   "Cristian Devenish",
+   "DF",
+   "COL"
+  ]
+ ],
+ "Montpellier": [
+  [
+   1,
+   "Mathieu Michel (footballer)",
+   "GK",
+   "FRA"
+  ],
+  [
+   3,
+   "Naoufel El Hannach",
+   "DF",
+   "MAR"
+  ],
+  [
+   5,
+   "Florian Tardieu",
+   "MF",
+   "FRA"
+  ],
+  [
+   6,
+   "Yaël Mouanga",
+   "DF",
+   "FRA"
+  ],
+  [
+   9,
+   "Laciné Megnan-Pavé",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Yassine Benhattab",
+   "FW",
+   "FRA"
+  ],
+  [
+   11,
+   "Mamadou Camara (footballer, born 7 February 2001)",
+   "FW",
+   "MLI"
+  ],
+  [
+   12,
+   "Oscar Etoundi",
+   "DF",
+   "CMR"
+  ],
+  [
+   15,
+   "Julien Laporte",
+   "DF",
+   "FRA"
+  ],
+  [
+   17,
+   "Théo Sainte-Luce",
+   "DF",
+   "FRA"
+  ],
+  [
+   18,
+   "Nicolas Pays",
+   "FW",
+   "FRA"
+  ],
+  [
+   19,
+   "Nordan Mukiele",
+   "FW",
+   "FRA"
+  ],
+  [
+   20,
+   "Nabil Homssa",
+   "MF",
+   "FRA"
+  ],
+  [
+   22,
+   "Axel Gueguin",
+   "FW",
+   "FRA"
+  ],
+  [
+   23,
+   "Daryll Benlahlou",
+   "FW",
+   "ALG"
+  ],
+  [
+   25,
+   "Wilfried Ndollo Bille",
+   "DF",
+   "CMR"
+  ],
+  [
+   26,
+   "Yvan Djemba Mbappé",
+   "MF",
+   "CMR"
+  ],
+  [
+   27,
+   "Daylam Meddah",
+   "DF",
+   "FRA"
+  ],
+  [
+   28,
+   "Yanis Zouaoui",
+   "DF",
+   "FRA"
+  ],
+  [
+   31,
+   "Simon Ngapandouetnbu",
+   "GK",
+   "CMR"
+  ],
+  [
+   39,
+   "Jérémy Hatchi",
+   "FW",
+   "FRA"
+  ],
+  [
+   44,
+   "Théo Chennahi",
+   "MF",
+   "FRA"
+  ]
+ ],
+ "Nancy": [
+  [
+   1,
+   "Enzo Basilio",
+   "GK",
+   "FRA"
+  ],
+  [
+   2,
+   "Héliohdino Tavares",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Nehemiah Fernandez",
+   "DF",
+   "FRA"
+  ],
+  [
+   5,
+   "Pape Meïssa Ba",
+   "FW",
+   "SEN"
+  ],
+  [
+   6,
+   "Kouroufia Kébé",
+   "MF",
+   "FRA"
+  ],
+  [
+   7,
+   "Zakaria Fdaouch",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Walid Bouabdeli",
+   "FW",
+   "FRA"
+  ],
+  [
+   9,
+   "Ilyes Housni",
+   "FW",
+   "MAR"
+  ],
+  [
+   10,
+   "Adrian Dabasse",
+   "FW",
+   "FRA"
+  ],
+  [
+   11,
+   "Sidi Cissé",
+   "MF",
+   "FRA"
+  ],
+  [
+   14,
+   "Nicolas Saint-Ruf",
+   "DF",
+   "GLP"
+  ],
+  [
+   17,
+   "Mamadou Fofana (footballer, born 2000)",
+   "MF",
+   "MTN"
+  ],
+  [
+   18,
+   "Hugo Barbier",
+   "MF",
+   "FRA"
+  ],
+  [
+   19,
+   "Thierno Baldé",
+   "DF",
+   "FRA"
+  ],
+  [
+   21,
+   "Elydjah Mendy",
+   "DF",
+   "GNB"
+  ],
+  [
+   22,
+   "Logan Ndenbe",
+   "DF",
+   "BEL"
+  ],
+  [
+   24,
+   "Yanis Delaveau",
+   "MF",
+   "ALG"
+  ],
+  [
+   25,
+   "Jérémy Gelin",
+   "MF",
+   "FRA"
+  ],
+  [
+   26,
+   "Zakaria Ztouti",
+   "MF",
+   "FRA"
+  ],
+  [
+   28,
+   "Issam Bouaoune",
+   "MF",
+   "ALG"
+  ],
+  [
+   30,
+   "Geoffrey Lembet",
+   "GK",
+   "CTA"
+  ],
+  [
+   40,
+   "Yanis Kouini",
+   "GK",
+   "MAR"
+  ],
+  [
+   44,
+   "Enzo Tacafred",
+   "DF",
+   "FRA"
+  ],
+  [
+   45,
+   "Chafik El Hansar",
+   "MF",
+   "FRA"
+  ]
+ ],
+ "Nantes": [
+  [
+   1,
+   "Maxime Dupé",
+   "GK",
+   "FRA"
+  ],
+  [
+   5,
+   "Lucas Perrin",
+   "DF",
+   "FRA"
+  ],
+  [
+   7,
+   "Antoine Joujou",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Johann Lepenant",
+   "MF",
+   "FRA"
+  ],
+  [
+   12,
+   "Killian Corredor",
+   "FW",
+   "FRA"
+  ],
+  [
+   13,
+   "Fodé Doucouré",
+   "DF",
+   "MLI"
+  ],
+  [
+   14,
+   "Lamine Diack (footballer)",
+   "MF",
+   "SEN"
+  ],
+  [
+   16,
+   "Alexis Mirbach",
+   "GK",
+   "FRA"
+  ],
+  [
+   17,
+   "Dehmaine Tabibou",
+   "MF",
+   "FRA"
+  ],
+  [
+   18,
+   "Fabien Centonze",
+   "DF",
+   "FRA"
+  ],
+  [
+   19,
+   "Louis Leroux",
+   "MF",
+   "FRA"
+  ],
+  [
+   20,
+   "Mathieu Cafaro",
+   "MF",
+   "FRA"
+  ],
+  [
+   23,
+   "Wilitty Younoussa",
+   "MF",
+   "CMR"
+  ],
+  [
+   24,
+   "Frédéric Guilbert",
+   "DF",
+   "FRA"
+  ],
+  [
+   26,
+   "Ryad Hachem",
+   "MF",
+   "FRA"
+  ],
+  [
+   27,
+   "Thomas Robinet",
+   "FW",
+   "FRA"
+  ],
+  [
+   28,
+   "Ibrahima Sissoko",
+   "MF",
+   "MLI"
+  ],
+  [
+   37,
+   "Ignatius Ganago",
+   "FW",
+   "CMR"
+  ],
+  [
+   40,
+   "Yanel Zézé",
+   "GK",
+   "FRA"
+  ],
+  [
+   44,
+   "Balthazar Pierret",
+   "MF",
+   "FRA"
+  ]
+ ],
+ "Pau": [
+  [
+   1,
+   "Brice Maubleu",
+   "GK",
+   "FRA"
+  ],
+  [
+   2,
+   "Tom Pouilly",
+   "DF",
+   "FRA"
+  ],
+  [
+   5,
+   "Lorenzo Rajot",
+   "MF",
+   "FRA"
+  ],
+  [
+   6,
+   "Cheikh Fall (footballer, born 2004)",
+   "MF",
+   "SEN"
+  ],
+  [
+   7,
+   "Hacène Benali",
+   "FW",
+   "ALG"
+  ],
+  [
+   8,
+   "Souleymane Basse",
+   "DF",
+   "SEN"
+  ],
+  [
+   9,
+   "Babacar Leye",
+   "FW",
+   "FRA"
+  ],
+  [
+   11,
+   "Alexis Lefebvre",
+   "FW",
+   "FRA"
+  ],
+  [
+   14,
+   "Royce Openda",
+   "FW",
+   "GAB"
+  ],
+  [
+   16,
+   "Maxime Adam",
+   "GK",
+   "FRA"
+  ],
+  [
+   19,
+   "Tom Saettel",
+   "FW",
+   "FRA"
+  ],
+  [
+   21,
+   "Jessy Benet",
+   "MF",
+   "FRA"
+  ],
+  [
+   22,
+   "Rony Mimb Baheng",
+   "DF",
+   "CMR"
+  ],
+  [
+   23,
+   "Anthony Briançon",
+   "DF",
+   "FRA"
+  ],
+  [
+   25,
+   "Quentin Daubin",
+   "MF",
+   "FRA"
+  ],
+  [
+   29,
+   "Gaëtan Paquiez",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Esteban Salles",
+   "GK",
+   "FRA"
+  ],
+  [
+   39,
+   "Mathys Tourraine",
+   "DF",
+   "MAR"
+  ]
+ ],
+ "Reims": [
+  [
+   1,
+   "Tom Ritzy Hülsmann",
+   "GK",
+   "GER"
+  ],
+  [
+   2,
+   "Joseph Okumu",
+   "DF",
+   "KEN"
+  ],
+  [
+   5,
+   "John Otomewo",
+   "MF",
+   "NGA"
+  ],
+  [
+   6,
+   "Théo Leoni",
+   "MF",
+   "BEL"
+  ],
+  [
+   7,
+   "Tidiane Diarrassouba",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Yaya Fofana",
+   "MF",
+   "CIV"
+  ],
+  [
+   9,
+   "Mohamed Daramy",
+   "FW",
+   "DEN"
+  ],
+  [
+   10,
+   "Youssef El Kachati",
+   "FW",
+   "MAR"
+  ],
+  [
+   12,
+   "Edin Omeragić",
+   "GK",
+   "SUI"
+  ],
+  [
+   18,
+   "Sergio Akieme",
+   "DF",
+   "ESP"
+  ],
+  [
+   21,
+   "Jean Mambuku",
+   "DF",
+   "ITA"
+  ],
+  [
+   22,
+   "Samuel Kotto",
+   "DF",
+   "CMR"
+  ],
+  [
+   24,
+   "Mory Gbane",
+   "MF",
+   "CIV"
+  ],
+  [
+   27,
+   "Daouda Guindo",
+   "DF",
+   "MLI"
+  ],
+  [
+   28,
+   "Elie N'Tamon",
+   "DF",
+   "CIV"
+  ],
+  [
+   30,
+   "John Patrick (footballer, born 2003)",
+   "MF",
+   "IRL"
+  ]
+ ],
+ "Rodez": [
+  [
+   1,
+   "Quentin Braat",
+   "GK",
+   "FRA"
+  ],
+  [
+   3,
+   "Raphaël Lipinski",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Mathis Magnin",
+   "DF",
+   "SWI"
+  ],
+  [
+   5,
+   "Mohamed Sylla",
+   "DF",
+   "FRA"
+  ],
+  [
+   6,
+   "Jordan Mendes",
+   "MF",
+   "CPV"
+  ],
+  [
+   7,
+   "Kenny Nagera",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Damjan Pavlović",
+   "MF",
+   "SRB"
+  ],
+  [
+   9,
+   "Nachon Nsingi",
+   "FW",
+   "BEL"
+  ],
+  [
+   11,
+   "Mathis Touho",
+   "FW",
+   "FRA"
+  ],
+  [
+   13,
+   "Corentin Issanchou",
+   "FW",
+   "FRA"
+  ],
+  [
+   15,
+   "Jean Lambert Evans",
+   "DF",
+   "FRA"
+  ],
+  [
+   16,
+   "Lucas Margueron",
+   "GK",
+   "FRA"
+  ],
+  [
+   17,
+   "Dylan Vangi",
+   "DF",
+   "FRA"
+  ],
+  [
+   19,
+   "Hermann Tebily",
+   "FW",
+   "FRA"
+  ],
+  [
+   20,
+   "Ryan Ponti",
+   "DF",
+   "MAD"
+  ],
+  [
+   21,
+   "Kélian Nsona",
+   "FW",
+   "FRA"
+  ],
+  [
+   22,
+   "Octave Joly",
+   "MF",
+   "FRA"
+  ],
+  [
+   23,
+   "Cheick Doumbia",
+   "DF",
+   "MLI"
+  ],
+  [
+   24,
+   "Loni Laurent",
+   "DF",
+   "FRA"
+  ],
+  [
+   27,
+   "Marco Essimi",
+   "FW",
+   "FRA"
+  ],
+  [
+   28,
+   "Steven Luyambula",
+   "DF",
+   "FRA"
+  ],
+  [
+   29,
+   "Antonin Cartillier",
+   "MF",
+   "FRA"
+  ],
+  [
+   30,
+   "Enzo Crombez",
+   "GK",
+   "FRA"
+  ],
+  [
+   34,
+   "Yanis Dahalani",
+   "MF",
+   "FRA"
+  ]
+ ],
+ "SaintEtienne": [
+  [
+   1,
+   "Mamour Ndiaye",
+   "GK",
+   "SEN"
+  ],
+  [
+   2,
+   "Strahinja Stojković",
+   "DF",
+   "SRB"
+  ],
+  [
+   5,
+   "Mahmoud Jaber",
+   "MF",
+   "ISR"
+  ],
+  [
+   6,
+   "Maxime Bernauer",
+   "DF",
+   "FRA"
+  ],
+  [
+   7,
+   "Irvin Cardona",
+   "FW",
+   "MLT"
+  ],
+  [
+   8,
+   "Thierno Ballo",
+   "FW",
+   "AUT"
+  ],
+  [
+   10,
+   "Jakob Breum",
+   "MF",
+   "DEN"
+  ],
+  [
+   11,
+   "Ben Old",
+   "DF",
+   "NZL"
+  ],
+  [
+   13,
+   "João Ferreira (footballer)",
+   "DF",
+   "POR"
+  ],
+  [
+   14,
+   "Áron Csongvai",
+   "MF",
+   "HUN"
+  ],
+  [
+   15,
+   "Chico Lamba",
+   "DF",
+   "POR"
+  ],
+  [
+   16,
+   "Tamar Svetlin",
+   "MF",
+   "SLO"
+  ],
+  [
+   17,
+   "Joshua Duffus",
+   "FW",
+   "ENG"
+  ],
+  [
+   18,
+   "Sohaib Naïr",
+   "DF",
+   "ALG"
+  ],
+  [
+   20,
+   "Augustine Boakye",
+   "FW",
+   "GHA"
+  ],
+  [
+   21,
+   "Paul Eymard",
+   "MF",
+   "FRA"
+  ],
+  [
+   22,
+   "Zuriko Davitashvili",
+   "FW",
+   "GEO"
+  ],
+  [
+   23,
+   "Kévin Pedro",
+   "DF",
+   "DRC"
+  ],
+  [
+   24,
+   "Loïc Perrin",
+   "DF",
+   "FRA"
+  ],
+  [
+   26,
+   "Julien Le Cardinal",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Gautier Larsonneur",
+   "GK",
+   "FRA"
+  ],
+  [
+   31,
+   "Nadir El Jamali",
+   "MF",
+   "FRA"
+  ],
+  [
+   32,
+   "Adam Baallal",
+   "MF",
+   "MAR"
+  ],
+  [
+   33,
+   "Marten Paalberg",
+   "FW",
+   "EST"
+  ],
+  [
+   34,
+   "Lassana Traoré (footballer)",
+   "DF",
+   "SEN"
+  ],
+  [
+   40,
+   "Lucas Lavallée",
+   "GK",
+   "FRA"
+  ]
+ ]
+}

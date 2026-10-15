@@ -1,0 +1,228 @@
+{
+ "Bundesliga": {
+  "BayernMunich": [
+   "FC Bayern Munich",
+   20126
+  ],
+  "Dortmund": [
+   "Borussia Dortmund",
+   20127
+  ],
+  "Leipzig": [
+   "RB Leipzig",
+   20128
+  ],
+  "Leverkusen": [
+   "Bayer 04 Leverkusen",
+   20129
+  ],
+  "Schalke": [
+   "FC Schalke 04",
+   20130
+  ],
+  "Frankfurt": [
+   "Eintracht Frankfurt",
+   20131
+  ],
+  "Gladbach": [
+   "Borussia Mönchengladbach",
+   20132
+  ],
+  "Mainz": [
+   "1. FSV Mainz 05",
+   20134
+  ],
+  "Bremen": [
+   "SV Werder Bremen",
+   20135
+  ],
+  "UnionBerlin": [
+   "1. FC Union Berlin",
+   20144
+  ],
+  "Freiburg": [
+   "SC Freiburg",
+   20137
+  ],
+  "Koln": [
+   "1. FC Köln",
+   20138
+  ],
+  "Augsburg": [
+   "FC Augsburg",
+   20139
+  ],
+  "Stuttgart": [
+   "VfB Stuttgart",
+   20140
+  ],
+  "Hamburg": [
+   "Hamburger SV",
+   20141
+  ],
+  "Hoffenheim": [
+   "TSG 1899 Hoffenheim",
+   20145
+  ],
+  "Paderborn": [
+   "SC Paderborn 07",
+   20147
+  ],
+  "Elversberg": [
+   "SV 07 Elversberg",
+   20379
+  ]
+ },
+ "SerieA": {
+  "Juventus": [
+   "Juventus FC",
+   20076
+  ],
+  "Napoli": [
+   "SSC Napoli",
+   20077
+  ],
+  "Inter": [
+   "Inter Milan",
+   20078
+  ],
+  "Atalanta": [
+   "Atalanta BC",
+   20079
+  ],
+  "Milan": [
+   "AC Milan",
+   20080
+  ],
+  "Roma": [
+   "AS Roma",
+   20081
+  ],
+  "Torino": [
+   "Torino FC",
+   20082
+  ],
+  "Lazio": [
+   "SS Lazio",
+   20083
+  ],
+  "Genoa": [
+   "Genoa CFC",
+   20084
+  ],
+  "Bologna": [
+   "Bologna FC 1909",
+   20085
+  ],
+  "Sassuolo": [
+   "US Sassuolo Calcio",
+   20086
+  ],
+  "Udinese": [
+   "Udinese Calcio",
+   20087
+  ],
+  "Fiorentina": [
+   "ACF Fiorentina",
+   20091
+  ],
+  "Cagliari": [
+   "Cagliari Calcio",
+   20089
+  ],
+  "Como": [
+   "Como 1907",
+   20349
+  ],
+  "Parma": [
+   "Parma Calcio 1913",
+   20100
+  ],
+  "Lecce": [
+   "US Lecce",
+   20369
+  ],
+  "Monza": [
+   "AC Monza",
+   20370
+  ],
+  "Venezia": [
+   "Venezia FC",
+   20098
+  ],
+  "Frosinone": [
+   "Frosinone Calcio",
+   20347
+  ]
+ },
+ "Ligue1": {
+  "PSG": [
+   "Paris Saint-Germain FC",
+   20051
+  ],
+  "Lille": [
+   "Lille OSC",
+   20052
+  ],
+  "Lyon": [
+   "Olympique Lyonnais",
+   20053
+  ],
+  "Marseille": [
+   "Olympique de Marseille",
+   20055
+  ],
+  "Nice": [
+   "OGC Nice",
+   20057
+  ],
+  "Monaco": [
+   "AS Monaco FC",
+   20058
+  ],
+  "Rennes": [
+   "Stade Rennais FC",
+   20060
+  ],
+  "Strasbourg": [
+   "RC Strasbourg Alsace",
+   20061
+  ],
+  "Brest": [
+   "Stade Brestois 29",
+   20065
+  ],
+  "Lens": [
+   "RC Lens",
+   20070
+  ],
+  "Toulouse": [
+   "Toulouse FC",
+   20075
+  ],
+  "Auxerre": [
+   "AJ Auxerre",
+   20372
+  ],
+  "LeHavre": [
+   "Le Havre AC",
+   20363
+  ],
+  "ParisFC": [
+   "Paris FC",
+   20424
+  ],
+  "Angers": [
+   "Angers SCO",
+   20063
+  ],
+  "Lorient": [
+   "FC Lorient",
+   20067
+  ],
+  "Troyes": [
+   "ES Troyes AC",
+   20071
+  ]
+ }
+}

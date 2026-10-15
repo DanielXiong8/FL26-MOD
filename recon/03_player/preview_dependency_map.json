@@ -1,0 +1,117 @@
+{
+  "pipeline": "FL26 PC Avatar Previewer",
+  "version": "1.0",
+  "date": "2026-09-03",
+  "faceMeshes": {
+    "face_EastAsia_new1": {
+      "type": "Mesh",
+      "vertexCount": 700,
+      "subMeshes": 2,
+      "uvRange": "[-0.056, 1.055]",
+      "bindPoseCount": 2,
+      "source": "C:\\FL26_Mod\\build\\avatar.unity3d",
+      "extracted": "C:\\FL26_Mod\\tools\\FL26_AvatarPreviewer\\extracted\\meshes\\face_EastAsia_new1.json"
+    },
+    "face_EastAsia_new2": {
+      "type": "Mesh",
+      "vertexCount": 700,
+      "subMeshes": 2,
+      "uvRange": "[-8.28, 11.98]",
+      "uvTileCount": 103,
+      "source": "C:\\FL26_Mod\\build\\avatar.unity3d",
+      "extracted": "C:\\FL26_Mod\\tools\\FL26_AvatarPreviewer\\extracted\\meshes\\face_EastAsia_new2.json"
+    },
+    "face_EastAsia_new3": {
+      "type": "Mesh",
+      "vertexCount": 700,
+      "subMeshes": 2
+    },
+    "face_EastAsia_new4": {
+      "type": "Mesh",
+      "vertexCount": 698,
+      "subMeshes": 2
+    },
+    "face_EastAsia_new5": {
+      "type": "Mesh",
+      "vertexCount": 700,
+      "subMeshes": 2
+    },
+    "face_EastAsia_new6": {
+      "type": "Mesh",
+      "vertexCount": 700,
+      "subMeshes": 2
+    }
+  },
+  "faceTextures": {
+    "face_eastasia_new1": {
+      "type": "Texture2D",
+      "size": "512x512",
+      "wrapModeU": 0,
+      "wrapModeV": 0,
+      "filterMode": 1,
+      "source": "C:\\FL26_Mod\\build\\avatar.unity3d",
+      "extracted": "C:\\FL26_Mod\\tools\\FL26_AvatarPreviewer\\extracted\\textures\\face_eastAsia_new1.png"
+    },
+    "face_eastasia_new2": {
+      "wrapModeU": 0,
+      "wrapModeV": 0,
+      "filterMode": 1
+    },
+    "face_eastasia_new3": {},
+    "face_eastasia_new4": {},
+    "face_eastasia_new5": {},
+    "face_eastasia_new6": {},
+    "skin_eastasia_new1": {
+      "type": "Texture2D",
+      "size": "512x512"
+    }
+  },
+  "materials": {
+    "face": {
+      "shader": "Custom/MobilePBR or Sl/DynamicCrowd",
+      "textureSlots": ["_MainTex"],
+      "status": "PARTIAL"
+    },
+    "face_mask": {
+      "shader": "Unlit/Texture",
+      "textureSlots": ["_MainTex"],
+      "status": "EXTRACTED"
+    },
+    "face_mask_highpoly": {
+      "shader": "Unlit/Texture",
+      "textureSlots": ["_MainTex"],
+      "status": "EXTRACTED"
+    }
+  },
+  "shaders": {
+    "Custom/MobilePBR": "Likely the face PBR shader - HIGHEST PRIORITY",
+    "Sl/DynamicCrowd": "Crowd dynamic shader - likely face UI render",
+    "Sl/MakeDynamicCrowdTexture": "Compile-time texture generation",
+    "Unlit/Texture": "Fallback capable - known working in Unity Player",
+    "Custom/UVAnimBlend": "UV animation blend - possibly for face texture"
+  },
+  "gameObjects": {
+    "face_EastAsia_new1": "extracted/gameobjects/face_EastAsia_new1.json",
+    "face_EastAsia_new2": "extracted/gameobjects/face_EastAsia_new2.json",
+    "face_EastAsia_new3": "extracted/gameobjects/face_EastAsia_new3.json",
+    "face_EastAsia_new4": "extracted/gameobjects/face_EastAsia_new4.json",
+    "face_EastAsia_new5": "extracted/gameobjects/face_EastAsia_new5.json",
+    "face_EastAsia_new6": "extracted/gameobjects/face_EastAsia_new6.json"
+  },
+  "skinnedMeshRenderer": "extracted/gameobjects/SkinnedMeshRenderer_face.json",
+  "knownIssues": {
+    "uvTileLayout": "new2 has 103 UV tiles in range [-8.28, 11.98] - game engine handles via shader UV transform, not simple wrap",
+    "wrapMode": "m_WrapU=m_WrapV=0(Repeat) but texture content shows tile identity - shader manages tile offsets",
+    "pcRendererFallback": "Python custom renderer cannot reproduce game UV tile layout - confirmed failed"
+  },
+  "nextSteps": [
+    "Install Unity 2020.3.49f1 via Unity Hub",
+    "Open FL26_AvatarPreviewer project",
+    "Verify face_EastAsia_new1 mesh + texture loading",
+    "Verify material + shader rendering",
+    "Verify new1~new4 UV tile correctness",
+    "Load candidate c4 texture",
+    "Export viewer_front/45L/45R/side.png",
+    "Compare with Android screenshot -> PC_PREVIEW_VALID"
+  ]
+}

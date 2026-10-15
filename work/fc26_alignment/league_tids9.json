@@ -1,0 +1,56 @@
+{
+ "DE2": {
+  "Hertha": 20136,
+  "Bielefeld": 20143,
+  "Bochum": 20142,
+  "Braunschweig": 20341,
+  "Darmstadt": 20335,
+  "Dresden": 20381,
+  "Furth": 20146,
+  "Hannover": 20149,
+  "Heidenheim": 20332,
+  "Kaiserslautern": 20331,
+  "Karlsruhe": 20339,
+  "Kiel": 20336,
+  "Magdeburg": 20340,
+  "Nurnberg": 20150,
+  "StPauli": 20337,
+  "Wolfsburg": 20133
+ },
+ "IT2": {
+  "Sudtirol": 20354,
+  "Ascoli": 20345,
+  "Benevento": 20093,
+  "Carrarese": 20411,
+  "Catanzaro": 20414,
+  "Cremonese": 20368,
+  "Empoli": 20090,
+  "Verona": 20094,
+  "Modena": 20352,
+  "Palermo": 20343,
+  "Pisa": 20350,
+  "Sampdoria": 20095,
+  "Vicenza": 20410
+ },
+ "FR2": {
+  "Annecy": 20374,
+  "Clermont": 20066,
+  "Dijon": 20073,
+  "Dunkerque": 20416,
+  "Grenoble": 20360,
+  "Guingamp": 20355,
+  "Laval": 20357,
+  "Metz": 20068,
+  "Montpellier": 20056,
+  "Nancy": 20419,
+  "Nantes": 20062,
+  "Pau": 20364,
+  "Reims": 20069,
+  "Rodez": 20366,
+  "SaintEtienne": 20054
+ },
+ "ES2": {
+  "Tenerife": 20308,
+  "Girona": 20371
+ }
+}

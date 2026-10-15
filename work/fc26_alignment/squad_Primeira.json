@@ -1,0 +1,2558 @@
+{
+ "Porto": [
+  [
+   4,
+   "Jakub Kiwior",
+   "DF",
+   "POL"
+  ],
+  [
+   5,
+   "Jan Bednarek",
+   "DF",
+   "POL"
+  ],
+  [
+   6,
+   "Chris Smalling",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "William Gomes",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Victor Froholdt",
+   "MF",
+   "DEN"
+  ],
+  [
+   9,
+   "Samu Aghehowa",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Gabri Veiga",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Pepê (footballer, born 1997)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Zaidu Sanusi",
+   "DF",
+   "NGA"
+  ],
+  [
+   13,
+   "Pablo Rosario",
+   "MF",
+   "DOM"
+  ],
+  [
+   14,
+   "Cláudio Ramos (footballer)",
+   "GK",
+   "POR"
+  ],
+  [
+   15,
+   "Vasco Sousa (footballer)",
+   "MF",
+   "POR"
+  ],
+  [
+   16,
+   "Hwang In-beom",
+   "MF",
+   "KOR"
+  ],
+  [
+   17,
+   "Borja Sainz",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Nehuén Pérez",
+   "DF",
+   "ARG"
+  ],
+  [
+   19,
+   "André Silva (footballer, born 1995)",
+   "FW",
+   "POR"
+  ],
+  [
+   20,
+   "Alberto Costa (footballer, born 2003)",
+   "DF",
+   "POR"
+  ],
+  [
+   21,
+   "Dominik Prpić",
+   "DF",
+   "CRO"
+  ],
+  [
+   22,
+   "Alan Varela",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "João Costa (footballer, born 1996)",
+   "GK",
+   "POR"
+  ],
+  [
+   29,
+   "Santiago Giménez",
+   "FW",
+   "MEX"
+  ],
+  [
+   33,
+   "Souza (footballer, born 2006)",
+   "DF",
+   "BRA"
+  ],
+  [
+   37,
+   "Gabriel Mec",
+   "FW",
+   "BRA"
+  ],
+  [
+   42,
+   "Seko Fofana",
+   "MF",
+   "CIV"
+  ]
+ ],
+ "Sporting": [
+  [
+   1,
+   "Rui Silva (footballer, born 1994)",
+   "GK",
+   "POR"
+  ],
+  [
+   4,
+   "Silas Andersen",
+   "MF",
+   "DEN"
+  ],
+  [
+   5,
+   "Sergi Altimira",
+   "MF",
+   "ESP"
+  ],
+  [
+   6,
+   "Zeno Debast",
+   "DF",
+   "BEL"
+  ],
+  [
+   7,
+   "Fotis Ioannidis",
+   "FW",
+   "GRE"
+  ],
+  [
+   8,
+   "João Simões (footballer, born 2007)",
+   "MF",
+   "POR"
+  ],
+  [
+   8,
+   "Pedro Gonçalves",
+   "FW",
+   "POR"
+  ],
+  [
+   9,
+   "Rafael Nel",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Geny Catamo",
+   "FW",
+   "MOZ"
+  ],
+  [
+   11,
+   "Nuno Santos (footballer, born 1995)",
+   "DF",
+   "POR"
+  ],
+  [
+   13,
+   "Georgios Vagiannidis",
+   "DF",
+   "GRE"
+  ],
+  [
+   15,
+   "Souleymane Faye (footballer)",
+   "FW",
+   "SEN"
+  ],
+  [
+   17,
+   "Rodrigo Zalazar",
+   "MF",
+   "URU"
+  ],
+  [
+   18,
+   "Moncef Zekri",
+   "DF",
+   "MAR"
+  ],
+  [
+   19,
+   "Nestory Irankunda",
+   "FW",
+   "AUS"
+  ],
+  [
+   19,
+   "Ricardo Mangas",
+   "DF",
+   "POR"
+  ],
+  [
+   20,
+   "Maximiliano Araújo",
+   "FW",
+   "URU"
+  ],
+  [
+   21,
+   "Pedro Lima (footballer, born 2003)",
+   "MF",
+   "BRA"
+  ],
+  [
+   22,
+   "Iván Fresneda",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Daniel Bragança",
+   "MF",
+   "POR"
+  ],
+  [
+   25,
+   "Gonçalo Inácio",
+   "DF",
+   "POR"
+  ],
+  [
+   28,
+   "Jesse Derry",
+   "FW",
+   "ENG"
+  ],
+  [
+   30,
+   "Kaique Pereira",
+   "GK",
+   "BRA"
+  ],
+  [
+   31,
+   "Luis Guilherme",
+   "FW",
+   "BRA"
+  ],
+  [
+   41,
+   "Diego Callai",
+   "GK",
+   "BRA"
+  ]
+ ],
+ "Benfica": [
+  [
+   1,
+   "Anatoliy Trubin",
+   "GK",
+   "UKR"
+  ],
+  [
+   2,
+   "Clément Lenglet",
+   "DF",
+   "FRA"
+  ],
+  [
+   3,
+   "Alessandro Circati",
+   "DF",
+   "AUS"
+  ],
+  [
+   5,
+   "Enzo Barrenechea",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Alexander Bah",
+   "DF",
+   "DEN"
+  ],
+  [
+   8,
+   "Fredrik Aursnes",
+   "MF",
+   "NOR"
+  ],
+  [
+   9,
+   "Franjo Ivanović",
+   "FW",
+   "CRO"
+  ],
+  [
+   10,
+   "Heorhiy Sudakov",
+   "MF",
+   "UKR"
+  ],
+  [
+   11,
+   "Dodi Lukébakio",
+   "FW",
+   "BEL"
+  ],
+  [
+   13,
+   "Jakub Kamiński",
+   "MF",
+   "POL"
+  ],
+  [
+   14,
+   "Vangelis Pavlidis",
+   "FW",
+   "GRE"
+  ],
+  [
+   16,
+   "Manu Silva",
+   "MF",
+   "POR"
+  ],
+  [
+   18,
+   "Leandro Barreiro",
+   "MF",
+   "LUX"
+  ],
+  [
+   20,
+   "Richard Ríos",
+   "MF",
+   "COL"
+  ],
+  [
+   21,
+   "Andreas Schjelderup",
+   "FW",
+   "NOR"
+  ],
+  [
+   22,
+   "Jhon Durán",
+   "FW",
+   "COL"
+  ],
+  [
+   24,
+   "Samuel Soares",
+   "GK",
+   "POR"
+  ],
+  [
+   25,
+   "Gianluca Prestianni",
+   "FW",
+   "ARG"
+  ],
+  [
+   26,
+   "Samuel Dahl",
+   "DF",
+   "SWE"
+  ],
+  [
+   27,
+   "Rafa Silva",
+   "MF",
+   "POR"
+  ],
+  [
+   30,
+   "Claudio Echeverri",
+   "MF",
+   "ARG"
+  ],
+  [
+   33,
+   "Gabriel Índio",
+   "DF",
+   "BRA"
+  ],
+  [
+   34,
+   "Souffian El Karouani",
+   "DF",
+   "MAR"
+  ],
+  [
+   36,
+   "João Palhinha",
+   "MF",
+   "POR"
+  ],
+  [
+   44,
+   "Tomás Araújo",
+   "DF",
+   "POR"
+  ]
+ ],
+ "Braga": [
+  [
+   2,
+   "Víctor Gómez (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Sikou Niakaté",
+   "DF",
+   "MLI"
+  ],
+  [
+   6,
+   "Vitor Carvalho",
+   "MF",
+   "BRA"
+  ],
+  [
+   7,
+   "Diogo Travassos",
+   "DF",
+   "POR"
+  ],
+  [
+   8,
+   "João Moutinho",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Fran Navarro",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Pau Víctor",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Gabriel Silva (footballer, born March 2002)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Tiago Sá",
+   "GK",
+   "POR"
+  ],
+  [
+   14,
+   "Gustaf Lagerbielke (footballer)",
+   "DF",
+   "SWE"
+  ],
+  [
+   16,
+   "Tommy Marqués",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Jovan Milošević",
+   "FW",
+   "SRB"
+  ],
+  [
+   19,
+   "Jonas Wind",
+   "FW",
+   "DEN"
+  ],
+  [
+   20,
+   "Mario Dorgeles",
+   "MF",
+   "CIV"
+  ],
+  [
+   21,
+   "Ricardo Horta",
+   "FW",
+   "POR"
+  ],
+  [
+   22,
+   "Sergio Barcia",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Denis Huseinbašić",
+   "MF",
+   "BIH"
+  ],
+  [
+   26,
+   "Bright Arrey-Mbi",
+   "DF",
+   "GER"
+  ],
+  [
+   29,
+   "Jean-Baptiste Gorby",
+   "MF",
+   "FRA"
+  ],
+  [
+   31,
+   "Bernardo Fontes",
+   "GK",
+   "BRA"
+  ],
+  [
+   34,
+   "Demir Ege Tıknaz",
+   "MF",
+   "TUR"
+  ],
+  [
+   37,
+   "Adrian Leon Barišić",
+   "DF",
+   "BIH"
+  ],
+  [
+   44,
+   "Adrian Bajrami",
+   "DF",
+   "SUI"
+  ]
+ ],
+ "GilVicente": [
+  [
+   1,
+   "André Picornell",
+   "GK",
+   "SWE"
+  ],
+  [
+   2,
+   "José Silva (footballer, born 2005)",
+   "DF",
+   "POR"
+  ],
+  [
+   3,
+   "Antonio Espigares",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Marvin Elimbi",
+   "DF",
+   "FRA"
+  ],
+  [
+   6,
+   "Zé Carlos (footballer, born 2001)",
+   "MF",
+   "POR"
+  ],
+  [
+   7,
+   "Tidjany Touré",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Mohamed Bamba (footballer, born 2004)",
+   "MF",
+   "CIV"
+  ],
+  [
+   9,
+   "Walace França",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Santi García",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Joelson Fernandes",
+   "FW",
+   "POR"
+  ],
+  [
+   12,
+   "Andreas Lausen",
+   "MF",
+   "DEN"
+  ],
+  [
+   17,
+   "Sergio Bermejo",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "Guilherme Gomes",
+   "MF",
+   "BRA"
+  ],
+  [
+   20,
+   "Gil Martins",
+   "MF",
+   "POR"
+  ],
+  [
+   23,
+   "Héctor Hernández (footballer, born 1995)",
+   "FW",
+   "ESP"
+  ],
+  [
+   26,
+   "Weverson (footballer, born 2000)",
+   "DF",
+   "BRA"
+  ],
+  [
+   27,
+   "Agustín Moreira (footballer)",
+   "FW",
+   "URU"
+  ],
+  [
+   30,
+   "Lucão (footballer, born 2001)",
+   "GK",
+   "BRA"
+  ],
+  [
+   32,
+   "Martín Fernández (footballer, born 2003)",
+   "MF",
+   "URU"
+  ],
+  [
+   39,
+   "Jonathan Buatu",
+   "DF",
+   "ANG"
+  ],
+  [
+   44,
+   "Tiago Ferreira",
+   "GK",
+   "POR"
+  ],
+  [
+   45,
+   "David Moreira",
+   "DF",
+   "CPV"
+  ]
+ ],
+ "Guimaraes": [
+  [
+   2,
+   "Miguel Maga (footballer, born 2002)",
+   "DF",
+   "POR"
+  ],
+  [
+   4,
+   "Óscar Rivas (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Matija Mitrović",
+   "MF",
+   "SRB"
+  ],
+  [
+   7,
+   "Oumar Camara (footballer, born 2007)",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Gonçalo Nogueira",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Arnel Jakupović",
+   "FW",
+   "AUT"
+  ],
+  [
+   10,
+   "Alan (footballer, born 2000)",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Gustavo Silva (footballer, born 1999)",
+   "FW",
+   "BRA"
+  ],
+  [
+   13,
+   "João Mendes (footballer, born 2000)",
+   "DF",
+   "POR"
+  ],
+  [
+   15,
+   "Yeimar Mosquera",
+   "DF",
+   "COL"
+  ],
+  [
+   16,
+   "Beni Mukendi",
+   "MF",
+   "ANG"
+  ],
+  [
+   17,
+   "Miguel Nogueira",
+   "MF",
+   "POR"
+  ],
+  [
+   18,
+   "Telmo Arcanjo",
+   "FW",
+   "CPV"
+  ],
+  [
+   19,
+   "Victor Andersson",
+   "MF",
+   "SWE"
+  ],
+  [
+   20,
+   "Samu (footballer)",
+   "MF",
+   "POR"
+  ],
+  [
+   22,
+   "Juan Diego Castillo",
+   "GK",
+   "COL"
+  ],
+  [
+   23,
+   "Tony Strata",
+   "DF",
+   "ROU"
+  ],
+  [
+   24,
+   "Alioune Ndoye",
+   "FW",
+   "SEN"
+  ],
+  [
+   28,
+   "Thiago Balieiro",
+   "DF",
+   "BRA"
+  ],
+  [
+   29,
+   "Patrick Ouotro",
+   "FW",
+   "CIV"
+  ],
+  [
+   35,
+   "Fabio Blanco",
+   "MF",
+   "ESP"
+  ],
+  [
+   44,
+   "Lohann Doucet",
+   "MF",
+   "BFA"
+  ],
+  [
+   45,
+   "Marco Cruz",
+   "MF",
+   "POR"
+  ]
+ ],
+ "SantaClara": [
+  [
+   1,
+   "Lucas França (footballer)",
+   "GK",
+   "BRA"
+  ],
+  [
+   3,
+   "Henrique Silva (footballer, born 2005)",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Pedro Pacheco (footballer, born 1997)",
+   "DF",
+   "POR"
+  ],
+  [
+   6,
+   "Pedro Ferreira (footballer, born 1998)",
+   "MF",
+   "POR"
+  ],
+  [
+   7,
+   "Fernando (footballer, born 2005)",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Djé Tavares",
+   "MF",
+   "CPV"
+  ],
+  [
+   9,
+   "Gonçalo Paciência",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Brenner Lucas",
+   "FW",
+   "BRA"
+  ],
+  [
+   11,
+   "Welinton (footballer, born 1999)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Neneca (footballer, born 2003)",
+   "GK",
+   "BRA"
+  ],
+  [
+   17,
+   "João Vasconcelos",
+   "MF",
+   "POR"
+  ],
+  [
+   18,
+   "Afonso Duarte",
+   "FW",
+   "POR"
+  ],
+  [
+   19,
+   "Ythallo",
+   "DF",
+   "BRA"
+  ],
+  [
+   20,
+   "Tiago Ribeiro (footballer, born 2002)",
+   "MF",
+   "POR"
+  ],
+  [
+   21,
+   "Emanuel Moreira",
+   "DF",
+   "POR"
+  ],
+  [
+   22,
+   "Vitinho (footballer, born February 2004)",
+   "MF",
+   "BRA"
+  ],
+  [
+   25,
+   "Fredy",
+   "MF",
+   "POR"
+  ],
+  [
+   32,
+   "MT (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   41,
+   "Dani Borges",
+   "MF",
+   "BRA"
+  ],
+  [
+   42,
+   "Lucas Soares",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Famalicao": [
+  [
+   1,
+   "Ivan Zlobin",
+   "GK",
+   "RUS"
+  ],
+  [
+   2,
+   "Gustavo Garcia (footballer, born 2002)",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Leonardo Realpe",
+   "DF",
+   "ECU"
+  ],
+  [
+   4,
+   "Finn van Breemen",
+   "DF",
+   "NED"
+  ],
+  [
+   5,
+   "Leny Meyer",
+   "DF",
+   "SUI"
+  ],
+  [
+   6,
+   "Tom van de Looi",
+   "MF",
+   "NED"
+  ],
+  [
+   7,
+   "Sorriso (footballer, born 2001)",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Marcos Peña (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Umar Abubakar",
+   "FW",
+   "NGR"
+  ],
+  [
+   10,
+   "Pedro Santos (footballer, born 2003)",
+   "MF",
+   "POR"
+  ],
+  [
+   11,
+   "Óscar Aranda",
+   "FW",
+   "ESP"
+  ],
+  [
+   14,
+   "Mathias De Amorim",
+   "MF",
+   "POR"
+  ],
+  [
+   15,
+   "Víctor Rofino",
+   "DF",
+   "GNB"
+  ],
+  [
+   17,
+   "Rodrigo Pinheiro",
+   "DF",
+   "POR"
+  ],
+  [
+   18,
+   "Roméo Beney",
+   "FW",
+   "SUI"
+  ],
+  [
+   19,
+   "Paulo Moreira",
+   "MF",
+   "POR"
+  ],
+  [
+   21,
+   "Tamás Szűcs (footballer, born 2005)",
+   "MF",
+   "HUN"
+  ],
+  [
+   22,
+   "Gabriel Cabral",
+   "GK",
+   "BRA"
+  ],
+  [
+   23,
+   "Gil Dias",
+   "FW",
+   "POR"
+  ],
+  [
+   24,
+   "Mathis Jangéal",
+   "MF",
+   "FRA"
+  ],
+  [
+   25,
+   "Lazar Carević",
+   "GK",
+   "MNE"
+  ],
+  [
+   28,
+   "Pedro Bondo",
+   "DF",
+   "ANG"
+  ],
+  [
+   30,
+   "Vojin Serafimović",
+   "DF",
+   "SRB"
+  ],
+  [
+   33,
+   "Patricio Salas (footballer, born 2004)",
+   "FW",
+   "MEX"
+  ],
+  [
+   36,
+   "Matheus Mattara",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Estoril": [
+  [
+   1,
+   "Joel Robles",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Ricard Sánchez",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Fernando Medrano (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Ferro (footballer)",
+   "DF",
+   "POR"
+  ],
+  [
+   5,
+   "Antef Tsoungui",
+   "DF",
+   "BEL"
+  ],
+  [
+   6,
+   "Xavi Sintes",
+   "DF",
+   "ESP"
+  ],
+  [
+   7,
+   "André Lacximicant",
+   "FW",
+   "POR"
+  ],
+  [
+   8,
+   "Xeka",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Axel Camblan",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Jordan Holsgrove",
+   "MF",
+   "SCO"
+  ],
+  [
+   11,
+   "Nail Omerović",
+   "FW",
+   "BIH"
+  ],
+  [
+   12,
+   "João Carvalho (footballer, born 1997)",
+   "MF",
+   "POR"
+  ],
+  [
+   14,
+   "Yanis Begraoui",
+   "FW",
+   "MAR"
+  ],
+  [
+   15,
+   "Ismael Sierra",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Martin Turk",
+   "GK",
+   "SVN"
+  ],
+  [
+   17,
+   "Peixinho",
+   "FW",
+   "POR"
+  ],
+  [
+   18,
+   "Gonçalo Costa",
+   "DF",
+   "POR"
+  ],
+  [
+   19,
+   "Tiago Parente (footballer, born 2004)",
+   "DF",
+   "POR"
+  ],
+  [
+   21,
+   "Roko Jurišić",
+   "DF",
+   "CRO"
+  ],
+  [
+   22,
+   "Pedro Carvalho (footballer)",
+   "DF",
+   "POR"
+  ],
+  [
+   23,
+   "Diogo Dias",
+   "GK",
+   "POR"
+  ],
+  [
+   25,
+   "Stelios Andreou",
+   "DF",
+   "CYP"
+  ],
+  [
+   35,
+   "Samuel Amissah",
+   "DF",
+   "ENG"
+  ],
+  [
+   38,
+   "Israel Salazar (footballer)",
+   "FW",
+   "ESP"
+  ],
+  [
+   42,
+   "Jordan Arnolin",
+   "DF",
+   "POR"
+  ],
+  [
+   43,
+   "Fletcher Smythe-Lowe",
+   "GK",
+   "RSA"
+  ],
+  [
+   44,
+   "Milan Robin",
+   "MF",
+   "FRA"
+  ]
+ ],
+ "Maritimo": [
+  [
+   1,
+   "Gonçalo Tabuaço",
+   "GK",
+   "POR"
+  ],
+  [
+   2,
+   "Igor Julião",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Nathanael Ogbeta",
+   "DF",
+   "ENG"
+  ],
+  [
+   5,
+   "Nilton Varela",
+   "DF",
+   "POR"
+  ],
+  [
+   6,
+   "Rodrigo Andrade (footballer, born 2001)",
+   "MF",
+   "POR"
+  ],
+  [
+   7,
+   "Enrique Peña Zauner",
+   "FW",
+   "VEN"
+  ],
+  [
+   8,
+   "Maxime Dominguez",
+   "MF",
+   "SUI"
+  ],
+  [
+   9,
+   "José Melro",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Martín Tejón",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Simo Bouzaidi",
+   "FW",
+   "MAR"
+  ],
+  [
+   12,
+   "Mons Bassouamina",
+   "FW",
+   "CGO"
+  ],
+  [
+   13,
+   "Alfonso Pastor",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Raphael Guzzo",
+   "MF",
+   "POR"
+  ],
+  [
+   15,
+   "Tomás Tavares",
+   "DF",
+   "POR"
+  ],
+  [
+   16,
+   "Francisco Silva",
+   "MF",
+   "POR"
+  ],
+  [
+   17,
+   "Adrián Butzke",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Vladan Danilović",
+   "MF",
+   "BIH"
+  ],
+  [
+   20,
+   "Francisco Gomes (footballer)",
+   "FW",
+   "POR"
+  ],
+  [
+   21,
+   "Ibrahim Alani",
+   "MF",
+   "NGR"
+  ],
+  [
+   23,
+   "Paulo Henrique (Portuguese footballer)",
+   "DF",
+   "POR"
+  ],
+  [
+   27,
+   "Samuel Bamba",
+   "FW",
+   "GER"
+  ],
+  [
+   30,
+   "Fran Vieites",
+   "GK",
+   "ESP"
+  ],
+  [
+   34,
+   "Kimiss Zavala",
+   "GK",
+   "MOZ"
+  ],
+  [
+   35,
+   "Bryan Limbombe",
+   "FW",
+   "BEL"
+  ],
+  [
+   44,
+   "Romain Correia",
+   "DF",
+   "POR"
+  ]
+ ],
+ "RioAve": [
+  [
+   1,
+   "Cezary Miszta",
+   "GK",
+   "POL"
+  ],
+  [
+   2,
+   "Georgios Lemonakis",
+   "DF",
+   "GRE"
+  ],
+  [
+   2,
+   "Zé Carlos (footballer, born 1998)",
+   "DF",
+   "POR"
+  ],
+  [
+   3,
+   "Fil Azevedo",
+   "DF",
+   "POR"
+  ],
+  [
+   3,
+   "Simón García",
+   "DF",
+   "COL"
+  ],
+  [
+   4,
+   "Tomé Almeida",
+   "DF",
+   "POR"
+  ],
+  [
+   5,
+   "Andreas Ntoi",
+   "MF",
+   "GRE"
+  ],
+  [
+   6,
+   "Nelson Abbey",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Diogo Bezerra",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Ryan Guilherme",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Mamadou Sawané",
+   "FW",
+   "SEN"
+  ],
+  [
+   9,
+   "Tamble Monteiro",
+   "FW",
+   "GNB"
+  ],
+  [
+   10,
+   "Brandon Aguilera",
+   "MF",
+   "CRC"
+  ],
+  [
+   11,
+   "Jalen Blesa",
+   "FW",
+   "ESP"
+  ],
+  [
+   13,
+   "Julien Lomboto",
+   "DF",
+   "FRA"
+  ],
+  [
+   14,
+   "Jakub Brabec",
+   "DF",
+   "CZE"
+  ],
+  [
+   19,
+   "Malik Sellouki",
+   "MF",
+   "FRA"
+  ],
+  [
+   20,
+   "João Tomé",
+   "DF",
+   "POR"
+  ],
+  [
+   21,
+   "Radek Šiler",
+   "FW",
+   "CZE"
+  ],
+  [
+   22,
+   "Kevin Chamorro",
+   "GK",
+   "CRC"
+  ],
+  [
+   23,
+   "Francisco Petrasso",
+   "DF",
+   "ARG"
+  ],
+  [
+   24,
+   "Pedro Amaral",
+   "DF",
+   "POR"
+  ],
+  [
+   27,
+   "Tobías Medina",
+   "FW",
+   "ARG"
+  ],
+  [
+   30,
+   "Roland Galčík",
+   "FW",
+   "SVK"
+  ],
+  [
+   31,
+   "Vinicius Cressi",
+   "DF",
+   "BRA"
+  ],
+  [
+   32,
+   "Vítor Hugo",
+   "GK",
+   "BRA"
+  ],
+  [
+   41,
+   "Amine Rehmi",
+   "FW",
+   "MAR"
+  ],
+  [
+   43,
+   "Guilherme Venâncio",
+   "DF",
+   "POR"
+  ],
+  [
+   44,
+   "Tamás Nikitscher",
+   "MF",
+   "HUN"
+  ]
+ ],
+ "Arouca": [
+  [
+   1,
+   "Jakub Vinarčík",
+   "GK",
+   "SVK"
+  ],
+  [
+   2,
+   "Leo Shahar",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "José Fontán",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Diogo Monteiro",
+   "DF",
+   "POR"
+  ],
+  [
+   5,
+   "Boris Popović",
+   "DF",
+   "SER"
+  ],
+  [
+   6,
+   "Espen van Ee",
+   "MF",
+   "NED"
+  ],
+  [
+   7,
+   "Naïs Djouahra",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Taichi Fukui",
+   "MF",
+   "JPN"
+  ],
+  [
+   9,
+   "Fally Mayulu",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Pablo Gozálbez",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Miguel Puche",
+   "FW",
+   "ESP"
+  ],
+  [
+   12,
+   "Ignacio de Arruabarrena",
+   "GK",
+   "URU"
+  ],
+  [
+   14,
+   "Lee Hyun-ju (footballer)",
+   "MF",
+   "KOR"
+  ],
+  [
+   15,
+   "Javi Sánchez (footballer)",
+   "DF",
+   "SPA"
+  ],
+  [
+   17,
+   "Iván Barbero",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Orest Lebedenko",
+   "DF",
+   "UKR"
+  ],
+  [
+   19,
+   "Alfonso Trezza",
+   "FW",
+   "URU"
+  ],
+  [
+   20,
+   "Gabriel Rukavina",
+   "MF",
+   "CRO"
+  ],
+  [
+   21,
+   "Mateo Flores (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   23,
+   "Dylan Nandín",
+   "FW",
+   "URU"
+  ],
+  [
+   24,
+   "Brian Mansilla",
+   "FW",
+   "URU"
+  ],
+  [
+   28,
+   "Tiago Esgaio",
+   "DF",
+   "POR"
+  ],
+  [
+   37,
+   "Mario Climent",
+   "DF",
+   "ESP"
+  ]
+ ],
+ "CasaPia": [
+  [
+   1,
+   "Patrick Sequeira",
+   "GK",
+   "CRC"
+  ],
+  [
+   3,
+   "Khaly",
+   "DF",
+   "ANG"
+  ],
+  [
+   4,
+   "João Goulart (footballer)",
+   "DF",
+   "POR"
+  ],
+  [
+   5,
+   "Abdu Conté",
+   "DF",
+   "POR"
+  ],
+  [
+   8,
+   "Gabi",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Henrique Araújo",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Rochinha (Portuguese footballer)",
+   "FW",
+   "POR"
+  ],
+  [
+   11,
+   "Mo Salah (footballer, born 2004)",
+   "MF",
+   "BEL"
+  ],
+  [
+   17,
+   "Evans Maurin",
+   "FW",
+   "FRA"
+  ],
+  [
+   18,
+   "André Geraldes",
+   "DF",
+   "POR"
+  ],
+  [
+   19,
+   "Kevin Prieto",
+   "DF",
+   "URU"
+  ],
+  [
+   20,
+   "Alassana Jatta",
+   "FW",
+   "GAM"
+  ],
+  [
+   22,
+   "Daniel Azevedo",
+   "GK",
+   "POR"
+  ],
+  [
+   24,
+   "Sebastián Pérez (footballer, born 1993)",
+   "MF",
+   "COL"
+  ],
+  [
+   27,
+   "Kaique Rocha",
+   "DF",
+   "BRA"
+  ],
+  [
+   29,
+   "Jérémy Livolant",
+   "FW",
+   "FRA"
+  ],
+  [
+   31,
+   "André Gomes (footballer, born 2004)",
+   "GK",
+   "POR"
+  ],
+  [
+   43,
+   "David Sousa (footballer, born 2001)",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "EstrelaAmadora": [
+  [
+   3,
+   "Lucas Mincarelli",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Bernardo Schappo",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Stefan Leković",
+   "DF",
+   "SRB"
+  ],
+  [
+   6,
+   "Kevin Höög Jansson",
+   "MF",
+   "SWE"
+  ],
+  [
+   8,
+   "Robinho",
+   "MF",
+   "BRA"
+  ],
+  [
+   10,
+   "Ianis Stoica",
+   "FW",
+   "ROU"
+  ],
+  [
+   14,
+   "Lovro Zvonarek",
+   "MF",
+   "CRO"
+  ],
+  [
+   17,
+   "Jefferson Encada",
+   "DF",
+   "GNB"
+  ],
+  [
+   18,
+   "Vuk Pavićević",
+   "MF",
+   "MNE"
+  ],
+  [
+   19,
+   "Joan Jordán",
+   "MF",
+   "ESP"
+  ],
+  [
+   21,
+   "Max Scholze",
+   "DF",
+   "GER"
+  ],
+  [
+   22,
+   "David Grilo",
+   "GK",
+   "POR"
+  ],
+  [
+   28,
+   "Tom Moustier",
+   "MF",
+   "FRA"
+  ],
+  [
+   30,
+   "Luan Patrick",
+   "DF",
+   "BRA"
+  ],
+  [
+   37,
+   "Leandro Antonetti",
+   "FW",
+   "PUR"
+  ],
+  [
+   39,
+   "Eddy Doué",
+   "MF",
+   "CIV"
+  ],
+  [
+   41,
+   "Yang Si-Woo",
+   "FW",
+   "KOR"
+  ]
+ ],
+ "AcademicoViseu": [
+  [
+   1,
+   "Marcos Lavín",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Nikos Michelis",
+   "DF",
+   "GRE"
+  ],
+  [
+   5,
+   "Pedro Barcelos",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "André Ceitil",
+   "MF",
+   "POR"
+  ],
+  [
+   7,
+   "Luís Silva (footballer, born 1992)",
+   "MF",
+   "POR"
+  ],
+  [
+   8,
+   "Cihan Kahraman",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Mohamed Bouldini",
+   "FW",
+   "MAR"
+  ],
+  [
+   12,
+   "Juan Soriano (footballer)",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Soufiane Messeguem",
+   "MF",
+   "GER"
+  ],
+  [
+   17,
+   "Valery Fernández",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Cristian Ferreira",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Tomás Domingos",
+   "DF",
+   "POR"
+  ],
+  [
+   22,
+   "Nils Mortimer",
+   "MF",
+   "ESP"
+  ],
+  [
+   29,
+   "Andro Babić",
+   "MF",
+   "CRO"
+  ],
+  [
+   31,
+   "João Guilherme",
+   "FW",
+   "BRA"
+  ],
+  [
+   33,
+   "André Clóvis",
+   "FW",
+   "BRA"
+  ],
+  [
+   41,
+   "Anthony Correia (footballer, born 1999)",
+   "DF",
+   "FRA"
+  ],
+  [
+   44,
+   "Rúben Pereira",
+   "DF",
+   "POR"
+  ],
+  [
+   45,
+   "Alejandro Mestanza",
+   "MF",
+   "ESP"
+  ]
+ ],
+ "Nacional": [
+  [
+   1,
+   "Renato Marin",
+   "GK",
+   "ITA"
+  ],
+  [
+   2,
+   "Daniel de la Cruz",
+   "DF",
+   "ECU"
+  ],
+  [
+   4,
+   "Ulisses (footballer, born 1999)",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "José Gomes (footballer, born 1996)",
+   "DF",
+   "POR"
+  ],
+  [
+   6,
+   "Matheus Dias",
+   "MF",
+   "BRA"
+  ],
+  [
+   7,
+   "Markus Jensen",
+   "MF",
+   "DEN"
+  ],
+  [
+   8,
+   "Miguel Baeza (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Allen Obando",
+   "FW",
+   "ECU"
+  ],
+  [
+   10,
+   "Daniel Júnior",
+   "FW",
+   "BRA"
+  ],
+  [
+   11,
+   "Stavros Gavriil",
+   "FW",
+   "CYP"
+  ],
+  [
+   12,
+   "Song Min-kyu (footballer)",
+   "FW",
+   "KOR"
+  ],
+  [
+   13,
+   "João Gonçalves (footballer, born 2000)",
+   "GK",
+   "POR"
+  ],
+  [
+   14,
+   "Ivanildo Fernandes",
+   "DF",
+   "CPV"
+  ],
+  [
+   15,
+   "Chiheb Labidi",
+   "MF",
+   "TUN"
+  ],
+  [
+   17,
+   "Fernando Nava",
+   "FW",
+   "BOL"
+  ],
+  [
+   20,
+   "Matchoi Djaló",
+   "FW",
+   "POR"
+  ],
+  [
+   21,
+   "William Kokolo",
+   "MF",
+   "FRA"
+  ],
+  [
+   22,
+   "Filipe Soares (footballer, born 1999)",
+   "MF",
+   "POR"
+  ],
+  [
+   23,
+   "Mateus Iseppe",
+   "MF",
+   "BRA"
+  ],
+  [
+   26,
+   "Joel Silva (footballer, born 2003)",
+   "MF",
+   "POR"
+  ],
+  [
+   28,
+   "Igor Liziero",
+   "MF",
+   "BRA"
+  ],
+  [
+   29,
+   "Njoya Abdel",
+   "FW",
+   "CMR"
+  ],
+  [
+   30,
+   "Martim Gustavo",
+   "MF",
+   "POR"
+  ],
+  [
+   31,
+   "Danel Dongmo",
+   "MF",
+   "CMR"
+  ],
+  [
+   33,
+   "Francisco Gonçalves",
+   "DF",
+   "POR"
+  ],
+  [
+   34,
+   "Léo Santos",
+   "DF",
+   "BRA"
+  ],
+  [
+   38,
+   "Zé Vitor (footballer, born 2001)",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Moreirense": [
+  [
+   2,
+   "Leandro Santos (footballer, born 2005)",
+   "DF",
+   "POR"
+  ],
+  [
+   4,
+   "Kevyn Monteiro",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Manuel Mendonça",
+   "MF",
+   "POR"
+  ],
+  [
+   8,
+   "Mateja Stjepanović",
+   "MF",
+   "SRB"
+  ],
+  [
+   9,
+   "Alexandre Parsemain",
+   "FW",
+   "MTQ"
+  ],
+  [
+   10,
+   "Kiko Bondoso",
+   "FW",
+   "POR"
+  ],
+  [
+   11,
+   "Landerson",
+   "FW",
+   "BRA"
+  ],
+  [
+   13,
+   "André Ferreira (footballer, born 1996)",
+   "GK",
+   "POR"
+  ],
+  [
+   17,
+   "Álvaro Martínez",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Tiago Andrade",
+   "FW",
+   "POR"
+  ],
+  [
+   21,
+   "Rodri (footballer, born 2003)",
+   "MF",
+   "ESP"
+  ],
+  [
+   23,
+   "Nile John",
+   "MF",
+   "ENG"
+  ],
+  [
+   25,
+   "Afonso Assis",
+   "MF",
+   "POR"
+  ],
+  [
+   26,
+   "Maracás (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   27,
+   "Francisco Domingues",
+   "DF",
+   "POR"
+  ],
+  [
+   28,
+   "Chipyoka Songa",
+   "MF",
+   "ZAM"
+  ],
+  [
+   30,
+   "Jimi Gower",
+   "MF",
+   "ENG"
+  ],
+  [
+   31,
+   "Pedro Jesus",
+   "DF",
+   "BRA"
+  ],
+  [
+   32,
+   "Janderson (footballer, born 2005)",
+   "DF",
+   "BRA"
+  ],
+  [
+   44,
+   "Michael Dacosta",
+   "MF",
+   "ESP"
+  ]
+ ],
+ "Alverca": [
+  [
+   1,
+   "Noah Raveyre",
+   "GK",
+   "FRA"
+  ],
+  [
+   2,
+   "Nabil Touaizi",
+   "DF",
+   "MAR"
+  ],
+  [
+   3,
+   "Julián Martínez (footballer)",
+   "DF",
+   "HON"
+  ],
+  [
+   4,
+   "Yaya Bojang",
+   "DF",
+   "GAM"
+  ],
+  [
+   5,
+   "Sabit Abdulai",
+   "MF",
+   "GHA"
+  ],
+  [
+   6,
+   "Davy Gui",
+   "MF",
+   "CIV"
+  ],
+  [
+   7,
+   "André Vidigal",
+   "MF",
+   "ANG"
+  ],
+  [
+   8,
+   "Vasco Moreira",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Vivaldo Semedo",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Chiquinho (footballer, born 2000)",
+   "FW",
+   "POR"
+  ],
+  [
+   11,
+   "Cédric Nuozzi",
+   "MF",
+   "BEL"
+  ],
+  [
+   12,
+   "Isaac James (footballer)",
+   "DF",
+   "NGA"
+  ],
+  [
+   14,
+   "Steven Baseya",
+   "DF",
+   "FRA"
+  ],
+  [
+   15,
+   "Ikker Julian",
+   "DF",
+   "BEL"
+  ],
+  [
+   17,
+   "Samy Merheg",
+   "FW",
+   "LBN"
+  ],
+  [
+   18,
+   "Zakaria Kassary",
+   "MF",
+   "MAR"
+  ],
+  [
+   19,
+   "Dawda Camara",
+   "FW",
+   "MTN"
+  ],
+  [
+   20,
+   "Diogo Spencer",
+   "DF",
+   "POR"
+  ],
+  [
+   21,
+   "Sergi Gómez",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Figueiredo (footballer, born 2001)",
+   "FW",
+   "BRA"
+  ],
+  [
+   23,
+   "André Paulo",
+   "GK",
+   "POR"
+  ],
+  [
+   24,
+   "Mofe Jemide",
+   "DF",
+   "ENG"
+  ],
+  [
+   25,
+   "Ian Luccas",
+   "MF",
+   "BRA"
+  ],
+  [
+   26,
+   "Matheus França",
+   "MF",
+   "BRA"
+  ],
+  [
+   27,
+   "Toni Tamarit",
+   "DF",
+   "ESP"
+  ],
+  [
+   31,
+   "Matheus Mendes",
+   "GK",
+   "BRA"
+  ],
+  [
+   33,
+   "Bastien Meupiyou",
+   "DF",
+   "FRA"
+  ],
+  [
+   35,
+   "Rayan Lucas",
+   "MF",
+   "BRA"
+  ]
+ ]
+}

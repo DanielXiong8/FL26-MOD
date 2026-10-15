@@ -1,0 +1,775 @@
+{
+ "transfers": [
+  {
+   "real": "Harvey Davies",
+   "club": "Liverpool",
+   "team_id": 20027,
+   "ovr_target": 58,
+   "src": {
+    "team": "圣文森特和格林纳丁斯",
+    "league": "National Teams",
+    "pid": 138380,
+    "name": "Davies",
+    "jersey": 23,
+    "ovr": 54,
+    "nat": "Saint_Vincent_and_the_Grenadines",
+    "src": "Davies"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Kostas Tsimikas",
+   "club": "Liverpool",
+   "team_id": 20027,
+   "ovr_target": 76,
+   "src": {
+    "team": "希腊",
+    "league": "National Teams",
+    "pid": 100426,
+    "name": "Tsimikars",
+    "jersey": 21,
+    "ovr": 76,
+    "nat": "Greece",
+    "src": "Tsimikars"
+   },
+   "score": 1.64
+  },
+  {
+   "real": "Ronald Araujo",
+   "club": "Liverpool",
+   "team_id": 20027,
+   "ovr_target": 85,
+   "src": {
+    "team": "乌拉圭",
+    "league": "National Teams",
+    "pid": 115779,
+    "name": "Araujo",
+    "jersey": 20,
+    "ovr": 75,
+    "nat": "Uruguay",
+    "src": "Araujo"
+   },
+   "score": 1.7
+  },
+  {
+   "real": "Luke Chambers",
+   "club": "Liverpool",
+   "team_id": 20027,
+   "ovr_target": 62,
+   "src": {
+    "team": "利兹",
+    "league": "英格兰A级联赛",
+    "pid": 172584,
+    "name": "Chambbers",
+    "jersey": 42,
+    "ovr": 57,
+    "nat": "Scotland",
+    "src": "Chambbers"
+   },
+   "score": 1.24
+  },
+  {
+   "real": "Victor Munoz",
+   "club": "Liverpool",
+   "team_id": 20027,
+   "ovr_target": 76,
+   "src": {
+    "team": "伊基克",
+    "league": "智利联赛",
+    "pid": 172326,
+    "name": "Munoz",
+    "jersey": 1,
+    "ovr": 64,
+    "nat": "Chile",
+    "src": "Munoz"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Bradley Barcola",
+   "club": "Liverpool",
+   "team_id": 20027,
+   "ovr_target": 84,
+   "src": {
+    "team": "法国",
+    "league": "National Teams",
+    "pid": 117256,
+    "name": "Barcora",
+    "jersey": 29,
+    "ovr": 82,
+    "nat": "France",
+    "src": "Barcora"
+   },
+   "score": 1.56
+  },
+  {
+   "real": "Ezri Konsa",
+   "club": "Arsenal",
+   "team_id": 20030,
+   "ovr_target": 79,
+   "src": {
+    "team": "英格兰",
+    "league": "National Teams",
+    "pid": 103398,
+    "name": "Konsah",
+    "jersey": 2,
+    "ovr": 85,
+    "nat": "England",
+    "src": "Konsah"
+   },
+   "score": 1.21
+  },
+  {
+   "real": "Ezra Mayers",
+   "club": "WestHam",
+   "team_id": 20032,
+   "ovr_target": 60,
+   "src": {
+    "team": "杜伊斯堡",
+    "league": "德国超级联赛",
+    "pid": 109626,
+    "name": "Mayer",
+    "jersey": 3,
+    "ovr": 62,
+    "nat": "Germany",
+    "src": "Mayer"
+   },
+   "score": 1.21
+  },
+  {
+   "real": "Edson Álvarez",
+   "club": "WestHam",
+   "team_id": 20032,
+   "ovr_target": 79,
+   "src": {
+    "team": "瓦伦西亚 青蛙",
+    "league": "西班牙超级联赛",
+    "pid": 119008,
+    "name": "Alvarez",
+    "jersey": 24,
+    "ovr": 75,
+    "nat": "Spain",
+    "src": "Alvarez"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Arne Engels",
+   "club": "WestHam",
+   "team_id": 20032,
+   "ovr_target": 74,
+   "src": {
+    "team": "格拉斯哥",
+    "league": "苏格兰A级联赛",
+    "pid": 117314,
+    "name": "Engels",
+    "jersey": 27,
+    "ovr": 74,
+    "nat": "Belgium",
+    "src": "Engels"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Maxwel Cornet",
+   "club": "WestHam",
+   "team_id": 20032,
+   "ovr_target": 73,
+   "src": {
+    "team": "呵叻府",
+    "league": "泰国A级联赛",
+    "pid": 109180,
+    "name": "Cornet",
+    "jersey": 20,
+    "ovr": 62,
+    "nat": "France",
+    "src": "Cornet"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Chema Andrés",
+   "club": "Brighton",
+   "team_id": 20035,
+   "ovr_target": 66,
+   "src": {
+    "team": "塞浦路斯",
+    "league": "National Teams",
+    "pid": 137568,
+    "name": "Andreas",
+    "jersey": 16,
+    "ovr": 65,
+    "nat": "Cyprus",
+    "src": "Andreas"
+   },
+   "score": 1.22
+  },
+  {
+   "real": "Benjamin Fredrick",
+   "club": "Brentford",
+   "team_id": 20036,
+   "ovr_target": 60,
+   "src": {
+    "team": "圣卢西亚",
+    "league": "National Teams",
+    "pid": 138365,
+    "name": "Fredric",
+    "jersey": 2,
+    "ovr": 63,
+    "nat": "Saint_Lucia",
+    "src": "Fredric"
+   },
+   "score": 1.23
+  },
+  {
+   "real": "Kevin Schade",
+   "club": "Brentford",
+   "team_id": 20036,
+   "ovr_target": 79,
+   "src": {
+    "team": "布伦特福德",
+    "league": "英格兰A级联赛",
+    "pid": 110886,
+    "name": "Schader",
+    "jersey": 7,
+    "ovr": 75,
+    "nat": "Germany",
+    "src": "Schader"
+   },
+   "score": 1.62
+  },
+  {
+   "real": "Mamadou Sangaré",
+   "club": "Brentford",
+   "team_id": 20036,
+   "ovr_target": 74,
+   "src": {
+    "team": "科特迪瓦",
+    "league": "National Teams",
+    "pid": 131947,
+    "name": "I.Sangare",
+    "jersey": 18,
+    "ovr": 77,
+    "nat": "Ivory_Coast",
+    "src": "I.Sangare"
+   },
+   "score": 1.23
+  },
+  {
+   "real": "Takehiro Tomiyasu",
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "ovr_target": 76,
+   "src": {
+    "team": "札幌",
+    "league": "日本联赛",
+    "pid": 118705,
+    "name": "Miyasawa",
+    "jersey": 10,
+    "ovr": 68,
+    "nat": "Japan",
+    "src": "Miyasawa"
+   },
+   "score": 1.33
+  },
+  {
+   "real": "Ben Chilwell",
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "ovr_target": 75,
+   "src": {
+    "team": "斯特拉斯堡",
+    "league": "法国超级联赛",
+    "pid": 106690,
+    "name": "Chilweel",
+    "jersey": 3,
+    "ovr": 77,
+    "nat": "England",
+    "src": "Chilweel"
+   },
+   "score": 1.58
+  },
+  {
+   "real": "Quinten Timber",
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "ovr_target": 78,
+   "src": {
+    "team": "圣米格尔-德图库曼红",
+    "league": "阿根廷A级联赛",
+    "pid": 111688,
+    "name": "Imber",
+    "jersey": 10,
+    "ovr": 68,
+    "nat": "Argentina",
+    "src": "Imber"
+   },
+   "score": 1.21
+  },
+  {
+   "real": "Sebastian Williams",
+   "club": "CrystalPalace",
+   "team_id": 20038,
+   "ovr_target": 60,
+   "src": {
+    "team": "奈梅亨",
+    "league": "荷兰联赛",
+    "pid": 117693,
+    "name": "Williams",
+    "jersey": 15,
+    "ovr": 59,
+    "nat": "Netherlands",
+    "src": "Williams"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Taylor Harwood-Bellis",
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "ovr_target": 75,
+   "src": {
+    "team": "南安普顿",
+    "league": "英格兰A级联赛",
+    "pid": 106715,
+    "name": "Harwod-Bellis",
+    "jersey": 6,
+    "ovr": 73,
+    "nat": "England",
+    "src": "Harwod-Bellis"
+   },
+   "score": 1.26
+  },
+  {
+   "real": "Alejandro Garnacho",
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "ovr_target": 79,
+   "src": {
+    "team": "伦敦 蓝",
+    "league": "英格兰A级联赛",
+    "pid": 118939,
+    "name": "Ganacho",
+    "jersey": 49,
+    "ovr": 77,
+    "nat": "Argentina",
+    "src": "Ganacho"
+   },
+   "score": 1.63
+  },
+  {
+   "real": "Michael Keane",
+   "club": "Everton",
+   "team_id": 20041,
+   "ovr_target": 73,
+   "src": {
+    "team": "雷丁",
+    "league": "英格兰A级联赛",
+    "pid": 108365,
+    "name": "Keaney",
+    "jersey": 27,
+    "ovr": 66,
+    "nat": "England",
+    "src": "Keaney"
+   },
+   "score": 1.21
+  },
+  {
+   "real": "Tyrique George",
+   "club": "Everton",
+   "team_id": 20041,
+   "ovr_target": 70,
+   "src": {
+    "team": "敦刻尔克",
+    "league": "法国超级联赛",
+    "pid": 109358,
+    "name": "George",
+    "jersey": 2,
+    "ovr": 64,
+    "nat": "France",
+    "src": "George"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Brennan Johnson",
+   "club": "Everton",
+   "team_id": 20041,
+   "ovr_target": 78,
+   "src": {
+    "team": "威尔士",
+    "league": "National Teams",
+    "pid": 106735,
+    "name": "Johnsen",
+    "jersey": 22,
+    "ovr": 78,
+    "nat": "Wales",
+    "src": "Johnsen"
+   },
+   "score": 1.56
+  },
+  {
+   "real": "Julián Araujo",
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "ovr_target": 72,
+   "src": {
+    "team": "墨西哥城 黄",
+    "league": "墨西哥超级联赛",
+    "pid": 114679,
+    "name": "Araujo",
+    "jersey": 14,
+    "ovr": 72,
+    "nat": "Mexico",
+    "src": "Araujo"
+   },
+   "score": 1.7
+  },
+  {
+   "real": "Max Aarons",
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "ovr_target": 71,
+   "src": {
+    "team": "热那亚 红",
+    "league": "意大利超级联赛",
+    "pid": 104897,
+    "name": "Aaron",
+    "jersey": 3,
+    "ovr": 72,
+    "nat": "Spain",
+    "src": "Aaron"
+   },
+   "score": 1.21
+  },
+  {
+   "real": "António Silva",
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "ovr_target": 78,
+   "src": {
+    "team": "亚速尔",
+    "league": "葡萄牙超级联赛",
+    "pid": 124530,
+    "name": "Silva",
+    "jersey": 10,
+    "ovr": 71,
+    "nat": "Brazil",
+    "src": "Silva"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Álvaro Rodríguez",
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "ovr_target": 70,
+   "src": {
+    "team": "厄瓜多尔",
+    "league": "National Teams",
+    "pid": 111536,
+    "name": "Rodriguez",
+    "jersey": 11,
+    "ovr": 66,
+    "nat": "Ecuador",
+    "src": "Rodriguez"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "John Victor",
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "ovr_target": 72,
+   "src": {
+    "team": "隆德里纳",
+    "league": "巴西超级联赛",
+    "pid": 151935,
+    "name": "Victor",
+    "jersey": 22,
+    "ovr": 61,
+    "nat": "Brazil",
+    "src": "Victor"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "Ousmane Diomande",
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "ovr_target": 76,
+   "src": {
+    "team": "科特迪瓦",
+    "league": "National Teams",
+    "pid": 117391,
+    "name": "Diaomande",
+    "jersey": 2,
+    "ovr": 73,
+    "nat": "Ivory_Coast",
+    "src": "Diaomande"
+   },
+   "score": 1.64
+  },
+  {
+   "real": "Ibrahim Sangaré",
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "ovr_target": 78,
+   "src": {
+    "team": "科特迪瓦",
+    "league": "National Teams",
+    "pid": 131947,
+    "name": "I.Sangare",
+    "jersey": 18,
+    "ovr": 77,
+    "nat": "Ivory_Coast",
+    "src": "I.Sangare"
+   },
+   "score": 1.23
+  },
+  {
+   "real": "Arnaud Kalimuendo",
+   "club": "NottinghamForest",
+   "team_id": 20050,
+   "ovr_target": 74,
+   "src": {
+    "team": "法兰克福",
+    "league": "德国超级联赛",
+    "pid": 111220,
+    "name": "Kalimendo",
+    "jersey": 25,
+    "ovr": 76,
+    "nat": "France",
+    "src": "Kalimendo"
+   },
+   "score": 1.25
+  },
+  {
+   "real": "Dan Bentley",
+   "club": "Coventry",
+   "team_id": 20324,
+   "ovr_target": 65,
+   "src": {
+    "team": "伍尔弗汉普顿",
+    "league": "英格兰A级联赛",
+    "pid": 108478,
+    "name": "Bently",
+    "jersey": 25,
+    "ovr": 72,
+    "nat": "England",
+    "src": "Bently"
+   },
+   "score": 1.22
+  },
+  {
+   "real": "Aurèle Amenda",
+   "club": "Coventry",
+   "team_id": 20324,
+   "ovr_target": 70,
+   "src": {
+    "team": "阿韦亚内达 蓝",
+    "league": "阿根廷A级联赛",
+    "pid": 105205,
+    "name": "Almenda",
+    "jersey": 32,
+    "ovr": 64,
+    "nat": "Argentina",
+    "src": "Almenda"
+   },
+   "score": 1.22
+  },
+  {
+   "real": "Gustavo Hamer",
+   "club": "Coventry",
+   "team_id": 20324,
+   "ovr_target": 76,
+   "src": {
+    "team": "布拉格",
+    "league": "捷克联赛",
+    "pid": 111265,
+    "name": "Chamer",
+    "jersey": 7,
+    "ovr": 68,
+    "nat": "Austria",
+    "src": "Chamer"
+   },
+   "score": 1.21
+  },
+  {
+   "real": "Loum Tchaouna",
+   "club": "Coventry",
+   "team_id": 20324,
+   "ovr_target": 72,
+   "src": {
+    "team": "伯恩利",
+    "league": "英格兰A级联赛",
+    "pid": 117645,
+    "name": "Tchaona",
+    "jersey": 17,
+    "ovr": 69,
+    "nat": "France",
+    "src": "Tchaona"
+   },
+   "score": 1.23
+  },
+  {
+   "real": "Yann Gboho",
+   "club": "Coventry",
+   "team_id": 20324,
+   "ovr_target": 72,
+   "src": {
+    "team": "孔卡尔诺",
+    "league": "法国超级联赛",
+    "pid": 110390,
+    "name": "Gboho",
+    "jersey": 24,
+    "ovr": 62,
+    "nat": "Ivory_Coast",
+    "src": "Gboho"
+   },
+   "score": 1.3
+  },
+  {
+   "real": "David Affengruber",
+   "club": "Fulham",
+   "team_id": 20367,
+   "ovr_target": 72,
+   "src": {
+    "team": "奥地利",
+    "league": "National Teams",
+    "pid": 150381,
+    "name": "Affengrub",
+    "jersey": 22,
+    "ovr": 74,
+    "nat": "Austria",
+    "src": "Affengrub"
+   },
+   "score": 1.2
+  },
+  {
+   "real": "César Palacios",
+   "club": "Fulham",
+   "team_id": 20367,
+   "ovr_target": 68,
+   "src": {
+    "team": "拉博卡",
+    "league": "阿根廷A级联赛",
+    "pid": 152437,
+    "name": "Palacio",
+    "jersey": 8,
+    "ovr": 69,
+    "nat": "Chile",
+    "src": "Palacio"
+   },
+   "score": 1.23
+  },
+  {
+   "real": "Shea Charles",
+   "club": "Fulham",
+   "team_id": 20367,
+   "ovr_target": 68,
+   "src": {
+    "team": "星期三",
+    "league": "英格兰A级联赛",
+    "pid": 151305,
+    "name": "Charls",
+    "jersey": 1,
+    "ovr": 64,
+    "nat": "NORTHERN_IRELAND",
+    "src": "Charls"
+   },
+   "score": 1.22
+  },
+  {
+   "real": "Manuel Ángel",
+   "club": "Fulham",
+   "team_id": 20367,
+   "ovr_target": 62,
+   "src": {
+    "team": "莫桑比克",
+    "league": "National Teams",
+    "pid": 173695,
+    "name": "Bangel",
+    "jersey": 9,
+    "ovr": 52,
+    "nat": "Mozambique",
+    "src": "Bangel"
+   },
+   "score": 1.21
+  },
+  {
+   "real": "Gonzalo García",
+   "club": "Fulham",
+   "team_id": 20367,
+   "ovr_target": 70,
+   "src": {
+    "team": "危地马拉",
+    "league": "National Teams",
+    "pid": 114553,
+    "name": "Garcia",
+    "jersey": 19,
+    "ovr": 59,
+    "nat": "Guatemala",
+    "src": "Garcia"
+   },
+   "score": 1.3
+  }
+ ],
+ "injects": [
+  "Vitezslav Jaros",
+  "Jeremy Jacquet",
+  "James McConnell",
+  "Lewis Koumas",
+  "Jayden Danns",
+  "Mike Penders",
+  "Teddy Sharman-Lowe",
+  "Marco Palestra",
+  "Valentin Barco",
+  "Maxence Lacroix",
+  "Geovany Quenda",
+  "Tommy Setford",
+  "Christos Tzolis",
+  "Finlay Herrick",
+  "Morato",
+  "Adama Boiro",
+  "Joël Veltman",
+  "Airidas Golambeckis",
+  "Joël Piroe",
+  "Manor Solomon",
+  "Divine Mukasa",
+  "Edvin Austbø",
+  "Joshua Ajala",
+  "Pascal Struijk",
+  "Hadjam",
+  "Kim Ji-Soo",
+  "Axel Disasi",
+  "Honest Ahanor",
+  "Anan Khalaili",
+  "Óscar Mingueza",
+  "Ismaïla Sarr",
+  "Dwight McNeil",
+  "Zavier Gozo",
+  "Darío Osorio",
+  "Evann Guessand",
+  "Zion Suzuki",
+  "James Wright",
+  "Ainsley Maitland-Niles",
+  "Kiernan Dewsbury-Hall",
+  "Hayden Hackney",
+  "Lewis Cook",
+  "Alex Tóth",
+  "Daniel Jebbison",
+  "Steven Benda",
+  "Daniel Muñoz",
+  "Xaver Schlager",
+  "Liam Delap",
+  "Ethan Pinnock",
+  "Stephen Mfuni",
+  "Caleb Yirenkyi",
+  "Haji Wright",
+  "Taiwo Awoniyi",
+  "Sidiki Cherif",
+  "Alex Borto",
+  "Hugo Larsson"
+ ]
+}

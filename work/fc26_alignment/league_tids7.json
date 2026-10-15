@@ -1,0 +1,25 @@
+{
+ "Championship": {
+  "Birmingham": 20312,
+  "Blackburn": 20310,
+  "Bolton": 20403,
+  "BristolCity": 20328,
+  "Burnley": 20043,
+  "Cardiff": 20318,
+  "Derby": 20049,
+  "Middlesbrough": 20326,
+  "Norwich": 20045,
+  "Portsmouth": 20399,
+  "Preston": 20323,
+  "QPR": 20315,
+  "SheffieldUtd": 20314,
+  "Southampton": 20040,
+  "Stoke": 20319,
+  "Swansea": 20327,
+  "Watford": 20044,
+  "WestBrom": 20048,
+  "WestHam": 20032,
+  "Wolves": 20033,
+  "Wrexham": 40082
+ }
+}

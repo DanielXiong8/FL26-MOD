@@ -1,0 +1,5 @@
+[19:06:20] 175931 already gone in work copy; switching target to 175930 (P13B_P06)
+[19:06:20] STEP target_in_roster         OK 
+[19:06:20] STEP remove_player            FAIL removed 1 (sub+packed)
+[19:06:20] after: 31 men | probes: 6
+[19:06:20] player_blob f5 team -> 10059 for 175930

@@ -1,0 +1,13 @@
+test_id,field,old_value,new_value,visible_change,change_type,confidence
+T01,byte_0,1,2,人脸略缩图朝向 右→左，其余无变化,portrait_flip_or_render_flag,YELLOW
+T02,byte_0,1,3,无变化,NO_VISIBLE_CHANGE,RED
+T03,byte_1,30,31,肤色略黑（轻微），基本无变化,face_texture_swap_minor,GREEN
+T04,byte_1,30,32,肤色变白,face_texture_swap,GREEN
+T05,byte_4,0,1,头发由寸头变成长发,hair_style_change,GREEN
+T06,byte_4,0,127,头发由寸头变成中等发量,hair_style_change,GREEN
+T07,byte_7,0,1,胡子由络腮胡变成下巴一撮,beard_style_change,GREEN
+T08,byte_7,0,127,人物朝向翻转（向左），无胡子,beard_style_change_plus_flip,YELLOW
+T09,byte_10,0,1,人脸略缩图朝向 右→左，眼睛变小更有神,portrait_flip_plus_eye_render,YELLOW
+T10,byte_10,0,7,胡子由黑色变成棕色,beard_color_change,GREEN
+T11,byte_14,42,43,脸型由椭圆变成稍尖,face_shape_mesh_change,GREEN
+T12,byte_14,42,44,额头更高,face_shape_mesh_change,GREEN

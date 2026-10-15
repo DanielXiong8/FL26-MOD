@@ -1,0 +1,454 @@
+{
+ "Primeira": {
+  "Porto": [
+   "FC Porto",
+   20181
+  ],
+  "Sporting": [
+   "Sporting CP",
+   20182
+  ],
+  "Benfica": [
+   "S.L. Benfica",
+   20183
+  ],
+  "Braga": [
+   "S.C. Braga",
+   20263
+  ],
+  "GilVicente": [
+   "Gil Vicente F.C.",
+   20264
+  ],
+  "Guimaraes": [
+   "Vitória S.C.",
+   20275
+  ],
+  "SantaClara": [
+   "C.D. Santa Clara",
+   20266
+  ],
+  "Famalicao": [
+   "F.C. Famalicão",
+   20267
+  ],
+  "Estoril": [
+   "G.D. Estoril Praia",
+   20268
+  ],
+  "Maritimo": [
+   "C.S. Marítimo",
+   20270
+  ],
+  "RioAve": [
+   "Rio Ave F.C.",
+   20271
+  ],
+  "Arouca": [
+   "F.C. Arouca",
+   20274
+  ],
+  "Tondela": [
+   "C.D. Tondela",
+   20276
+  ],
+  "CasaPia": [
+   "Casa Pia A.C.",
+   20806
+  ],
+  "EstrelaAmadora": [
+   "C.F. Estrela da Amadora",
+   20808
+  ],
+  "AcademicoViseu": [
+   "Académico de Viseu F.C.",
+   20809
+  ],
+  "Nacional": [
+   "C.D. Nacional",
+   20811
+  ],
+  "Moreirense": [
+   "Moreirense F.C.",
+   20812
+  ],
+  "Alverca": [
+   "F.C. Alverca",
+   20827
+  ]
+ },
+ "Eredivisie": {
+  "Ajax": [
+   "AFC Ajax",
+   20189
+  ],
+  "Feyenoord": [
+   "Feyenoord",
+   20190
+  ],
+  "Heerenveen": [
+   "SC Heerenveen",
+   20191
+  ],
+  "PSV": [
+   "PSV Eindhoven",
+   20248
+  ],
+  "Twente": [
+   "FC Twente",
+   20249
+  ],
+  "AZ": [
+   "AZ Alkmaar",
+   20250
+  ],
+  "Utrecht": [
+   "FC Utrecht",
+   20252
+  ],
+  "Cambuur": [
+   "SC Cambuur",
+   20253
+  ],
+  "GoAhead": [
+   "Go Ahead Eagles",
+   20257
+  ],
+  "Excelsior": [
+   "Excelsior Rotterdam",
+   20258
+  ],
+  "FortunaSittard": [
+   "Fortuna Sittard",
+   20259
+  ],
+  "Nijmegen": [
+   "NEC Nijmegen",
+   20255
+  ],
+  "Groningen": [
+   "FC Groningen",
+   20256
+  ],
+  "Zwolle": [
+   "PEC Zwolle",
+   20262
+  ],
+  "WillemII": [
+   "Willem II (football club)",
+   20261
+  ],
+  "Sparta": [
+   "Sparta Rotterdam",
+   30170
+  ],
+  "Telstar": [
+   "SC Telstar",
+   30185
+  ],
+  "DenHaag": [
+   "ADO Den Haag",
+   30176
+  ],
+  "Volendam": [
+   "FC Volendam",
+   30172
+  ]
+ },
+ "Super": {
+  "Besiktas": [
+   "Beşiktaş J.K.",
+   20184
+  ],
+  "Basaksehir": [
+   "İstanbul Başakşehir F.K.",
+   20185
+  ],
+  "Galatasaray": [
+   "Galatasaray S.K. (football)",
+   20186
+  ],
+  "Fenerbahce": [
+   "Fenerbahçe S.K. (football)",
+   20607
+  ],
+  "Kasimpasa": [
+   "Kasımpaşa S.K.",
+   20614
+  ],
+  "Antalyaspor": [
+   "Antalyaspor",
+   20610
+  ],
+  "Sivasspor": [
+   "Sivasspor",
+   20613
+  ],
+  "Kayserispor": [
+   "Kayserispor",
+   20616
+  ],
+  "Gaziantep": [
+   "Gaziantep F.K.",
+   20617
+  ],
+  "Trabzonspor": [
+   "Trabzonspor",
+   20606
+  ],
+  "Konyaspor": [
+   "Konyaspor",
+   20608
+  ],
+  "Alanyaspor": [
+   "Alanyaspor",
+   20609
+  ],
+  "Rizespor": [
+   "Çaykur Rizespor",
+   20631
+  ],
+  "Samsunspor": [
+   "Samsunspor",
+   20625
+  ],
+  "Goztepe": [
+   "Göztepe S.K.",
+   20633
+  ],
+  "Eyupspor": [
+   "Eyüpspor",
+   20620
+  ],
+  "Erzurumspor": [
+   "Erzurumspor F.K.",
+   20637
+  ],
+  "Genclerbirligi": [
+   "Gençlerbirliği S.K.",
+   20639
+  ],
+  "Kocaelispor": [
+   "Kocaelispor",
+   20630
+  ]
+ },
+ "Belgian": {
+  "ClubBrugge": [
+   "Club Brugge KV",
+   20178
+  ],
+  "Genk": [
+   "KRC Genk",
+   20179
+  ],
+  "Anderlecht": [
+   "RSC Anderlecht",
+   20180
+  ],
+  "Antwerp": [
+   "Royal Antwerp FC",
+   30285
+  ],
+  "Gent": [
+   "KAA Gent",
+   30286
+  ],
+  "Cercle": [
+   "Cercle Brugge KSV",
+   30287
+  ],
+  "Standard": [
+   "Standard Liège",
+   30288
+  ],
+  "Westerlo": [
+   "KVC Westerlo",
+   30289
+  ],
+  "Leuven": [
+   "Oud-Heverlee Leuven",
+   30290
+  ],
+  "Charleroi": [
+   "Royal Charleroi SC",
+   30291
+  ],
+  "Mechelen": [
+   "KV Mechelen",
+   30292
+  ],
+  "Kortrijk": [
+   "KV Kortrijk",
+   30293
+  ],
+  "StTruiden": [
+   "Sint-Truidense VV",
+   30294
+  ],
+  "Dender": [
+   "F.C.V. Dender E.H.",
+   30296
+  ],
+  "Lommel": [
+   "Lommel SK",
+   30297
+  ],
+  "LaLouviere": [
+   "RAAL La Louvière",
+   30309
+  ],
+  "Molenbeek": [
+   "union Saint-Gilloise",
+   30300
+  ],
+  "Beveren": [
+   "SK Beveren",
+   30303
+  ],
+  "Zulte": [
+   "SV Zulte Waregem",
+   30299
+  ]
+ },
+ "Scottish": {
+  "Celtic": [
+   "Celtic F.C.",
+   20211
+  ],
+  "Rangers": [
+   "Rangers F.C.",
+   30117
+  ],
+  "Aberdeen": [
+   "Aberdeen F.C.",
+   30119
+  ],
+  "Hearts": [
+   "Heart of Midlothian F.C.",
+   30120
+  ],
+  "Motherwell": [
+   "Motherwell F.C.",
+   30121
+  ],
+  "StMirren": [
+   "St Mirren F.C.",
+   30122
+  ],
+  "DundeeUtd": [
+   "Dundee United F.C.",
+   30129
+  ],
+  "Kilmarnock": [
+   "Kilmarnock F.C.",
+   30124
+  ],
+  "Falkirk": [
+   "Falkirk F.C.",
+   30125
+  ],
+  "Livingston": [
+   "Livingston F.C.",
+   30126
+  ],
+  "StJohnstone": [
+   "St Johnstone F.C.",
+   30127
+  ],
+  "Dundee": [
+   "Dundee F.C.",
+   30123
+  ],
+  "Hibernian": [
+   "Hibernian F.C.",
+   30146
+  ]
+ },
+ "Brazil": {
+  "AtleticoPR": [
+   "Club Athletico Paranaense",
+   20377
+  ],
+  "AtleticoMG": [
+   "Clube Atlético Mineiro",
+   20001
+  ],
+  "Bahia": [
+   "Esporte Clube Bahia",
+   20017
+  ],
+  "Botafogo": [
+   "Botafogo FR",
+   20021
+  ],
+  "Chapecoense": [
+   "Associação Chapecoense de Futebol",
+   20019
+  ],
+  "Corinthians": [
+   "SC Corinthians Paulista",
+   20005
+  ],
+  "Coritiba": [
+   "Coritiba Foot Ball Club",
+   20013
+  ],
+  "Cruzeiro": [
+   "Cruzeiro EC",
+   20278
+  ],
+  "Flamengo": [
+   "CR Flamengo",
+   20007
+  ],
+  "Gremio": [
+   "Grêmio FBPA",
+   20016
+  ],
+  "Internacional": [
+   "SC Internacional",
+   20011
+  ],
+  "Palmeiras": [
+   "SE Palmeiras",
+   20003
+  ],
+  "Bragantino": [
+   "Red Bull Bragantino",
+   20006
+  ],
+  "Remo": [
+   "Clube do Remo",
+   20427
+  ],
+  "Santos": [
+   "Santos FC",
+   20009
+  ],
+  "SaoPaulo": [
+   "São Paulo FC",
+   20012
+  ],
+  "Vasco": [
+   "CR Vasco da Gama",
+   20022
+  ],
+  "VitoriaBA": [
+   "Esporte Clube Vitória",
+   20431
+  ],
+  "Fortaleza": [
+   "Fortaleza Esporte Clube",
+   20004
+  ],
+  "Cuiaba": [
+   "Cuiabá Esporte Clube",
+   20014
+  ],
+  "Juventude": [
+   "Esporte Clube Juventude",
+   20015
+  ]
+ }
+}

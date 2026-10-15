@@ -1,0 +1,15 @@
+{
+ "_note": "PL 2026-27 squads collected via WebSearch (summaries, PARTIAL lists - key names only). Complete lists need the source pages. 11/20 clubs done, 9 remaining: Coventry, Crystal Palace, Everton, Fulham, Hull, Ipswich, Nottingham Forest, Sunderland, West Ham.",
+ "_sources": "ESPN/PremierLeague.com/club official sites/Transfermarkt/Wikipedia season pages",
+ "Arsenal": {"GK": ["Raya 1", "Kepa 13", "Meslier 30 (from Leeds)", "Setford 35"], "DF": ["Saliba 2", "Mosquera 3", "White 4", "Hincapié 5", "Gabriel 6", "Timber 12", "Konsa 15", "Calafiori"], "MF": ["Ødegaard 8"], "FW": ["Saka 7", "Gyökeres 14", "Tzolis 17", "Madueke 20"]},
+ "Liverpool": {"_ref": "see liverpool_gap.json (31 wiki / 29 game)"},
+ "Chelsea": {"GK": ["Sánchez 1", "Penders 13", "Sharman-Lowe 28", "Slonina 44"], "DF": ["Palestra 2", "Fofana 3", "Barco 4", "Lacroix 5", "Colwill 6", "Hato 21"], "MF": ["Enzo 8", "Palmer 10", "Henderson 14", "Rogers 17", "Quenda 23", "Caicedo 25", "Lavia 45"], "FW": ["Neto 7", "Gittens 11", "Estêvão 41"]},
+ "Tottenham": {"MF": ["Xavi Simons 7", "Gallagher 8", "Maddison 10", "Archie Gray 14", "Bergvall"], "FW": ["Tel 11", "Odobert 28", "Kudus 20", "Richarlison"], "DF": ["Robertson", "Van Hecke", "Senesi"]},
+ "Newcastle": {"GK": ["Pope 1", "Horníček 21", "Jaouen 24", "Gillespie 29", "Harris 31"], "DF": ["Livramento 2", "Hall 3", "Botman 4", "Schär 5"], "FW": ["Wissa 9", "Osula 10", "Barnes 11", "Touré 15", "Elanga 19", "Murphy 23"], "MF": ["Ramsey 41", "Willock 28"]},
+ "ManCity": {"GK": ["Donnarumma 1 (NEW)", "Bettinelli 13", "Rulli 28"], "DF": ["Dias 3", "Guéhi 6 (NEW)", "Gvardiol 24", "Aït-Nouri 21"], "MF": ["Kovačić 8", "Cherki 10", "Foden 47", "Doku 11"], "FW": ["Haaland 9", "Ndiaye 7", "Allan 37", "Semenyo 42"]},
+ "ManUnited": {"GK": ["Lammens", "Darlow 12 (NEW)", "Heaton"], "DF": ["Dorgu 13", "Dalot", "De Ligt"], "MF": ["Andrey Santos 17 (NEW)", "Tielemans 18 (NEW)", "Bruno 8", "Mount 7", "Fletcher 39"], "FW": ["Rashford 9", "Cunha 10", "Zirkzee 11"]},
+ "Bournemouth": {"GK": ["Petrović 1"], "DF": ["Araujo 2", "Truffert 3", "Hill 5", "Soler 6", "Aarons 28", "Milosavljević 44", "António Silva (NEW)"], "MF": ["Cook 4", "Tóth"], "FW": ["Evanilson", "Kluivert", "Adli", "Kroupi", "Jebbison", "Á.Rodríguez (NEW £25.7m)", "Rayan"]},
+ "AstonVilla": {"GK": ["Suzuki 1", "Bizot 40", "Wright 42"], "DF": ["Cash 2", "Lindelöf 3 (NEW)", "Harwood-Bellis 4 (NEW)", "Mings 5"], "MF": ["Barkley 6", "McGinn 7", "Kamara 8"], "FW": ["Garnacho (NEW)", "Guessand (NEW)"]},
+ "Brentford": {"GK": ["Kelleher 1"], "DF": ["Hickey 2", "Henry 3", "Van den Berg 4", "Pinnock 5", "Ajer 22", "Kim Ji-Soo 36", "Schuster 44", "Fredrick 48"], "MF": ["Yarmoliuk 6", "Schade 7", "Jensen 8", "Dasilva 10", "Carvalho", "Janelt 27", "Sangaré 18 (NEW from Lens)"], "FW": ["Lewis-Potter", "Kayode"]},
+ "Brighton": {"GK": ["Verbruggen 1", "Steele 23", "McGill 38"], "DF": ["Dunk 5", "Boscagli 21", "Kadıoğlu 24", "Struijk 4", "Hadjam", "Webster"], "MF": ["Mitoma", "Hinshelwood", "Groß 13", "Chema Andrés"], "FW": []}
+}

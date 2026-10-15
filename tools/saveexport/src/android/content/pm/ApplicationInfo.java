@@ -1,0 +1,5 @@
+package android.content.pm;
+public class ApplicationInfo {
+    public String dataDir;
+    public String nativeLibraryDir;
+}

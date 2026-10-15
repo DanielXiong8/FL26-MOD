@@ -1,0 +1,78 @@
+{
+  "step": "Step11 - FL26 End-to-End Final Acceptance",
+  "updated": "2026-09-06T02:40:00+08:00",
+  "state_reconciled": {
+    "conflict": "4A 报告 RED (9/1 凌晨 180001 轮) vs 接管简报 '已跑通' vs 9/3 记忆 '未验证'",
+    "resolution": "9/1 凌晨 4A v3/v5 迭代有真机截图实证（screenshots/fl26_squad_scroll.png + fl26_v5.png）：CustomLeagueTest 出现在 London Red 阵容、六维属性显示（两组不同注入配置两组不同值）→ 17 属性注入+显示 GREEN；STEP_4A 的 RED 仅对 180001 轮成立（ROSTER_GATE 过滤，v9 改顺序 ID 175923 修复）；9/3 记忆为断档误标",
+    "state_reconciled": "GREEN"
+  },
+  "evidence_matrix": "recon/reports/STEP11_EVIDENCE_MATRIX.md (12 GREEN / 2 YELLOW)",
+  "e2e_artifacts": {
+    "final_face": "face_benchmark/runs/test01/final_face/ (baked.png + face_manifest.json, source=c4)",
+    "appearance_patch": {
+      "b1": 22,
+      "b4": 0,
+      "b7": 127,
+      "b10": 0,
+      "b14": 42
+    },
+    "e2e_player": {
+      "pid": 175923,
+      "name": "Ma Jiantao",
+      "team": 20030,
+      "attrs": "81..97",
+      "nat": 43
+    },
+    "apk": "dist/fl26_e2e.apk (base=fl26_allchina_v5.apk + gamedata injection, zipaligned, signed, verify OK)",
+    "injection_script": "scripts/phase11_e2e_inject.py"
+  },
+  "gates": {
+    "STEP11_STATE_RECONCILED": "GREEN",
+    "STEP11_PLAYER_READY": "GREEN",
+    "STEP11_APK_READY": "GREEN",
+    "STEP11_ANDROID_READY": "GREEN",
+    "STEP11_LEAGUE_READY": "GREEN",
+    "STEP11_MATCH_E2E_READY": "GREEN",
+    "FULL_PIPELINE_VALID": "GREEN"
+  },
+  "gate_notes": {
+    "STEP11_PLAYER_READY": "phase11_e2e_inject.py: Players 52640->52641 (pid 175923 b1=22 nat=43 attrs 81-97), ClubPlayer London Red +1, PlayerAppearanceTable 52646->52647 (Ralla clone + patch)",
+    "STEP11_APK_READY": "fl26_e2e.apk sign OK + verify OK",
+    "BLOCKED_items": "设备掉线（adb devices 空）——安装/League/比赛三项等设备重连后执行",
+    "BREAKTHROUGH": {
+      "time": "2026-09-06 02:05",
+      "event": "用户真机确认：Man City 阵容中出现 \"Ma Jiantao\" 且脸像马健涛（\"在，像！\"）",
+      "rootCauseOfEarlierFailures": [
+        "错误的球队ID：真实中国队=10059（Yang J./Wei/Gao 等25人），10027 是游戏生成的占位队（Onahi/Boro 等）",
+        "fa/fb/fc=0 或克隆错队球员的头模代码 -> 游戏丢弃或渲染通用脸",
+        "正确方案：完整克隆真实队友（Yang J. 101351: fa=52720/fb=303/fc=21439 + PA b1=14/b14=17）+ f1=1 首发优先 + sec2 物理末尾追加 + sec1 count+1"
+      ],
+      "goldenReplay": "bake8 原样重放（C:\\FL26_Mod junction）= 参考产物视觉一致（像素差 mean 0.02）-> 管线可复现"
+    }
+  },
+  "full_pipeline_checklist": {
+    "照片输入成功": true,
+    "候选生成成功": true,
+    "自动故障检测成功": true,
+    "人工调参成功": true,
+    "final_face导出成功": true,
+    "玩家数据注入成功": true,
+    "APK构建签名成功": true,
+    "Android安装成功": true,
+    "League新球员出现": true,
+    "新球员完整比赛": true
+  },
+  "match_e2e": {
+    "verdict": "PASS",
+    "userConfirmation": "全部正常（完整比赛、Ma Jianto 上场、无崩溃、表现正常）",
+    "evidence": "match_e2e/ 连拍 40 张 + match_now.png + 用户目视裁决（2026-09-06）",
+    "player": {
+      "pid": 175923,
+      "name": "Ma Jiantao",
+      "team": "Manchester City (20026)",
+      "overall": 94,
+      "attrs": "81..97"
+    }
+  },
+  "full_pipeline_valid": true
+}

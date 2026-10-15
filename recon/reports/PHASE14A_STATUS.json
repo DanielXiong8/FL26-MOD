@@ -1,0 +1,47 @@
+{
+  "phase": "14A",
+  "title": "FL26 Face Builder Browser V1 Foundation",
+  "updated": "2026-09-08 19:25",
+  "gates": {
+    "SAVE_EXPORT_READY": {
+      "status": "GREEN",
+      "evidence": "SaveExportActivity (fl26_mod_saveexport.apk) exports full Archives tree to /sdcard/.../save_export; pulled to PC repeatedly",
+      "run": "D:\\FL26_Mod\\work\\save_pipeline\\phase14a\\runs\\save\\save_20260908_final"
+    },
+    "SAVE_ROUNDTRIP_READY": {
+      "status": "GREEN",
+      "evidence": "export -> protobuf edit (remove probe 175931 from China 10059 packed roster, 33->32) -> SaveImportActivity IMPORT DONE -> reinstall game APK (data preserved) -> USER CONFIRMED P13B_P07 GONE from squad in game",
+      "editor": "D:\\FL26_Mod\\work\\save_pipeline\\phase14a\\save_editor.py (byte-preserving parse/serialize, self_test roundtrip fidelity, team_remove_player/team_add_player/roster_of)"
+    },
+    "NEW_PLAYER_SAVE_READY": {
+      "status": "BLOCKED_BY_DESIGN",
+      "note": "SAVE_IMPORT_LIMITATION confirmed by data: player_blob holds only state summary (f1=pid, f2=state 1-4, f5=team, f10=ovr). Names/attrs/appearance live in gamedata Players/PA/ClubPlayer. Save import can MOVE/REMOVE existing gamedata players between rosters without reinstall; it CANNOT create new players. Product flow = BUILD APK (players into gamedata, once per batch) + BUILD SAVE (roster moves, no reinstall).",
+      "next": "NEW_PLAYER_SAVE narrowed to: gamedata carries N players -> save import distributes them across teams -> user rosters updated without reinstall"
+    },
+    "WEB_INPUT_READY": {"status": "PENDING"},
+    "WEB_CANDIDATE_READY": {"status": "PENDING"},
+    "WEB_FACE_READY": {"status": "PENDING"},
+    "WEB_PLAYER_CONFIG_READY": {"status": "PENDING"},
+    "WEB_BUILD_READY": {"status": "PENDING"},
+    "WEB_INSTALL_READY": {"status": "PENDING"},
+    "WEB_E2E_READY": {"status": "PENDING"}
+  },
+  "BROWSER_FACE_BUILDER_V1": "IN_PROGRESS",
+  "constraints_locked": {
+    "roster_cap": "team roster <= 33 men (43 = AFH dead match, device-proven); BUILD must block beyond cap",
+    "jersey": "f1 = jersey number, unique per team",
+    "position": "classified by 17-attr profile (uniform 81-97 -> GK); need per-position attr templates",
+    "pid_band": "175924+ free; collision check via 3-table scan",
+    "appearance_bytes": "b1 face tex (14=EA new1 device-proven), b5 hair color 10 (3D pink confirmed), b6 beard 1-22, b8 eyebrow 1-7, b14 follow reference (morph decode deferred), b3 hair follow reference",
+    "save_limitation": "SAVE_IMPORT_LIMITATION: save edits move existing players only; new players require APK rebuild"
+  },
+  "next_actions": [
+    "Web layer: FastAPI backend + minimal frontend (tools/FL26_FaceBuilderWeb/)",
+    "STEP1-3: upload 1-3 photos -> candidate pool (existing generate_candidates.py) -> select",
+    "STEP4: Reference Player selector (19 CHN verified players + star table)",
+    "STEP5: appearance adjust (b5 color 10, b6 beard 22, b8 eyebrow, b1 family) — verified-only options",
+    "player config: name/position/foot(NOT EXPOSED until located)/nation(table)/jersey f1/17 attrs/team(cap check)",
+    "BUILD: runs/builds/<run_id>/ full provenance; INSTALL gated on SIGN+VERIFY",
+    "IMPORT TO DEVICE button when save pipeline exposed via adb"
+  ]
+}

@@ -1,0 +1,1178 @@
+--------- beginning of main
+09-08 12:27:32.593  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6544.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:483.3,R:287.8,G:187.2,B:115.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.594  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:6536.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:513.8,R:302.8,G:202.3,B:122.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.594  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:7790.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:496.9,R:293.6,G:188.5,B:119.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.594  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:6556.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:490.3,R:293.7,G:188.3,B:119.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.594  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:7523.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:499.3,R:294.8,G:193.3,B:119.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.594  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6896.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:510.3,R:303.6,G:196.3,B:119.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.594  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.4,cct:6579.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:484.8,R:292.3,G:188.0,B:117.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.594  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6543.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:506.0,R:300.4,G:198.0,B:120.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.594  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.3,cct:6541.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:488.1,R:290.5,G:185.5,B:119.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.647  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.090927 0.318844 9.812965 88.063667 5.908543 1.000000 0 6.154003 0 6.155632 6.155632
+--------- beginning of system
+09-08 12:27:32.658  3728  7039 D NetworkMetricsTracker: calcNWCause:0
+09-08 12:27:32.661  3728  7099 D GreezeManager: freezeUid uid=10282 return:WIDGET_APP
+09-08 12:27:32.709  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:32.709  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:32.712  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:32.712  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:32.712  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:32.714  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:32.715  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 2
+09-08 12:27:32.715  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:32.726  2972  2972 I adbd    : in ShellService: monkey -p com.football.soccer.league.mod -c android.intent.category.LAUNCHER 1
+09-08 12:27:32.744  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:32.744  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:32.745  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:32.745  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:32.798  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 12:27:32.801  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 12:27:32.801  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 7ms
+09-08 12:27:32.801  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 12:27:32.803  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 12:27:32.803  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 12:27:32.803 17478 17478 W app_process: type=1400 audit(0.0:5798054): avc:  denied  { read } for  name="u:object_r:vendor_audio_prop:s0" dev="tmpfs" ino=552 scontext=u:r:shell:s0 tcontext=u:object_r:vendor_audio_prop:s0 tclass=file permissive=0
+09-08 12:27:32.806 17478 17478 W libc    : Access denied finding property "persist.vendor.audio.cpupror.schedDy"
+09-08 12:27:32.806  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:6537.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:487.4,R:289.5,G:188.2,B:116.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:32.815  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:32.816  2817  2817 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:32.820 17478 17478 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+09-08 12:27:32.825 12691 23261 D JavaheapMonitor: Java heap used=43M max=512M, proc: com.xiaomi.aicr:cognitionService
+09-08 12:27:32.825 12691 23261 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:32.827 17478 17478 I AndroidRuntime: Using default boot image
+09-08 12:27:32.827 17478 17478 I AndroidRuntime: Leaving lock profiling enabled
+09-08 12:27:32.829 17478 17478 I app_process: Using CollectorTypeCC GC.
+09-08 12:27:32.858  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.318844 9.809975 88.071663 5.908543 1.000000 0 6.153675 0 6.154918 6.154918
+09-08 12:27:32.872 17478 17478 D nativeloader: InitDefaultPublicLibraries for_preload=1: libandroid.so:libaaudio.so:libamidi.so:libbinder_ndk.so:libc.so:libcamera2ndk.so:libdl.so:libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libicu.so:libicui18n.so:libicuuc.so:libjnigraphics.so:liblog.so:libmediandk.so:libm.so:libnativehelper.so:libnativewindow.so:libOpenMAXAL.so:libOpenSLES.so:libRS.so:libstdc++.so:libsync.so:libvulkan.so:libwebviewchromium_plat_support.so:libz.so
+09-08 12:27:32.879 17478 17478 D nativeloader: Load libicu_jni.so using APEX ns com_android_art for caller /apex/com.android.art/javalib/core-oj.jar: ok
+09-08 12:27:32.879 17478 17478 D app_process: u_setTimeZoneFilesDirectory("/apex/com.android.tzdata/etc/tz/versioned/9/icu") succeeded. 
+09-08 12:27:32.879 17478 17478 D app_process: I18n APEX ICU file found: /apex/com.android.i18n/etc/icu/icudt76l.dat
+09-08 12:27:32.880 17478 17478 D nativeloader: Load libjavacore.so using APEX ns com_android_art for caller /apex/com.android.art/javalib/core-oj.jar: ok
+09-08 12:27:32.880 17478 17478 D nativeloader: Load libopenjdk.so using APEX ns com_android_art for caller /apex/com.android.art/javalib/core-oj.jar: ok
+09-08 12:27:32.890  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:32.891  2817  2817 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:32.892 25887 26077 I dist:vtcamera:PhoneTemperatureReader: onEvent: null
+09-08 12:27:32.893 17478 17478 W libc    : Access denied finding property "ro.vendor.mtk.hbt_binfmt_misc_support"
+09-08 12:27:32.893 17478 17478 W libc    : Access denied finding property "ro.vendor.mtk.app32_boost_support"
+09-08 12:27:32.893 17478 17478 W libc    : Access denied finding property "ro.vendor.mtk.hbt_dyn_type"
+09-08 12:27:32.893 17478 17478 W libc    : Access denied finding property "persist.vendor.mtk.hbt_dyn_type"
+09-08 12:27:32.893 25887 26483 I dist:vtcamera:PhoneTemperatureReader: read-temp:33250
+09-08 12:27:32.893 25887 26483 D dist:vtcamera:PhoneTemperatureNotifier: tempV=33250, highTemperature state=false
+09-08 12:27:32.893  3728  4279 D AurogonBandwidthController: skinTemperature:33.25
+09-08 12:27:32.894  3728  4279 D AurogonBandwidthController: skinTemperature:33.25
+09-08 12:27:32.900 17478 17478 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+09-08 12:27:32.900 17478 17478 D AndroidRuntime: Calling main entry com.android.commands.monkey.Monkey
+09-08 12:27:32.900 17478 17478 D nativeloader: Load /system/lib64/libmonkey_jni.so using ns default for caller /system/framework/monkey.jar in same partition (is_bridged=0): ok
+09-08 12:27:32.901 17478 17478 W Monkey  : args: [-p, com.football.soccer.league.mod, -c, android.intent.category.LAUNCHER, 1]
+09-08 12:27:32.904 17478 17478 W app_process: ClassLoaderContext classpath size mismatch. expected=0, found=1 (PCL[] | PCL[/system_ext/framework/miui-framework.autoui.jar*2881616845])
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.settings.accessibility is mapped to system_ext
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.settings.keyboard is mapped to system_ext
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.settings.factory_reset is mapped to system_ext
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.systemui.accessibility.accessibilitymenu is mapped to system_ext
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.server.policy.feature.flags is mapped to system_ext
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.settings.flags is mapped to system_ext
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.settings.media_drm is mapped to system_ext
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.launcher3 is mapped to system_ext
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.appsearch.flags is mapped to com.android.appsearch
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.media.extractor.flags is mapped to com.android.media
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.media.mainline.flags is mapped to com.android.media
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.org.conscrypt.flags is mapped to com.android.conscrypt
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.wifi.flags is mapped to com.android.wifi
+09-08 12:27:32.907 17478 17478 I AconfigPackage: android.media.swcodec.flags is mapped to com.android.media.swcodec
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.art.flags is mapped to com.android.art
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.libcore is mapped to com.android.art
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.adservices.flags is mapped to com.android.adservices
+09-08 12:27:32.907 17478 17478 I AconfigPackage: com.android.sdksandbox.flags is mapped to com.android.adservices
+09-08 12:27:32.907 17478 17478 I AconfigPackage: android.os.profiling is mapped to com.android.profiling
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.adservices.ondevicepersonalization.flags is mapped to com.android.ondevicepersonalization
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.provider.flags is mapped to com.android.configinfrastructure
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.deviceconfig is mapped to com.android.configinfrastructure
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.admin.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.database.sqlite is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.power.feature.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.performance.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.contextualsearch.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.ondeviceintelligence.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.projection.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.companion is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.service.controls.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.text.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.providers.contactkeys.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.companion.virtualdevice.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.uprobestats.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.net.thread.platform.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.view.contentprotection.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.graphics.skia.ddreflags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.dreams is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.graphics.surfaceflinger.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.hardware.input is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.sdk is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.wm.shell.transition is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.input.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.tracing is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.biometrics is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.view.contentcapture.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.content.pm.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.job is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.content.res is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.net.platform.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.aconfig.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.graphics.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.server.app is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.speech.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.stats is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.hardware.biometrics is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.car.feature is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.adpf is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.location.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.settingslib.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.managedprovisioning.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.assist.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.net is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.settingslib.widget.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.internal.camera.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.hardware.libsensor.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.thirdappopt is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.internal.jank is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.providers.settings is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.multiuser is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.power.optimization is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.calllogbackup is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.battery is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.graphics.libvulkan.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.appfunctions.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.smartspace.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.providers.contacts.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.stability.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.shell.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.aaudio is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.hardware.radio is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: suspend_service.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.media.midi is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.libcore.readonly is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.settingslib.widget.selectorwithwidgetpreference.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.service.notification is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.systemui.shared is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.jank is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.wearable is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.audio is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.service.chooser is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.compat is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.alarm is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.apex.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.service.quickaccesswallet is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.usage is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.accessibility is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app.supervision.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.utils is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.chre.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.content.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.media.codec is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.internal.os is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.nfc.nci.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.app is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.security.keystore2 is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.crashrecovery.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.tradeinmode.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.hardware.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.telecom.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.settingslib.media.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.policy is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.media.audiopolicy is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.egg.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.internal.compat.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.security is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.service.autofill is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.example.android.aconfig.demo.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.view.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.companion.virtual.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.aconfig_new_storage is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.wm.shell.recents is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.feature.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.systemui is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.graphics.skia.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.power.batterysaver is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.widget.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.editing.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.codec.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.powerstats is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.graphics.egl.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.audioserver is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.deviceidle is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.nfc is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.logmanager is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.permission.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.service.voice.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.content.pm is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.power.hint is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.wm is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.navimmersive.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.os is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.service.dreams is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: xiaomi.platform.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.graphics.libgui.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.hardware.usb.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.provider is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.job is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.internal.foldables.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.internal.telephony.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.webkit is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.credentials.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.display.feature.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.notification is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.appwidget.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.frameworks.sensorservice.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.window.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.adaptiveauth is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.net.wifi.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.media.tv.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.usb.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.os.vibrator is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.hardware.devicestate.feature.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.usage is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.server is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.wm.shell is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.view.inputmethod is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.graphics.hwui.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.backup is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.internal.pm.pkg.component.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.view.accessibility is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.media.audio is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.server.am is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.media.playback.flags is mapped to system
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.graphics.pdf.flags is mapped to com.android.mediaprovider
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.providers.media.flags is mapped to com.android.mediaprovider
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.graphics.pdf.flags.readonly is mapped to com.android.mediaprovider
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.net.ct.flags is mapped to com.android.tethering
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.net.flags is mapped to com.android.tethering
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.net.vcn is mapped to com.android.tethering
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.nearby.flags is mapped to com.android.tethering
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.net.http is mapped to com.android.tethering
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.net.thread.flags is mapped to com.android.tethering
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.ipsec.flags is mapped to com.android.ipsec
+09-08 12:27:32.908 17478 17478 I AconfigPackage: android.uprobestats.mainline.flags is mapped to com.android.uprobestats
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.uwb.flags is mapped to com.android.uwb
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.ranging.flags is mapped to com.android.uwb
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.permission.flags is mapped to com.android.permission
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.healthfitness.flags is mapped to com.android.healthfitness
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.devicelock.flags is mapped to com.android.devicelock
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.system.virtualmachine.flags is mapped to com.android.virt
+09-08 12:27:32.908 17478 17478 I AconfigPackage: com.android.os.statsd.flags is mapped to com.android.os.statsd
+09-08 12:27:32.909 17478 17478 I AconfigPackage: com.android.icu is mapped to com.android.i18n
+09-08 12:27:32.909 17478 17478 I AconfigPackage: com.android.bluetooth.flags is mapped to com.android.bt
+09-08 12:27:32.909 17478 17478 E FeatureFlagsImplExport: android.os.flagging.AconfigStorageReadException: ERROR_PACKAGE_NOT_FOUND: package android.xr cannot be found on the device
+09-08 12:27:32.910 17478 17478 W libc    : Access denied finding property "qemu.sf.lcd_density"
+09-08 12:27:32.910 17478 17478 W libc    : Access denied finding property "qemu.sf.lcd_density"
+09-08 12:27:32.907 17478 17478 W commands.monkey: type=1400 audit(0.0:5798055): avc:  denied  { read } for  name="u:object_r:qemu_sf_lcd_density_prop:s0" dev="tmpfs" ino=458 scontext=u:r:shell:s0 tcontext=u:object_r:qemu_sf_lcd_density_prop:s0 tclass=file permissive=0
+09-08 12:27:32.907 17478 17478 W commands.monkey: type=1400 audit(0.0:5798056): avc:  denied  { read } for  name="u:object_r:qemu_sf_lcd_density_prop:s0" dev="tmpfs" ino=458 scontext=u:r:shell:s0 tcontext=u:object_r:qemu_sf_lcd_density_prop:s0 tclass=file permissive=0
+09-08 12:27:32.911 17478 17478 D ThemeCompatibility: START loading theme compatibility config.
+09-08 12:27:32.911 17478 17478 D ThemeCompatibility: getVersion(): /data/system/theme_config/theme_compatibility.xml  java.io.FileNotFoundException: /data/system/theme_config/theme_compatibility.xml: open failed: ENOENT (No such file or directory)
+09-08 12:27:32.911 17478 17478 D ThemeCompatibility: getConfigDocumentTree(): 140 vs -1
+09-08 12:27:32.911 17478 17478 D ThemeCompatibility:     parse file: /product/media/theme/theme_compatibility.xml
+09-08 12:27:32.912 17478 17478 D ThemeCompatibility: END loading: version=140 size=71
+09-08 12:27:32.915 17478 17478 D nativeloader: Load libjavacrypto.so using APEX ns com_android_conscrypt for caller /apex/com.android.conscrypt/javalib/conscrypt.jar: ok
+09-08 12:27:32.917 17478 17478 I OverlayConfig: Sorting partitions in the specified order from partitions_order.xml
+09-08 12:27:32.923  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a56b10) status 0 for display-0.
+09-08 12:27:32.924  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:32.919 17478 17478 W commands.monkey: type=1400 audit(0.0:5798057): avc:  denied  { execute } for  name="idmap2" dev="dm-32" ino=9926890 scontext=u:r:shell:s0 tcontext=u:object_r:idmap_exec:s0 tclass=file permissive=0
+09-08 12:27:32.924 17478 17478 W app_process: unable to execute idmap2: Permission denied
+09-08 12:27:32.924 17478 17478 W OverlayConfig: 'idmap2 create-multiple' failed: no mutable="false" overlays targeting "android" will be loaded
+09-08 12:27:32.924 17478 17478 I AssetManagerImpl : Load libmiui_runtime
+09-08 12:27:32.925 17478 17478 D nativeloader: Load libmiui_runtime.so using system ns (caller=/system_ext/framework/miui-framework.jar): ok
+09-08 12:27:32.925 17478 17478 E app_process: register_android_view_SurfaceRuntimeShader  
+09-08 12:27:32.925 17478 17478 E app_process: register_android_view_SurfaceRuntimeShader  0
+09-08 12:27:32.925 17478 17478 W asset   : unable to execute idmap2: Permission denied
+09-08 12:27:32.925 17478 17478 W AssetManagerImpl : 'idmap2 --scan' failed: no static="true" overlays targeting "miui" will be loaded
+09-08 12:27:32.923 17478 17478 W commands.monkey: type=1400 audit(0.0:5798058): avc:  denied  { execute } for  name="idmap2" dev="dm-32" ino=9926890 scontext=u:r:shell:s0 tcontext=u:object_r:idmap_exec:s0 tclass=file permissive=0
+09-08 12:27:32.925 17478 17478 I app_process: AssetManager2(0xb400007472a55b98) locale list changing from [] to [zh-CN]
+09-08 12:27:32.929 17478 17478 W Monkey  :  arg: "-p"
+09-08 12:27:32.929 17478 17478 W Monkey  :  arg: "com.football.soccer.league.mod"
+09-08 12:27:32.929 17478 17478 W Monkey  :  arg: "-c"
+09-08 12:27:32.929 17478 17478 W Monkey  :  arg: "android.intent.category.LAUNCHER"
+09-08 12:27:32.929 17478 17478 W Monkey  :  arg: "1"
+09-08 12:27:32.929 17478 17478 W Monkey  : data="com.football.soccer.league.mod"
+09-08 12:27:32.929 17478 17478 W Monkey  : data="android.intent.category.LAUNCHER"
+09-08 12:27:32.930  3728  5499 D EventHub: No input device configuration file found for device 'Monkey touch'.
+09-08 12:27:32.934  3728  8285 I ActivityTaskManager:  setActivityController mController=android.app.IActivityController$Stub$Proxy@4ffd40f, imAMonkey=true, CallingPid=17478 CallingUid=2000
+09-08 12:27:32.934  3728  8285 D ATMSImpl: setActivityController callingUid:2000 control=true
+09-08 12:27:32.934  3728  8285 I LogHelper: onMonkeyRunning: mOpenCount=49
+09-08 12:27:32.934  3728  8285 I LogHelper: onMonkeyRunning: The maximum number of activation times has been reached,mOpenCount=49
+09-08 12:27:32.934  3728  5499 I EventHub: usingClockIoctl=true
+09-08 12:27:32.934  3728  5499 I EventHub: New device: id=58, fd=770, path='/dev/input/event10', name='Monkey touch', classes=TOUCH | TOUCH_MT, configuration='', keyLayout='', keyCharacterMap='', builtinKeyboard=false, 
+09-08 12:27:32.934  3728  8285 W ActivityManager: registerReceiverWithFeature: no app for null
+09-08 12:27:32.935  3728  5499 W MiTouchInputMapperStubImpl: not found rotate config for device 58
+09-08 12:27:32.935  3728  5499 I InputReader: Device reconfigured: id=58, name='Monkey touch', size 1200x2670, orientation Rotation0, mode DIRECT, display id 0
+09-08 12:27:32.935  3728  5499 W MiTouchInputMapperStubImpl: not found rotate config for device 58
+09-08 12:27:32.935  3728  5499 I InputReader: Device added: id=58, eventHubId=58, name='Monkey touch', descriptor='e1fe28b90f915c7d1febbd52c1ef84b3c4cbed9f',sources=TOUCHSCREEN
+09-08 12:27:32.935  3728  5499 W MiuiDeviceShareManager: Device 58 added
+09-08 12:27:32.938 17478 17478 I Monkey  : ** No activities found to run, monkey aborted.
+09-08 12:27:32.938 17478 17478 I app_process: System.exit called, status: -4
+09-08 12:27:32.938 17478 17478 I AndroidRuntime: VM exiting with result code -4.
+09-08 12:27:32.945  3728  5499 E WindowManager: Display reconfigured outside of a transition: Display{#0 state=ON size=1200x2670 ROTATION_0}
+09-08 12:27:32.945  3728  4161 W IPCThreadState: Sending oneway calls to frozen process.
+09-08 12:27:32.946  3728  4161 W IPCThreadState: Sending oneway calls to frozen process.
+09-08 12:27:32.958  3728  5499 I EventHub: Removing device Monkey touch due to epoll hang-up event.
+09-08 12:27:32.958  3728  5499 I EventHub: Removed device: path=/dev/input/event10 name=Monkey touch id=58 fd=770 classes=TOUCH | TOUCH_MT
+09-08 12:27:32.959  3728  5499 I InputReader: Device removed: id=58, eventHubId=58, name='Monkey touch', descriptor='e1fe28b90f915c7d1febbd52c1ef84b3c4cbed9f', sources=TOUCHSCREEN
+09-08 12:27:32.959  3728  5499 W MiuiDeviceShareManager: Device 58 removed
+09-08 12:27:32.968  3728  5499 E WindowManager: Display reconfigured outside of a transition: Display{#0 state=ON size=1200x2670 ROTATION_0}
+09-08 12:27:32.968  3728  4161 W IPCThreadState: Sending oneway calls to frozen process.
+09-08 12:27:32.968  3728  4161 W IPCThreadState: Sending oneway calls to frozen process.
+09-08 12:27:32.969  3728  5499 I EventHub: Removing device '/dev/input/event10' due to inotify event
+09-08 12:27:32.969  8061  8061 D NavigationModeController: getCurrentUserContext: contextUser=0 currentUser=0
+09-08 12:27:32.973  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:32.974  2817  2817 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:32.975  7967  8022 E PhoneAdapter: get ntnphones failed, exception: java.lang.IllegalStateException: not support satellite!
+09-08 12:27:32.976  3728  7033 D AmlWifiScoreReportInjector: isSwitchBackToWifi mRecentScore[0] = 60 mRecentScore[1] = 60 mRecentScore[2] = 60
+09-08 12:27:32.976  3728  7026 W WifiScoreReport: Ignoring stale/invalid external score sessionId=2664 currentSessionId=-1 score=60
+09-08 12:27:33.020  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6568.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:504.3,R:302.1,G:196.3,B:122.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.070  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.314656 9.809377 88.070847 5.908543 1.000000 0 6.153752 0 6.154507 6.154507
+09-08 12:27:33.283  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.090927 0.317647 9.811171 88.069023 5.908543 1.000000 0 6.153865 0 6.154239 6.154239
+09-08 12:27:33.446  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:6569.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:499.2,R:299.9,G:192.4,B:122.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.494  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.318844 9.806385 88.072983 5.908543 1.000000 0 6.153689 0 6.154036 6.154036
+09-08 12:27:33.655  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:7216.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:517.2,R:305.8,G:198.0,B:122.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.656  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:6562.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:499.9,R:300.3,G:192.9,B:120.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.656  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:6544.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:523.3,R:310.6,G:202.0,B:128.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.657  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.9,cct:6565.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.7,R:302.2,G:195.3,B:122.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.658  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:6542.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:519.8,R:310.0,G:201.7,B:123.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.692  1996 14627 I sensors-hal: handle_sns_client_event:76, healthy_use_of_mobile_event: ts=1326844812721917, -1.000000, -1.000000, -1.000000, -1.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000
+09-08 12:27:33.695  9400  9443 D MST_VisualSensorManager: onSensorChanged:-1.0, -1.0, -1.0, -1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 at 1326844812721917
+09-08 12:27:33.705  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086142 0.320638 9.808180 88.058617 5.908543 1.000000 0 6.154386 0 6.154124 6.154124
+09-08 12:27:33.714  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:33.714  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:33.716  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:33.717  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:33.717  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:33.719  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:33.743  3728  7137 I SmartPower: com.android.rkpdapp/10245(15638): background->idle(3000ms) R(service create com.android.rkpdapp/.service.RemoteProvisioningService) adj=905.
+09-08 12:27:33.867  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.4,cct:6558.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:528.4,R:314.2,G:213.2,B:122.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.868  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:6560.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:499.9,R:302.5,G:188.8,B:121.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.868  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:6553.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:524.7,R:313.3,G:205.6,B:124.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.869  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6536.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:517.2,R:306.8,G:199.3,B:125.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.870  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:6574.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:501.2,R:303.2,G:192.7,B:121.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.870  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:7286.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:496.2,R:295.3,G:187.8,B:117.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:33.918  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.317049 9.804591 88.058617 5.908543 1.000000 0 6.154376 0 6.154238 6.154238
+09-08 12:27:34.080  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:7438.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:509.2,R:302.0,G:194.7,B:121.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.080  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:6545.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:508.5,R:303.8,G:196.0,B:122.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.081  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.3,cct:6614.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:488.1,R:296.0,G:190.5,B:122.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.081  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:6550.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:501.0,R:301.1,G:190.9,B:121.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.082  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:6547.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:515.2,R:307.4,G:201.2,B:121.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.130  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.092722 0.314656 9.811171 88.070137 5.908543 1.000000 0 6.153821 0 6.154122 6.154122
+09-08 12:27:34.290  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:6565.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:491.6,R:296.1,G:188.5,B:119.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.291  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6541.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:510.3,R:302.6,G:198.7,B:122.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.291  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6544.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:492.8,R:293.6,G:189.2,B:119.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.291  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6550.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:511.8,R:303.8,G:199.0,B:124.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.292  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.4,cct:7596.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:483.9,R:288.8,G:183.3,B:115.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.292  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:6533.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:513.6,R:303.0,G:202.3,B:120.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.293  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6562.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:482.0,R:289.7,G:187.6,B:114.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.293  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:6530.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:519.5,R:305.2,G:203.9,B:124.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.294  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:7367.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:486.8,R:290.1,G:185.1,B:115.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.294  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6584.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:482.7,R:288.7,G:190.9,B:117.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.294  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:7396.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.0,R:298.3,G:194.1,B:120.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.295  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.4,cct:6563.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:483.6,R:290.1,G:186.4,B:117.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.301  3728  4279 D AurogonBandwidthController: skinTemperature:33.25
+09-08 12:27:34.342  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.312862 9.809975 88.081635 5.908543 1.000000 0 6.153282 0 6.153856 6.153856
+09-08 12:27:34.504  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:7206.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:526.0,R:310.8,G:200.8,B:124.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.505  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:7112.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:516.5,R:308.3,G:195.3,B:122.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.505  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:7280.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:530.5,R:315.0,G:201.5,B:126.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.506  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:7148.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:517.1,R:308.9,G:195.3,B:122.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.506  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6533.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:523.8,R:311.1,G:200.0,B:127.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.507  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6567.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:500.6,R:301.9,G:194.4,B:119.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.507 23229 26584 W CMRCS   : CMSTACK:DUM | DialogUsageManager.cxx:1591 | Timeout Message : DumTimeout::Registration: duration=19440 seq=1
+09-08 12:27:34.507  7920 11214 D JavaheapMonitor: Java heap used=11M max=256M, proc: vendor.qti.frameworks.utils
+09-08 12:27:34.507  7920 11214 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:34.553  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.095713 0.312862 9.808180 88.088181 5.908543 1.000000 0 6.152990 0 6.153540 6.153540
+09-08 12:27:34.659  3728  7039 D NetworkMetricsTracker: calcNWCause:0
+09-08 12:27:34.714  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:7036.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.6,R:295.8,G:187.9,B:116.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.714  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:8381.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:499.7,R:294.8,G:185.4,B:121.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.715  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:6542.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:500.3,R:297.7,G:191.8,B:121.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.716  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:7384.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:504.0,R:296.6,G:192.7,B:119.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.716  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:8201.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.7,R:295.1,G:194.4,B:123.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.716  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:7540.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:506.3,R:296.4,G:196.3,B:121.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.717  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6534.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:509.2,R:299.2,G:198.6,B:123.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.717  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:34.717  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:34.717  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6558.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:492.5,R:295.3,G:189.5,B:119.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.718  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:7002.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.4,R:295.1,G:191.5,B:117.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.718  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:6542.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:489.9,R:292.7,G:186.8,B:118.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.720  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:34.720  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:34.720  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:34.722  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:34.766  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.317049 9.811171 88.080818 5.908543 1.000000 0 6.153359 0 6.153441 6.153441
+09-08 12:27:34.926  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:7642.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:500.1,R:294.8,G:193.0,B:120.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.926  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6538.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.2,R:294.3,G:193.4,B:119.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.927  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.9,cct:7315.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:488.1,R:287.4,G:189.6,B:116.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.928 11889 31290 D JavaheapMonitor: Java heap used=14M max=256M, proc: com.qualcomm.qti.services.systemhelper:systemhelper_service
+09-08 12:27:34.928  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.4,cct:6558.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:479.9,R:285.5,G:186.9,B:116.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.928 11889 31290 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:34.928  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.3,cct:7334.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:474.4,R:282.4,G:182.4,B:112.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.929  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6531.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.2,R:292.2,G:193.8,B:119.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.929  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:7783.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:476.1,R:279.7,G:185.0,B:114.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.930  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6543.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:490.5,R:289.2,G:192.8,B:117.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.930  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:7018.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:493.5,R:285.1,G:190.9,B:115.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.931  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.2,cct:7753.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:474.4,R:282.7,G:180.8,B:113.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:34.962 12490 31322 D JavaheapMonitor: Java heap used=6M max=256M, proc: com.xiaomi.location.fused
+09-08 12:27:34.962 12490 31322 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:34.977  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.094516 0.312862 9.814760 88.083366 5.908543 1.000000 0 6.153239 0 6.153385 6.153385
+09-08 12:27:35.138  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:7130.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:490.3,R:286.5,G:190.1,B:115.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.138  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:6543.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:493.2,R:289.1,G:195.6,B:118.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.139  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:8473.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:521.2,R:301.1,G:203.2,B:129.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.140  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6528.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:487.7,R:285.1,G:188.5,B:120.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.140  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6535.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.4,R:292.3,G:198.4,B:124.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.141  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.9,cct:6529.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:487.0,R:284.6,G:190.7,B:117.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.141  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:7934.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:516.8,R:293.8,G:199.1,B:125.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.142  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.9,cct:7645.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:490.3,R:286.9,G:190.7,B:117.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.189  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.084945 0.309871 9.815957 88.099060 5.908543 1.000000 0 6.152495 0 6.153131 6.153131
+09-08 12:27:35.294 14565 14933 D JavaheapMonitor: Java heap used=12M max=256M, proc: com.miui.powerkeeper
+09-08 12:27:35.294 14565 14933 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:35.319 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 34755
+09-08 12:27:35.351  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.2,cct:7145.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:520.0,R:292.7,G:203.8,B:122.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.351  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.9,cct:6527.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:492.7,R:287.0,G:192.2,B:120.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.352  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6542.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:498.9,R:292.0,G:197.8,B:120.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.352  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.0,cct:9479.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:477.2,R:273.7,G:175.5,B:117.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.353  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6543.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:494.2,R:290.2,G:194.1,B:120.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.353  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:7487.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:496.2,R:288.8,G:195.1,B:118.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.354  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:6524.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:505.0,R:293.3,G:200.3,B:120.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.354  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:7530.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:509.4,R:296.0,G:200.3,B:122.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.354  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.4,cct:6538.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:482.2,R:281.4,G:186.8,B:120.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.401  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.317049 9.809377 88.095047 5.908543 1.000000 0 6.152711 0 6.152916 6.152916
+09-08 12:27:35.561  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.9,cct:8086.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:494.5,R:288.5,G:190.8,B:120.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.562  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.3,cct:6602.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:478.0,R:287.0,G:188.4,B:118.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.562  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:6529.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:490.3,R:286.2,G:191.0,B:119.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.563  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:6526.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:514.9,R:300.4,G:200.7,B:126.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.563  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:6540.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:517.2,R:302.4,G:205.6,B:124.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.564  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:6533.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:495.7,R:290.4,G:192.3,B:121.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.564  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:6531.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:506.2,R:295.1,G:197.5,B:124.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.565  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:7494.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:490.9,R:289.1,G:186.4,B:116.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.565  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:6684.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:506.6,R:296.1,G:197.2,B:117.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.566  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:6598.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:485.9,R:289.5,G:192.3,B:122.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.613  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.317647 9.809377 88.072678 5.908543 1.000000 0 6.153782 0 6.153168 6.153168
+09-08 12:27:35.722  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:35.722  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:35.724  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:35.724  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:35.724  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:35.726  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:35.772  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:7855.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:507.4,R:294.6,G:198.7,B:123.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.772  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.9,cct:6531.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:496.9,R:291.9,G:192.8,B:120.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.774  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:7731.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:495.7,R:285.7,G:193.4,B:119.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.774  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:8886.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:502.8,R:292.0,G:194.7,B:125.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.775  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:6530.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:488.1,R:283.7,G:190.7,B:120.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.776  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:6557.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.7,R:296.9,G:198.5,B:123.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.826  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.314656 9.811171 88.071053 5.908543 1.000000 0 6.153839 0 6.153428 6.153428
+09-08 12:27:35.892 11994  1455 D JavaheapMonitor: Java heap used=21M max=256M, proc: com.qualcomm.location
+09-08 12:27:35.893 11994  1455 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:35.982  7967  8022 E PhoneAdapter: get ntnphones failed, exception: java.lang.IllegalStateException: not support satellite!
+09-08 12:27:35.985  3728  7033 D AmlWifiScoreReportInjector: isSwitchBackToWifi mRecentScore[0] = 60 mRecentScore[1] = 60 mRecentScore[2] = 60
+09-08 12:27:35.985  3728  7026 W WifiScoreReport: Ignoring stale/invalid external score sessionId=2664 currentSessionId=-1 score=60
+09-08 12:27:35.986  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:7886.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.4,R:288.7,G:192.7,B:120.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.986  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6534.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:488.4,R:286.8,G:191.8,B:116.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.987  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.2,cct:6542.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:479.1,R:283.0,G:184.2,B:118.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.987  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:7429.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:494.4,R:285.7,G:193.8,B:117.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.988  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:7308.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:499.9,R:289.1,G:194.7,B:118.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.988  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6529.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:485.7,R:282.7,G:188.5,B:120.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:35.988  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:6555.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.7,R:289.6,G:198.5,B:123.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.038  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.317647 9.811171 88.072784 5.908543 1.000000 0 6.153743 0 6.153542 6.153542
+09-08 12:27:36.198  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:7572.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:485.1,R:281.8,G:186.2,B:115.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.198  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:8224.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:496.7,R:289.1,G:193.2,B:121.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.199  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:8059.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:489.8,R:285.4,G:189.5,B:118.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.199  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:7590.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.8,R:288.4,G:193.4,B:119.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.200  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6545.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:483.3,R:282.7,G:189.2,B:119.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.200  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:7659.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:486.2,R:285.3,G:189.5,B:116.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.201  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:7877.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:487.1,R:284.3,G:189.8,B:117.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.201  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6551.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:492.3,R:286.6,G:197.9,B:119.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.249  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.318844 9.812367 88.072372 5.908543 1.000000 0 6.153757 0 6.153612 6.153612
+09-08 12:27:36.303  3728  4279 D AurogonBandwidthController: skinTemperature:33.25
+09-08 12:27:36.308 31730 12130 D JavaheapMonitor: Java heap used=2M max=256M, proc: com.android.settings
+09-08 12:27:36.308 31730 12130 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:36.409  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:7725.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:487.8,R:282.4,G:191.6,B:117.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.410  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6537.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:475.6,R:278.6,G:186.7,B:114.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.411  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:8446.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.8,R:285.7,G:194.4,B:122.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.411  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:8078.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:479.8,R:279.5,G:185.4,B:116.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.411  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6544.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:489.6,R:286.9,G:193.5,B:118.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.412  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.3,cct:6553.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:471.8,R:278.0,G:184.4,B:115.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.413  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:6529.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:491.0,R:285.4,G:193.9,B:118.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.413  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:7863.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:479.3,R:281.4,G:185.9,B:115.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.414  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:7643.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:493.8,R:286.2,G:193.5,B:118.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.414  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.0,cct:6634.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:480.8,R:291.4,G:188.6,B:123.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.449  2017  3175 I SDM     : DemuraTnCaptureIntfImpl::ProcessCapturePanelData: Screen capture status = 0
+09-08 12:27:36.458  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:36.458  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:36.460  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:36.460  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.093320 0.315853 9.812367 88.053482 5.908543 1.000000 0 6.154653 0 6.153956 6.153956
+09-08 12:27:36.469 19976 20683 D JavaheapMonitor: Java heap used=9M max=256M, proc: com.miui.systemAdSolution
+09-08 12:27:36.470 19976 20683 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:36.528  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:36.529  2817  5502 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:36.560  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a56010) status 0 for display-0.
+09-08 12:27:36.560  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:36.613  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 69999 us
+09-08 12:27:36.613  2817  5502 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:36.622  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:6538.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:474.0,R:276.6,G:186.7,B:115.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:36.661  3728  7039 D NetworkMetricsTracker: calcNWCause:0
+09-08 12:27:36.673  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.319442 9.805189 88.061745 5.908543 1.000000 0 6.154237 0 6.154070 6.154070
+09-08 12:27:36.725  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:36.725  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:36.728  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:36.728  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:36.728  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:36.728  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:36.885  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.087936 0.318844 9.807582 88.062851 5.908543 1.000000 0 6.154179 0 6.154121 6.154121
+09-08 12:27:36.974  3728  7099 D ActionExecute: setPkgData uid = 10319 time=8000
+09-08 12:27:36.993  3728  8285 D FileUtils: Rounded bytes from 11661635584 to 16000000000
+09-08 12:27:37.097  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.087936 0.319442 9.807582 88.063461 5.908543 1.000000 0 6.154148 0 6.154130 6.154130
+09-08 12:27:37.208 15638 17436 D MiSight::  sendEvent id=904003010
+09-08 12:27:37.208 15638 17436 D MiSightJni: MiSight: Java_com_miui_misight_MiSight_nativeSendEvent enter called. '{"ErrType":"keystore_google_rkp_fail"}'
+09-08 12:27:37.208 15638 17436 D MiEvent : MiEvent: this 0x746a8ffaa0, paylod=0xb400007587576810
+09-08 12:27:37.208 15638 17436 D MiEvent : flatten EventId 904003010 -t 1788841657 -paraList {"ErrType":"keystore_google_rkp_fail"}
+09-08 12:27:37.208 15638 17436 D MiEvent : report:EventId 904003010 -t 1788841657 -paraList {"ErrType":"keystore_google_rkp_fail"} success
+09-08 12:27:37.208 15638 17436 D MiEvent : ~MiEvent: this 0x746a8ffaa0, paylod=0xb400007587576810
+09-08 12:27:37.208 15638 17436 E RkpdServerInterface: Server timed out. failed to connect to remoteprovisioning.googleapis.com/172.217.113.4 (port 443) from /10.92.25.89 (port 50186) after 400ms
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: RKPD failed to provision keys
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: com.android.rkpdapp.RkpdException: Error getting data from server.
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.interfaces.ServerInterface.makeNetworkError(ServerInterface.java:308)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.interfaces.ServerInterface.connectAndGetData(ServerInterface.java:495)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.interfaces.ServerInterface.fetchGeek(ServerInterface.java:271)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.interfaces.ServerInterface.fetchGeekAndUpdate(ServerInterface.java:335)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.service.RegistrationBinder.fetchGeekAndProvisionKeys(RegistrationBinder.java:150)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.service.RegistrationBinder.getKeyWorker(RegistrationBinder.java:120)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.service.RegistrationBinder.getKeyThreadWorker(RegistrationBinder.java:244)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.service.RegistrationBinder.lambda$getKey$3(RegistrationBinder.java:231)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.service.RegistrationBinder.$r8$lambda$3tjqw_fbETEHa8OE8G7aQdQksF8(RegistrationBinder.java:0)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at com.android.rkpdapp.service.RegistrationBinder$$ExternalSyntheticLambda12.run(R8$$SyntheticClass:0)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1302)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:677)
+09-08 12:27:37.211 15638 17436 E RkpdRegistrationBinder: 	at java.lang.Thread.run(Thread.java:1119)
+09-08 12:27:37.211  3728  3728 E RemoteProvisionSysSvc: RKP error fetching key for client 241919832: ERROR_UNKNOWN: Error getting data from server.
+09-08 12:27:37.211  2623  2763 I misight : OnEvent EventPrivacyCompliance event=904003010
+09-08 12:27:37.211  1352   821 E keystore2: system/security/keystore2/rkpd_client/src/lib.rs:193 - IGetKeyCallback failed: ERROR_UNKNOWN: Error getting data from server.
+09-08 12:27:37.211  2623  2763 I misight : OnEvent EventStorageManager event=904003010,2
+09-08 12:27:37.212  2623  2763 I misight : DetectDropEvent event 904003010 over hour cnt drop it, hourCnt=8 halfCnt=4, maxCnt=200 punishSecond=1093,space=291
+09-08 12:27:37.212  1352  1488 I keystore2: system/security/keystore2/watchdog/src/lib.rs:252 - Watchdog complete for: ThreadId(7) Calling get_rkpd_attestation_key() Started: 09-08 04:27:30.741 UTC Pending: 6.471070622s Overdue 5.471070987s
+09-08 12:27:37.212  1352  1488 W keystore2: system/security/keystore2/src/remote_provisioning.rs:97 - Error occurred: system/security/keystore2/rkpd_client/src/lib.rs:194: GetKeyCallback failed: r#ERROR_UNKNOWN "ERROR_UNKNOWN: Error getting data from server."
+09-08 12:27:37.212  1352  1488 W keystore2: 
+09-08 12:27:37.212  1352  1488 W keystore2: Caused by:
+09-08 12:27:37.212  1352  1488 W keystore2:     Failed to get key: r#ERROR_UNKNOWN
+09-08 12:27:37.212  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:146 - ### Keystore Watchdog report - BEGIN ###
+09-08 12:27:37.212  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:155 - When extracting from a bug report, please include this header and all 1 records below (to footer)
+09-08 12:27:37.212  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:203 - ThreadId(7) IKeystoreSecurityLevel::generateKey Started: 09-08 04:27:30.740 UTC Pending: 6.472094216s Overdue 1.472094633s for r#TRUSTED_ENVIRONMENT
+09-08 12:27:37.212  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:233 - ### Keystore Watchdog report - END ###
+09-08 12:27:37.214  1180  1306 D DrmLibTime: Time dispatch starts
+09-08 12:27:37.214  1180  1306 D DrmLibTime: command id, time_cmd_id = 770
+09-08 12:27:37.214  1180  1306 D DrmLibTime: time_getutcsec starts!
+09-08 12:27:37.214  1180  1306 D DrmLibTime: QSEE Time Listener: time_getutcsec
+09-08 12:27:37.214  1180  1306 D DrmLibTime: QSEE Time Listener: get_utc_seconds
+09-08 12:27:37.214  1180  1306 D DrmLibTime: QSEE Time Listener: time_get_modem_time
+09-08 12:27:37.214  1180  1306 D DrmLibTime: QSEE Time Listener: Checking if ATS_MODEM is set or not.
+09-08 12:27:37.214  1180  1306 D QC-time-services: Lib:time_genoff_operation: pargs->base = 13
+09-08 12:27:37.214  1180  1306 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 2
+09-08 12:27:37.214  1180  1306 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 0
+09-08 12:27:37.215  1180  1306 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+09-08 12:27:37.215  1835  1848 D QC-time-services: Daemon: Connection accepted:time_genoff
+09-08 12:27:37.215  1835 17507 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 2,value = 0
+09-08 12:27:37.215  1835 17507 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 0, operation = 2
+09-08 12:27:37.215  1835 17507 D QC-time-services: offset is: 1 for base: 13
+09-08 12:27:37.215  2623  2763 I misight : OnEvent HighProbFaultDetect 904003010
+09-08 12:27:37.215  1180  1306 E QC-time-services: Receive Passed == base = 13, unit = 1, operation = 2, result = 0
+09-08 12:27:37.216  1180  1306 D DrmLibTime: QSEE Time Listener: ATS_MODEM is set. Try to retrieve it.
+09-08 12:27:37.216  2623  2763 I misight : OnEvent EventLogProcessor event=904003010,2
+09-08 12:27:37.216  2623  2763 I misight : OnEvent EventInfoPack event 904003010
+09-08 12:27:37.216  1835  1848 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+09-08 12:27:37.216  1835  1848 D QC-time-services: Daemon: Connection accepted:time_genoff
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 1,value = 0
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 0, operation = 1
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon: genoff get for 13
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon:Value read from QTimer mseconds = 1326852936
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon:Value read from RTC mseconds on boot = 37451341000
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon:Value read from QTimer mseconds = 1326852936
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon:Value read from generic offset = 1750063545353
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon:Delta read on boot mseconds = 37451257947
+09-08 12:27:37.216  1835 17508 D QC-time-services: Daemon:Final Time = 1788841656236
+09-08 12:27:37.216  1835  1848 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+09-08 12:27:37.216  1180  1306 D DrmLibTime: QSEE Time Listener: Time GenOff - seconds: 1788841656
+09-08 12:27:37.216  1180  1306 D DrmLibTime: time_getutcsec returns 0, sec = 1788841656; nsec = 0
+09-08 12:27:37.216  1180  1306 D DrmLibTime: time_getutcsec finished! 
+09-08 12:27:37.216  1180  1306 D DrmLibTime: time_services Dispatch ends and ret = 0! 
+09-08 12:27:37.244  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:146 - ### Keystore Watchdog report - BEGIN ###
+09-08 12:27:37.244  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:155 - When extracting from a bug report, please include this header and all 1 records below (to footer)
+09-08 12:27:37.244  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:203 - ThreadId(7) IKeystoreSecurityLevel::generateKey Started: 09-08 04:27:30.740 UTC Pending: 6.50424031s Overdue 1.504240779s for r#TRUSTED_ENVIRONMENT
+09-08 12:27:37.244  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:233 - ### Keystore Watchdog report - END ###
+09-08 12:27:37.249  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:146 - ### Keystore Watchdog report - BEGIN ###
+09-08 12:27:37.249  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:155 - When extracting from a bug report, please include this header and all 1 records below (to footer)
+09-08 12:27:37.249  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:203 - ThreadId(7) IKeystoreSecurityLevel::generateKey Started: 09-08 04:27:30.740 UTC Pending: 6.509001091s Overdue 1.509001351s for r#TRUSTED_ENVIRONMENT
+09-08 12:27:37.249  1352 17435 W keystore2: system/security/keystore2/watchdog/src/lib.rs:233 - ### Keystore Watchdog report - END ###
+09-08 12:27:37.249  1352  1488 I keystore2: system/security/keystore2/watchdog/src/lib.rs:243 - Watchdog complete for: ThreadId(7) IKeystoreSecurityLevel::generateKey Started: 09-08 04:27:30.740 UTC Pending: 6.509067498s Overdue 1.509067758s for r#TRUSTED_ENVIRONMENT
+09-08 12:27:37.249  5440  6782 W BpBinder: PerfMonitor binderTransact: time=6509ms interface=android.system.keystore2.IKeystoreSecurityLevel code=2
+09-08 12:27:37.256  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6554.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:490.0,R:286.9,G:195.0,B:119.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:37.255  5440  5440 W Thread_3: type=1400 audit(0.0:5798059): avc:  denied  { read } for  name="cache" dev="dm-32" ino=101 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0
+09-08 12:27:37.259  5440  5440 W Thread_3: type=1400 audit(0.0:5798060): avc:  denied  { read } for  name="cache" dev="dm-32" ino=101 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0
+09-08 12:27:37.263  5440  5440 W Thread_3: type=1400 audit(0.0:5798061): avc:  denied  { read } for  name="cache" dev="dm-32" ino=101 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0
+09-08 12:27:37.267  5440  5440 W Thread_3: type=1400 audit(0.0:5798062): avc:  denied  { read } for  name="cache" dev="dm-32" ino=101 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0
+09-08 12:27:37.271  5440  5440 W Thread_3: type=1400 audit(0.0:5798063): avc:  denied  { read } for  name="cache" dev="dm-32" ino=101 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0
+09-08 12:27:37.279  5440  5440 W Thread_3: type=1400 audit(0.0:5798064): avc:  denied  { read } for  name="cache" dev="dm-32" ino=101 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0
+09-08 12:27:37.283  5440  5440 W Thread_3: type=1400 audit(0.0:5798065): avc:  denied  { read } for  name="cache" dev="dm-32" ino=101 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0
+09-08 12:27:37.287  5440  5440 W Thread_3: type=1400 audit(0.0:5798066): avc:  denied  { search } for  name="shs" dev="proc" ino=4026535314 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:vendor_proc_shs:s0 tclass=dir permissive=0
+09-08 12:27:37.287  5440  5440 W Thread_3: type=1400 audit(0.0:5798067): avc:  denied  { search } for  name="sla" dev="proc" ino=4026533136 scontext=u:r:untrusted_app:s0:c63,c257,c743,c771 tcontext=u:object_r:qti_proc_sla:s0 tclass=dir permissive=0
+09-08 12:27:37.308  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.317647 9.812965 88.069839 5.908543 1.000000 0 6.153842 0 6.154051 6.154051
+09-08 12:27:37.468  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6577.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:483.1,R:284.4,G:192.5,B:120.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:37.468  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6709.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:480.7,R:282.4,G:189.2,B:111.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:37.520  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.315853 9.806385 88.072678 5.908543 1.000000 0 6.153713 0 6.153944 6.153944
+09-08 12:27:37.664  3728  7099 D GreezeManager: freezeUid uid=10282 return:WIDGET_APP
+09-08 12:27:37.679  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.8,cct:6539.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:487.8,R:285.6,G:191.0,B:119.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:37.679  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:7909.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:477.9,R:277.3,G:188.2,B:115.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:37.680  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.4,cct:8664.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:479.3,R:280.0,G:184.9,B:117.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:37.680  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:7875.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:493.2,R:285.3,G:192.9,B:119.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:37.680  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6566.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:482.7,R:285.1,G:190.2,B:118.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:37.718  7762  7915 D JavaheapMonitor: Java heap used=23M max=256M, proc: com.android.networkstack.process
+09-08 12:27:37.718  7762  7915 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:37.728  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:37.728  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:37.729  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:37.729  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:37.729  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:37.729  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:37.730  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 3
+09-08 12:27:37.730  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:37.732  3728  7023 I MiuiNetworkPolicy: updateUidState uid = 99910319, uidState = 19
+09-08 12:27:37.732  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.312862 9.808180 88.082146 5.908543 1.000000 0 6.153268 0 6.153731 6.153731
+09-08 12:27:37.754  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:37.754  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:37.755  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:37.756  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:37.775  3728  7099 D GreezeManager: FZ uid = 99910319 reason =PACKET success !
+09-08 12:27:37.776  3728  7099 I PowerManagerServiceImpl: Partial wakeLock:[PARTIAL_WAKE_LOCK                 'MSF:WakeLock:kernel' ACQ=-10s43ms (uid=99910319 pid=5440 pkg=com.tencent.mobileqq)], disabled: true, procState: 19, reason: greeze
+09-08 12:27:37.776  3728  7099 D ActionExecute: frozen uid = 99910319 reason=PACKET
+09-08 12:27:37.776  3728  7099 D ActionExecute: setPkgData uid = 99910319 time=0
+09-08 12:27:37.776  3728  7099 D ExternalInterface: setUidState, uid = 99910319 allow = false
+09-08 12:27:37.776  3728  7099 D ActionExecute: setPkgData uid = 99910319 time=3000
+09-08 12:27:37.807  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 12:27:37.810  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 12:27:37.810  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 6ms
+09-08 12:27:37.810  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 12:27:37.811  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 12:27:37.811  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 12:27:37.825  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:37.825  2817  5757 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:37.901  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 69999 us
+09-08 12:27:37.901  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:37.934  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a56a60) status 0 for display-0.
+09-08 12:27:37.935  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:37.944  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.318844 9.808180 88.075119 5.908543 1.000000 0 6.153621 0 6.153631 6.153631
+09-08 12:27:37.984  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:37.984  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:38.156  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.314656 9.809377 88.072876 5.908543 1.000000 0 6.153726 0 6.153687 6.153687
+09-08 12:27:38.304  3728  4279 D AurogonBandwidthController: skinTemperature:33.25
+09-08 12:27:38.368  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.317647 9.805189 88.080925 5.908543 1.000000 0 6.153343 0 6.153566 6.153566
+09-08 12:27:38.530  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:8784.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:513.3,R:295.5,G:200.6,B:127.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.531  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:8382.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:518.4,R:300.9,G:200.0,B:127.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.531  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.0,cct:7466.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:525.1,R:298.7,G:202.3,B:125.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.531  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.1,cct:6521.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:538.2,R:310.2,G:211.4,B:133.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.579  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.325424 9.814162 88.063461 5.908543 1.000000 0 6.154186 0 6.153699 6.153699
+09-08 12:27:38.663  3728  7039 D NetworkMetricsTracker: calcNWCause:0
+09-08 12:27:38.729  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:38.729  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:38.731  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:38.732  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:38.732  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:38.733  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:38.734  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 0
+09-08 12:27:38.734  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:38.735  3728  3923 D GnssSsruImpl: onLocationPermissionsChanged provider:passive packageName:com.tencent.mobileqq
+09-08 12:27:38.735  3728  3923 D GnssSsruImpl: onLocationPermissionsChanged provider:network packageName:com.tencent.mobileqq
+09-08 12:27:38.735  3728  3923 D GnssSsruImpl: onLocationPermissionsChanged provider:gps packageName:com.tencent.mobileqq
+09-08 12:27:38.740  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:8368.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:525.7,R:304.8,G:201.6,B:129.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.740  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.1,cct:8407.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:546.7,R:316.7,G:209.8,B:135.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.740  2817  5689 I libsensor-boledalgo: ##### the value of lux: 6.577389, cct: 6613.000000
+09-08 12:27:38.740  2817  5689 I libsensor-qshcalapi: value of set_lux: 6.577389, set r: 6613.000000
+09-08 12:27:38.742  1996 16440 I sensors-hal: handle_sns_std_sensor_event:67, light_event: ts=1326849863615875, lux: 6.6, powermode=1 
+09-08 12:27:38.743  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:6578.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:515.8,R:305.3,G:202.6,B:130.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.743  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.2,cct:7932.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:536.6,R:307.0,G:208.6,B:130.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.743  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:8285.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:526.7,R:304.4,G:203.4,B:129.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.743  2045  2100 D SRE     : sensorCallback mDisplayId = 0 dataCallback value=<   6.6250,   0.0000,   0.0000>, time=1326849863615875, sensortype=5
+09-08 12:27:38.744  2045  2100 D IGCDither: sensorCallback mDisplayId = 0 dataCallback value=<   6.6250,   0.0000,   0.0000>, time=1326849863615875, sensor=5
+09-08 12:27:38.744  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:6617.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:542.3,R:317.1,G:213.3,B:152.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.744  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.9,cct:7981.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:535.6,R:311.1,G:206.5,B:130.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.744  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:6552.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:522.2,R:305.2,G:204.4,B:132.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.745  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.0,cct:8145.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:534.7,R:306.4,G:205.2,B:130.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.745  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:7793.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:520.6,R:302.6,G:201.6,B:126.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:38.759  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:38.760  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:38.761  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:38.761  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:38.792  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.093320 0.314058 9.814162 88.062042 6.242966 0.000000 0 6.526815 0 6.242966 6.242966
+09-08 12:27:38.831  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:38.831  2817  5757 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:38.870  3728  5478 W ActivityManagerServiceImpl: Sending non-protected broadcast miui.intent.action.CYCLE_CHECK from system uid 1000 pkg android. Callers=com.android.server.am.BroadcastController.checkBroadcastFromSystem:2218 com.android.server.am.BroadcastController.broadcastIntentLockedTraced:1703 com.android.server.am.BroadcastController.broadcastIntentLocked:857 com.android.server.am.BroadcastController.broadcastIntentInPackage:824 com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage:18902 
+09-08 12:27:38.871  3728  5478 D AlarmManager: mBroadcastRefCount -> 1
+09-08 12:27:38.878  3728  4220 W ProcessStats: Tracking association SourceState{ea24744 com.milink.crossdeviceservice/10178 BTop #1573565} whose proc state 2 is better than process ProcessState{e80d77b com.miui.analytics/10145 pkg=com.miui.analytics} proc state 3 (10 skipped)
+09-08 12:27:38.878  3728  3728 E AlarmManager: not align this alarm: Alarm{7580a59 type 2 origWhen 1326880000 whenElapsed 1326880000 android}, reason=0
+09-08 12:27:38.879  2047  2047 I vendor.xiaomi.hardware.micharge-service: ReadFilePathValue path = /sys/class/power_supply/battery/temp value = 331
+09-08 12:27:38.879  3728  3934 E IMiCharge: MiCharge method 9 val = 331
+09-08 12:27:38.879  3728  3728 D AlarmManager: mBroadcastRefCount -> 0
+09-08 12:27:38.879  3728  3728 D AlarmManager: mPendingIntent -> PendingIntent{d51ab64: PendingIntentRecord{156a1cd android broadcastIntent}}
+09-08 12:27:38.880  2047  2047 I vendor.xiaomi.hardware.micharge-service: ReadFilePathValue path = /sys/class/xm_power/charger/charger_thermal/wired_ctrl_limit value = 5
+09-08 12:27:38.880  3728  3934 E IMiCharge: MiCharge method 10 val = 5
+09-08 12:27:38.912  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:38.912  2817  5757 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:38.937  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a56c70) status 0 for display-0.
+09-08 12:27:38.937  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:38.989  7967  8022 E PhoneAdapter: get ntnphones failed, exception: java.lang.IllegalStateException: not support satellite!
+09-08 12:27:38.992  3728  7033 D AmlWifiScoreReportInjector: isSwitchBackToWifi mRecentScore[0] = 60 mRecentScore[1] = 60 mRecentScore[2] = 60
+09-08 12:27:38.992  3728  7026 W WifiScoreReport: Ignoring stale/invalid external score sessionId=2664 currentSessionId=-1 score=60
+09-08 12:27:38.992  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:38.993  2817  5502 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:39.004  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.317049 9.808180 88.077255 6.577389 0.000000 0 6.869092 0 6.577389 6.577389
+09-08 12:27:39.165  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.9,cct:7720.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:578.4,R:334.5,G:217.6,B:140.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.216  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.087936 0.317049 9.808180 88.075218 6.577389 1.000000 0 6.869201 0 6.621288 6.621288
+09-08 12:27:39.256  7732 11290 D JavaheapMonitor: Java heap used=16M max=256M, proc: .qms
+09-08 12:27:39.256  7732 11290 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:39.428  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.090927 0.317049 9.814162 88.035172 6.577389 1.000000 0 6.864728 0 6.712542 6.712542
+09-08 12:27:39.588  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.4,cct:6518.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:532.1,R:296.3,G:216.0,B:136.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.589  2817  5689 I libsensor-boledalgo: dbv:25,lux:8.2,cct:8137.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:554.2,R:305.2,G:221.7,B:136.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.589  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.2,cct:8812.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:530.4,R:297.7,G:210.5,B:133.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.590  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.7,cct:6523.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:533.0,R:297.9,G:219.2,B:133.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.590  2817  5689 I libsensor-boledalgo: ##### the value of lux: 7.247763, cct: 6613.000000
+09-08 12:27:39.590  2817  5689 I libsensor-qshcalapi: value of set_lux: 7.247763, set r: 6613.000000
+09-08 12:27:39.590 30115 30356 D JavaheapMonitor: Java heap used=8M max=256M, proc: com.android.updater
+09-08 12:27:39.590 30115 30356 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:39.592  1996 16440 I sensors-hal: handle_sns_std_sensor_event:67, light_event: ts=1326850713394052, lux: 7.2, powermode=1 
+09-08 12:27:39.592  2045  2100 D SRE     : sensorCallback mDisplayId = 0 dataCallback value=<   7.2500,   0.0000,   0.0000>, time=1326850713394052, sensortype=5
+09-08 12:27:39.593  2045  2100 D IGCDither: sensorCallback mDisplayId = 0 dataCallback value=<   7.2500,   0.0000,   0.0000>, time=1326850713394052, sensor=5
+09-08 12:27:39.593  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.3,cct:8662.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:526.0,R:292.9,G:210.5,B:131.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.593  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.7,cct:8454.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:540.1,R:300.9,G:216.4,B:134.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.593  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.3,cct:6521.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:532.5,R:300.9,G:214.0,B:134.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.640  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.317049 9.812965 88.058815 6.912576 0.000000 0 7.231958 0 6.912576 6.912576
+09-08 12:27:39.733  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:39.733  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:39.736  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:39.736  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:39.736  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:39.739  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:39.740  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 2
+09-08 12:27:39.740  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:39.771  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:39.772  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:39.772  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:39.774  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:39.800  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.9,cct:7720.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:578.4,R:334.5,G:217.6,B:140.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:39.843  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 69999 us
+09-08 12:27:39.844  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:39.852  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086142 0.314656 9.804591 88.074501 7.247763 0.000000 0 7.569359 0 7.247763 7.247763
+09-08 12:27:39.882 22967 23737 D JavaheapMonitor: Java heap used=7M max=256M, proc: com.xiaomi.xmsf
+09-08 12:27:39.883 22967 23737 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:39.924  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:39.925  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:39.949  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a54280) status 0 for display-0.
+09-08 12:27:39.949  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:40.007  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:40.007  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:40.014  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:9133.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:518.1,R:292.3,G:205.5,B:130.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.015 12743 12794 D JavaheapMonitor: Java heap used=3M max=512M, proc: android.process.acore
+09-08 12:27:40.015 12743 12794 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:40.064  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.312862 9.804591 88.084190 7.247763 1.000000 0 7.568787 0 7.287437 7.287437
+09-08 12:27:40.276  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.320638 9.812367 88.075325 7.247763 1.000000 0 7.562505 0 7.390736 7.390736
+09-08 12:27:40.306  3728  4279 D AurogonBandwidthController: skinTemperature:33.25
+09-08 12:27:40.325 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 34971
+09-08 12:27:40.438  2817  5689 I libsensor-boledalgo: dbv:25,lux:8.4,cct:8131.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:554.1,R:307.6,G:226.9,B:137.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.438  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.4,cct:9313.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:538.2,R:299.3,G:213.6,B:136.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.439  2817  5689 I libsensor-boledalgo: dbv:25,lux:8.1,cct:6535.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:554.2,R:306.8,G:229.1,B:145.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.487  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.311067 9.807582 88.080208 7.247763 1.000000 0 7.556618 0 7.453172 7.453172
+09-08 12:27:40.511  7825 11260 D JavaheapMonitor: Java heap used=17M max=256M, proc: org.codeaurora.ims
+09-08 12:27:40.511  7825 11260 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:40.647  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.7,cct:8702.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:543.7,R:300.7,G:215.4,B:135.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.648  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.3,cct:6511.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:533.4,R:298.7,G:213.9,B:136.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.649  2817  5689 I libsensor-boledalgo: dbv:25,lux:8.0,cct:8481.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:547.1,R:302.3,G:220.7,B:136.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.650  2817  5689 I libsensor-boledalgo: dbv:25,lux:8.1,cct:9085.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:555.4,R:305.4,G:224.7,B:141.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.650  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.4,cct:9087.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:539.3,R:299.6,G:213.7,B:136.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.651  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.1,cct:6639.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:513.8,R:291.9,G:224.6,B:139.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.663  3728  7039 D NetworkMetricsTracker: calcNWCause:0
+09-08 12:27:40.699  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.084945 0.317647 9.804591 88.079086 7.247763 1.000000 0 7.553316 0 7.490768 7.490768
+09-08 12:27:40.737  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:40.737  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:40.740  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:40.740  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:40.740  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:40.742  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:40.743  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 3
+09-08 12:27:40.743  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:40.767  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:40.768  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:40.768  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:40.769  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:40.822 20043 21392 D JavaheapMonitor: Java heap used=9M max=256M, proc: com.miui.misound
+09-08 12:27:40.822 20043 21392 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:40.828  3728  9096 D SLM-SRV-SLAService: checktemp temperature = 33250 temperature_average = 33314 isPerformanceMode = false thermal_enable_slm = true
+09-08 12:27:40.830 24476 24536 D JavaheapMonitor: Java heap used=24M max=256M, proc: com.google.android.gms.persistent
+09-08 12:27:40.830 24476 24536 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:40.839  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:40.840  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:40.860  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:9133.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:518.1,R:292.3,G:205.5,B:130.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:40.911  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.312862 9.804591 88.060020 7.247763 1.000000 0 7.552392 0 7.513867 7.513867
+09-08 12:27:40.919  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:40.920  2817  2817 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:40.922 19192 20390 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.miui.analytics
+09-08 12:27:40.922 19192 20390 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:40.929 11921  3207 D JavaheapMonitor: Java heap used=4M max=256M, proc: org.ifaa.aidl.manager
+09-08 12:27:40.929 11921  3207 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:40.953  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a59920) status 0 for display-0.
+09-08 12:27:40.954  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:41.002  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:41.003  2817  2817 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:41.073  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.3,cct:8956.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:536.6,R:300.3,G:212.0,B:135.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:41.123  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.093320 0.317647 9.806385 88.069839 7.247763 1.000000 0 7.550567 0 7.527657 7.527657
+09-08 12:27:41.335  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.087936 0.315853 9.801600 88.059120 7.247763 1.000000 0 7.550446 0 7.536201 7.536201
+09-08 12:27:41.447  2017  3175 I SDM     : DemuraTnCaptureIntfImpl::ProcessCapturePanelData: Screen capture status = 0
+09-08 12:27:41.456  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:41.457  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:41.457  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:41.526  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:41.527  2817  5757 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:41.547  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.309871 9.807582 88.080513 7.247763 1.000000 0 7.548728 0 7.541030 7.541030
+09-08 12:27:41.553  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a5a630) status 0 for display-0.
+09-08 12:27:41.554  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:41.603  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:41.603  2817  5757 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:41.708  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.1,cct:8627.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:517.0,R:288.9,G:207.7,B:128.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:41.740  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:41.740  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:41.743  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:41.743  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:41.743  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:41.744  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:41.745  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 0
+09-08 12:27:41.745  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:41.758  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.319442 9.811171 88.079796 7.247763 1.000000 0 7.548524 0 7.543777 7.543777
+09-08 12:27:41.771  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:41.772  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:41.773  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:41.773  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:41.842  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:41.843  2817  5757 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:41.923  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 69999 us
+09-08 12:27:41.923  2817  2993 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:41.949  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a56640) status 0 for display-0.
+09-08 12:27:41.949  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:41.971  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.093320 0.317647 9.811171 88.071159 7.247763 1.000000 0 7.548874 0 7.545663 7.545663
+09-08 12:27:41.997  7967  8783 E PhoneAdapter: get ntnphones failed, exception: java.lang.IllegalStateException: not support satellite!
+09-08 12:27:41.998  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:41.998  2817  2993 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:42.000  3728  7033 D AmlWifiScoreReportInjector: isSwitchBackToWifi mRecentScore[0] = 60 mRecentScore[1] = 60 mRecentScore[2] = 60
+09-08 12:27:42.000  3728  7026 W WifiScoreReport: Ignoring stale/invalid external score sessionId=2664 currentSessionId=-1 score=60
+09-08 12:27:42.076  3728  8571 D FileUtils: Rounded bytes from 11661635584 to 16000000000
+09-08 12:27:42.079  3728  8571 E AlarmManager: not align this alarm: Alarm{9586af6 type 2 origWhen 1327033200 whenElapsed 1327033200 com.tencent.mobileqq}, reason=0
+09-08 12:27:42.132  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:6523.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:498.0,R:284.3,G:197.8,B:124.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.169  7799 11217 D JavaheapMonitor: Java heap used=12M max=256M, proc: com.st.android.nfc_extensions_16
+09-08 12:27:42.170  7799 11217 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:42.183  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.317647 9.811171 88.074913 7.247763 1.000000 0 7.548550 0 7.546769 7.546769
+09-08 12:27:42.308  3728  4279 D AurogonBandwidthController: skinTemperature:33.25
+09-08 12:27:42.394  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.092722 0.317647 9.812367 88.086433 7.247763 1.000000 0 7.547820 0 7.547200 7.547200
+09-08 12:27:42.555  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:9935.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:516.3,R:291.1,G:202.8,B:132.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.556  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:8801.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:507.9,R:287.8,G:201.2,B:126.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.557  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:8868.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:508.9,R:289.6,G:201.4,B:127.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.557  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:8732.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:515.9,R:290.9,G:204.9,B:128.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.558  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:9133.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:504.8,R:285.4,G:200.6,B:127.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.558  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:8132.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:508.5,R:288.5,G:200.3,B:124.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.559  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6522.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.7,R:288.1,G:199.1,B:126.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.559  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:8713.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:492.7,R:280.1,G:195.9,B:122.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.607  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.083749 0.315853 9.812965 88.080414 7.247763 1.000000 0 7.548148 0 7.547565 7.547565
+09-08 12:27:42.666  3728  7039 D NetworkMetricsTracker: calcNWCause:0
+09-08 12:27:42.667  3728  7099 D GreezeManager: freezeUid uid=10282 return:WIDGET_APP
+09-08 12:27:42.744  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:42.744  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:42.747  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:42.747  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:42.747  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:42.749  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:42.750  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 3
+09-08 12:27:42.750  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:42.767  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6533.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:500.1,R:287.2,G:198.8,B:124.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:42.767  2817  5689 I libsensor-boledalgo: ##### the value of lux: 6.491787, cct: 6613.000000
+09-08 12:27:42.767  2817  5689 I libsensor-qshcalapi: value of set_lux: 6.491787, set r: 6613.000000
+09-08 12:27:42.771  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:42.771  1996 16440 I sensors-hal: handle_sns_std_sensor_event:67, light_event: ts=1326853890271500, lux: 6.5, powermode=1 
+09-08 12:27:42.772  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:42.773  2045  2100 D SRE     : sensorCallback mDisplayId = 0 dataCallback value=<   6.5000,   0.0000,   0.0000>, time=1326853890271500, sensortype=5
+09-08 12:27:42.773  2045  2100 D IGCDither: sensorCallback mDisplayId = 0 dataCallback value=<   6.5000,   0.0000,   0.0000>, time=1326853890271500, sensor=5
+09-08 12:27:42.773  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:42.773  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:42.816  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 12:27:42.818  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.087936 0.312862 9.812367 88.091972 6.869775 1.000000 0 7.126434 0 7.459780 7.459780
+09-08 12:27:42.819  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 12:27:42.819  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 7ms
+09-08 12:27:42.819  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 12:27:42.820  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 12:27:42.820  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 12:27:42.843  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:42.843  3036  6720 D JavaheapMonitor: Java heap used=6M max=512M, proc: com.miui.core
+09-08 12:27:42.843  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:42.843  3036  6720 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:42.893 25887 26077 I dist:vtcamera:PhoneTemperatureReader: onEvent: null
+09-08 12:27:42.894 25887 26483 I dist:vtcamera:PhoneTemperatureReader: read-temp:33241
+09-08 12:27:42.894  3728  4279 D AurogonBandwidthController: skinTemperature:33.241
+09-08 12:27:42.894 25887 26483 D dist:vtcamera:PhoneTemperatureNotifier: tempV=33241, highTemperature state=false
+09-08 12:27:42.895  3728  4279 D AurogonBandwidthController: skinTemperature:33.241
+09-08 12:27:42.922  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:42.923  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:42.956  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a5a160) status 0 for display-0.
+09-08 12:27:42.956  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:43.007  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:43.007  2817  2993 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:43.031  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.318844 9.802796 88.083885 6.491787 1.000000 0 6.722814 0 7.182657 7.182657
+09-08 12:27:43.174 14576 14931 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.xiaomi.joyose
+09-08 12:27:43.175 14576 14931 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:43.191  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:9197.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:501.6,R:285.8,G:197.4,B:126.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.243  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.317049 9.809975 88.081635 6.491787 1.000000 0 6.737911 0 7.015505 7.015505
+09-08 12:27:43.304  3728  7023 I MiuiNetworkPolicy: updateUidState uid = 10318, uidState = 10
+09-08 12:27:43.402  5973  6210 D JavaheapMonitor: Java heap used=29M max=256M, proc: com.miui.securitycenter.remote
+09-08 12:27:43.402  5973  6210 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:43.406  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:6531.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:501.8,R:290.4,G:199.4,B:122.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.406  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.9,cct:6540.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:481.8,R:279.7,G:191.8,B:117.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.454  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.084945 0.323629 9.811171 88.076134 6.491787 1.000000 0 6.747245 0 6.914629 6.914629
+09-08 12:27:43.616  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:7574.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:509.8,R:294.6,G:201.6,B:122.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.616  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:8015.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:498.6,R:288.5,G:196.4,B:121.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.617  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:6538.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:484.7,R:281.0,G:190.8,B:120.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.618  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.9,cct:6568.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:512.5,R:297.3,G:210.2,B:126.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.618  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:8703.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:494.0,R:280.8,G:194.9,B:122.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.662 14565 22492 D powerkeeper.dfsobserve: board ready to handle temperature change
+09-08 12:27:43.662 14565  6699 D powerkeeper.dfscpucol: handleTemperatureChange: temp=33241
+09-08 12:27:43.666  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.087936 0.317049 9.805189 88.075623 6.491787 1.000000 0 6.752721 0 6.853819 6.853819
+09-08 12:27:43.748  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:43.748  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:43.751  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:43.751  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:43.751  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:43.753  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:43.754  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 0
+09-08 12:27:43.754  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:43.777  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:43.777  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:43.778  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:43.779  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:43.824  7967  8362 D JavaheapMonitor: Java heap used=19M max=256M, proc: com.android.phone
+09-08 12:27:43.824  7967  8362 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:43.827  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:9197.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:501.6,R:285.8,G:197.4,B:126.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:43.849  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:43.849  2817  5943 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:43.878  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.094516 0.317647 9.809377 88.066399 6.491787 1.000000 0 6.756498 0 6.817205 6.817205
+09-08 12:27:43.929  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:43.930  2817  5943 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:43.963  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a566f0) status 0 for display-0.
+09-08 12:27:43.963  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:44.013  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:44.013  2817  5943 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:44.041  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:8263.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:477.2,R:277.0,G:185.4,B:116.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.090  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.094516 0.322433 9.808180 88.060631 6.491787 1.000000 0 6.758780 0 6.795205 6.795205
+09-08 12:27:44.142 23341 23404 D JavaheapMonitor: Java heap used=11M max=256M, proc: com.google.android.gms
+09-08 12:27:44.142 23341 23404 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:44.302  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.319442 9.812965 88.059219 6.491787 1.000000 0 6.760037 0 6.782017 6.782017
+09-08 12:27:44.310  3728  4279 D AurogonBandwidthController: skinTemperature:33.241
+09-08 12:27:44.464  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.0,cct:7359.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:482.3,R:279.5,G:189.8,B:114.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.464  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:7885.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:478.2,R:277.3,G:186.2,B:115.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.464  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:7849.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.7,R:282.4,G:196.2,B:120.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.514  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.314656 9.805189 88.063057 6.491787 1.000000 0 6.760550 0 6.773993 6.773993
+09-08 12:27:44.667  3728  7039 D NetworkMetricsTracker: calcNWCause:0
+09-08 12:27:44.674  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.3,cct:6540.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:471.5,R:276.6,G:184.2,B:114.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.675  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:7541.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:488.1,R:280.6,G:192.4,B:116.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.675  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.3,cct:6571.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:472.4,R:277.5,G:187.1,B:117.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.676  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:6537.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:495.7,R:289.6,G:196.2,B:119.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.676  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:6540.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:471.8,R:277.0,G:185.8,B:113.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.676  2817  5689 I libsensor-boledalgo: ##### the value of lux: 5.810133, cct: 6613.000000
+09-08 12:27:44.676  2817  5689 I libsensor-qshcalapi: value of set_lux: 5.810133, set r: 6613.000000
+09-08 12:27:44.678  1996 16440 I sensors-hal: handle_sns_std_sensor_event:67, light_event: ts=1326855799530771, lux: 5.8, powermode=1 
+09-08 12:27:44.679  2045  2100 D SRE     : sensorCallback mDisplayId = 0 dataCallback value=<   5.7500,   0.0000,   0.0000>, time=1326855799530771, sensortype=5
+09-08 12:27:44.679  2045  2100 D IGCDither: sensorCallback mDisplayId = 0 dataCallback value=<   5.7500,   0.0000,   0.0000>, time=1326855799530771, sensor=5
+09-08 12:27:44.679  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.0,cct:6550.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:508.4,R:294.6,G:207.5,B:122.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.680  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.3,cct:6561.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:473.6,R:276.1,G:187.4,B:119.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.681  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:7611.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:493.9,R:285.5,G:194.0,B:118.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.681  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.5,cct:6554.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:475.3,R:277.5,G:188.2,B:117.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:44.726  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.089731 0.317647 9.806385 88.069633 6.150960 1.000000 0 6.380949 0 6.689844 6.689844
+09-08 12:27:44.753  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:44.753  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:44.755  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:44.755  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:44.755  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:44.757  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:44.758  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 3
+09-08 12:27:44.758  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:44.784  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:44.785  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:44.785  2017  3217 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:44.786  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:44.855  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:44.855  2817  2993 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:44.936  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:44.936  2817  5943 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:44.938  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086142 0.322433 9.809975 88.077759 5.810133 1.000000 0 6.016453 0 6.436711 6.436711
+09-08 12:27:44.962  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a57090) status 0 for display-0.
+09-08 12:27:44.962  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:45.005  7967  8783 E PhoneAdapter: get ntnphones failed, exception: java.lang.IllegalStateException: not support satellite!
+09-08 12:27:45.007  3728  7033 D AmlWifiScoreReportInjector: isSwitchBackToWifi mRecentScore[0] = 60 mRecentScore[1] = 60 mRecentScore[2] = 60
+09-08 12:27:45.007  3728  7026 W WifiScoreReport: Ignoring stale/invalid external score sessionId=2664 currentSessionId=-1 score=60
+09-08 12:27:45.019  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:45.020  2817  5943 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:45.100  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:6536.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:496.4,R:289.4,G:195.3,B:121.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.150  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.317049 9.809377 88.075020 5.810133 1.000000 0 6.030272 0 6.283978 6.283978
+09-08 12:27:45.330 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 34683
+09-08 12:27:45.362  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.319442 9.809975 88.069023 5.810133 1.000000 0 6.038818 0 6.191818 6.191818
+09-08 12:27:45.501  7687 11299 D JavaheapMonitor: Java heap used=11M max=256M, proc: .cacertservice
+09-08 12:27:45.501  7687 11299 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:45.525  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:8405.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:518.4,R:296.5,G:204.4,B:128.2Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.573  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.094516 0.318844 9.803394 88.058815 5.810133 1.000000 0 6.044280 0 6.136354 6.136354
+09-08 12:27:45.692  1996 16440 I sensors-hal: handle_sns_std_sensor_event:67, light_event: ts=1326856812746552, lux: 5.8, powermode=1 
+09-08 12:27:45.693  2045  2100 D SRE     : sensorCallback mDisplayId = 0 dataCallback value=<   5.7500,   0.0000,   0.0000>, time=1326856812746552, sensortype=5
+09-08 12:27:45.693  2045  2100 D IGCDither: sensorCallback mDisplayId = 0 dataCallback value=<   5.7500,   0.0000,   0.0000>, time=1326856812746552, sensor=5
+09-08 12:27:45.696  1996 16440 I sensors-hal: handle_sns_std_sensor_event:67, light_event: ts=1326856813925198, lux: 5.8, powermode=1 
+09-08 12:27:45.696  2045  2100 D SRE     : sensorCallback mDisplayId = 0 dataCallback value=<   5.7500,   0.0000,   0.0000>, time=1326856813925198, sensortype=5
+09-08 12:27:45.696  2045  2100 D IGCDither: sensorCallback mDisplayId = 0 dataCallback value=<   5.7500,   0.0000,   0.0000>, time=1326856813925198, sensor=5
+09-08 12:27:45.702  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[0] sensor:screen_down  Wakeup msg_id=1025, ts=25475738874063
+09-08 12:27:45.711  7452 11258 D JavaheapMonitor: Java heap used=8M max=256M, proc: com.miui.miwallpaper
+09-08 12:27:45.711  7452 11258 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:45.734  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:7846.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.3,R:286.5,G:196.4,B:121.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.736  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:8304.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:518.2,R:295.2,G:203.5,B:127.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.736  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:8681.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:496.9,R:284.4,G:195.4,B:123.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.736  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:6520.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:511.7,R:293.3,G:202.8,B:126.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.737  2817  5689 I libsensor-boledalgo: ##### the value of lux: 6.417833, cct: 6613.000000
+09-08 12:27:45.737  2817  5689 I libsensor-qshcalapi: value of set_lux: 6.417833, set r: 6613.000000
+09-08 12:27:45.739  1996 16440 I sensors-hal: handle_sns_std_sensor_event:67, light_event: ts=1326856860571761, lux: 6.4, powermode=1 
+09-08 12:27:45.740  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.7,cct:6563.6,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:496.2,R:288.1,G:195.6,B:128.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.740  2045  2100 D SRE     : sensorCallback mDisplayId = 0 dataCallback value=<   6.3750,   0.0000,   0.0000>, time=1326856860571761, sensortype=5
+09-08 12:27:45.740  2045  2100 D IGCDither: sensorCallback mDisplayId = 0 dataCallback value=<   6.3750,   0.0000,   0.0000>, time=1326856860571761, sensor=5
+09-08 12:27:45.741  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:6521.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:515.9,R:295.6,G:205.2,B:127.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.741  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:8151.3,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.0,R:284.9,G:195.4,B:121.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:45.756  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:45.756  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:45.759  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:45.760  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:45.760  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:45.762  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:45.763  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 0
+09-08 12:27:45.763  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:45.785  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.317049 9.809377 88.059219 6.113983 1.000000 0 6.385786 0 6.173427 6.173427
+09-08 12:27:45.788  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:45.789  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:45.790  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:45.790  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:45.840  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[0] sensor:screen_down  Wakeup msg_id=1025, ts=25475739678692
+09-08 12:27:45.840  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[1] sensor:screen_down  Wakeup msg_id=1025, ts=25475740483321
+09-08 12:27:45.840  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[2] sensor:screen_down  Wakeup msg_id=1025, ts=25475741287950
+09-08 12:27:45.859  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:45.859  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:45.939  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 69999 us
+09-08 12:27:45.940  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:45.940  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[0] sensor:screen_down  Wakeup msg_id=1025, ts=25475742092579
+09-08 12:27:45.941  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[1] sensor:screen_down  Wakeup msg_id=1025, ts=25475742897208
+09-08 12:27:45.973  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a54a10) status 0 for display-0.
+09-08 12:27:45.974  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:45.998  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.084945 0.317049 9.803394 88.069939 6.417833 0.000000 0 6.702843 0 6.417833 6.417833
+09-08 12:27:46.023  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:46.023  2817  2817 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:46.041  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[0] sensor:screen_down  Wakeup msg_id=1025, ts=25475743701836
+09-08 12:27:46.041  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[1] sensor:screen_down  Wakeup msg_id=1025, ts=25475744506465
+09-08 12:27:46.041  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[2] sensor:screen_down  Wakeup msg_id=1025, ts=25475745311094
+09-08 12:27:46.142  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[0] sensor:screen_down  Wakeup msg_id=1025, ts=25475746115723
+09-08 12:27:46.142  1996 14460 I sensors-hal: qsh_conn_event_cb:789, wakeup event[1] sensor:screen_down  Wakeup msg_id=1025, ts=25475746920351
+09-08 12:27:46.159  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:6521.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:502.3,R:288.8,G:200.0,B:122.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:46.210  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.092722 0.322433 9.814162 88.073792 6.417833 1.000000 0 6.700927 0 6.496312 6.496312
+09-08 12:27:46.312  3728  4279 D AurogonBandwidthController: skinTemperature:33.241
+09-08 12:27:46.342  7709 11223 D JavaheapMonitor: Java heap used=23M max=256M, proc: com.qti.phone
+09-08 12:27:46.342  7709 11223 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:46.422  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.321835 9.812367 88.064064 6.417833 1.000000 0 6.694766 0 6.570858 6.570858
+09-08 12:27:46.446  2017  3175 I SDM     : DemuraTnCaptureIntfImpl::ProcessCapturePanelData: Screen capture status = 0
+09-08 12:27:46.454  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:46.453  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:46.455  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:46.523  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:46.524  2817  5757 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:46.557  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a562d0) status 0 for display-0.
+09-08 12:27:46.557  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:46.606  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:46.606  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:46.634  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.090927 0.317647 9.809975 88.068115 6.417833 1.000000 0 6.690519 0 6.615854 6.615854
+09-08 12:27:46.669  3728  7039 D NetworkMetricsTracker: calcNWCause:0
+09-08 12:27:46.761  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:46.761  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:46.764  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:46.764  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:46.764  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:46.766  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:46.845  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.317647 9.807582 88.077255 6.417833 1.000000 0 6.687613 0 6.642855 6.642855
+09-08 12:27:46.988  3728  7099 D GreezeManager: FZ uid = 10319 reason =PACKET success !
+09-08 12:27:46.988  3728  7099 D ActionExecute: frozen uid = 10319 reason=PACKET
+09-08 12:27:46.988  3728  7099 D ActionExecute: setPkgData uid = 10319 time=0
+09-08 12:27:46.988  3728  7099 D ExternalInterface: setUidState, uid = 10319 allow = false
+09-08 12:27:46.989  3728  7099 D ActionExecute: setPkgData uid = 10319 time=3000
+09-08 12:27:47.057  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.317049 9.809377 88.072678 6.417833 1.000000 0 6.686391 0 6.659211 6.659211
+09-08 12:27:47.219  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.6,cct:7744.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:507.9,R:292.6,G:201.2,B:123.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.219  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:6528.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:506.4,R:291.2,G:200.3,B:126.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.220  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.9,cct:7342.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:511.3,R:292.7,G:202.6,B:122.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.221  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:8327.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:508.3,R:291.8,G:200.1,B:125.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.269  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.091525 0.320638 9.811171 88.067909 6.417833 1.000000 0 6.685755 0 6.669143 6.669143
+09-08 12:27:47.430  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:6546.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:515.9,R:299.0,G:206.9,B:127.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.430  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.0,cct:6903.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:517.1,R:296.0,G:200.8,B:120.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.430  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:7546.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:514.4,R:295.3,G:202.9,B:123.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.431  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.1,cct:6559.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.4,R:292.6,G:199.7,B:127.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.431  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.1,cct:7589.9,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:521.6,R:299.0,G:206.2,B:125.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.432  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:6563.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:502.9,R:293.3,G:200.6,B:126.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.432  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.9,cct:8260.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:520.0,R:296.6,G:205.8,B:128.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.433  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:7745.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.7,R:289.4,G:199.0,B:121.7Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.433  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:8239.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:505.1,R:289.6,G:197.2,B:123.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.434  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:8144.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:511.6,R:292.0,G:203.2,B:125.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.481  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.087936 0.315853 9.811171 88.064873 6.417833 1.000000 0 6.685368 0 6.675265 6.675265
+09-08 12:27:47.642  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.8,cct:7998.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:517.1,R:296.4,G:202.8,B:126.1Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.643  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.0,cct:8192.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:524.2,R:296.3,G:204.9,B:128.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.643  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.2,cct:6526.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:503.4,R:289.4,G:198.4,B:125.8Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.644  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.7,cct:8426.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:516.5,R:294.5,G:203.4,B:127.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.644  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.4,cct:6526.1,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:508.1,R:291.6,G:201.2,B:126.6Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.644  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.2,cct:7835.0,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:527.4,R:300.5,G:208.4,B:128.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.645  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.5,cct:8464.7,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:507.7,R:289.5,G:200.3,B:125.4Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.645  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.9,cct:8029.4,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:520.6,R:298.7,G:204.9,B:127.3Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.646  2817  5689 I libsensor-boledalgo: dbv:25,lux:6.3,cct:6529.5,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:497.3,R:288.1,G:197.5,B:120.5Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.646  2817  5689 I libsensor-boledalgo: dbv:25,lux:7.0,cct:6539.8,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:519.1,R:298.7,G:209.2,B:128.0Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:47.670  3728  7099 D GreezeManager: freezeUid uid=10282 return:WIDGET_APP
+09-08 12:27:47.693  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086740 0.317049 9.814162 88.075218 6.417833 1.000000 0 6.684504 0 6.678766 6.678766
+09-08 12:27:47.749  1352 17435 I keystore2: system/security/keystore2/watchdog/src/lib.rs:399 - Watchdog thread idle -> terminating. Have a great day.
+09-08 12:27:47.763  3728  7308 I NetworkBoostStatusManager: handle: 107
+09-08 12:27:47.765  7967  8783 E PhoneAdapter: get ntnphones failed, exception: java.lang.IllegalStateException: not support satellite!
+09-08 12:27:47.766  7967  7967 D QtiLinkBandwidthEstimator-0: handleMessage: 2
+09-08 12:27:47.766  7967  7967 D QtiLinkBandwidthEstimator-0: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:47.767  3728  7308 D SLM-SRV-SLAService: isModemSingnalStrengthStatus = 0
+09-08 12:27:47.768  7967  7967 D QtiLinkBandwidthEstimator-0: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:47.769  7967  7967 D QtiLinkBandwidthEstimator-1: handleMessage: 2
+09-08 12:27:47.769  7967  7967 D QtiLinkBandwidthEstimator-1: MSG_TRAFFIC_STATS_POLL
+09-08 12:27:47.770  7967  7967 D QtiLinkBandwidthEstimator-1: isDataPacketsCaluclationOnEachSimSeperately : true
+09-08 12:27:47.771  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 2
+09-08 12:27:47.771  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 12:27:47.790  2017  2612 I SDM     : HWDeviceDRM::SetupConcurrentWriteback: Tear down the Concurrent Writeback topology
+09-08 12:27:47.790  2017  3179 I vendor.qti.hardware.display.composer-service: Sensor: notify citsensorservice to trigger cwb, misForced = 0
+09-08 12:27:47.790  2017  3218 I SDM     : CWB config passed by cwb_client : tappoint 1  CWB_ROI : (479.000000 160.000000 720.000000 401.000000) for display-0
+09-08 12:27:47.791  2227  3277 E HwcComposer: getLuts failed Status(-129, EX_TRANSACTION_FAILED): 'UNKNOWN_TRANSACTION: '
+09-08 12:27:47.798  8083  8261 D JavaheapMonitor: Java heap used=7M max=256M, proc: com.android.bluetooth
+09-08 12:27:47.798  8083  8261 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:47.826  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 12:27:47.829  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 12:27:47.829  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 6ms
+09-08 12:27:47.829  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 12:27:47.829  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 12:27:47.829  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 12:27:47.839 13819 23817 D JavaheapMonitor: Java heap used=25M max=256M, proc: com.lbe.security.miui
+09-08 12:27:47.839 13819 23817 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 12:27:47.861  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:47.861  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:47.906  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.088534 0.314058 9.812965 88.074409 6.417833 1.000000 0 6.684357 0 6.680880 6.680880
+09-08 12:27:47.945  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:47.945  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:47.968  2017  5758 I SDM     : NotifyCWBStatus: Notify the client about buffer (0x82a55f60) status 0 for display-0.
+09-08 12:27:47.969  2017  5758 I SDM     : SDMConcurrentWriteBack::ProcessCWBStatus: CWB queue is empty. Display: 0
+09-08 12:27:48.011  7967  8783 E PhoneAdapter: get ntnphones failed, exception: java.lang.IllegalStateException: not support satellite!
+09-08 12:27:48.013  3728  7033 D AmlWifiScoreReportInjector: isSwitchBackToWifi mRecentScore[0] = 60 mRecentScore[1] = 60 mRecentScore[2] = 60
+09-08 12:27:48.015  3728  7026 W WifiScoreReport: Ignoring stale/invalid external score sessionId=2664 currentSessionId=-1 score=60
+09-08 12:27:48.026  2017  2612 I SDM     : DisplayBase::CommitThread: Received Idle Timeout, panel: cmd, timeout: 70000 us
+09-08 12:27:48.026  2817  2994 D libsensor-parseRGB: CWB NotifyIdleStatus 1
+09-08 12:27:48.067  2817  5689 I libsensor-boledalgo: dbv:25,lux:5.6,cct:6571.2,hsv:-1.0,CWB R:24859.8,G:25025.1,B:25176.5Event C:481.2,R:283.4,G:191.1,B:118.9Cali C:226.2,R:124.9,G:97.0,B:48.8 
+09-08 12:27:48.117  3728  5460 I MiSensorServiceImpl: LightFovOptimizationSensor::screen_angle: 0.086142 0.317049 9.805189 88.075325 6.417833 1.000000 0 6.684198 0 6.682113 6.682113
+09-08 12:27:48.121  2972  2972 I adbd    : in ShellService: logcat -d

@@ -1,0 +1,4 @@
+=== DashboardRender 2026-09-05 23:07:42 ===
+bundle=D:/FL26_Mod/tools/FL26_AvatarPreviewer/extracted/avatar_mjt.unity3d
+face=face_EastAsia_new2 texture=face_eastAsia_new5
+texture assigned x1 (face_eastAsia_new5 512x512)

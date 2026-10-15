@@ -1,0 +1,1750 @@
+{
+ "Zenit": [
+  [
+   3,
+   "Douglas Santos (footballer, born 1994)",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Wilmar Barrios",
+   "MF",
+   "COL"
+  ],
+  [
+   7,
+   "Aleksandr Sobolev",
+   "FW",
+   "RUS"
+  ],
+  [
+   8,
+   "Wendel (footballer, born 1997)",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Felipe Augusto (footballer, born 2004)",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Maksim Glushenkov",
+   "FW",
+   "RUS"
+  ],
+  [
+   11,
+   "Luiz Henrique (footballer, born 2001)",
+   "FW",
+   "BRA"
+  ],
+  [
+   14,
+   "Jhon Jhon",
+   "MF",
+   "BRA"
+  ],
+  [
+   15,
+   "Vyacheslav Karavayev",
+   "DF",
+   "RUS"
+  ],
+  [
+   16,
+   "Denis Adamov",
+   "GK",
+   "RUS"
+  ],
+  [
+   20,
+   "Pedro (footballer, born 2006)",
+   "FW",
+   "BRA"
+  ],
+  [
+   21,
+   "Aleksandr Yerokhin",
+   "MF",
+   "RUS"
+  ],
+  [
+   25,
+   "Kevin Andrade",
+   "DF",
+   "COL"
+  ],
+  [
+   28,
+   "Nuraly Alip",
+   "DF",
+   "KAZ"
+  ],
+  [
+   31,
+   "Gustavo Mantuan",
+   "DF",
+   "BRA"
+  ],
+  [
+   33,
+   "Nino (footballer, born 1997)",
+   "DF",
+   "BRA"
+  ],
+  [
+   38,
+   "Amir Musayev",
+   "MF",
+   "RUS"
+  ],
+  [
+   43,
+   "Denis Terentyev",
+   "DF",
+   "RUS"
+  ]
+ ],
+ "CSKA": [
+  [
+   2,
+   "Matheus Reis",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Danil Krugovoy",
+   "DF",
+   "RUS"
+  ],
+  [
+   4,
+   "João Victor (footballer, born 1998)",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Dmitri Barinov",
+   "MF",
+   "RUS"
+  ],
+  [
+   7,
+   "Matheus Alves (footballer, born 2005)",
+   "MF",
+   "BRA"
+  ],
+  [
+   10,
+   "Ivan Oblyakov",
+   "MF",
+   "RUS"
+  ],
+  [
+   11,
+   "Tamerlan Musayev",
+   "FW",
+   "RUS"
+  ],
+  [
+   17,
+   "Kirill Glebov",
+   "FW",
+   "RUS"
+  ],
+  [
+   18,
+   "Danila Kozlov (footballer, born 2005)",
+   "MF",
+   "RUS"
+  ],
+  [
+   19,
+   "Ivan Oleynikov",
+   "MF",
+   "RUS"
+  ],
+  [
+   20,
+   "Matija Popović (footballer)",
+   "MF",
+   "SRB"
+  ],
+  [
+   21,
+   "Mohamed Azzi",
+   "DF",
+   "ALG"
+  ],
+  [
+   22,
+   "Milan Gajić (footballer, born 1996)",
+   "DF",
+   "SRB"
+  ],
+  [
+   23,
+   "Dzhamalutdin Abdulkadyrov",
+   "DF",
+   "RUS"
+  ],
+  [
+   27,
+   "Moisés (footballer, born 1995)",
+   "DF",
+   "BRA"
+  ],
+  [
+   31,
+   "Matvey Kislyak",
+   "MF",
+   "RUS"
+  ],
+  [
+   32,
+   "Luciano Gondou",
+   "FW",
+   "ARG"
+  ],
+  [
+   35,
+   "Igor Akinfeev",
+   "GK",
+   "RUS"
+  ],
+  [
+   37,
+   "Henrique Carmo",
+   "MF",
+   "BRA"
+  ],
+  [
+   39,
+   "Maksim Borisko",
+   "GK",
+   "RUS"
+  ]
+ ],
+ "Spartak": [
+  [
+   1,
+   "Ilya Pomazun",
+   "GK",
+   "RUS"
+  ],
+  [
+   3,
+   "Christopher Wooh",
+   "DF",
+   "CMR"
+  ],
+  [
+   4,
+   "Alexander Djiku",
+   "DF",
+   "GHA"
+  ],
+  [
+   5,
+   "Esequiel Barco",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Srđan Babić",
+   "DF",
+   "SRB"
+  ],
+  [
+   7,
+   "Pablo Solari",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Manfred Ugalde",
+   "FW",
+   "CRC"
+  ],
+  [
+   10,
+   "Marquinhos (footballer, born 1999)",
+   "MF",
+   "BRA"
+  ],
+  [
+   17,
+   "Vladislav Saus",
+   "MF",
+   "RUS"
+  ],
+  [
+   18,
+   "Nail Umyarov",
+   "MF",
+   "RUS"
+  ],
+  [
+   19,
+   "Mirlind Daku",
+   "FW",
+   "ALB"
+  ],
+  [
+   24,
+   "Nikita Massalyga",
+   "MF",
+   "RUS"
+  ],
+  [
+   25,
+   "Danil Prutsev",
+   "MF",
+   "RUS"
+  ],
+  [
+   27,
+   "Igor Dmitriyev (footballer)",
+   "MF",
+   "RUS"
+  ],
+  [
+   28,
+   "Daniil Zorin",
+   "MF",
+   "RUS"
+  ],
+  [
+   33,
+   "Víctor Parada",
+   "DF",
+   "ESP"
+  ],
+  [
+   35,
+   "Christopher Martins",
+   "MF",
+   "LUX"
+  ],
+  [
+   40,
+   "Ivan Sorokin (footballer)",
+   "MF",
+   "RUS"
+  ]
+ ],
+ "Lokomotiv": [
+  [
+   1,
+   "Anton Mitryushkin",
+   "GK",
+   "RUS"
+  ],
+  [
+   2,
+   "Cristian Ramírez (Ecuadorian footballer)",
+   "DF",
+   "ECU"
+  ],
+  [
+   3,
+   "Lucas Fasson",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Gerzino Nyamsi",
+   "DF",
+   "CMR"
+  ],
+  [
+   6,
+   "Sergei Babkin",
+   "MF",
+   "RUS"
+  ],
+  [
+   7,
+   "Zelimkhan Bakayev",
+   "MF",
+   "RUS"
+  ],
+  [
+   9,
+   "Sergei Pinyayev",
+   "FW",
+   "RUS"
+  ],
+  [
+   11,
+   "Vadim Rakov",
+   "FW",
+   "RUS"
+  ],
+  [
+   14,
+   "Georgi Dzhikiya",
+   "DF",
+   "RUS"
+  ],
+  [
+   16,
+   "Daniil Veselov",
+   "GK",
+   "RUS"
+  ],
+  [
+   18,
+   "Nikolai Titkov",
+   "MF",
+   "RUS"
+  ],
+  [
+   19,
+   "Aleksandr Rudenko (footballer, born 1999)",
+   "FW",
+   "RUS"
+  ],
+  [
+   22,
+   "Ilya Lantratov",
+   "GK",
+   "RUS"
+  ],
+  [
+   23,
+   "César Montes",
+   "DF",
+   "MEX"
+  ],
+  [
+   24,
+   "Maksim Nenakhov",
+   "DF",
+   "RUS"
+  ],
+  [
+   27,
+   "Nikolay Komlichenko (footballer, born 1995)",
+   "FW",
+   "RUS"
+  ],
+  [
+   32,
+   "Lucas Vera",
+   "MF",
+   "ARG"
+  ],
+  [
+   45,
+   "Aleksandr Silyanov",
+   "DF",
+   "RUS"
+  ]
+ ],
+ "Dynamo": [
+  [
+   1,
+   "Kurban Rasulov",
+   "GK",
+   "RUS"
+  ],
+  [
+   2,
+   "Nicolás Marichal",
+   "DF",
+   "URU"
+  ],
+  [
+   4,
+   "Juan José Cáceres",
+   "DF",
+   "PAR"
+  ],
+  [
+   5,
+   "Milan Majstorović (footballer)",
+   "DF",
+   "SRB"
+  ],
+  [
+   6,
+   "Roberto Fernández (footballer, born 2000)",
+   "DF",
+   "PAR"
+  ],
+  [
+   7,
+   "Dmitri Skopintsev",
+   "DF",
+   "RUS"
+  ],
+  [
+   8,
+   "Rubens (footballer, born 2001)",
+   "MF",
+   "BRA"
+  ],
+  [
+   10,
+   "Bitello",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Arthur Gomes (footballer)",
+   "FW",
+   "BRA"
+  ],
+  [
+   15,
+   "Danil Glebov",
+   "MF",
+   "RUS"
+  ],
+  [
+   19,
+   "Bakhtiyar Zaynutdinov",
+   "MF",
+   "KAZ"
+  ],
+  [
+   21,
+   "Anton Miranchuk",
+   "MF",
+   "RUS"
+  ],
+  [
+   24,
+   "Luis Chávez (footballer)",
+   "MF",
+   "MEX"
+  ],
+  [
+   28,
+   "Maximiliano Gutiérrez",
+   "MF",
+   "CHI"
+  ],
+  [
+   31,
+   "Igor Leshchuk",
+   "GK",
+   "RUS"
+  ],
+  [
+   33,
+   "Ivan Sergeyev (footballer)",
+   "FW",
+   "RUS"
+  ],
+  [
+   34,
+   "Luka Gagnidze",
+   "MF",
+   "GEO"
+  ]
+ ],
+ "Rubin": [
+  [
+   2,
+   "Yegor Teslenko",
+   "DF",
+   "RUS"
+  ],
+  [
+   3,
+   "Denil Maldonado",
+   "DF",
+   "HON"
+  ],
+  [
+   4,
+   "Konstantin Nizhegorodov",
+   "DF",
+   "RUS"
+  ],
+  [
+   5,
+   "Igor Vujačić",
+   "DF",
+   "MNE"
+  ],
+  [
+   6,
+   "Ugochukwu Iwu",
+   "MF",
+   "ARM"
+  ],
+  [
+   8,
+   "Bogdan Jočić",
+   "MF",
+   "SRB"
+  ],
+  [
+   10,
+   "Eddie Salcedo",
+   "FW",
+   "ITA"
+  ],
+  [
+   11,
+   "Nazmi Gripshi",
+   "MF",
+   "ALB"
+  ],
+  [
+   12,
+   "Anderson Arroyo",
+   "DF",
+   "COL"
+  ],
+  [
+   14,
+   "Ignacio Saavedra",
+   "MF",
+   "CHI"
+  ],
+  [
+   18,
+   "Maksim Ignatyev",
+   "DF",
+   "RUS"
+  ],
+  [
+   22,
+   "Veldin Hoxha",
+   "MF",
+   "KOS"
+  ],
+  [
+   23,
+   "Ruslan Bezrukov",
+   "DF",
+   "RUS"
+  ],
+  [
+   25,
+   "Artur Nigmatullin",
+   "GK",
+   "RUS"
+  ],
+  [
+   27,
+   "Aleksei Gritsayenko",
+   "DF",
+   "RUS"
+  ],
+  [
+   38,
+   "Yevgeni Staver",
+   "GK",
+   "RUS"
+  ],
+  [
+   43,
+   "Jacques Siwe",
+   "FW",
+   "FRA"
+  ],
+  [
+   44,
+   "Daniil Kuznetsov",
+   "FW",
+   "RUS"
+  ]
+ ],
+ "Rostov": [
+  [
+   1,
+   "Rustam Yatimov",
+   "GK",
+   "TJK"
+  ],
+  [
+   3,
+   "Oumar Sako",
+   "DF",
+   "NIG"
+  ],
+  [
+   4,
+   "Viktor Melyokhin",
+   "DF",
+   "RUS"
+  ],
+  [
+   5,
+   "Yaroslav Mikhaylov",
+   "MF",
+   "RUS"
+  ],
+  [
+   6,
+   "Olakunle Olusegun",
+   "DF",
+   "NGA"
+  ],
+  [
+   7,
+   "Ronaldo (footballer, born December 2000)",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Aleksei Mironov",
+   "MF",
+   "RUS"
+  ],
+  [
+   10,
+   "Ivan Komarov (footballer)",
+   "MF",
+   "RUS"
+  ],
+  [
+   11,
+   "Ibraheem Mahfus Ajasa",
+   "MF",
+   "NGA"
+  ],
+  [
+   13,
+   "Denis Titow",
+   "MF",
+   "TKM"
+  ],
+  [
+   16,
+   "Maksim Mukhin",
+   "MF",
+   "RUS"
+  ],
+  [
+   18,
+   "Konstantin Kuchayev",
+   "MF",
+   "RUS"
+  ],
+  [
+   21,
+   "Daniil Shantaly",
+   "MF",
+   "RUS"
+  ],
+  [
+   22,
+   "David Semenchuk",
+   "DF",
+   "RUS"
+  ],
+  [
+   26,
+   "Daniil Khlusevich",
+   "DF",
+   "RUS"
+  ],
+  [
+   27,
+   "Danila Prokhin",
+   "DF",
+   "RUS"
+  ],
+  [
+   39,
+   "Maksim Radchenko",
+   "DF",
+   "RUS"
+  ],
+  [
+   40,
+   "Ygor Nogueira",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Akhmat": [
+  [
+   1,
+   "Vadim Ulyanov",
+   "GK",
+   "RUS"
+  ],
+  [
+   4,
+   "Turpal-Ali Ibishev",
+   "DF",
+   "RUS"
+  ],
+  [
+   5,
+   "Klisman Cake",
+   "DF",
+   "ALB"
+  ],
+  [
+   6,
+   "Kalidou Sidibé",
+   "DF",
+   "MLI"
+  ],
+  [
+   7,
+   "Lechi Sadulayev",
+   "MF",
+   "RUS"
+  ],
+  [
+   8,
+   "Miroslav Bogosavac",
+   "DF",
+   "SRB"
+  ],
+  [
+   10,
+   "Kirill Shchetinin",
+   "MF",
+   "RUS"
+  ],
+  [
+   11,
+   "Ismael Silva (footballer)",
+   "MF",
+   "BRA"
+  ],
+  [
+   13,
+   "Mohamed Konaté (footballer, born 1997)",
+   "FW",
+   "BFA"
+  ],
+  [
+   17,
+   "Egas Cacintura",
+   "MF",
+   "ANG"
+  ],
+  [
+   18,
+   "Júlio Romão",
+   "MF",
+   "BRA"
+  ],
+  [
+   19,
+   "Sergei Pryakhin (footballer)",
+   "MF",
+   "RUS"
+  ],
+  [
+   20,
+   "Maksim Samorodov",
+   "FW",
+   "KAZ"
+  ],
+  [
+   23,
+   "Galymzhan Kenzhebek",
+   "FW",
+   "KAZ"
+  ],
+  [
+   42,
+   "Manuel Keliano",
+   "MF",
+   "ANG"
+  ]
+ ],
+ "Krylia": [
+  [
+   2,
+   "Kiryl Pyachenin",
+   "DF",
+   "BLR"
+  ],
+  [
+   3,
+   "Thomas Galdames",
+   "DF",
+   "CHI"
+  ],
+  [
+   4,
+   "Yuri Gorshkov",
+   "DF",
+   "RUS"
+  ],
+  [
+   5,
+   "Dominik Oroz",
+   "DF",
+   "CRO"
+  ],
+  [
+   7,
+   "Mihajlo Banjac",
+   "MF",
+   "SER"
+  ],
+  [
+   8,
+   "Maksim Vityugov",
+   "MF",
+   "RUS"
+  ],
+  [
+   10,
+   "Martin Kramarič",
+   "FW",
+   "SVN"
+  ],
+  [
+   11,
+   "Amar Rahmanović",
+   "MF",
+   "BIH"
+  ],
+  [
+   15,
+   "Nikolai Rasskazov",
+   "DF",
+   "RUS"
+  ],
+  [
+   18,
+   "Ivan Lepsky",
+   "DF",
+   "RUS"
+  ],
+  [
+   20,
+   "Kirill Stolbov",
+   "MF",
+   "RUS"
+  ],
+  [
+   22,
+   "Fernando Costanza",
+   "MF",
+   "BRA"
+  ],
+  [
+   23,
+   "Nikita Chernov",
+   "DF",
+   "RUS"
+  ],
+  [
+   26,
+   "Jimmy Marín",
+   "MF",
+   "CRC"
+  ],
+  [
+   30,
+   "Sergei Pesyakov",
+   "GK",
+   "RUS"
+  ],
+  [
+   33,
+   "Aleksey Lysov (footballer)",
+   "DF",
+   "RUS"
+  ],
+  [
+   39,
+   "Yevgeny Frolov (footballer, born 1988)",
+   "GK",
+   "RUS"
+  ]
+ ],
+ "Makhachkala": [
+  [
+   1,
+   "David Volk",
+   "GK",
+   "RUS"
+  ],
+  [
+   4,
+   "Idar Shumakhov",
+   "DF",
+   "RUS"
+  ],
+  [
+   8,
+   "Vladimir Khubulov",
+   "MF",
+   "RUS"
+  ],
+  [
+   9,
+   "Razhab Magomedov",
+   "FW",
+   "RUS"
+  ],
+  [
+   10,
+   "Mohammad Javad Hosseinnejad",
+   "MF",
+   "IRN"
+  ],
+  [
+   11,
+   "Miro (footballer)",
+   "FW",
+   "ANG"
+  ],
+  [
+   13,
+   "Soslan Kagermazov",
+   "DF",
+   "RUS"
+  ],
+  [
+   14,
+   "Daler Kuzyayev",
+   "MF",
+   "RUS"
+  ],
+  [
+   16,
+   "Houssem Mrezigue",
+   "MF",
+   "ALG"
+  ],
+  [
+   19,
+   "Kirill Zinovich",
+   "MF",
+   "BLR"
+  ],
+  [
+   21,
+   "Abdulpasha Dzhabrailov",
+   "MF",
+   "RUS"
+  ],
+  [
+   23,
+   "Makhmud Makhamadzhonov",
+   "DF",
+   "UZB"
+  ],
+  [
+   24,
+   "Andrés Alarcón (footballer)",
+   "DF",
+   "COL"
+  ],
+  [
+   25,
+   "Gamid Agalarov",
+   "FW",
+   "RUS"
+  ],
+  [
+   28,
+   "Serder Serderov",
+   "FW",
+   "RUS"
+  ],
+  [
+   33,
+   "Nikita Karabashev",
+   "GK",
+   "RUS"
+  ],
+  [
+   39,
+   "Timur Magomedov",
+   "GK",
+   "RUS"
+  ],
+  [
+   43,
+   "Ilyas Akhmedov",
+   "DF",
+   "RUS"
+  ]
+ ],
+ "Krasnodar": [
+  [
+   1,
+   "Stanislav Agkatsev",
+   "GK",
+   "RUS"
+  ],
+  [
+   2,
+   "Maizon Rodríguez",
+   "DF",
+   "URU"
+  ],
+  [
+   3,
+   "Vítor Tormena",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Jubal (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Kevin Pina (footballer)",
+   "MF",
+   "CPV"
+  ],
+  [
+   8,
+   "Douglas Augusto",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Jhon Córdoba",
+   "FW",
+   "COL"
+  ],
+  [
+   10,
+   "Dmitry Vorobyov (footballer)",
+   "FW",
+   "RUS"
+  ],
+  [
+   11,
+   "João Batxi",
+   "MF",
+   "ANG"
+  ],
+  [
+   15,
+   "Lucas Olaza",
+   "DF",
+   "URU"
+  ],
+  [
+   16,
+   "Aleksandr Koryakin",
+   "GK",
+   "RUS"
+  ],
+  [
+   17,
+   "Valentin Paltsev",
+   "DF",
+   "RUS"
+  ],
+  [
+   18,
+   "Christian (footballer, born 2000)",
+   "MF",
+   "BRA"
+  ],
+  [
+   21,
+   "Magomed Ozdoyev",
+   "MF",
+   "RUS"
+  ],
+  [
+   23,
+   "Juan Manuel Boselli",
+   "FW",
+   "URU"
+  ],
+  [
+   34,
+   "Andrey Karpenko",
+   "GK",
+   "RUS"
+  ],
+  [
+   40,
+   "Ilya Vakhaniya",
+   "DF",
+   "RUS"
+  ]
+ ],
+ "Fakel": [
+  [
+   1,
+   "Daniil Frolkin",
+   "GK",
+   "RUS"
+  ],
+  [
+   5,
+   "Albert Gabarayev",
+   "DF",
+   "RUS"
+  ],
+  [
+   7,
+   "Maksim Turishchev",
+   "FW",
+   "RUS"
+  ],
+  [
+   8,
+   "Abdula Bagamayev",
+   "MF",
+   "RUS"
+  ],
+  [
+   9,
+   "Axel Gnapi",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Ilnur Alshin",
+   "MF",
+   "RUS"
+  ],
+  [
+   11,
+   "Aleksei Sutormin",
+   "MF",
+   "RUS"
+  ],
+  [
+   17,
+   "Anton Kavalyow",
+   "MF",
+   "BLR"
+  ],
+  [
+   18,
+   "Kirill Simonov",
+   "MF",
+   "RUS"
+  ],
+  [
+   19,
+   "Belajdi Pusi",
+   "FW",
+   "ALB"
+  ],
+  [
+   20,
+   "Igor Yurganov",
+   "DF",
+   "RUS"
+  ],
+  [
+   22,
+   "Hodaifa El Mhassani",
+   "DF",
+   "MAR"
+  ],
+  [
+   23,
+   "Vyacheslav Yakimov",
+   "MF",
+   "RUS"
+  ],
+  [
+   25,
+   "Aleksandr Belyayev",
+   "FW",
+   "RUS"
+  ],
+  [
+   27,
+   "Stanislav Magkeyev",
+   "DF",
+   "RUS"
+  ],
+  [
+   35,
+   "Vyacheslav Dorovskikh",
+   "GK",
+   "RUS"
+  ],
+  [
+   44,
+   "Yuri Zhuravlyov (footballer)",
+   "DF",
+   "RUS"
+  ]
+ ],
+ "Orenburg": [
+  [
+   1,
+   "Bogdan Ovsyannikov",
+   "GK",
+   "RUS"
+  ],
+  [
+   2,
+   "Stanislav Poroykov",
+   "DF",
+   "RUS"
+  ],
+  [
+   3,
+   "Danila Vedernikov",
+   "DF",
+   "RUS"
+  ],
+  [
+   4,
+   "Danila Khotulyov",
+   "DF",
+   "RUS"
+  ],
+  [
+   5,
+   "Aleksei Tatayev",
+   "DF",
+   "RUS"
+  ],
+  [
+   6,
+   "Jhon Palacios",
+   "DF",
+   "COL"
+  ],
+  [
+   8,
+   "Damián Puebla",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Maksim Savelyev",
+   "FW",
+   "RUS"
+  ],
+  [
+   10,
+   "Jordhy Thompson",
+   "FW",
+   "CHI"
+  ],
+  [
+   14,
+   "Robert Mejía",
+   "MF",
+   "COL"
+  ],
+  [
+   18,
+   "Dmitri Vasilyev (footballer, born 2004)",
+   "MF",
+   "RUS"
+  ],
+  [
+   19,
+   "Alexandre Jesus",
+   "FW",
+   "BRA"
+  ],
+  [
+   20,
+   "Dmitri Rybchinsky",
+   "MF",
+   "RUS"
+  ],
+  [
+   22,
+   "Anton Lukashov",
+   "DF",
+   "BLR"
+  ],
+  [
+   24,
+   "Maxime Sivis",
+   "DF",
+   "COD"
+  ],
+  [
+   26,
+   "Emil Tsenov",
+   "MF",
+   "BUL"
+  ],
+  [
+   27,
+   "Renat Golybin",
+   "MF",
+   "RUS"
+  ],
+  [
+   30,
+   "Gedeon Guzina",
+   "FW",
+   "BIH"
+  ],
+  [
+   38,
+   "Artyom Kasimov",
+   "DF",
+   "RUS"
+  ],
+  [
+   44,
+   "João Silva (footballer, born 1999)",
+   "DF",
+   "POR"
+  ]
+ ],
+ "Baltika": [
+  [
+   2,
+   "Sergey Varatynov",
+   "DF",
+   "RUS"
+  ],
+  [
+   3,
+   "Ilya Kirsh",
+   "DF",
+   "RUS"
+  ],
+  [
+   4,
+   "Nathan Gassama",
+   "DF",
+   "MLI"
+  ],
+  [
+   5,
+   "Aymane Mourid",
+   "MF",
+   "MAR"
+  ],
+  [
+   7,
+   "Konstantin Shiltsov",
+   "MF",
+   "RUS"
+  ],
+  [
+   8,
+   "Andrei Mendel",
+   "MF",
+   "RUS"
+  ],
+  [
+   9,
+   "Chinonso Offor",
+   "FW",
+   "NGA"
+  ],
+  [
+   10,
+   "Ilya Petrov",
+   "MF",
+   "RUS"
+  ],
+  [
+   11,
+   "Ilya Porokhov",
+   "FW",
+   "RUS"
+  ],
+  [
+   14,
+   "Stefan Kovač",
+   "MF",
+   "BIH"
+  ],
+  [
+   18,
+   "Fahd Moufi",
+   "DF",
+   "MAR"
+  ],
+  [
+   19,
+   "Maksim Shnaptsev",
+   "DF",
+   "RUS"
+  ],
+  [
+   21,
+   "Eduardo Anderson (footballer)",
+   "DF",
+   "PAN"
+  ],
+  [
+   22,
+   "Mingiyan Beveyev",
+   "DF",
+   "RUS"
+  ],
+  [
+   24,
+   "Loris Mouyokolo",
+   "DF",
+   "FRA"
+  ],
+  [
+   25,
+   "Aleksandr Filin",
+   "DF",
+   "RUS"
+  ],
+  [
+   26,
+   "Ivan Belikov (footballer, born 2004)",
+   "DF",
+   "RUS"
+  ],
+  [
+   42,
+   "Vladislav Pospelov",
+   "MF",
+   "RUS"
+  ],
+  [
+   43,
+   "Nikita Bokov",
+   "DF",
+   "RUS"
+  ],
+  [
+   44,
+   "Yegor Lyubakov",
+   "GK",
+   "RUS"
+  ]
+ ],
+ "Ural": [
+  [
+   2,
+   "Silvije Begić",
+   "DF",
+   "CRO"
+  ],
+  [
+   6,
+   "Fanil Sungatulin",
+   "MF",
+   "RUS"
+  ],
+  [
+   10,
+   "Martin Sekulić (footballer)",
+   "FW",
+   "CRO"
+  ],
+  [
+   15,
+   "Dmitry Tikhy",
+   "DF",
+   "RUS"
+  ],
+  [
+   16,
+   "Ítalo (footballer, born February 2002)",
+   "DF",
+   "BRA"
+  ],
+  [
+   18,
+   "Nikita Morozov",
+   "MF",
+   "RUS"
+  ],
+  [
+   19,
+   "Khoren Bayramyan",
+   "MF",
+   "ARM"
+  ],
+  [
+   22,
+   "Léo Cordeiro",
+   "MF",
+   "BRA"
+  ],
+  [
+   24,
+   "Aleksandr Korotkov (footballer, born 2000)",
+   "DF",
+   "RUS"
+  ],
+  [
+   28,
+   "Ilya Skoropupov",
+   "MF",
+   "RUS"
+  ],
+  [
+   30,
+   "Klimenty Sidorov",
+   "DF",
+   "RUS"
+  ],
+  [
+   33,
+   "Denis Gazhalov",
+   "FW",
+   "RUS"
+  ],
+  [
+   35,
+   "Dmitry Prishchepa",
+   "DF",
+   "BLR"
+  ],
+  [
+   37,
+   "Vitaly Bondarev",
+   "MF",
+   "RUS"
+  ],
+  [
+   40,
+   "Nikita Khrisanfov",
+   "MF",
+   "RUS"
+  ],
+  [
+   43,
+   "Roman Shoronov",
+   "DF",
+   "RUS"
+  ],
+  [
+   44,
+   "Vladislav Malkevich (footballer)",
+   "MF",
+   "BLR"
+  ],
+  [
+   45,
+   "Yury Mozzhukhin",
+   "DF",
+   "RUS"
+  ]
+ ],
+ "Rodina": [
+  [
+   1,
+   "Sergey Aydarov",
+   "GK",
+   "RUS"
+  ],
+  [
+   3,
+   "Leo Goglichidze",
+   "DF",
+   "RUS"
+  ],
+  [
+   5,
+   "Andrei Yegorychev",
+   "MF",
+   "RUS"
+  ],
+  [
+   6,
+   "Ruslan Fishchenko",
+   "MF",
+   "RUS"
+  ],
+  [
+   7,
+   "German Onugkha",
+   "FW",
+   "RUS"
+  ],
+  [
+   8,
+   "Iker Pozo",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Artyom Maksimenko",
+   "FW",
+   "RUS"
+  ],
+  [
+   10,
+   "Yordy Reyna",
+   "MF",
+   "PER"
+  ],
+  [
+   13,
+   "Sergey Volkov (footballer, born 1995)",
+   "GK",
+   "RUS"
+  ],
+  [
+   15,
+   "Dmitry Shadrintsev",
+   "DF",
+   "RUS"
+  ],
+  [
+   17,
+   "Soltmurad Bakayev",
+   "MF",
+   "RUS"
+  ],
+  [
+   18,
+   "Magomedkhabib Abdusalamov",
+   "FW",
+   "RUS"
+  ],
+  [
+   19,
+   "Dmitri Tananeyev",
+   "DF",
+   "RUS"
+  ],
+  [
+   20,
+   "Deiver Machado",
+   "DF",
+   "COL"
+  ],
+  [
+   23,
+   "Kirill Ushatov",
+   "MF",
+   "RUS"
+  ],
+  [
+   26,
+   "Artyom Meshchaninov",
+   "DF",
+   "RUS"
+  ],
+  [
+   38,
+   "Leon Musayev",
+   "MF",
+   "RUS"
+  ]
+ ]
+}

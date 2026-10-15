@@ -1,0 +1,28 @@
+{
+  "phase": "14B",
+  "title": "Runtime Face Deformation Diagnosis",
+  "updated": "2026-09-12 01:40",
+  "gates": {
+    "FACE_TEMPLATE_PARSE_READY": "PARTIAL (header decoded: 7 families x 20 variants = 140 rows; per-row ~53 u8 params + row header, variable length, data offset 56; semantics pending IL2CPP)",
+    "B14_RUNTIME_EFFECT_CONFIRMED": "CONFIRMED (device squad screenshot probe_faces.png: b14=0/18/50/99/139 produce VISIBLY DIFFERENT faces; b14=99 vs 18 maximally different; b14=18 vs b14=0 differ)",
+    "EA_FAMILY_IDENTIFIED": "PROBABLE (original China players' PA.b14 concentrate in rows 13-18 => rows 13-18 = the 6 EastAsia variants of family 0; b14=18/99 spanning DIFFERENT families explains the large visible differences)",
+    "FAFBFC_EFFECT_CONFIRMED": "NOT CONFIRMED (FAC_WuL vs FAC_000: different fa/fb/fc triples, same b14=18 -> faces visually identical)",
+    "SKINNING_DIFFERENCE_EXCLUDED": "PENDING",
+    "LOD_DIFFERENCE_EXCLUDED": "PENDING",
+    "SHADER_DIFFERENCE_EXCLUDED": "PENDING",
+    "PC_ANDROID_STATE_MATCHED": "PENDING",
+    "ROOT_CAUSE_IDENTIFIED": "WORKING HYPOTHESIS: FaceTemplate[b14] runtime deformation stacks ON TOP of injected mesh vertices; our players had b14=18/99 (arbitrary rows) whose morphs overwrite/distort the V3 shape => likeness collapse after skinning"
+  },
+  "current_experiment": {
+    "name": "EA variant probe (round 2)",
+    "installed": "build_20260912_010934 (pid 175930, jersey 46, b14=13 control + 6 registered EA_13..EA_18, jersey 30-34/45, PA.b14 verified byte-level ALL OK)",
+    "hypothesis": "the 6 EA variants (b14 = 13..18) are the morph family matching the EastAsia_new1 mesh; one of them (or a nearby row) minimizes runtime distortion of the injected V3 mesh",
+    "awaiting": "user navigates to London Red squad -> AI screencap -> user/AI pick the variant whose face best matches the ID photo -> set that b14 as the player's permanent row"
+  },
+  "evidence": {
+    "b14_device_effect": "phase14b/runs/probe_faces.png (b14=0/18/50/99/139 visibly different faces)",
+    "camera_fix": "mica_render.py nose-driven orientation (front view fixed)",
+    "identity_matrix": "set4 cluster 0.93-0.98 internal, 0.37 vs set2 (different person)",
+    "FaceTemplate_raw": "phase14b/tools/face_template_raw.json + FaceTemplate.bin"
+  }
+}

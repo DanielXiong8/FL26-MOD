@@ -1,0 +1,3784 @@
+{
+ "Albacete": [
+  [
+   1,
+   "Carlos Marín (footballer)",
+   "GK",
+   "Spain"
+  ],
+  [
+   2,
+   "Lorenzo Aguado",
+   "DF",
+   "Spain"
+  ],
+  [
+   4,
+   "Agus Medina",
+   "MF",
+   "Spain"
+  ],
+  [
+   5,
+   "Javi Moreno (footballer, born 2000)",
+   "DF",
+   "Spain"
+  ],
+  [
+   6,
+   "Antonio Pacheco (footballer, born 2002)",
+   "MF",
+   "Spain"
+  ],
+  [
+   7,
+   "Antonio Puertas",
+   "FW",
+   "Spain"
+  ],
+  [
+   8,
+   "Javi Villar",
+   "MF",
+   "Spain"
+  ],
+  [
+   9,
+   "Mario Soberón",
+   "FW",
+   "Spain"
+  ],
+  [
+   10,
+   "Rober (footballer)",
+   "MF",
+   "Spain"
+  ],
+  [
+   11,
+   "Víctor Valverde",
+   "FW",
+   "Spain"
+  ],
+  [
+   12,
+   "Higinio Marín",
+   "FW",
+   "Spain"
+  ],
+  [
+   13,
+   "Diego Mariño",
+   "GK",
+   "Spain"
+  ],
+  [
+   14,
+   "Víctor San Bartolomé",
+   "MF",
+   "Spain"
+  ],
+  [
+   15,
+   "Fran Gámez",
+   "DF",
+   "Spain"
+  ],
+  [
+   16,
+   "Munir El Haddadi",
+   "FW",
+   "Morocco"
+  ],
+  [
+   17,
+   "José Corpas",
+   "MF",
+   "Spain"
+  ],
+  [
+   18,
+   "Sergio Ortuño",
+   "MF",
+   "Spain"
+  ],
+  [
+   19,
+   "Álex Rubio Roldán",
+   "FW",
+   "Spain"
+  ],
+  [
+   20,
+   "Samuel Obeng (footballer)",
+   "FW",
+   "Ghana"
+  ],
+  [
+   21,
+   "Carlos Neva",
+   "DF",
+   "Spain"
+  ],
+  [
+   22,
+   "Lluís López",
+   "DF",
+   "Spain"
+  ],
+  [
+   23,
+   "Pepe Sánchez (footballer)",
+   "DF",
+   "Spain"
+  ],
+  [
+   24,
+   "Jesús Vallejo",
+   "DF",
+   "Spain"
+  ],
+  [
+   26,
+   "Capi (footballer, born 2006)",
+   "MF",
+   "Spain"
+  ],
+  [
+   27,
+   "Dani Bernabéu",
+   "DF",
+   "Spain"
+  ],
+  [
+   28,
+   "Toni Velilla Miró",
+   "DF",
+   "Spain"
+  ],
+  [
+   32,
+   "Agustín Albarracín",
+   "FW",
+   "Uruguay"
+  ],
+  [
+   33,
+   "Tomás Inglés",
+   "FW",
+   "Spain"
+  ],
+  [
+   38,
+   "Diego Rodríguez Rivas",
+   "MF",
+   "Spain"
+  ],
+  [
+   39,
+   "Fabio García-Moreno",
+   "FW",
+   "Spain"
+  ],
+  [
+   40,
+   "Jota (footballer, born 2006)",
+   "DF",
+   "Spain"
+  ],
+  [
+   44,
+   "Antonio David Moreno Moreno",
+   "MF",
+   "Spain"
+  ]
+ ],
+ "Almeria": [
+  [
+   1,
+   "Andrés Fernández (footballer, born December 1986)",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Jorge Pulido",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Álex Muñoz",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Rodrigo Ely",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Jon Morcillo",
+   "FW",
+   "ESP"
+  ],
+  [
+   8,
+   "Gui Guedes",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Thalys (footballer)",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Nico Melamed",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Sergio Arribas (footballer, born 2001)",
+   "MF",
+   "ESP"
+  ],
+  [
+   12,
+   "Léo Baptistão",
+   "FW",
+   "BRA"
+  ],
+  [
+   13,
+   "Fernando Martínez (Spanish footballer)",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Javier Muñoz (Spanish footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Leonardo Lelo",
+   "DF",
+   "POR"
+  ],
+  [
+   16,
+   "Marcos Luna",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Brian Cipenga",
+   "FW",
+   "COD"
+  ],
+  [
+   18,
+   "Federico Bonini",
+   "DF",
+   "ITA"
+  ],
+  [
+   19,
+   "Mikel Vesga",
+   "MF",
+   "ESP"
+  ],
+  [
+   20,
+   "Álex Sola",
+   "FW",
+   "ESP"
+  ],
+  [
+   21,
+   "Chumi",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Daijiro Chirino",
+   "DF",
+   "CUW"
+  ],
+  [
+   23,
+   "Adri Embarba",
+   "FW",
+   "ESP"
+  ],
+  [
+   24,
+   "Miguel de la Fuente",
+   "FW",
+   "ESP"
+  ],
+  [
+   29,
+   "Stefan Džodić",
+   "MF",
+   "SRB"
+  ],
+  [
+   30,
+   "Jesús López Soria",
+   "GK",
+   "ESP"
+  ],
+  [
+   31,
+   "Áron Yaakobishvili",
+   "GK",
+   "HUN"
+  ],
+  [
+   32,
+   "Andrej Popović",
+   "DF",
+   "SRB"
+  ],
+  [
+   33,
+   "Quim Junyent",
+   "MF",
+   "ESP"
+  ]
+ ],
+ "Andorra": [
+  [
+   1,
+   "Nico Ratti",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Juan Sebastián",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Lautaro Spatz",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Gael Alonso",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Marc Bombardó",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Hugo Solozábal",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Álex Calvo",
+   "FW",
+   "ESP"
+  ],
+  [
+   8,
+   "Efe Akman",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Julian Rijkhoff",
+   "FW",
+   "NED"
+  ],
+  [
+   10,
+   "Marc Domènech (footballer, born 2002)",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Lautaro de León",
+   "FW",
+   "URU"
+  ],
+  [
+   12,
+   "Enes Sali",
+   "FW",
+   "ROM"
+  ],
+  [
+   13,
+   "Pau López",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Sergio Molina (footballer, born 1996)",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Jordi Cano",
+   "FW",
+   "ESP"
+  ],
+  [
+   16,
+   "Randy Schneider",
+   "MF",
+   "PHL"
+  ],
+  [
+   17,
+   "Thomas Carrique (footballer)",
+   "DF",
+   "FRA"
+  ],
+  [
+   18,
+   "Andoni López",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Nacho Quintana",
+   "MF",
+   "ESP"
+  ],
+  [
+   20,
+   "Martí Vilà",
+   "DF",
+   "ESP"
+  ],
+  [
+   21,
+   "Moró Sidibe",
+   "FW",
+   "ESP"
+  ],
+  [
+   22,
+   "Diego Díaz (footballer, born 2005)",
+   "FW",
+   "ESP"
+  ],
+  [
+   23,
+   "Diego Alende",
+   "DF",
+   "ESP"
+  ],
+  [
+   24,
+   "Théo Le Normand",
+   "MF",
+   "FRA"
+  ],
+  [
+   25,
+   "Jesús Owono",
+   "GK",
+   "EQG"
+  ],
+  [
+   27,
+   "Stefan Golubović (footballer, born 2006)",
+   "FW",
+   "SRB"
+  ],
+  [
+   28,
+   "Tiago Olmedo",
+   "DF",
+   "ESP"
+  ],
+  [
+   29,
+   "Hugo López (footballer, born 2007)",
+   "FW",
+   "ESP"
+  ],
+  [
+   32,
+   "Jordi Toribio",
+   "DF",
+   "ESP"
+  ]
+ ],
+ "Burgos": [
+  [
+   1,
+   "Bruno Iribarne",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Álex Lizancos",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Ignasi Vilarrasa",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Pablo Galdames (footballer, born 1996)",
+   "MF",
+   "CHI"
+  ],
+  [
+   5,
+   "Marcelo Expósito",
+   "MF",
+   "ESP"
+  ],
+  [
+   6,
+   "Sergio González (footballer, born 1997)",
+   "DF",
+   "ESP"
+  ],
+  [
+   7,
+   "Jon Karrikaburu",
+   "FW",
+   "ESP"
+  ],
+  [
+   8,
+   "Grego (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   9,
+   "Álex Forés",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Kévin Appin",
+   "MF",
+   "MTQ"
+  ],
+  [
+   11,
+   "Víctor Mollejo",
+   "FW",
+   "ESP"
+  ],
+  [
+   12,
+   "Unai Vencedor",
+   "MF",
+   "ESP"
+  ],
+  [
+   13,
+   "Ander Cantero",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "David González (footballer, born 2002)",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Oier Luengo",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Curro Sánchez",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Mario Cantero",
+   "MF",
+   "ESP"
+  ],
+  [
+   18,
+   "Saúl del Cerro",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Javier Llabrés",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "José Gragera",
+   "MF",
+   "ESP"
+  ],
+  [
+   21,
+   "Fermín García",
+   "MF",
+   "ESP"
+  ],
+  [
+   22,
+   "Brais Martínez",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Alberto Dadie",
+   "DF",
+   "ESP"
+  ],
+  [
+   24,
+   "Santiago Lencina",
+   "MF",
+   "ARG"
+  ],
+  [
+   31,
+   "Irian Ribas Carrasco",
+   "FW",
+   "ESP"
+  ],
+  [
+   35,
+   "Diego González Presencio",
+   "GK",
+   "ESP"
+  ],
+  [
+   36,
+   "Iván Martínez (footballer, born 2005)",
+   "DF",
+   "ESP"
+  ],
+  [
+   37,
+   "Cristian Torrelavid Moreno",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "Cadiz": [
+  [
+   1,
+   "David Gil (footballer)",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Beñat de Jesús",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Sergio Arribas (footballer, born 2003)",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Javier Castro (footballer, born 2000)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Marc-Olivier Doué",
+   "MF",
+   "FRA"
+  ],
+  [
+   6,
+   "Manu Fernández (footballer, born 2001)",
+   "DF",
+   "ESP"
+  ],
+  [
+   7,
+   "Iuri Tabatadze",
+   "FW",
+   "GEO"
+  ],
+  [
+   8,
+   "Efe Aghama",
+   "FW",
+   "NGA"
+  ],
+  [
+   9,
+   "Álvaro García Pascual",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Javier Ontiveros",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "José Antonio de la Rosa",
+   "MF",
+   "ESP"
+  ],
+  [
+   12,
+   "Giorgi Gocholeishvili",
+   "DF",
+   "GEO"
+  ],
+  [
+   13,
+   "Jokin Ezkieta",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Bojan Kovačević",
+   "DF",
+   "SRB"
+  ],
+  [
+   15,
+   "Kenan Toibibou",
+   "DF",
+   "COM"
+  ],
+  [
+   16,
+   "Antonio Cordero",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Aïmen Moueffek",
+   "MF",
+   "MAR"
+  ],
+  [
+   18,
+   "Jandro Orellana",
+   "MF",
+   "ESP"
+  ],
+  [
+   19,
+   "Urko Izeta",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Borja Vázquez",
+   "FW",
+   "ESP"
+  ],
+  [
+   21,
+   "Vladyslav Kopotun",
+   "FW",
+   "UKR"
+  ],
+  [
+   22,
+   "Cristian Gutiérrez (footballer, born 2000)",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Damián Rodríguez (footballer, born 2003)",
+   "MF",
+   "ESP"
+  ],
+  [
+   24,
+   "Ibon Sánchez",
+   "MF",
+   "ESP"
+  ],
+  [
+   25,
+   "Gonzalo Petit",
+   "FW",
+   "URU"
+  ],
+  [
+   26,
+   "Rubén Domínguez Cayuela",
+   "GK",
+   "ESP"
+  ],
+  [
+   27,
+   "Juan Díaz Peregrina",
+   "DF",
+   "ESP"
+  ],
+  [
+   28,
+   "Dilan Zárate",
+   "MF",
+   "ESP"
+  ],
+  [
+   31,
+   "Noah Obioma Ukwuije",
+   "DF",
+   "FRA"
+  ],
+  [
+   32,
+   "Roberto Rosado Márquez",
+   "DF",
+   "ESP"
+  ],
+  [
+   33,
+   "Manuel Rivera Domínguez",
+   "DF",
+   "ESP"
+  ]
+ ],
+ "Cordoba": [
+  [
+   1,
+   "Iker Álvarez",
+   "GK",
+   "AND"
+  ],
+  [
+   3,
+   "Dani Tasende",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Álex Martín (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Juan Gutiérrez (footballer, born 2000)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Damián Cáceres",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Théo Zidane",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Isma Ruiz",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Diego Percan",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Kevin Medina (Spanish footballer)",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Diego Bri",
+   "FW",
+   "ESP"
+  ],
+  [
+   12,
+   "Franck Fomeyem",
+   "DF",
+   "CMR"
+  ],
+  [
+   13,
+   "Guilherme Fernandes",
+   "GK",
+   "POR"
+  ],
+  [
+   14,
+   "Adnane Ghailan",
+   "MF",
+   "MAR"
+  ],
+  [
+   15,
+   "Víctor Sánchez Morales",
+   "FW",
+   "ESP"
+  ],
+  [
+   16,
+   "Rubén Alves",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Adilson (footballer, born 1997)",
+   "FW",
+   "POR"
+  ],
+  [
+   18,
+   "Enol Rodríguez",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "Ibai Sanz",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Nélson Monte",
+   "DF",
+   "POR"
+  ],
+  [
+   21,
+   "Carlos Albarrán",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Youssouf Diarra",
+   "MF",
+   "MLI"
+  ],
+  [
+   23,
+   "Cristian Carracedo",
+   "FW",
+   "ESP"
+  ],
+  [
+   24,
+   "Salim El Jebari",
+   "FW",
+   "MAR"
+  ],
+  [
+   27,
+   "Egoitz Muñoz",
+   "DF",
+   "ESP"
+  ],
+  [
+   28,
+   "Eder García",
+   "MF",
+   "ESP"
+  ],
+  [
+   29,
+   "Jacobo Martí",
+   "DF",
+   "ESP"
+  ],
+  [
+   30,
+   "Dani Budesca",
+   "DF",
+   "ESP"
+  ],
+  [
+   32,
+   "Alejandro López Cañero",
+   "DF",
+   "ESP"
+  ]
+ ],
+ "Eibar": [
+  [
+   1,
+   "Luis López (footballer, born 2001)",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Sergio Cubero",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Imanol García de Albéniz",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Unai Elgezabal",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Peru Nolaskoain",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Sergio Álvarez (footballer, born 1992)",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Malcom Adu Ares",
+   "FW",
+   "ESP"
+  ],
+  [
+   8,
+   "Ander Madariaga",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Jon Bautista",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Jon Guruzeta",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Jon Magunazelaia",
+   "FW",
+   "ESP"
+  ],
+  [
+   13,
+   "Jonmi Magunagoitia",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Lander Olaetxea",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Jair Amador",
+   "DF",
+   "POR"
+  ],
+  [
+   17,
+   "Pejiño",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Markel Arana",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Eric Pérez Albarrán",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Javier Martón",
+   "FW",
+   "ESP"
+  ],
+  [
+   21,
+   "Iván Gil",
+   "MF",
+   "ESP"
+  ],
+  [
+   22,
+   "Álvaro Rodríguez (footballer, born 1994)",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Anaitz Arbilla",
+   "DF",
+   "ESP"
+  ],
+  [
+   24,
+   "Juan Bernat",
+   "DF",
+   "ESP"
+  ],
+  [
+   27,
+   "Elijah Gift",
+   "FW",
+   "ESP"
+  ],
+  [
+   28,
+   "Lucas Núñez",
+   "MF",
+   "ESP"
+  ],
+  [
+   30,
+   "Aleix Garrido",
+   "MF",
+   "ESP"
+  ],
+  [
+   32,
+   "Carlos Lumbreras Solano",
+   "FW",
+   "ESP"
+  ]
+ ],
+ "Girona": [
+  [
+   1,
+   "Sergi Puig",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Abdul Mumin",
+   "DF",
+   "GHA"
+  ],
+  [
+   3,
+   "Mateu Morey",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Javier Boñar",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "David López (footballer, born 1989)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Donny van de Beek",
+   "MF",
+   "NED"
+  ],
+  [
+   7,
+   "Cristhian Stuani",
+   "FW",
+   "URU"
+  ],
+  [
+   8,
+   "Fran Beltrán",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Abel Ruiz",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Portu",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Àlex Moreno",
+   "DF",
+   "ESP"
+  ],
+  [
+   13,
+   "Paulo Gazzaniga",
+   "GK",
+   "ARG"
+  ],
+  [
+   14,
+   "Iván Morante",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Oleksandr Pyshchur (footballer, born 2005)",
+   "FW",
+   "UKR"
+  ],
+  [
+   16,
+   "Alejandro Francés",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Bryan Gil",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "Vladyslav Vanat",
+   "FW",
+   "UKR"
+  ],
+  [
+   21,
+   "Jastin García",
+   "FW",
+   "POR"
+  ],
+  [
+   22,
+   "Yáser Asprilla",
+   "FW",
+   "COL"
+  ],
+  [
+   23,
+   "Carles Pérez",
+   "FW",
+   "ESP"
+  ],
+  [
+   24,
+   "Izan González",
+   "MF",
+   "ESP"
+  ],
+  [
+   25,
+   "Vladyslav Krapyvtsov",
+   "GK",
+   "UKR"
+  ],
+  [
+   28,
+   "Gibert Jordana Camara",
+   "DF",
+   "ESP"
+  ],
+  [
+   29,
+   "Lass Kourouma",
+   "MF",
+   "GUI"
+  ],
+  [
+   30,
+   "Unai Hernández",
+   "MF",
+   "ESP"
+  ],
+  [
+   32,
+   "Juan Arango Jr.",
+   "FW",
+   "VEN"
+  ],
+  [
+   33,
+   "Mauro Furtado",
+   "DF",
+   "POR"
+  ],
+  [
+   35,
+   "Mohamed Hamony",
+   "FW",
+   "MAR"
+  ],
+  [
+   36,
+   "Javier Sarasa Camañes",
+   "MF",
+   "ESP"
+  ],
+  [
+   38,
+   "Holmes Junior",
+   "DF",
+   "ESP"
+  ],
+  [
+   39,
+   "Guillem Badia Gutiérrez",
+   "DF",
+   "ESP"
+  ],
+  [
+   44,
+   "Jordi Bilali Danso",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "Granada": [
+  [
+   1,
+   "Alberto Flores",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Pau Casadesús",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Diego Hormigo",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Rubén Alcaraz",
+   "MF",
+   "ESP"
+  ],
+  [
+   5,
+   "Manu Lama",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Gerard Gumbau",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Sergio Rodelas",
+   "MF",
+   "ESP"
+  ],
+  [
+   8,
+   "Pedro Alemañ",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Alejandro Marqués",
+   "FW",
+   "VEN"
+  ],
+  [
+   10,
+   "Jorge Pascual",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "José Arnáiz",
+   "FW",
+   "ESP"
+  ],
+  [
+   13,
+   "Raúl Lizoain",
+   "GK",
+   "ESP"
+  ],
+  [
+   16,
+   "Diego Pampín",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Kader Bamba",
+   "MF",
+   "FRA"
+  ],
+  [
+   18,
+   "Sergio López (footballer, born 1999)",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Chinaza Okonyia",
+   "FW",
+   "NGA"
+  ],
+  [
+   22,
+   "Baïla Diallo",
+   "DF",
+   "SEN"
+  ],
+  [
+   23,
+   "Benedikt Gimber",
+   "DF",
+   "GER"
+  ],
+  [
+   27,
+   "Mario Gambín",
+   "MF",
+   "ESP"
+  ],
+  [
+   30,
+   "Juanjo Flores",
+   "DF",
+   "ESP"
+  ],
+  [
+   32,
+   "Dylan Rodríguez Vellisca",
+   "MF",
+   "ESP"
+  ],
+  [
+   33,
+   "Angelo García Hidalgo",
+   "DF",
+   "ESP"
+  ],
+  [
+   35,
+   "Bourama Dembelé",
+   "DF",
+   "MLI"
+  ],
+  [
+   36,
+   "Owen Emeka",
+   "FW",
+   "ESP"
+  ],
+  [
+   37,
+   "Íker García",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "Leganes": [
+  [
+   1,
+   "Raúl Fernández (footballer, born 1988)",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Marvel (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Javi Montero",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Rubén Pulido (footballer, born 2000)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Ignasi Miquel",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Lalo Aguilar",
+   "DF",
+   "ESP"
+  ],
+  [
+   7,
+   "Rubén Peña",
+   "DF",
+   "ESP"
+  ],
+  [
+   8,
+   "Yassine Kechta",
+   "MF",
+   "MAR"
+  ],
+  [
+   9,
+   "Álex Millán",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Zico Buurmeester",
+   "MF",
+   "NED"
+  ],
+  [
+   11,
+   "Naim García",
+   "DF",
+   "ESP"
+  ],
+  [
+   13,
+   "Luca Zidane",
+   "GK",
+   "ALG"
+  ],
+  [
+   14,
+   "Dani Rodríguez (footballer, born 1988)",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Enric Franquesa",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Unax del Cura",
+   "FW",
+   "ESP"
+  ],
+  [
+   17,
+   "Ismaël Gharbi",
+   "MF",
+   "TUN"
+  ],
+  [
+   18,
+   "Andrés Campos (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   19,
+   "Patrick Soko",
+   "FW",
+   "CMR"
+  ],
+  [
+   20,
+   "Miguel Atienza",
+   "MF",
+   "ESP"
+  ],
+  [
+   21,
+   "Álvaro Morata",
+   "FW",
+   "ESP"
+  ],
+  [
+   22,
+   "Álex Sancris",
+   "MF",
+   "ESP"
+  ],
+  [
+   23,
+   "Álvaro Tejero",
+   "DF",
+   "ESP"
+  ],
+  [
+   24,
+   "Amadou Diawara",
+   "MF",
+   "GUI"
+  ],
+  [
+   31,
+   "Nicolás Lozano Croas",
+   "GK",
+   "ESP"
+  ],
+  [
+   32,
+   "Suleiman El Haddadi Mohamed",
+   "FW",
+   "MAR"
+  ],
+  [
+   38,
+   "Alejandro García Gorrín",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "Mallorca": [
+  [
+   1,
+   "Arnau Tenas",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Guille Fernández (footballer, born 2008)",
+   "MF",
+   "ESP"
+  ],
+  [
+   3,
+   "Toni Lato",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "David López (footballer, born 2003)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Alberto Moreno",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Antonio Sánchez (footballer, born 1997)",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Álex Sala",
+   "MF",
+   "ESP"
+  ],
+  [
+   8,
+   "Manu Morlanes",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Abdón Prats",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Sergi Darder",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Zito Luvumbo",
+   "FW",
+   "ANG"
+  ],
+  [
+   13,
+   "Lucas Bergström",
+   "GK",
+   "FIN"
+  ],
+  [
+   14,
+   "Daniel Luna",
+   "FW",
+   "COL"
+  ],
+  [
+   15,
+   "John Chetauya",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Adam Buksa",
+   "FW",
+   "POL"
+  ],
+  [
+   17,
+   "Arnau Puigmal",
+   "MF",
+   "ESP"
+  ],
+  [
+   18,
+   "Adrián Fuentes",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "Josep Cerdà",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Pablo Torre (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   21,
+   "Antonio Raíllo",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Aboubaka Soumahoro",
+   "DF",
+   "FRA"
+  ],
+  [
+   23,
+   "Antoniu Roca",
+   "FW",
+   "ESP"
+  ],
+  [
+   24,
+   "Martin Valjent",
+   "DF",
+   "SVK"
+  ],
+  [
+   25,
+   "Iván Cuéllar",
+   "GK",
+   "ESP"
+  ],
+  [
+   28,
+   "Jan Salas",
+   "MF",
+   "ESP"
+  ],
+  [
+   29,
+   "Luis Orejuela",
+   "DF",
+   "ESP"
+  ],
+  [
+   30,
+   "Justin Kalumba",
+   "FW",
+   "FRA"
+  ],
+  [
+   33,
+   "Adrián Liso",
+   "FW",
+   "ESP"
+  ],
+  [
+   34,
+   "Miguel Calatayud",
+   "DF",
+   "ESP"
+  ],
+  [
+   36,
+   "Aimar Peña Vázquez",
+   "FW",
+   "ESP"
+  ],
+  [
+   39,
+   "Alejandro García Gómez",
+   "MF",
+   "ESP"
+  ]
+ ],
+ "Oviedo": [
+  [
+   1,
+   "Miguel Narváez",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Aisar Ahmed",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Juan Cruz (footballer, born 1992)",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "David Costas",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Youness Lachhab",
+   "MF",
+   "MAR"
+  ],
+  [
+   6,
+   "Dani Villahermosa",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Ilyas Chaira",
+   "MF",
+   "MAR"
+  ],
+  [
+   8,
+   "Mikel Goti",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Chris Ramos",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Alberto Reina",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Jacobo González",
+   "MF",
+   "ESP"
+  ],
+  [
+   12,
+   "Dani Calvo",
+   "DF",
+   "ESP"
+  ],
+  [
+   13,
+   "Aarón Escandell",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Carlos Fernández (footballer, born 1996)",
+   "FW",
+   "ESP"
+  ],
+  [
+   15,
+   "Samu Rodríguez",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Aritz Aldasoro",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Estanis Pedrola",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Víctor Mingo",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Pablo Sáenz",
+   "MF",
+   "ESP"
+  ],
+  [
+   21,
+   "David Jiménez (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Nacho Vidal (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Carlos Domínguez (Spanish footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   24,
+   "Alexandru Ișfan",
+   "FW",
+   "ROM"
+  ],
+  [
+   25,
+   "Brandon Domingues",
+   "MF",
+   "FRA"
+  ],
+  [
+   28,
+   "Diego Menéndez Secades",
+   "MF",
+   "ESP"
+  ],
+  [
+   30,
+   "Marco Esteban",
+   "DF",
+   "ESP"
+  ],
+  [
+   32,
+   "Enzo Pérez Miranda",
+   "MF",
+   "ESP"
+  ]
+ ],
+ "Gijon": [
+  [
+   1,
+   "Rubén Yáñez",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Guille Rosas",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Pablo García (footballer, born 2000)",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Emanuel Gularte",
+   "DF",
+   "URU"
+  ],
+  [
+   5,
+   "Diego Sánchez (footballer, born 2003)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Nacho Martín (footballer, born 2002)",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Gaspar Campos",
+   "MF",
+   "ESP"
+  ],
+  [
+   8,
+   "Manuel Rodríguez Paz",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Andrés Ferrari",
+   "FW",
+   "URU"
+  ],
+  [
+   10,
+   "César Gelabert",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Konrad de la Fuente",
+   "FW",
+   "USA"
+  ],
+  [
+   13,
+   "Egoitz Arana",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Álex Corredera",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Pablo Vázquez (footballer, born 1994)",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Alejo Sarco",
+   "FW",
+   "ARG"
+  ],
+  [
+   17,
+   "Antonio Casas (footballer)",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "Juan Ferney Otero",
+   "FW",
+   "COL"
+  ],
+  [
+   20,
+   "Nikita Iosifov",
+   "MF",
+   "RUS"
+  ],
+  [
+   21,
+   "Mamadou Loum",
+   "MF",
+   "SEN"
+  ],
+  [
+   22,
+   "Hugo Guillamón",
+   "MF",
+   "ESP"
+  ],
+  [
+   23,
+   "Jorge Sáenz",
+   "DF",
+   "ESP"
+  ],
+  [
+   24,
+   "Aimar Duñabeitia",
+   "DF",
+   "ESP"
+  ],
+  [
+   26,
+   "Iker Martínez (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   27,
+   "Enol Prendes",
+   "FW",
+   "ESP"
+  ],
+  [
+   28,
+   "Miguel Conde",
+   "FW",
+   "ESP"
+  ],
+  [
+   35,
+   "Christian Ferreres",
+   "MF",
+   "ESP"
+  ],
+  [
+   36,
+   "Bruno Rubio Argüelles",
+   "MF",
+   "ESP"
+  ],
+  [
+   44,
+   "Andrés Cuenca",
+   "DF",
+   "ESP"
+  ]
+ ],
+ "Valladolid": [
+  [
+   1,
+   "Álvaro Aceves",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Trilli",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Homam Ahmed",
+   "DF",
+   "QAT"
+  ],
+  [
+   4,
+   "David Torres (footballer, born 2003)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Ramón Martínez (footballer, born 2002)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Mathis Lachuer",
+   "MF",
+   "FRA"
+  ],
+  [
+   7,
+   "Luis Chacón",
+   "MF",
+   "ESP"
+  ],
+  [
+   8,
+   "Thiago Ojeda",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Juanmi Latasa",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Yeray Cabanzón",
+   "MF",
+   "ESP"
+  ],
+  [
+   12,
+   "Miguel Rubio (footballer, born 1998)",
+   "DF",
+   "ESP"
+  ],
+  [
+   13,
+   "Dani Martín (footballer, born 2005)",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Iván Alejo",
+   "DF",
+   "ESP"
+  ],
+  [
+   15,
+   "Pablo Tomeo",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Álex Balboa",
+   "MF",
+   "EQG"
+  ],
+  [
+   17,
+   "Víctor Barberá",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Carlos Clerc",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Adrián Arnu",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Robin van Duiven",
+   "FW",
+   "NED"
+  ],
+  [
+   21,
+   "Julien Ponceau",
+   "MF",
+   "FRA"
+  ],
+  [
+   22,
+   "Kaj de Rooij",
+   "MF",
+   "NED"
+  ],
+  [
+   23,
+   "Tay Abed",
+   "MF",
+   "ISR"
+  ],
+  [
+   24,
+   "Stanko Jurić",
+   "MF",
+   "CRO"
+  ],
+  [
+   26,
+   "Lucas Lavagnino",
+   "GK",
+   "ARG"
+  ],
+  [
+   27,
+   "Iván Garriel",
+   "DF",
+   "ESP"
+  ],
+  [
+   28,
+   "Dani Pérez (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   30,
+   "Víctor Fernández (footballer, born 2007)",
+   "MF",
+   "ESP"
+  ],
+  [
+   31,
+   "Hugo Wauthier Gorjón",
+   "GK",
+   "ESP"
+  ],
+  [
+   32,
+   "Marcos Parriego",
+   "MF",
+   "ESP"
+  ],
+  [
+   34,
+   "Brain Chinedu",
+   "FW",
+   "NGA"
+  ],
+  [
+   35,
+   "Alejandro Galdeano",
+   "DF",
+   "ESP"
+  ],
+  [
+   37,
+   "Hugo Calvo Vadillo",
+   "MF",
+   "ESP"
+  ]
+ ],
+ "Tenerife": [
+  [
+   1,
+   "Dani Martín (footballer, born 1998)",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "David Rodríguez (footballer, born 2000)",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Roko Jureškin",
+   "DF",
+   "CRO"
+  ],
+  [
+   4,
+   "José León (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Jorge Moreno (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Juan José Sánchez Romero",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Martin Pečar",
+   "MF",
+   "SVN"
+  ],
+  [
+   8,
+   "Víctor Moreno (footballer)",
+   "FW",
+   "ESP"
+  ],
+  [
+   9,
+   "Jesús de Miguel",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Nacho Gil",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Noel López",
+   "FW",
+   "ESP"
+  ],
+  [
+   12,
+   "Anthony Landázuri",
+   "DF",
+   "ECU"
+  ],
+  [
+   14,
+   "Gerard Valentín",
+   "DF",
+   "ESP"
+  ],
+  [
+   15,
+   "Fabricio Assis de Souza Barbosa",
+   "MF",
+   "BRA"
+  ],
+  [
+   16,
+   "Jesús Álvarez (footballer, born 1999)",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Christian Gomis (footballer, born 2000)",
+   "FW",
+   "SEN"
+  ],
+  [
+   18,
+   "Enric Gallego",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "César Álvarez",
+   "DF",
+   "ESP"
+  ],
+  [
+   20,
+   "Mauro Pittón",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Marc Mateu",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Grant-Leon Ranos",
+   "FW",
+   "ARM"
+  ],
+  [
+   23,
+   "Anes Krdžalić",
+   "MF",
+   "BIH"
+  ],
+  [
+   24,
+   "Iván Chapela",
+   "FW",
+   "ESP"
+  ],
+  [
+   26,
+   "Baba Diocou",
+   "FW",
+   "ESP"
+  ],
+  [
+   27,
+   "Neal Viereck",
+   "DF",
+   "NED"
+  ],
+  [
+   28,
+   "Pau Fernández Velasco",
+   "DF",
+   "ESP"
+  ],
+  [
+   29,
+   "Dani Fernández (footballer, born 2008)",
+   "MF",
+   "ESP"
+  ],
+  [
+   30,
+   "Sergio Aragoneses Padilla",
+   "GK",
+   "ESP"
+  ],
+  [
+   31,
+   "Joel Pérez Ramírez",
+   "MF",
+   "ESP"
+  ],
+  [
+   34,
+   "Óscar Bazaga Casas",
+   "FW",
+   "ESP"
+  ],
+  [
+   37,
+   "Mauro Costa Bueso",
+   "MF",
+   "ESP"
+  ],
+  [
+   40,
+   "Gabriel Lozano De Vuyst",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "LasPalmas": [
+  [
+   2,
+   "Marvin Park",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Nicholas Opoku",
+   "DF",
+   "GHA"
+  ],
+  [
+   4,
+   "Álex Suárez (footballer, born 1993)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Enrique Clemente",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Iñaki González",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Jefté Betancor",
+   "FW",
+   "ESP"
+  ],
+  [
+   8,
+   "Sergio Ruiz (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Jeremía Recoba",
+   "MF",
+   "URU"
+  ],
+  [
+   10,
+   "Jesé",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Taisei Miyashiro",
+   "FW",
+   "JPN"
+  ],
+  [
+   12,
+   "Enzo Loiodice",
+   "MF",
+   "FRA"
+  ],
+  [
+   13,
+   "José Antonio Caro (footballer, born 1994)",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Manu Fuster",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Juanma Herzog",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Mateo Aćimović",
+   "MF",
+   "SVN"
+  ],
+  [
+   17,
+   "Viti (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   18,
+   "Edward Cedeño",
+   "MF",
+   "PAN"
+  ],
+  [
+   19,
+   "Sandro Ramírez",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Kirian Rodríguez",
+   "MF",
+   "ESP"
+  ],
+  [
+   21,
+   "Giovanni Bonfanti",
+   "DF",
+   "ITA"
+  ],
+  [
+   22,
+   "Alejandro García Mejías",
+   "FW",
+   "ESP"
+  ],
+  [
+   23,
+   "Andrés Rodríguez Martínez",
+   "DF",
+   "ESP"
+  ],
+  [
+   24,
+   "Iván Jaime",
+   "MF",
+   "ESP"
+  ],
+  [
+   25,
+   "Valentín Pezzolesi",
+   "DF",
+   "ESP"
+  ],
+  [
+   26,
+   "Aboubacar Bassinga",
+   "MF",
+   "BFA"
+  ],
+  [
+   29,
+   "Elías Romero (footballer, born 2004)",
+   "FW",
+   "ESP"
+  ],
+  [
+   30,
+   "Iván Medina",
+   "MF",
+   "ESP"
+  ],
+  [
+   31,
+   "Adam Arvelo",
+   "FW",
+   "ESP"
+  ],
+  [
+   32,
+   "Rafa Cruz",
+   "MF",
+   "ESP"
+  ],
+  [
+   34,
+   "Sergio Viera",
+   "MF",
+   "ESP"
+  ],
+  [
+   35,
+   "Adrián Suárez",
+   "GK",
+   "ESP"
+  ],
+  [
+   37,
+   "Arturo Rodríguez (footballer, born 2006)",
+   "FW",
+   "ESP"
+  ],
+  [
+   38,
+   "Aimar Domínguez Rodríguez",
+   "MF",
+   "ESP"
+  ],
+  [
+   41,
+   "Jorge Valverde Dios",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "Huesca": [
+  [
+   1,
+   "Gianfranco Gazzaniga",
+   "GK",
+   "ARG"
+  ],
+  [
+   2,
+   "Mohammed Djetei",
+   "DF",
+   "CMR"
+  ],
+  [
+   3,
+   "Iván Rodríguez (footballer, born 2006)",
+   "DF",
+   "AND"
+  ],
+  [
+   5,
+   "Quique Fornos",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Jimmy Suárez",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Rafa Tresaco",
+   "FW",
+   "ESP"
+  ],
+  [
+   8,
+   "Jaime Escario",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Sergi Enrich",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "José Pascual Alba",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Luismi Redondo",
+   "MF",
+   "ESP"
+  ],
+  [
+   13,
+   "Álvaro Killane Giardini",
+   "GK",
+   "ARG"
+  ],
+  [
+   16,
+   "Salva Ruiz",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Diego Collado (footballer)",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Agustín Juárez (footballer)",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Sergi Armero Montané",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Marc Aznar",
+   "DF",
+   "ESP"
+  ],
+  [
+   21,
+   "Diego Gómez (footballer, born 2004)",
+   "FW",
+   "ESP"
+  ],
+  [
+   22,
+   "Ander Gorostidi",
+   "MF",
+   "ESP"
+  ],
+  [
+   23,
+   "Óscar Sielva",
+   "MF",
+   "ESP"
+  ],
+  [
+   24,
+   "Víctor García (footballer, born June 1994)",
+   "DF",
+   "VEN"
+  ],
+  [
+   26,
+   "Alejandro Calvo Abella",
+   "DF",
+   "ESP"
+  ],
+  [
+   27,
+   "Willy Chatiliez",
+   "MF",
+   "CHI"
+  ],
+  [
+   28,
+   "Álex Fita Vidal",
+   "DF",
+   "ESP"
+  ],
+  [
+   29,
+   "Diego Hernández Picado",
+   "DF",
+   "ESP"
+  ],
+  [
+   31,
+   "Pablo Osán",
+   "FW",
+   "ESP"
+  ],
+  [
+   32,
+   "Nicolás Azagra Torner",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "Mirandes": [
+  [
+   1,
+   "Jesús Ruiz (footballer)",
+   "GK",
+   "ESP"
+  ],
+  [
+   3,
+   "Hodei Arrillaga",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Carlos Navarro (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Peru Rodríguez",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Adrián Rodríguez Sojo",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "David de la Iglesia Rey",
+   "MF",
+   "ESP"
+  ],
+  [
+   8,
+   "Raúl Martínez Moreno",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Iker Unzueta",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Nicolás Espinosa Giménez",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Aitor Uzkudun",
+   "FW",
+   "ESP"
+  ],
+  [
+   13,
+   "Edgar Badia",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Miguel Auría Olazábal",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Iker Pedernales Pereira",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Markel Lozano",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Pablo Pérez (footballer, born 2001)",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Said Ricardo de Moraes de Morais",
+   "MF",
+   "BRA"
+  ],
+  [
+   20,
+   "Aron Rodrigo",
+   "FW",
+   "AND"
+  ],
+  [
+   21,
+   "Aritz Arambarri",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Martín Aguirregabiria",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Josué Dorrio",
+   "FW",
+   "ESP"
+  ],
+  [
+   24,
+   "Joaquín Fernández (footballer, born 1996)",
+   "DF",
+   "ESP"
+  ],
+  [
+   26,
+   "Julen Martínez",
+   "FW",
+   "ESP"
+  ],
+  [
+   31,
+   "Adrián Zango Aguirrezabal",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "Zaragoza": [
+  [
+   1,
+   "Sem Westerveld",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Jokin Gabilondo",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Raúl Pereira",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Hugo Barrachina",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Tachi (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Peter Ademo",
+   "MF",
+   "NGA"
+  ],
+  [
+   7,
+   "Marcos Cuenca",
+   "FW",
+   "ESP"
+  ],
+  [
+   8,
+   "Ander Herrera",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Pau Sans",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Hugo Pinilla",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Jaume Jardí",
+   "FW",
+   "ESP"
+  ],
+  [
+   13,
+   "Anartz Peña Zulaika",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Rubén Iranzo",
+   "DF",
+   "ESP"
+  ],
+  [
+   15,
+   "Yussif Saidu",
+   "MF",
+   "GHA"
+  ],
+  [
+   16,
+   "Lucas Terrer",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Iker Vadillo Nogués",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Sergio Escudero (footballer, born 1989)",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Rubén Díez",
+   "MF",
+   "ESP"
+  ],
+  [
+   20,
+   "Joaquín Delgado",
+   "FW",
+   "ESP"
+  ],
+  [
+   21,
+   "Diego González (footballer, born 1999)",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Edu Espiau",
+   "FW",
+   "ESP"
+  ],
+  [
+   23,
+   "Óscar Ureña",
+   "FW",
+   "DOM"
+  ],
+  [
+   25,
+   "Marco Sangalli",
+   "DF",
+   "ESP"
+  ],
+  [
+   26,
+   "Diego Monzón Castillo",
+   "MF",
+   "ECU"
+  ],
+  [
+   31,
+   "Jaime Tobajas",
+   "MF",
+   "ESP"
+  ]
+ ],
+ "RacingSantander2": [
+  [
+   1,
+   "Simon Eriksson (footballer)",
+   "GK",
+   "SWE"
+  ],
+  [
+   2,
+   "Álvaro Mantilla",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Aarón Martín (footballer, born 1997)",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Manu Hernando",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Pablo Ramón",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Íñigo Sainz-Maza",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Giorgi Guliashvili",
+   "FW",
+   "GEO"
+  ],
+  [
+   8,
+   "André Almeida (footballer, born 2000)",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Juan Carlos Arana",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Iñigo Vicente",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Andrés Martín (footballer)",
+   "FW",
+   "ESP"
+  ],
+  [
+   12,
+   "Asier Villalibre",
+   "FW",
+   "ESP"
+  ],
+  [
+   13,
+   "Julen Agirrezabala",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Maguette Gueye",
+   "MF",
+   "SEN"
+  ],
+  [
+   15,
+   "Pablo García (footballer, born 2006)",
+   "FW",
+   "ESP"
+  ],
+  [
+   16,
+   "Facundo González",
+   "DF",
+   "URU"
+  ],
+  [
+   17,
+   "Jorge Salinas (Spanish footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   18,
+   "Matteo Prati",
+   "MF",
+   "ITA"
+  ],
+  [
+   19,
+   "Iker Luque",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Sergio Canales",
+   "MF",
+   "ESP"
+  ],
+  [
+   21,
+   "Yassir Zabiri",
+   "FW",
+   "MAR"
+  ],
+  [
+   22,
+   "Pedro Felipe (footballer, born 2004)",
+   "DF",
+   "BRA"
+  ],
+  [
+   23,
+   "Iván Martín (footballer, born 1999)",
+   "MF",
+   "ESP"
+  ],
+  [
+   24,
+   "Jeanuël Belocian",
+   "DF",
+   "FRA"
+  ],
+  [
+   29,
+   "Andrés Vallecillo Arce",
+   "MF",
+   "ESP"
+  ],
+  [
+   30,
+   "Carlos Sánchez Martos",
+   "DF",
+   "ESP"
+  ],
+  [
+   33,
+   "Jorge Castellanos del Olmo",
+   "FW",
+   "ESP"
+  ],
+  [
+   38,
+   "Hugo Pérez Sañudo",
+   "FW",
+   "ESP"
+  ]
+ ],
+ "Malaga2": [
+  [
+   1,
+   "Alfonso Herrero",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Jens Cajuste",
+   "MF",
+   "SWE"
+  ],
+  [
+   3,
+   "Carlos Puga",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Einar Galilea",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Álex Pastor",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Ramón Enríquez",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Haitam Abaida",
+   "MF",
+   "MAR"
+  ],
+  [
+   8,
+   "Carlos Dotor",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Chupete",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "David Larrubia",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Joaquín Muñoz (footballer, born 1999)",
+   "MF",
+   "ESP"
+  ],
+  [
+   12,
+   "José Salinas (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   13,
+   "Carlos López (footballer, born 2004)",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Rafa (footballer, born 2003)",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Ángel Recio",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Diego Murillo",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Eneko Jauregi",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Pablo Martínez (Spanish footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   19,
+   "Juan Cruz (footballer, born 2000)",
+   "MF",
+   "ESP"
+  ],
+  [
+   20,
+   "Fernando Calero",
+   "DF",
+   "ESP"
+  ],
+  [
+   21,
+   "Adrián Niño",
+   "FW",
+   "ESP"
+  ],
+  [
+   22,
+   "Dani Lorenzo",
+   "MF",
+   "ESP"
+  ],
+  [
+   23,
+   "Izan Merino",
+   "MF",
+   "ESP"
+  ],
+  [
+   24,
+   "Julen Lobete",
+   "MF",
+   "ESP"
+  ],
+  [
+   25,
+   "Juan Berrocal",
+   "DF",
+   "ESP"
+  ],
+  [
+   28,
+   "Joseph Otunenche",
+   "MF",
+   "NGA"
+  ],
+  [
+   30,
+   "Andrés Céspedes Rubio",
+   "GK",
+   "ESP"
+  ],
+  [
+   31,
+   "Rafita (footballer, born 2004)",
+   "DF",
+   "ESP"
+  ],
+  [
+   32,
+   "Juan Francisco Fernández Martin",
+   "MF",
+   "ESP"
+  ],
+  [
+   35,
+   "Aarón Ochoa",
+   "MF",
+   "IRL"
+  ],
+  [
+   39,
+   "Adam Aznou",
+   "DF",
+   "MAR"
+  ]
+ ],
+ "Ferrol": [
+  [
+   1,
+   "Miquel Parera",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Migue Leal",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Edgar Pujol",
+   "DF",
+   "DOM"
+  ],
+  [
+   4,
+   "Markel Artetxe",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Fabio González",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Álvaro Juan",
+   "FW",
+   "ESP"
+  ],
+  [
+   8,
+   "Ander Gorostidi",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Antón Escobar",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Pascu (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Raúl Dacosta",
+   "FW",
+   "ESP"
+  ],
+  [
+   12,
+   "Chema (footballer, born 1992)",
+   "DF",
+   "ESP"
+  ],
+  [
+   13,
+   "César Fernández",
+   "GK",
+   "ESP"
+  ],
+  [
+   14,
+   "Sergio Tejera",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Álex Zalaya",
+   "DF",
+   "ESP"
+  ],
+  [
+   16,
+   "Saúl García (footballer, born 1994)",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Álvaro Ramón",
+   "DF",
+   "ESP"
+  ],
+  [
+   18,
+   "David Concha",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "Ekain Azkune",
+   "FW",
+   "ESP"
+  ],
+  [
+   20,
+   "Álvaro Giménez",
+   "FW",
+   "ESP"
+  ],
+  [
+   21,
+   "David Carballo",
+   "MF",
+   "ESP"
+  ],
+  [
+   24,
+   "Azael García",
+   "FW",
+   "ESP"
+  ],
+  [
+   25,
+   "Lucas Díaz",
+   "GK",
+   "ESP"
+  ]
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "$meta": {
+  "phase": "13B",
+  "title": "FL26 Appearance -> Resource Mapping (decoded)",
+  "date": "2026-09-07",
+  "sources": [
+   "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\bundle_gos.json",
+   "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\bundle_materials.json",
+   "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\appearance_stats.json",
+   "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\players_pa_full.csv",
+   "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\mapping_tables_raw.json"
+  ],
+  "confidence": {
+   "TABLE": "decoded from game data table (byte-exact)",
+   "DEVICE": "proven on Android device",
+   "STATS": "derived from full-DB statistics (52640 players)",
+   "PENDING": "exact semantics not yet locked; device A/B probe built"
+  }
+ },
+ "appearance_record_layout": {
+  "table": "PlayerAppearanceTable (gamedata.unity3d TextAsset)",
+  "record": "u32 pid + 17 bytes app[0..16]",
+  "index": "u32 count + count x (u32 pid, u32 offset), records physically appended at end",
+  "bytes": {
+   "b0": {
+    "semantic": "skin_tone",
+    "values": "1-7",
+    "config": "ConfigBySkin (7 blocks)",
+    "confidence": "STATS+TABLE-NAME"
+   },
+   "b1": {
+    "semantic": "face_texture_id",
+    "values_observed": "1-45",
+    "families": {
+     "1-9": "special/generated players (fake-name DB entries)",
+     "10-15": "eastAsia",
+     "16-21": "northeuropean",
+     "22-27": "southAsia",
+     "28-33": "southeuropean",
+     "34-39": "african",
+     "40-45": "SouthAmerican"
+    },
+    "evidence": "nation correlation (China24->10-15, Vietnam30->22-27, Morocco13/Spain2->28-33, Norway35->16-21, Brazil1->40-45, Ghana48->34-39); DEVICE: b1=14 renders face_eastAsia_new1 texture",
+    "confidence": "STATS+DEVICE"
+   },
+   "b2": {
+    "semantic": "unused (constant 0)",
+    "confidence": "STATS"
+   },
+   "b3": {
+    "semantic": "generic_hair_mesh_index",
+    "values": "1-84 observed (255=sentinel none)",
+    "binding": "requires b4=0; asset name mapping PENDING (device A/B probe P13B_P01..P03)",
+    "confidence": "STATS (binding to named hair asset PENDING)"
+   },
+   "b4": {
+    "semantic": "hair_flag",
+    "values": {
+     "0": "explicit hair (use b3+b5)",
+     "127": "sentinel default"
+    },
+    "binding": "b3!=255 iff b4=0 (47554 vs 5086 exact split)",
+    "confidence": "STATS"
+   },
+   "b5": {
+    "semantic": "hair_color_id",
+    "values": "0-9",
+    "table": "hairColorConfig: 0=0x6D3F02,1=0x816400,2=0x403930,3=0xBCB274,4=0x967E5F,5=0xB0787B,6=0xB0C4DE,7=0x403930,8=0xC5B592,9=0x403930 (+darkColor, hairSpecColorConfig)",
+    "confidence": "TABLE"
+   },
+   "b6": {
+    "semantic": "beard_style_id (CORRECTED 2026-09-07 night)",
+    "values_observed": "1-23",
+    "table": "beardEyebrow.Beard{b6} (22 beard entries, px rect + UV in atlas; 114x78 Beard8 = mustache shape)",
+    "evidence": "range 1-23 impossible for 11-entry eyebrow table; device probe P11 (b6=8) showed 上唇胡子 (user report) = Beard8 mustache",
+    "confidence": "TABLE+DEVICE"
+   },
+   "b7": {
+    "semantic": "beard_flag",
+    "values": {
+     "0": "explicit beard (use b8)",
+     "127": "no beard"
+    },
+    "confidence": "STATS"
+   },
+   "b8": {
+    "semantic": "eyebrow_style_id (CORRECTED: was mislabeled beard style)",
+    "values_observed": "1-7 (127=sentinel)",
+    "table": "beardEyebrow.eyebrow_{b8} (11 entries, DB uses 1-7)",
+    "evidence": "P07(b8=3)/P08(b8=6) normal faces, no beard -> consistent with subtle eyebrow change",
+    "confidence": "TABLE (device eyebrow-shape check pending)"
+   },
+   "b9": {
+    "semantic": "unknown secondary 1-6 (828 players; possibly eyebrow color or beard tint)",
+    "confidence": "PENDING"
+   },
+   "b10": {
+    "semantic": "flag_0_or_7 — NOT beard color. 918 players with 7 are all generated fake-name entries (b1 in 1-9, b14=0). No visible-appearance role found for normal players.",
+    "confidence": "STATS (device probe P13B_P17 will confirm null effect)"
+   },
+   "b11": {
+    "semantic": "unused (constant 0)",
+    "confidence": "STATS"
+   },
+   "b12": {
+    "semantic": "unused (constant 0)",
+    "confidence": "STATS"
+   },
+   "b13": {
+    "semantic": "unused (constant 0)",
+    "confidence": "STATS"
+   },
+   "b14": {
+    "semantic": "face_shape_template_index",
+    "values": "0-139 (255=sentinel)",
+    "table": "FaceTemplate: u32 7 | 7x(u16 skin, u32 20) | u32 140 | 140x(u16 skin_id, u32 53, 53 param bytes 0-100)",
+    "structure": "7 skins x 20 templates = 140; block u16 = skin id (group order 7,2,4,6,1,5,3); all 140 param vectors unique; b14 global index maps into these blocks",
+    "ambiguity": "b14 global index vs (skin b0 selects group, b14%20 index within) - disambiguated by device probes P12/P13/P14",
+    "morph": "53 params consumed by IL2CPP PROCEDURAL face morph - player face meshes have NO blendshapes (verified: only body_lod1/female/coach meshes have channels). PC 1:1 face-shape reproduction needs IL2CPP morph decode OR Reference Player route with device ground truth",
+    "confidence": "TABLE (byte-exact layout, 50+140x59=8310 exact fit); morph mechanism PENDING"
+   },
+   "b15": {
+    "semantic": "sparse unknown (127 sentinel; 618 players)",
+    "confidence": "PENDING"
+   },
+   "b16": {
+    "semantic": "sparse unknown (127 sentinel; 852 players with 0)",
+    "confidence": "PENDING"
+   }
+  }
+ },
+ "players_table_fields": {
+  "fa": {
+   "semantic": "head-model code A (7945 distinct, 21-65128)",
+   "confidence": "PENDING exact decode; proven approach = clone from reference player"
+  },
+  "fb": {
+   "semantic": "head-model code B (16 distinct, 302-306 dominant)",
+   "confidence": "PENDING"
+  },
+  "fc": {
+   "semantic": "head-model code C (1321 distinct, 11148-45237; top 18095 shared by 828 generic players)",
+   "confidence": "PENDING"
+  },
+  "proven": "injecting fa/fb/fc + PA cloned from a visible teammate reproduces that head model (device-verified, Phase 11/12)"
+ },
+ "rendering_architecture": {
+  "head_mesh": {
+   "fact": "face_{family}_new{1-6} / head_{player}_lod1 meshes have TWO submeshes",
+   "submesh0": "EYEBALLS -> material 'eye' (Legacy Diffuse) or 'M_eye' (Standard), _MainTex = iris texture",
+   "submesh1": "FACE SKIN -> material 'face' (Bumped Specular + head_Normal bump) or 'M_head' (Standard), _MainTex = face texture atlas (our bake target)",
+   "iris_textures": [
+    "eye_darkbrown",
+    "eye_darkblue",
+    "eye_darkgreen",
+    "eye_lightbrown",
+    "eye_lightblue",
+    "eye_lightgreen",
+    "eye_grey"
+   ],
+   "iris_selection": "PA byte NOT identified; generic players render authored default (eye_darkbrown). PENDING IL2CPP/device probe.",
+   "material_sets": "every head exists twice: root variant ['eye','face'] and player_2021_timeline variant ['M_eye','M_head']"
+  },
+  "hair": {
+   "fact": "hair is a standalone SkinnedMeshRenderer GameObject, instantiated under the head bone at RUNTIME (no hair child in head prefabs)",
+   "star_path": "StarPlayerAppearance table: pid -> [head_prefab, hair_GO, hair_material, face_texture, display_name] (29 stars: Man City squad + Semenyo + Alleyen + Guéhi; Bobb/Ortega/Bettinelli/Lewis/Philips have empty names = fallback to generic path)",
+   "generic_path": "b4=0 + b3 index (1-84) + b5 color from hairColorConfig; hair tinting uses mainColor/darkColor/specColor",
+   "b4=127": "sentinel — game picks hair by internal default (exact rule PENDING)"
+  },
+  "beard_eyebrow": {
+   "fact": "NO beard/eyebrow mesh exists anywhere in the avatar bundle; rendered by COMPOSITING beardEyebrow_atlas_0.png regions onto the face texture",
+   "table": "beardEyebrow TextAsset: 22 Beard entries + 11 eyebrow entries, each = atlas name + 6x i32 pixel rect + 4x f32 UV rect"
+  },
+  "face_texture": "b1 -> texture id; materials 'face'/'M_head' hold placeholder refs (face_southAsia_new1 / face_SouthAmerican_new6); game assigns per-player texture at runtime; DEVICE: our bake in face_eastAsia_new1 displays for b1=14"
+ },
+ "eye_rendering_equation": {
+  "game_eye": "head_mesh.submesh0 (eyeball geometry) + material M_eye/eye (_MainTex = iris texture) OVER face_mesh.submesh1 skin whose texture carries painted eye region",
+  "dead_eye_cause": "our bake paints the photo's closed/flat eye region into the skin texture while the eyeball submesh still renders the default iris",
+  "fix_options": {
+   "A": "replicate game eye in Previewer: assign iris texture to submesh0 material, render eyeball + skin together",
+   "B": "bake eye region transparent/neutral so game iris layer dominates",
+   "chosen": "A first (both PC preview and device then share the identical material path), B as fallback"
+  }
+ },
+ "reference_player_route": {
+  "verdict": "CONFIRMED as the unified entry point",
+  "why": "licensed players ignore PA bytes entirely (all sentinels) and resolve via StarPlayerAppearance; generic players resolve via PA bytes + internal defaults. Both cases are covered by 'clone a verified player'.",
+  "inventory": "D:\\FL26_Mod\\work\\face_pipeline\\phase13b\\analysis\\reference_players_chn.json (19 diverse CHN players) + 29 star rows in mapping_tables_raw.json",
+  "unified_state": "appearance_state.schema.json supports mode=reference_clone (pid) and mode=explicit (byte fields) sharing the same downstream resolution"
+ },
+ "device_probe_matrix": {
+  "apk": "D:\\FL26_Mod\\dist\\fl26_phase13b_probe.apk",
+  "team": 10059,
+  "pids": "175924-175941 (P13B_P00..P17)",
+  "base": "Yang J. 101351 PA bytes [6,14,0,16,0,2,1,0,1,127,0,0,0,0,17,0,127]",
+  "probes": [
+   {
+    "name": "P13B_P00",
+    "override": {},
+    "tests": "control (must equal Yang J. look)"
+   },
+   {
+    "name": "P13B_P01",
+    "override": {
+     "b3": 1
+    },
+    "tests": "hair index 1"
+   },
+   {
+    "name": "P13B_P02",
+    "override": {
+     "b3": 2
+    },
+    "tests": "hair index 2"
+   },
+   {
+    "name": "P13B_P03",
+    "override": {
+     "b3": 3
+    },
+    "tests": "hair index 3"
+   },
+   {
+    "name": "P13B_P04",
+    "override": {
+     "b5": 0
+    },
+    "tests": "hair color 0"
+   },
+   {
+    "name": "P13B_P05",
+    "override": {
+     "b5": 5
+    },
+    "tests": "hair color 5 (reddish)"
+   },
+   {
+    "name": "P13B_P06",
+    "override": {
+     "b5": 6
+    },
+    "tests": "hair color 6 (light)"
+   },
+   {
+    "name": "P13B_P07",
+    "override": {
+     "b8": 3
+    },
+    "tests": "beard style 3"
+   },
+   {
+    "name": "P13B_P08",
+    "override": {
+     "b8": 6
+    },
+    "tests": "beard style 6"
+   },
+   {
+    "name": "P13B_P09",
+    "override": {
+     "b7": 127,
+     "b8": 127
+    },
+    "tests": "beard off"
+   },
+   {
+    "name": "P13B_P10",
+    "override": {
+     "b6": 5
+    },
+    "tests": "eyebrow 5"
+   },
+   {
+    "name": "P13B_P11",
+    "override": {
+     "b6": 8
+    },
+    "tests": "eyebrow 8"
+   },
+   {
+    "name": "P13B_P12",
+    "override": {
+     "b14": 0
+    },
+    "tests": "face shape 0"
+   },
+   {
+    "name": "P13B_P13",
+    "override": {
+     "b14": 42
+    },
+    "tests": "face shape 42"
+   },
+   {
+    "name": "P13B_P14",
+    "override": {
+     "b14": 99
+    },
+    "tests": "face shape 99"
+   },
+   {
+    "name": "P13B_P15",
+    "override": {
+     "b0": 1
+    },
+    "tests": "skin tone 1"
+   },
+   {
+    "name": "P13B_P16",
+    "override": {
+     "b0": 7
+    },
+    "tests": "skin tone 7"
+   },
+   {
+    "name": "P13B_P17",
+    "override": {
+     "b10": 7
+    },
+    "tests": "b10 flag (expect no visible change)"
+   }
+  ],
+  "status": "BUILT+SIGNED 2026-09-07; install pending device connection"
+ }
+}

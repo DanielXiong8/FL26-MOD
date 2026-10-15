@@ -1,0 +1,2898 @@
+{
+ "Juventus": [
+  [
+   1,
+   "Kamil Grabara",
+   "GK",
+   "POL"
+  ],
+  [
+   2,
+   "Zeki Çelik",
+   "DF",
+   "TUR"
+  ],
+  [
+   3,
+   "Gleison Bremer",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Federico Gatti",
+   "DF",
+   "ITA"
+  ],
+  [
+   5,
+   "Manuel Locatelli",
+   "MF",
+   "ITA"
+  ],
+  [
+   6,
+   "Lloyd Kelly",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Francisco Conceição",
+   "FW",
+   "POR"
+  ],
+  [
+   8,
+   "Teun Koopmeiners",
+   "MF",
+   "NED"
+  ],
+  [
+   9,
+   "Randal Kolo Muani",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Kenan Yıldız",
+   "FW",
+   "TUR"
+  ],
+  [
+   11,
+   "Edon Zhegrova",
+   "FW",
+   "KOS"
+  ],
+  [
+   12,
+   "Douglas Luiz",
+   "MF",
+   "BRA"
+  ],
+  [
+   13,
+   "Jérémie Boga",
+   "FW",
+   "CIV"
+  ],
+  [
+   14,
+   "Arkadiusz Milik",
+   "FW",
+   "POL"
+  ],
+  [
+   15,
+   "Pierre Kalulu",
+   "DF",
+   "FRA"
+  ],
+  [
+   17,
+   "Kerim Alajbegović",
+   "MF",
+   "BIH"
+  ],
+  [
+   18,
+   "Jeff Ekhator",
+   "FW",
+   "ITA"
+  ],
+  [
+   19,
+   "Khéphren Thuram",
+   "MF",
+   "FRA"
+  ],
+  [
+   20,
+   "Andrea Cambiaso",
+   "DF",
+   "ITA"
+  ],
+  [
+   22,
+   "Weston McKennie",
+   "MF",
+   "USA"
+  ],
+  [
+   23,
+   "Carlo Pinsoglio",
+   "GK",
+   "ITA"
+  ],
+  [
+   24,
+   "Daniele Rugani",
+   "DF",
+   "ITA"
+  ],
+  [
+   25,
+   "Guglielmo Vicario",
+   "GK",
+   "ITA"
+  ],
+  [
+   26,
+   "Jhon Lucumí",
+   "DF",
+   "COL"
+  ],
+  [
+   27,
+   "Nick Woltemade",
+   "FW",
+   "GER"
+  ],
+  [
+   29,
+   "Pape Matar Sarr",
+   "MF",
+   "SEN"
+  ],
+  [
+   31,
+   "Nicolás González (footballer, born 1998)",
+   "FW",
+   "ARG"
+  ],
+  [
+   32,
+   "Juan Cabal",
+   "DF",
+   "COL"
+  ],
+  [
+   33,
+   "Neto (footballer, born 1989)",
+   "GK",
+   "BRA"
+  ],
+  [
+   40,
+   "Riccardo Radu",
+   "GK",
+   "ROM"
+  ],
+  [
+   41,
+   "Augusto Owusu",
+   "MF",
+   "ITA"
+  ],
+  [
+   43,
+   "Filippo Pagnucco",
+   "MF",
+   "ITA"
+  ],
+  [
+   45,
+   "Justin Oboavwoduo",
+   "MF",
+   "ENG"
+  ]
+ ],
+ "Napoli": [
+  [
+   1,
+   "Alex Meret",
+   "GK",
+   "ITA"
+  ],
+  [
+   2,
+   "Costantino Favasuli",
+   "DF",
+   "ITA"
+  ],
+  [
+   4,
+   "Alessandro Buongiorno",
+   "DF",
+   "ITA"
+  ],
+  [
+   5,
+   "Benoît Badiashile",
+   "DF",
+   "FRA"
+  ],
+  [
+   6,
+   "Billy Gilmour",
+   "MF",
+   "SCO"
+  ],
+  [
+   7,
+   "David Neres",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Scott McTominay",
+   "MF",
+   "SCO"
+  ],
+  [
+   10,
+   "Diego Maradona",
+   "FW",
+   "ARG"
+  ],
+  [
+   11,
+   "Kevin De Bruyne",
+   "MF",
+   "BEL"
+  ],
+  [
+   12,
+   "Claudio Pugliese",
+   "GK",
+   "ITA"
+  ],
+  [
+   13,
+   "Amir Rrahmani",
+   "DF",
+   "KOS"
+  ],
+  [
+   14,
+   "Nikita Contini",
+   "GK",
+   "UKR"
+  ],
+  [
+   16,
+   "Rafa Marín",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Mathías Olivera",
+   "DF",
+   "URU"
+  ],
+  [
+   19,
+   "Rasmus Højlund",
+   "FW",
+   "DEN"
+  ],
+  [
+   20,
+   "Lorenzo Lucca",
+   "FW",
+   "ITA"
+  ],
+  [
+   21,
+   "Matteo Politano",
+   "FW",
+   "ITA"
+  ],
+  [
+   22,
+   "Giovanni Di Lorenzo",
+   "DF",
+   "ITA"
+  ],
+  [
+   23,
+   "Giovane (footballer, born 2003)",
+   "FW",
+   "BRA"
+  ],
+  [
+   26,
+   "Antonio Vergara",
+   "MF",
+   "ITA"
+  ],
+  [
+   27,
+   "Alisson Santos",
+   "FW",
+   "BRA"
+  ],
+  [
+   31,
+   "Sam Beukema",
+   "DF",
+   "NED"
+  ],
+  [
+   32,
+   "Vanja Milinković-Savić",
+   "GK",
+   "SRB"
+  ],
+  [
+   35,
+   "Luca Marianucci",
+   "DF",
+   "ITA"
+  ],
+  [
+   37,
+   "Leonardo Spinazzola",
+   "DF",
+   "ITA"
+  ]
+ ],
+ "Inter": [
+  [
+   1,
+   "Josep Martínez",
+   "GK",
+   "ESP"
+  ],
+  [
+   5,
+   "Aleksandar Stanković (footballer, born 2005)",
+   "MF",
+   "SRB"
+  ],
+  [
+   6,
+   "John Stones",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Piotr Zieliński",
+   "MF",
+   "POL"
+  ],
+  [
+   8,
+   "Petar Sučić",
+   "MF",
+   "CRO"
+  ],
+  [
+   9,
+   "Marcus Thuram",
+   "FW",
+   "FRA"
+  ],
+  [
+   10,
+   "Lautaro Martínez",
+   "FW",
+   "ARG"
+  ],
+  [
+   11,
+   "Luis Henrique (footballer, born 2001)",
+   "MF",
+   "BRA"
+  ],
+  [
+   12,
+   "Raffaele Di Gennaro",
+   "GK",
+   "ITA"
+  ],
+  [
+   14,
+   "Ange-Yoan Bonny",
+   "FW",
+   "CIV"
+  ],
+  [
+   17,
+   "Andy Diouf",
+   "MF",
+   "FRA"
+  ],
+  [
+   20,
+   "Hakan Çalhanoğlu",
+   "MF",
+   "TUR"
+  ],
+  [
+   21,
+   "Curtis Jones (footballer, born 2001)",
+   "MF",
+   "ENG"
+  ],
+  [
+   22,
+   "Henrikh Mkhitaryan",
+   "MF",
+   "ARM"
+  ],
+  [
+   23,
+   "Nicolò Barella",
+   "MF",
+   "ITA"
+  ],
+  [
+   25,
+   "Manuel Akanji",
+   "DF",
+   "SUI"
+  ],
+  [
+   28,
+   "Benjamin Pavard",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Carlos Augusto (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   31,
+   "Yann Bisseck",
+   "DF",
+   "GER"
+  ],
+  [
+   32,
+   "Federico Dimarco",
+   "DF",
+   "ITA"
+  ]
+ ],
+ "Atalanta": [
+  [
+   3,
+   "Odilon Kossounou",
+   "DF",
+   "CIV"
+  ],
+  [
+   4,
+   "Isak Hien",
+   "DF",
+   "SWE"
+  ],
+  [
+   7,
+   "Kamaldeen Sulemana",
+   "FW",
+   "GHA"
+  ],
+  [
+   8,
+   "Mario Pašalić",
+   "MF",
+   "CRO"
+  ],
+  [
+   9,
+   "Gianluca Scamacca",
+   "FW",
+   "ITA"
+  ],
+  [
+   10,
+   "Lazar Samardžić",
+   "MF",
+   "SRB"
+  ],
+  [
+   11,
+   "Jonathan Rowe (footballer, born 2003)",
+   "FW",
+   "ENG"
+  ],
+  [
+   13,
+   "Éderson (footballer, born 1999)",
+   "MF",
+   "BRA"
+  ],
+  [
+   16,
+   "Raoul Bellanova",
+   "DF",
+   "ITA"
+  ],
+  [
+   17,
+   "Charles De Ketelaere",
+   "MF",
+   "BEL"
+  ],
+  [
+   18,
+   "Giacomo Raspadori",
+   "FW",
+   "ITA"
+  ],
+  [
+   19,
+   "Franck Kessié",
+   "MF",
+   "CIV"
+  ],
+  [
+   22,
+   "Thomas Pompei",
+   "GK",
+   "ITA"
+  ],
+  [
+   23,
+   "Sead Kolašinac",
+   "DF",
+   "BIH"
+  ],
+  [
+   29,
+   "Marco Carnesecchi",
+   "GK",
+   "ITA"
+  ],
+  [
+   31,
+   "Thomas Thiesson Kristensen",
+   "DF",
+   "DEN"
+  ],
+  [
+   40,
+   "Relja Obrić",
+   "DF",
+   "SRB"
+  ],
+  [
+   42,
+   "Giorgio Scalvini",
+   "DF",
+   "ITA"
+  ]
+ ],
+ "Milan": [
+  [
+   1,
+   "Pietro Terracciano",
+   "GK",
+   "ITA"
+  ],
+  [
+   2,
+   "Pervis Estupiñán",
+   "DF",
+   "ECU"
+  ],
+  [
+   5,
+   "Koni De Winter",
+   "DF",
+   "BEL"
+  ],
+  [
+   8,
+   "Ruben Loftus-Cheek",
+   "MF",
+   "ENG"
+  ],
+  [
+   9,
+   "Gonçalo Ramos",
+   "FW",
+   "POR"
+  ],
+  [
+   11,
+   "Christian Pulisic",
+   "MF",
+   "USA"
+  ],
+  [
+   12,
+   "Adrien Rabiot",
+   "MF",
+   "FRA"
+  ],
+  [
+   13,
+   "Sankhoun Diawara",
+   "DF",
+   "FRA"
+  ],
+  [
+   14,
+   "Luka Modrić",
+   "MF",
+   "CRO"
+  ],
+  [
+   16,
+   "Mike Maignan",
+   "GK",
+   "FRA"
+  ],
+  [
+   20,
+   "Omari Hutchinson",
+   "MF",
+   "ENG"
+  ],
+  [
+   21,
+   "Samuel Chukwueze",
+   "MF",
+   "NGA"
+  ],
+  [
+   22,
+   "Diego Moreira",
+   "FW",
+   "BEL"
+  ],
+  [
+   23,
+   "Fikayo Tomori",
+   "DF",
+   "ENG"
+  ],
+  [
+   28,
+   "Christian Comotto",
+   "MF",
+   "ITA"
+  ],
+  [
+   30,
+   "Ardon Jashari",
+   "MF",
+   "SUI"
+  ],
+  [
+   31,
+   "Strahinja Pavlović",
+   "DF",
+   "SRB"
+  ],
+  [
+   33,
+   "Davide Bartesaghi",
+   "DF",
+   "ITA"
+  ],
+  [
+   34,
+   "Mario Gila",
+   "DF",
+   "ESP"
+  ],
+  [
+   35,
+   "Valeri Vladimirov",
+   "DF",
+   "BUL"
+  ],
+  [
+   37,
+   "Matteo Pittarella",
+   "GK",
+   "ITA"
+  ],
+  [
+   41,
+   "Léo-Paul Andre Jean Bouyer Thiel",
+   "GK",
+   "FRA"
+  ],
+  [
+   42,
+   "Filippo Terracciano",
+   "DF",
+   "ITA"
+  ]
+ ],
+ "Roma": [
+  [
+   2,
+   "Devyne Rensch",
+   "DF",
+   "NED"
+  ],
+  [
+   3,
+   "Konstantinos Koulierakis",
+   "DF",
+   "GRE"
+  ],
+  [
+   4,
+   "Bryan Cristante",
+   "MF",
+   "ITA"
+  ],
+  [
+   5,
+   "Evan Ndicka",
+   "DF",
+   "CIV"
+  ],
+  [
+   7,
+   "Lorenzo Pellegrini",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Santiago Castro (footballer, born 2004)",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Francesco Totti",
+   "FW",
+   "ITA"
+  ],
+  [
+   14,
+   "Donyell Malen",
+   "FW",
+   "NED"
+  ],
+  [
+   15,
+   "Marten de Roon",
+   "MF",
+   "NED"
+  ],
+  [
+   17,
+   "Manu Koné",
+   "MF",
+   "FRA"
+  ],
+  [
+   18,
+   "Matías Soulé",
+   "FW",
+   "ARG"
+  ],
+  [
+   20,
+   "Nahuel Molina",
+   "DF",
+   "ARG"
+  ],
+  [
+   21,
+   "Paulo Dybala",
+   "FW",
+   "ARG"
+  ],
+  [
+   22,
+   "Mario Hermoso",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Gianluca Mancini",
+   "DF",
+   "ITA"
+  ],
+  [
+   26,
+   "Leonardo Balerdi",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Devis Vásquez",
+   "GK",
+   "COL"
+  ],
+  [
+   43,
+   "Wesley França",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Torino": [
+  [
+   2,
+   "Nathan Patterson (footballer)",
+   "DF",
+   "SCO"
+  ],
+  [
+   3,
+   "Cristiano Biraghi",
+   "DF",
+   "ITA"
+  ],
+  [
+   5,
+   "Eray Cömert",
+   "DF",
+   "SUI"
+  ],
+  [
+   6,
+   "Emirhan İlkhan",
+   "MF",
+   "TUR"
+  ],
+  [
+   7,
+   "Zakaria Aboukhlal",
+   "FW",
+   "MAR"
+  ],
+  [
+   8,
+   "Rolando Mandragora",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Pietro Pellegri",
+   "FW",
+   "ITA"
+  ],
+  [
+   10,
+   "Nikola Vlašić",
+   "MF",
+   "CRO"
+  ],
+  [
+   11,
+   "Gaetano Oristanio",
+   "FW",
+   "ITA"
+  ],
+  [
+   13,
+   "Ricardo Rodriguez (footballer)",
+   "DF",
+   "SUI"
+  ],
+  [
+   15,
+   "Pietro Comuzzo",
+   "DF",
+   "ITA"
+  ],
+  [
+   17,
+   "Sandro Kulenović",
+   "FW",
+   "CRO"
+  ],
+  [
+   18,
+   "Giovanni Simeone",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "Ché Adams",
+   "FW",
+   "SCO"
+  ],
+  [
+   20,
+   "Lucas Perri",
+   "GK",
+   "BRA"
+  ],
+  [
+   21,
+   "Daniel Bragança",
+   "MF",
+   "POR"
+  ],
+  [
+   22,
+   "Cesare Casadei",
+   "MF",
+   "ITA"
+  ],
+  [
+   23,
+   "Saúl Coco",
+   "DF",
+   "EQG"
+  ],
+  [
+   26,
+   "Diego Mascardi",
+   "GK",
+   "ITA"
+  ],
+  [
+   28,
+   "Kian Fitz-Jim",
+   "MF",
+   "NED"
+  ],
+  [
+   29,
+   "Niccolò Fortini",
+   "DF",
+   "ITA"
+  ],
+  [
+   44,
+   "Ardian Ismajli",
+   "DF",
+   "ALB"
+  ],
+  [
+   45,
+   "Rafik Belghali",
+   "DF",
+   "ALG"
+  ]
+ ],
+ "Lazio": [
+  [
+   2,
+   "Diogo Leite (footballer, born 1999)",
+   "DF",
+   "POR"
+  ],
+  [
+   3,
+   "Luca Pellegrini (footballer, born 1999)",
+   "DF",
+   "ITA"
+  ],
+  [
+   5,
+   "Danilho Doekhi",
+   "DF",
+   "NED"
+  ],
+  [
+   6,
+   "Nicolò Rovella",
+   "MF",
+   "ITA"
+  ],
+  [
+   7,
+   "Fisayo Dele-Bashiru",
+   "MF",
+   "NGA"
+  ],
+  [
+   8,
+   "Bruno Galassi",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Andrea Pinamonti",
+   "FW",
+   "ITA"
+  ],
+  [
+   10,
+   "Mattia Zaccagni",
+   "MF",
+   "ITA"
+  ],
+  [
+   11,
+   "Gustav Isaksen",
+   "FW",
+   "DEN"
+  ],
+  [
+   14,
+   "Tijjani Noslin",
+   "FW",
+   "NED"
+  ],
+  [
+   15,
+   "Romano Floriani Mussolini",
+   "DF",
+   "ITA"
+  ],
+  [
+   16,
+   "Davide Frattesi",
+   "MF",
+   "ITA"
+  ],
+  [
+   17,
+   "Nuno Tavares",
+   "DF",
+   "POR"
+  ],
+  [
+   21,
+   "Reda Belahyane",
+   "MF",
+   "MAR"
+  ],
+  [
+   22,
+   "Matteo Cancellieri",
+   "FW",
+   "ITA"
+  ],
+  [
+   23,
+   "Alfonso Pedraza",
+   "DF",
+   "ESP"
+  ],
+  [
+   24,
+   "Kenneth Taylor (footballer, born 2002)",
+   "MF",
+   "NED"
+  ],
+  [
+   25,
+   "Oliver Provstgaard",
+   "DF",
+   "DEN"
+  ],
+  [
+   28,
+   "Adrian Przyborek",
+   "MF",
+   "POL"
+  ],
+  [
+   29,
+   "Manuel Lazzari",
+   "MF",
+   "ITA"
+  ],
+  [
+   32,
+   "Danilo Cataldi",
+   "MF",
+   "ITA"
+  ],
+  [
+   33,
+   "Ricardo Bordon",
+   "DF",
+   "BRA"
+  ],
+  [
+   35,
+   "Christos Mandas",
+   "GK",
+   "GRE"
+  ],
+  [
+   37,
+   "Josip Šutalo",
+   "DF",
+   "CRO"
+  ],
+  [
+   40,
+   "Edoardo Motta",
+   "GK",
+   "ITA"
+  ]
+ ],
+ "Genoa": [
+  [
+   1,
+   "Justin Bijlow",
+   "GK",
+   "NED"
+  ],
+  [
+   2,
+   "Mario Mitaj",
+   "DF",
+   "ALB"
+  ],
+  [
+   3,
+   "Kingsley Ehizibue",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "Alex Amorim",
+   "MF",
+   "BRA"
+  ],
+  [
+   5,
+   "Leo Østigård",
+   "DF",
+   "NOR"
+  ],
+  [
+   8,
+   "Tommaso Baldanzi",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Vitinha (footballer, born March 2000)",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Junior Messias",
+   "FW",
+   "BRA"
+  ],
+  [
+   11,
+   "Ethan Meichtry",
+   "MF",
+   "SUI"
+  ],
+  [
+   16,
+   "Cody Drameh",
+   "DF",
+   "ENG"
+  ],
+  [
+   17,
+   "Elias Havel",
+   "FW",
+   "AUT"
+  ],
+  [
+   18,
+   "Milutin Osmajić",
+   "FW",
+   "MNE"
+  ],
+  [
+   19,
+   "Joi Nuredini",
+   "FW",
+   "ALB"
+  ],
+  [
+   20,
+   "Stefano Sabelli",
+   "DF",
+   "ITA"
+  ],
+  [
+   21,
+   "Robinho Júnior",
+   "FW",
+   "BRA"
+  ],
+  [
+   22,
+   "Johan Vásquez (footballer, born 1998)",
+   "DF",
+   "MEX"
+  ],
+  [
+   25,
+   "Hamed Traorè",
+   "MF",
+   "CIV"
+  ],
+  [
+   27,
+   "Alessandro Marcandalli",
+   "DF",
+   "ITA"
+  ],
+  [
+   29,
+   "Lorenzo Colombo",
+   "FW",
+   "ITA"
+  ],
+  [
+   31,
+   "David Puczka",
+   "DF",
+   "AUT"
+  ],
+  [
+   32,
+   "Morten Frendrup",
+   "MF",
+   "DEN"
+  ],
+  [
+   34,
+   "Sebastian Otoa",
+   "DF",
+   "DEN"
+  ],
+  [
+   39,
+   "Daniele Sommariva",
+   "GK",
+   "ITA"
+  ]
+ ],
+ "Bologna": [
+  [
+   1,
+   "Łukasz Skorupski",
+   "GK",
+   "POL"
+  ],
+  [
+   2,
+   "Emil Holm (footballer)",
+   "DF",
+   "SWE"
+  ],
+  [
+   3,
+   "Arthur Theate",
+   "DF",
+   "BEL"
+  ],
+  [
+   4,
+   "Tommaso Pobega",
+   "MF",
+   "ITA"
+  ],
+  [
+   5,
+   "Eivind Helland",
+   "DF",
+   "NOR"
+  ],
+  [
+   6,
+   "Nikola Moro",
+   "MF",
+   "CRO"
+  ],
+  [
+   7,
+   "Riccardo Orsolini",
+   "FW",
+   "ITA"
+  ],
+  [
+   8,
+   "Mikel Amondarain",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Artem Dovbyk",
+   "FW",
+   "UKR"
+  ],
+  [
+   10,
+   "Federico Bernardeschi",
+   "MF",
+   "ITA"
+  ],
+  [
+   11,
+   "Samuel Mbangula",
+   "FW",
+   "BEL"
+  ],
+  [
+   14,
+   "Torbjørn Heggem",
+   "DF",
+   "NOR"
+  ],
+  [
+   16,
+   "Nicolò Casale",
+   "DF",
+   "ITA"
+  ],
+  [
+   17,
+   "Oussama El Azzouzi",
+   "MF",
+   "MAR"
+  ],
+  [
+   18,
+   "Marco Libra",
+   "MF",
+   "VEN"
+  ],
+  [
+   19,
+   "Lewis Ferguson",
+   "MF",
+   "SCO"
+  ],
+  [
+   20,
+   "Nadir Zortea",
+   "DF",
+   "ITA"
+  ],
+  [
+   21,
+   "Jens Odgaard",
+   "MF",
+   "DEN"
+  ],
+  [
+   22,
+   "Jay Enem",
+   "FW",
+   "NED"
+  ],
+  [
+   23,
+   "Rahim Alhassane",
+   "DF",
+   "NIG"
+  ],
+  [
+   25,
+   "Massimo Pessina",
+   "GK",
+   "ITA"
+  ],
+  [
+   28,
+   "Nicolò Cambiaghi",
+   "FW",
+   "ITA"
+  ],
+  [
+   29,
+   "Lorenzo De Silvestri",
+   "DF",
+   "ITA"
+  ],
+  [
+   33,
+   "Juan Miranda (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   41,
+   "Martin Vitík",
+   "DF",
+   "CZE"
+  ]
+ ],
+ "Sassuolo": [
+  [
+   3,
+   "Josh Doig",
+   "DF",
+   "SCO"
+  ],
+  [
+   5,
+   "Fali Candé",
+   "DF",
+   "GNB"
+  ],
+  [
+   6,
+   "Sebastian Walukiewicz",
+   "DF",
+   "POL"
+  ],
+  [
+   7,
+   "Cristian Volpato",
+   "FW",
+   "AUS"
+  ],
+  [
+   8,
+   "Andrea Ghion",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Kieron Bowie",
+   "FW",
+   "SCO"
+  ],
+  [
+   10,
+   "Domenico Berardi",
+   "FW",
+   "ITA"
+  ],
+  [
+   11,
+   "Daniel Boloca",
+   "MF",
+   "ITA"
+  ],
+  [
+   12,
+   "Giacomo Satalino",
+   "GK",
+   "ITA"
+  ],
+  [
+   14,
+   "Gabriel Kulla",
+   "FW",
+   "ALB"
+  ],
+  [
+   15,
+   "Duje Ćaleta-Car",
+   "DF",
+   "CRO"
+  ],
+  [
+   16,
+   "Fedde Leysen",
+   "DF",
+   "BEL"
+  ],
+  [
+   17,
+   "Vasilije Adžić",
+   "MF",
+   "MNE"
+  ],
+  [
+   18,
+   "Nemanja Matić",
+   "MF",
+   "SRB"
+  ],
+  [
+   19,
+   "Laurs Skjellerup",
+   "FW",
+   "DEN"
+  ],
+  [
+   20,
+   "Ignace Van Der Brempt",
+   "DF",
+   "BEL"
+  ],
+  [
+   21,
+   "Jay Idzes",
+   "DF",
+   "IDN"
+  ],
+  [
+   22,
+   "Lorenzo Nyarko",
+   "GK",
+   "ITA"
+  ],
+  [
+   25,
+   "Benjamín Domínguez",
+   "FW",
+   "ARG"
+  ],
+  [
+   26,
+   "Cas Odenthal",
+   "DF",
+   "NED"
+  ],
+  [
+   27,
+   "Yeferson Paz",
+   "DF",
+   "COL"
+  ],
+  [
+   33,
+   "Rafael Obrador",
+   "DF",
+   "ESP"
+  ],
+  [
+   35,
+   "Luca Lipani",
+   "MF",
+   "ITA"
+  ],
+  [
+   36,
+   "Giorgio Vezzosi",
+   "DF",
+   "ITA"
+  ],
+  [
+   42,
+   "Kristian Thorstvedt",
+   "MF",
+   "NOR"
+  ],
+  [
+   45,
+   "Armand Laurienté",
+   "FW",
+   "FRA"
+  ]
+ ],
+ "Udinese": [
+  [
+   4,
+   "Sandi Lovrić",
+   "MF",
+   "SVN"
+  ],
+  [
+   5,
+   "David Alaba",
+   "DF",
+   "AUT"
+  ],
+  [
+   6,
+   "Oier Zarraga",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Idrissa Gueye (footballer, born 2006)",
+   "FW",
+   "SEN"
+  ],
+  [
+   8,
+   "Jesper Karlström",
+   "MF",
+   "SWE"
+  ],
+  [
+   9,
+   "Keinan Davis",
+   "FW",
+   "ENG"
+  ],
+  [
+   10,
+   "Nicolò Zaniolo",
+   "FW",
+   "ITA"
+  ],
+  [
+   11,
+   "Hassane Kamara",
+   "DF",
+   "CIV"
+  ],
+  [
+   13,
+   "Nicolò Bertola",
+   "DF",
+   "ITA"
+  ],
+  [
+   14,
+   "James Abankwah",
+   "DF",
+   "IRL"
+  ],
+  [
+   15,
+   "Vakoun Issouf Bayo",
+   "FW",
+   "CIV"
+  ],
+  [
+   16,
+   "Matteo Palma",
+   "DF",
+   "GER"
+  ],
+  [
+   20,
+   "Juan David Arizala",
+   "DF",
+   "COL"
+  ],
+  [
+   23,
+   "Mërgim Vojvoda",
+   "DF",
+   "KOS"
+  ],
+  [
+   24,
+   "Jakub Piotrowski",
+   "MF",
+   "POL"
+  ],
+  [
+   27,
+   "Christian Kabasele",
+   "DF",
+   "BEL"
+  ],
+  [
+   28,
+   "Oumar Solet",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Giorgi Chakvetadze",
+   "MF",
+   "GEO"
+  ],
+  [
+   32,
+   "Jurgen Ekkelenkamp",
+   "MF",
+   "NED"
+  ],
+  [
+   38,
+   "Lennon Miller",
+   "MF",
+   "SCO"
+  ],
+  [
+   40,
+   "Maduka Okoye",
+   "GK",
+   "NGA"
+  ],
+  [
+   41,
+   "Bartosz Mrozek",
+   "GK",
+   "POL"
+  ],
+  [
+   45,
+   "Giulio Vinciati",
+   "FW",
+   "ITA"
+  ]
+ ],
+ "Fiorentina": [
+  [
+   2,
+   "Dodô (footballer, born 1998)",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Radu Drăgușin",
+   "DF",
+   "ROU"
+  ],
+  [
+   4,
+   "Marco Brescianini",
+   "MF",
+   "ITA"
+  ],
+  [
+   5,
+   "Marin Pongračić",
+   "DF",
+   "CRO"
+  ],
+  [
+   6,
+   "Luca Ranieri",
+   "DF",
+   "ITA"
+  ],
+  [
+   14,
+   "Arthur Atta",
+   "MF",
+   "FRA"
+  ],
+  [
+   17,
+   "João Mário (footballer, born 2000)",
+   "DF",
+   "POR"
+  ],
+  [
+   19,
+   "Luca Lezzerini",
+   "GK",
+   "ITA"
+  ],
+  [
+   20,
+   "Álex Jiménez (footballer, born 2005)",
+   "DF",
+   "SPA"
+  ],
+  [
+   21,
+   "Víctor Valdepeñas",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "Beto (footballer, born 1998)",
+   "FW",
+   "GNB"
+  ],
+  [
+   25,
+   "Alieu Njie (footballer, born 2005)",
+   "FW",
+   "SWE"
+  ],
+  [
+   27,
+   "Cher Ndour",
+   "MF",
+   "ITA"
+  ],
+  [
+   28,
+   "Pedro Gonçalves",
+   "FW",
+   "POR"
+  ],
+  [
+   29,
+   "Wilfried Gnonto",
+   "FW",
+   "ITA"
+  ],
+  [
+   30,
+   "Franco Mastantuono",
+   "FW",
+   "ARG"
+  ],
+  [
+   32,
+   "Mateo Pellegrino",
+   "FW",
+   "ARG"
+  ],
+  [
+   33,
+   "Viery",
+   "DF",
+   "BRA"
+  ],
+  [
+   42,
+   "Christ Inao Oulaï",
+   "MF",
+   "CIV"
+  ],
+  [
+   43,
+   "David de Gea",
+   "GK",
+   "ESP"
+  ],
+  [
+   44,
+   "Nicolò Fagioli",
+   "MF",
+   "ITA"
+  ]
+ ],
+ "Cagliari": [
+  [
+   1,
+   "Elia Caprile",
+   "GK",
+   "ITA"
+  ],
+  [
+   2,
+   "Zé Pedro (footballer, born June 1997)",
+   "DF",
+   "POR"
+  ],
+  [
+   3,
+   "Riyad Idrissi",
+   "DF",
+   "ITA"
+  ],
+  [
+   4,
+   "Alessandro Romano (footballer, born 2006)",
+   "MF",
+   "ITA"
+  ],
+  [
+   6,
+   "Harry Winks",
+   "MF",
+   "ENG"
+  ],
+  [
+   8,
+   "Michel Ndary Adopo",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Kevin Carlos",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Jacopo Fazzini",
+   "MF",
+   "ITA"
+  ],
+  [
+   12,
+   "Alen Sherri",
+   "GK",
+   "ALB"
+  ],
+  [
+   14,
+   "Alessandro Deiola",
+   "MF",
+   "ITA"
+  ],
+  [
+   15,
+   "Juan Rodríguez (footballer, born 2005)",
+   "DF",
+   "URU"
+  ],
+  [
+   17,
+   "Mattia Felici",
+   "MF",
+   "ITA"
+  ],
+  [
+   18,
+   "M'Bala Nzola",
+   "FW",
+   "ANG"
+  ],
+  [
+   19,
+   "Yael Trepy",
+   "FW",
+   "FRA"
+  ],
+  [
+   20,
+   "Riccardo Ciervo",
+   "FW",
+   "ITA"
+  ],
+  [
+   21,
+   "Roberto Gagliardini",
+   "MF",
+   "ITA"
+  ],
+  [
+   22,
+   "Raphael Kofler",
+   "DF",
+   "ITA"
+  ],
+  [
+   23,
+   "Boris Radunović",
+   "GK",
+   "SRB"
+  ],
+  [
+   24,
+   "Giuseppe Aurelio",
+   "DF",
+   "ITA"
+  ],
+  [
+   26,
+   "Yerry Mina",
+   "DF",
+   "COL"
+  ],
+  [
+   27,
+   "Joseph Liteta",
+   "MF",
+   "ZAM"
+  ],
+  [
+   28,
+   "Yukinari Sugawara",
+   "DF",
+   "JPN"
+  ],
+  [
+   30,
+   "Demi Akarakiri",
+   "MF",
+   "ENG"
+  ],
+  [
+   31,
+   "Paul Mendy",
+   "FW",
+   "SEN"
+  ],
+  [
+   32,
+   "Ivan Sulev",
+   "MF",
+   "BUL"
+  ],
+  [
+   33,
+   "Adam Obert",
+   "DF",
+   "SVK"
+  ],
+  [
+   35,
+   "Alessandro Sugamele",
+   "FW",
+   "ITA"
+  ],
+  [
+   36,
+   "Nicola Grandu",
+   "MF",
+   "ITA"
+  ],
+  [
+   39,
+   "Alieu Fadera",
+   "MF",
+   "GAM"
+  ]
+ ],
+ "Como": [
+  [
+   1,
+   "Jean Butez",
+   "GK",
+   "FRA"
+  ],
+  [
+   2,
+   "Marc-Oliver Kempf",
+   "DF",
+   "GER"
+  ],
+  [
+   3,
+   "Álex Valle",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Jacobo Ramón",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Máximo Perrone",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Luis Milla (footballer, born 1994)",
+   "MF",
+   "SPA"
+  ],
+  [
+   7,
+   "Lucas Da Cunha",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Maxence Caqueret",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Anastasios Douvikas",
+   "FW",
+   "GRE"
+  ],
+  [
+   10,
+   "Nico Paz",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Assane Diao",
+   "FW",
+   "SEN"
+  ],
+  [
+   12,
+   "Lorenzo Luigi Ginelli",
+   "GK",
+   "ITA"
+  ],
+  [
+   13,
+   "Alberto Dossena",
+   "DF",
+   "ITA"
+  ],
+  [
+   15,
+   "Adrian Lahdo",
+   "MF",
+   "SWE"
+  ],
+  [
+   16,
+   "Kaiki Bruno",
+   "DF",
+   "BRA"
+  ],
+  [
+   17,
+   "Jesús Rodríguez (footballer, born 2005)",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Edoardo Goldaniga",
+   "DF",
+   "ITA"
+  ],
+  [
+   20,
+   "Martin Baturina",
+   "MF",
+   "CRO"
+  ],
+  [
+   21,
+   "Samuele Ricci",
+   "MF",
+   "ITA"
+  ],
+  [
+   22,
+   "Mauro Vigorito",
+   "GK",
+   "ITA"
+  ],
+  [
+   27,
+   "Yan Couto",
+   "DF",
+   "BRA"
+  ],
+  [
+   28,
+   "Ivan Smolčić",
+   "DF",
+   "CRO"
+  ],
+  [
+   30,
+   "Mattia Liberali",
+   "MF",
+   "ITA"
+  ],
+  [
+   42,
+   "Jayden Addai",
+   "FW",
+   "NED"
+  ]
+ ],
+ "Parma": [
+  [
+   3,
+   "Abdoulaye Ndiaye (footballer)",
+   "DF",
+   "SEN"
+  ],
+  [
+   4,
+   "Vincent Sierro",
+   "MF",
+   "SUI"
+  ],
+  [
+   5,
+   "Lautaro Valenti",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Ousmane Diallo (footballer)",
+   "FW",
+   "SPA"
+  ],
+  [
+   8,
+   "Benjamin Cremaschi",
+   "MF",
+   "USA"
+  ],
+  [
+   9,
+   "David Romero (footballer)",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Adrián Bernabé",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Pontus Almqvist",
+   "FW",
+   "SWE"
+  ],
+  [
+   14,
+   "Emanuele Valeri",
+   "DF",
+   "ITA"
+  ],
+  [
+   15,
+   "Enrico Delprato",
+   "DF",
+   "ITA"
+  ],
+  [
+   16,
+   "Mandela Keita",
+   "MF",
+   "BEL"
+  ],
+  [
+   19,
+   "El Bilal Touré",
+   "FW",
+   "MLI"
+  ],
+  [
+   20,
+   "Matija Frigan",
+   "FW",
+   "CRO"
+  ],
+  [
+   22,
+   "Simone Ghidotti",
+   "GK",
+   "ITA"
+  ],
+  [
+   23,
+   "Nesta Elphege",
+   "FW",
+   "FRA"
+  ],
+  [
+   25,
+   "Thomás de Martis",
+   "FW",
+   "ARG"
+  ],
+  [
+   27,
+   "Sascha Britschgi",
+   "DF",
+   "SUI"
+  ],
+  [
+   29,
+   "Franco Carboni",
+   "DF",
+   "ARG"
+  ],
+  [
+   30,
+   "Giovanni Daffara",
+   "GK",
+   "ITA"
+  ],
+  [
+   32,
+   "Christian Ordóñez",
+   "MF",
+   "ARG"
+  ],
+  [
+   34,
+   "Diego Carlos (footballer, born 1993)",
+   "DF",
+   "BRA"
+  ],
+  [
+   37,
+   "Mariano Troilo",
+   "DF",
+   "ARG"
+  ],
+  [
+   40,
+   "Edoardo Corvi",
+   "GK",
+   "ITA"
+  ],
+  [
+   41,
+   "Hans Nicolussi Caviglia",
+   "MF",
+   "ITA"
+  ]
+ ],
+ "Lecce": [
+  [
+   1,
+   "Marco Bleve",
+   "GK",
+   "ITA"
+  ],
+  [
+   2,
+   "Ali Dembélé",
+   "DF",
+   "FRA"
+  ],
+  [
+   3,
+   "Corrie Ndaba",
+   "DF",
+   "IRL"
+  ],
+  [
+   4,
+   "Kialonda Gaspar",
+   "DF",
+   "ANG"
+  ],
+  [
+   5,
+   "Jamil Siebert",
+   "DF",
+   "GER"
+  ],
+  [
+   7,
+   "Amar Fatah",
+   "FW",
+   "SWE"
+  ],
+  [
+   8,
+   "Sadik Fofana",
+   "MF",
+   "TOG"
+  ],
+  [
+   9,
+   "Nikola Štulić",
+   "FW",
+   "SRB"
+  ],
+  [
+   10,
+   "Medon Berisha",
+   "MF",
+   "ALB"
+  ],
+  [
+   11,
+   "Konan N'Dri",
+   "FW",
+   "NIG"
+  ],
+  [
+   12,
+   "Christian Lupo",
+   "GK",
+   "ITA"
+  ],
+  [
+   14,
+   "Youssef Maleh",
+   "MF",
+   "MAR"
+  ],
+  [
+   16,
+   "Omri Gandelman",
+   "MF",
+   "ISR"
+  ],
+  [
+   17,
+   "Danilo Veiga",
+   "DF",
+   "POR"
+  ],
+  [
+   18,
+   "Gaby Jean",
+   "DF",
+   "FRA"
+  ],
+  [
+   20,
+   "Ivan Ilić (footballer, born 2001)",
+   "MF",
+   "SRB"
+  ],
+  [
+   25,
+   "Antonino Gallo",
+   "DF",
+   "ITA"
+  ],
+  [
+   28,
+   "Olaf Gorter",
+   "MF",
+   "NED"
+  ],
+  [
+   29,
+   "Lassana Coulibaly",
+   "MF",
+   "MLI"
+  ],
+  [
+   30,
+   "Wladimiro Falcone",
+   "GK",
+   "ITA"
+  ],
+  [
+   32,
+   "Alexandru Borbei",
+   "GK",
+   "ROU"
+  ],
+  [
+   36,
+   "Marlon Ubani",
+   "DF",
+   "GER"
+  ],
+  [
+   44,
+   "Tiago Gabriel",
+   "DF",
+   "POR"
+  ]
+ ],
+ "Monza": [
+  [
+   1,
+   "Noel Törnqvist",
+   "GK",
+   "SWE"
+  ],
+  [
+   2,
+   "Saba Goglichidze",
+   "DF",
+   "GEO"
+  ],
+  [
+   3,
+   "Lorenzo Lucchesi",
+   "DF",
+   "ITA"
+  ],
+  [
+   4,
+   "Jan Ziółkowski",
+   "DF",
+   "POL"
+  ],
+  [
+   5,
+   "Yvan Maye",
+   "DF",
+   "FRA"
+  ],
+  [
+   6,
+   "Valentin Antov",
+   "DF",
+   "BUL"
+  ],
+  [
+   7,
+   "Ricardo Mangas",
+   "DF",
+   "POR"
+  ],
+  [
+   8,
+   "Manga Foe Ondoa",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Gustavo Varela (footballer, born 2005)",
+   "FW",
+   "POR"
+  ],
+  [
+   10,
+   "Patrick Cutrone",
+   "FW",
+   "ITA"
+  ],
+  [
+   11,
+   "Omari Forson",
+   "MF",
+   "ENG"
+  ],
+  [
+   14,
+   "Ebenezer Akinsanmiro",
+   "MF",
+   "NGA"
+  ],
+  [
+   16,
+   "Cyril Ngonge",
+   "FW",
+   "BEL"
+  ],
+  [
+   17,
+   "Keita Baldé",
+   "FW",
+   "SEN"
+  ],
+  [
+   19,
+   "Samuele Birindelli",
+   "DF",
+   "ITA"
+  ],
+  [
+   20,
+   "Demba Thiam (footballer, born 1998)",
+   "GK",
+   "SEN"
+  ],
+  [
+   21,
+   "Leonardo Colombo",
+   "MF",
+   "ITA"
+  ],
+  [
+   22,
+   "Exequiel Zeballos",
+   "FW",
+   "ARG"
+  ],
+  [
+   24,
+   "Adam Bakoune",
+   "DF",
+   "ITA"
+  ],
+  [
+   26,
+   "Patrick Ciurria",
+   "FW",
+   "ITA"
+  ],
+  [
+   27,
+   "Idrissa Touré",
+   "MF",
+   "GER"
+  ],
+  [
+   28,
+   "Andrea Colpani",
+   "FW",
+   "ITA"
+  ],
+  [
+   32,
+   "Matteo Pessina",
+   "MF",
+   "ITA"
+  ],
+  [
+   43,
+   "Aljaž Strajnar",
+   "GK",
+   "SVN"
+  ],
+  [
+   44,
+   "Andrea Carboni",
+   "DF",
+   "ITA"
+  ]
+ ],
+ "Venezia": [
+  [
+   1,
+   "Filip Stanković (footballer, born 2002)",
+   "GK",
+   "SRB"
+  ],
+  [
+   2,
+   "Matías Moreno (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Joël Schingtienne",
+   "DF",
+   "BEL"
+  ],
+  [
+   4,
+   "Bartol Franjić",
+   "DF",
+   "CRO"
+  ],
+  [
+   5,
+   "Ridgeciano Haps",
+   "DF",
+   "SUR"
+  ],
+  [
+   6,
+   "Gianluca Busio",
+   "MF",
+   "USA"
+  ],
+  [
+   7,
+   "Albion Rrahmani",
+   "FW",
+   "KVX"
+  ],
+  [
+   8,
+   "Lamine Fanne",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Andrea Adorante",
+   "FW",
+   "ITA"
+  ],
+  [
+   10,
+   "John Yeboah",
+   "FW",
+   "ECU"
+  ],
+  [
+   14,
+   "Thierry Correia",
+   "DF",
+   "POR"
+  ],
+  [
+   15,
+   "Juan Jesus",
+   "DF",
+   "BRA"
+  ],
+  [
+   16,
+   "Rufai Mohammed",
+   "DF",
+   "GHA"
+  ],
+  [
+   17,
+   "Armel Bella-Kotchap",
+   "DF",
+   "GER"
+  ],
+  [
+   18,
+   "Antoine Hainaut",
+   "DF",
+   "FRA"
+  ],
+  [
+   19,
+   "Simon Sohm",
+   "MF",
+   "SUI"
+  ],
+  [
+   20,
+   "Richie Sagrado",
+   "DF",
+   "BEL"
+  ],
+  [
+   21,
+   "Þórir Jóhann Helgason",
+   "MF",
+   "ISL"
+  ],
+  [
+   23,
+   "Matteo Grandi",
+   "GK",
+   "ITA"
+  ],
+  [
+   25,
+   "Redouane Halhal",
+   "DF",
+   "MAR"
+  ],
+  [
+   26,
+   "Toma Bašić",
+   "MF",
+   "CRO"
+  ],
+  [
+   28,
+   "Alessio Pozzi (footballer)",
+   "GK",
+   "ITA"
+  ],
+  [
+   29,
+   "Lion Lauberbach",
+   "FW",
+   "GER"
+  ],
+  [
+   30,
+   "Matteo Dagasso",
+   "MF",
+   "ITA"
+  ],
+  [
+   32,
+   "Alfred Duncan",
+   "MF",
+   "GHA"
+  ],
+  [
+   33,
+   "Marin Šverko",
+   "DF",
+   "CRO"
+  ],
+  [
+   36,
+   "Lorenzo Berardi",
+   "MF",
+   "ITA"
+  ],
+  [
+   45,
+   "Akor Adams",
+   "FW",
+   "NGA"
+  ]
+ ],
+ "Frosinone": [
+  [
+   2,
+   "Giorgio Cittadini",
+   "DF",
+   "ITA"
+  ],
+  [
+   3,
+   "Gabriele Calvani",
+   "DF",
+   "ITA"
+  ],
+  [
+   4,
+   "Ben Lhassine Kone",
+   "MF",
+   "CIV"
+  ],
+  [
+   5,
+   "Wisdom Amey",
+   "DF",
+   "ITA"
+  ],
+  [
+   7,
+   "Farès Ghedjemis",
+   "FW",
+   "ALG"
+  ],
+  [
+   9,
+   "Antonio Raimondo",
+   "FW",
+   "ITA"
+  ],
+  [
+   10,
+   "Romano Schmid",
+   "MF",
+   "AUT"
+  ],
+  [
+   11,
+   "Daniel Bîrligea",
+   "FW",
+   "ROU"
+  ],
+  [
+   12,
+   "Matteo Pisseri",
+   "GK",
+   "ITA"
+  ],
+  [
+   14,
+   "Giacomo Calò",
+   "MF",
+   "ITA"
+  ],
+  [
+   16,
+   "Matteo Cichella",
+   "MF",
+   "ITA"
+  ],
+  [
+   17,
+   "Giorgi Kvernadze",
+   "FW",
+   "GEO"
+  ],
+  [
+   20,
+   "Anthony Oyono",
+   "DF",
+   "GAB"
+  ],
+  [
+   22,
+   "Lorenzo Palmisani",
+   "GK",
+   "ITA"
+  ],
+  [
+   24,
+   "Alessio Zerbin",
+   "FW",
+   "ITA"
+  ],
+  [
+   25,
+   "Kevin Akpoguma",
+   "DF",
+   "NGA"
+  ],
+  [
+   27,
+   "Florian Grillitsch",
+   "MF",
+   "AUT"
+  ],
+  [
+   30,
+   "Ilario Monterisi",
+   "DF",
+   "ITA"
+  ],
+  [
+   34,
+   "Anouar El Azzouzi",
+   "MF",
+   "MAR"
+  ],
+  [
+   40,
+   "Seydou Fini",
+   "FW",
+   "ITA"
+  ]
+ ]
+}

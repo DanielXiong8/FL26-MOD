@@ -1,0 +1,390 @@
+{
+ "Tenerife": [
+  [
+   1,
+   "Dani Martín (footballer, born 1998)",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "David Rodríguez (footballer, born 2000)",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Roko Jureškin",
+   "DF",
+   "CRO"
+  ],
+  [
+   4,
+   "José León (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "Jorge Moreno (footballer)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Juan José Sánchez Romero",
+   "MF",
+   "ESP"
+  ],
+  [
+   7,
+   "Martin Pečar",
+   "MF",
+   "SVN"
+  ],
+  [
+   8,
+   "Víctor Moreno (footballer)",
+   "FW",
+   "ESP"
+  ],
+  [
+   9,
+   "Jesús de Miguel",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Nacho Gil",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Noel López",
+   "FW",
+   "ESP"
+  ],
+  [
+   12,
+   "Anthony Landázuri",
+   "DF",
+   "ECU"
+  ],
+  [
+   14,
+   "Gerard Valentín",
+   "DF",
+   "ESP"
+  ],
+  [
+   15,
+   "Fabricio Assis de Souza Barbosa",
+   "MF",
+   "BRA"
+  ],
+  [
+   16,
+   "Jesús Álvarez (footballer, born 1999)",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Christian Gomis (footballer, born 2000)",
+   "FW",
+   "SEN"
+  ],
+  [
+   18,
+   "Enric Gallego",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "César Álvarez",
+   "DF",
+   "ESP"
+  ],
+  [
+   20,
+   "Mauro Pittón",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Marc Mateu",
+   "DF",
+   "ESP"
+  ],
+  [
+   22,
+   "Grant-Leon Ranos",
+   "FW",
+   "ARM"
+  ],
+  [
+   23,
+   "Anes Krdžalić",
+   "MF",
+   "BIH"
+  ],
+  [
+   24,
+   "Iván Chapela",
+   "FW",
+   "ESP"
+  ],
+  [
+   26,
+   "Baba Diocou",
+   "FW",
+   "ESP"
+  ],
+  [
+   27,
+   "Neal Viereck",
+   "DF",
+   "NED"
+  ],
+  [
+   28,
+   "Pau Fernández Velasco",
+   "DF",
+   "ESP"
+  ],
+  [
+   29,
+   "Dani Fernández (footballer, born 2008)",
+   "MF",
+   "ESP"
+  ],
+  [
+   30,
+   "Sergio Aragoneses Padilla",
+   "GK",
+   "ESP"
+  ],
+  [
+   31,
+   "Joel Pérez Ramírez",
+   "MF",
+   "ESP"
+  ],
+  [
+   34,
+   "Óscar Bazaga Casas",
+   "FW",
+   "ESP"
+  ],
+  [
+   37,
+   "Mauro Costa Bueso",
+   "MF",
+   "ESP"
+  ],
+  [
+   40,
+   "Gabriel Lozano De Vuyst",
+   "GK",
+   "ESP"
+  ]
+ ],
+ "Girona": [
+  [
+   1,
+   "Sergi Puig",
+   "GK",
+   "ESP"
+  ],
+  [
+   2,
+   "Abdul Mumin",
+   "DF",
+   "GHA"
+  ],
+  [
+   3,
+   "Mateu Morey",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Javier Boñar",
+   "DF",
+   "ESP"
+  ],
+  [
+   5,
+   "David López (footballer, born 1989)",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Donny van de Beek",
+   "MF",
+   "NED"
+  ],
+  [
+   7,
+   "Cristhian Stuani",
+   "FW",
+   "URU"
+  ],
+  [
+   8,
+   "Fran Beltrán",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Abel Ruiz",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Portu",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Àlex Moreno",
+   "DF",
+   "ESP"
+  ],
+  [
+   13,
+   "Paulo Gazzaniga",
+   "GK",
+   "ARG"
+  ],
+  [
+   14,
+   "Iván Morante",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Oleksandr Pyshchur (footballer, born 2005)",
+   "FW",
+   "UKR"
+  ],
+  [
+   16,
+   "Alejandro Francés",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Bryan Gil",
+   "FW",
+   "ESP"
+  ],
+  [
+   19,
+   "Vladyslav Vanat",
+   "FW",
+   "UKR"
+  ],
+  [
+   21,
+   "Jastin García",
+   "FW",
+   "POR"
+  ],
+  [
+   22,
+   "Yáser Asprilla",
+   "FW",
+   "COL"
+  ],
+  [
+   23,
+   "Carles Pérez",
+   "FW",
+   "ESP"
+  ],
+  [
+   24,
+   "Izan González",
+   "MF",
+   "ESP"
+  ],
+  [
+   25,
+   "Vladyslav Krapyvtsov",
+   "GK",
+   "UKR"
+  ],
+  [
+   28,
+   "Gibert Jordana Camara",
+   "DF",
+   "ESP"
+  ],
+  [
+   29,
+   "Lass Kourouma",
+   "MF",
+   "GUI"
+  ],
+  [
+   30,
+   "Unai Hernández",
+   "MF",
+   "ESP"
+  ],
+  [
+   32,
+   "Juan Arango Jr.",
+   "FW",
+   "VEN"
+  ],
+  [
+   33,
+   "Mauro Furtado",
+   "DF",
+   "POR"
+  ],
+  [
+   35,
+   "Mohamed Hamony",
+   "FW",
+   "MAR"
+  ],
+  [
+   36,
+   "Javier Sarasa Camañes",
+   "MF",
+   "ESP"
+  ],
+  [
+   38,
+   "Holmes Junior",
+   "DF",
+   "ESP"
+  ],
+  [
+   39,
+   "Guillem Badia Gutiérrez",
+   "DF",
+   "ESP"
+  ],
+  [
+   44,
+   "Jordi Bilali Danso",
+   "GK",
+   "ESP"
+  ]
+ ]
+}

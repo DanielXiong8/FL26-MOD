@@ -1,0 +1,4301 @@
+{
+ "Barcelona": {
+  "pairs": [
+   {
+    "real": "Joao Cancelo",
+    "num": 2,
+    "pos": "DF",
+    "game": "Jor Carcello",
+    "pid": 100744,
+    "jersey": 2,
+    "ovr": 84,
+    "sc": 0.977
+   },
+   {
+    "real": "Pau Cubarsi",
+    "num": 5,
+    "pos": "DF",
+    "game": "Cubarsié",
+    "pid": 150004,
+    "jersey": 5,
+    "ovr": 83,
+    "sc": 1.028
+   },
+   {
+    "real": "Andreas Christensen",
+    "num": 15,
+    "pos": "DF",
+    "game": "Kristensen",
+    "pid": 100268,
+    "jersey": 15,
+    "ovr": 78,
+    "sc": 0.893
+   },
+   {
+    "real": "Gerard Martin",
+    "num": 18,
+    "pos": "DF",
+    "game": "G.Matin",
+    "pid": 147344,
+    "jersey": 18,
+    "ovr": 75,
+    "sc": 0.917
+   },
+   {
+    "real": "Jules Kounde",
+    "num": 23,
+    "pos": "DF",
+    "game": "Kounde",
+    "pid": 104410,
+    "jersey": 23,
+    "ovr": 86,
+    "sc": 1.1059999999999999
+   },
+   {
+    "real": "Eric Garcia",
+    "num": 24,
+    "pos": "DF",
+    "game": "Erick",
+    "pid": 100894,
+    "jersey": 24,
+    "ovr": 83,
+    "sc": 0.783
+   },
+   {
+    "real": "Gavi",
+    "num": 6,
+    "pos": "MF",
+    "game": "Gabira",
+    "pid": 106795,
+    "jersey": 6,
+    "ovr": 86,
+    "sc": 0.85
+   },
+   {
+    "real": "Fermin Lopez",
+    "num": 7,
+    "pos": "MF",
+    "game": "Ferlan",
+    "pid": 100891,
+    "jersey": 7,
+    "ovr": 84,
+    "sc": 0.721
+   },
+   {
+    "real": "Pedri",
+    "num": 8,
+    "pos": "MF",
+    "game": "Perdry",
+    "pid": 100895,
+    "jersey": 8,
+    "ovr": 87,
+    "sc": 0.977
+   },
+   {
+    "real": "Dani Olmo",
+    "num": 20,
+    "pos": "MF",
+    "game": "Ormo",
+    "pid": 100893,
+    "jersey": 20,
+    "ovr": 86,
+    "sc": 0.75
+   },
+   {
+    "real": "Frenkie de Jong",
+    "num": 21,
+    "pos": "MF",
+    "game": "F.de Joung",
+    "pid": 100636,
+    "jersey": 21,
+    "ovr": 87,
+    "sc": 0.917
+   },
+   {
+    "real": "Marc Bernal",
+    "num": 22,
+    "pos": "MF",
+    "game": "Bernel",
+    "pid": 150007,
+    "jersey": 22,
+    "ovr": 73,
+    "sc": 0.875
+   },
+   {
+    "real": "Lamine Yamal",
+    "num": 10,
+    "pos": "FW",
+    "game": "Llamal",
+    "pid": 118884,
+    "jersey": 10,
+    "ovr": 88,
+    "sc": 0.838
+   },
+   {
+    "real": "Raphinha",
+    "num": 11,
+    "pos": "FW",
+    "game": "Raphina",
+    "pid": 103431,
+    "jersey": 11,
+    "ovr": 87,
+    "sc": 1.283
+   },
+   {
+    "real": "Roony Bardghji",
+    "num": 19,
+    "pos": "FW",
+    "game": "R.Bardji",
+    "pid": 144594,
+    "jersey": 19,
+    "ovr": 70,
+    "sc": 0.95
+   }
+  ],
+  "unmatched": [
+   [
+    "Joan Garcia",
+    1,
+    "GK"
+   ],
+   [
+    "Wojciech Szczesny",
+    13,
+    "GK"
+   ],
+   [
+    "Dominik Livakovic",
+    25,
+    "GK"
+   ],
+   [
+    "Alejandro Balde",
+    3,
+    "DF"
+   ],
+   [
+    "Xavi Espart",
+    12,
+    "DF"
+   ],
+   [
+    "Brian Farinas",
+    4,
+    "MF"
+   ],
+   [
+    "Rodri",
+    16,
+    "MF"
+   ],
+   [
+    "Gabriel Jesus",
+    9,
+    "FW"
+   ],
+   [
+    "Karim Adeyemi",
+    14,
+    "FW"
+   ],
+   [
+    "Anthony Gordon",
+    17,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Garsia",
+   "Valde",
+   "F.Lopez",
+   "Casadoh",
+   "R.Alaojo",
+   "Lewamdovski",
+   "Szcsesny",
+   "Roshford"
+  ]
+ },
+ "RealMadrid": {
+  "pairs": [
+   {
+    "real": "Thibaut Courtois",
+    "num": 1,
+    "pos": "GK",
+    "game": "Curtois",
+    "pid": 100100,
+    "jersey": 1,
+    "ovr": 90,
+    "sc": 0.886
+   },
+   {
+    "real": "Eder Militao",
+    "num": 3,
+    "pos": "DF",
+    "game": "E.Miritao",
+    "pid": 100012,
+    "jersey": 3,
+    "ovr": 84,
+    "sc": 0.987
+   },
+   {
+    "real": "Dean Huijsen",
+    "num": 4,
+    "pos": "DF",
+    "game": "D.Huijson",
+    "pid": 133127,
+    "jersey": 24,
+    "ovr": 81,
+    "sc": 0.737
+   },
+   {
+    "real": "Jude Bellingham",
+    "num": 5,
+    "pos": "MF",
+    "game": "Belingham",
+    "pid": 100344,
+    "jersey": 5,
+    "ovr": 91,
+    "sc": 1.033
+   },
+   {
+    "real": "Eduardo Camavinga",
+    "num": 6,
+    "pos": "MF",
+    "game": "Camavainga",
+    "pid": 106801,
+    "jersey": 6,
+    "ovr": 81,
+    "sc": 0.942
+   },
+   {
+    "real": "Vinicius Junior",
+    "num": 7,
+    "pos": "FW",
+    "game": "Vinisius Jr.",
+    "pid": 100008,
+    "jersey": 7,
+    "ovr": 86,
+    "sc": 1.0
+   },
+   {
+    "real": "Federico Valverde",
+    "num": 8,
+    "pos": "MF",
+    "game": "Barverde",
+    "pid": 100997,
+    "jersey": 8,
+    "ovr": 89,
+    "sc": 0.75
+   },
+   {
+    "real": "Kylian Mbappe",
+    "num": 10,
+    "pos": "FW",
+    "game": "Mbape",
+    "pid": 100367,
+    "jersey": 10,
+    "ovr": 91,
+    "sc": 0.838
+   },
+   {
+    "real": "Rodrygo",
+    "num": 11,
+    "pos": "FW",
+    "game": "Rodrigo",
+    "pid": 106802,
+    "jersey": 11,
+    "ovr": 82,
+    "sc": 1.2069999999999999
+   },
+   {
+    "real": "Trent Alexander-Arnold",
+    "num": 12,
+    "pos": "DF",
+    "game": "Alekzander-Arnold",
+    "pid": 100335,
+    "jersey": 12,
+    "ovr": 85,
+    "sc": 1.028
+   },
+   {
+    "real": "Andriy Lunin",
+    "num": 13,
+    "pos": "GK",
+    "game": "Runin",
+    "pid": 104367,
+    "jersey": 13,
+    "ovr": 81,
+    "sc": 0.875
+   },
+   {
+    "real": "Aurelien Tchouameni",
+    "num": 14,
+    "pos": "MF",
+    "game": "Tchuameni",
+    "pid": 103691,
+    "jersey": 14,
+    "ovr": 82,
+    "sc": 0.917
+   },
+   {
+    "real": "Arda Guler",
+    "num": 15,
+    "pos": "MF",
+    "game": "Guler",
+    "pid": 114944,
+    "jersey": 15,
+    "ovr": 80,
+    "sc": 1.1139999999999999
+   },
+   {
+    "real": "Alvaro Carreras",
+    "num": 18,
+    "pos": "DF",
+    "game": "Carreraz",
+    "pid": 150526,
+    "jersey": 18,
+    "ovr": 81,
+    "sc": 0.886
+   },
+   {
+    "real": "Bernardo Silva",
+    "num": 20,
+    "pos": "MF",
+    "game": "F.Garsia",
+    "pid": 107765,
+    "jersey": 20,
+    "ovr": 71,
+    "sc": 0.75
+   },
+   {
+    "real": "Brahim Diaz",
+    "num": 21,
+    "pos": "FW",
+    "game": "Blahim",
+    "pid": 104050,
+    "jersey": 21,
+    "ovr": 78,
+    "sc": 0.875
+   },
+   {
+    "real": "Antonio Rudiger",
+    "num": 22,
+    "pos": "DF",
+    "game": "Rudiger",
+    "pid": 100375,
+    "jersey": 22,
+    "ovr": 81,
+    "sc": 1.067
+   },
+   {
+    "real": "Ferland Mendy",
+    "num": 23,
+    "pos": "DF",
+    "game": "F.Mengdy",
+    "pid": 106800,
+    "jersey": 23,
+    "ovr": 80,
+    "sc": 0.882
+   }
+  ],
+  "unmatched": [
+   [
+    "Raul Asencio",
+    2,
+    "DF"
+   ],
+   [
+    "Endrick",
+    9,
+    "FW"
+   ],
+   [
+    "Ibrahima Konate",
+    16,
+    "DF"
+   ],
+   [
+    "Marc Cucurella",
+    17,
+    "DF"
+   ],
+   [
+    "Carlos Espi",
+    19,
+    "FW"
+   ],
+   [
+    "Denzel Dumfries",
+    24,
+    "DF"
+   ],
+   [
+    "Yan Diomande",
+    25,
+    "FW"
+   ],
+   [
+    "Thiago Pitarch",
+    27,
+    "MF"
+   ]
+  ],
+  "extras": [
+   "Theballos",
+   "Araba",
+   "G.Gaarcía",
+   "Mastantuoni",
+   "F.Goonzález",
+   "Carbajar",
+   "Asancio"
+  ]
+ },
+ "AtleticoMadrid": {
+  "pairs": [
+   {
+    "real": "Juan Musso",
+    "num": 1,
+    "pos": "GK",
+    "game": "Muso",
+    "pid": 104034,
+    "jersey": 1,
+    "ovr": 82,
+    "sc": 0.865
+   },
+   {
+    "real": "Jan Oblak",
+    "num": 13,
+    "pos": "GK",
+    "game": "Orblak",
+    "pid": 101080,
+    "jersey": 13,
+    "ovr": 87,
+    "sc": 0.964
+   },
+   {
+    "real": "David Hancko",
+    "num": 17,
+    "pos": "DF",
+    "game": "Hanko",
+    "pid": 117437,
+    "jersey": 17,
+    "ovr": 84,
+    "sc": 0.875
+   },
+   {
+    "real": "Marc Pubill",
+    "num": 18,
+    "pos": "DF",
+    "game": "Pubilr",
+    "pid": 117741,
+    "jersey": 18,
+    "ovr": 78,
+    "sc": 0.875
+   },
+   {
+    "real": "Robin Le Normand",
+    "num": 24,
+    "pos": "DF",
+    "game": "LeNormad",
+    "pid": 104462,
+    "jersey": 24,
+    "ovr": 83,
+    "sc": 0.977
+   },
+   {
+    "real": "Obed Vargas",
+    "num": 3,
+    "pos": "MF",
+    "game": "Bargas",
+    "pid": 114363,
+    "jersey": 21,
+    "ovr": 74,
+    "sc": 0.75
+   },
+   {
+    "real": "Rodri Mendoza",
+    "num": 4,
+    "pos": "MF",
+    "game": "Mendozo",
+    "pid": 150383,
+    "jersey": 4,
+    "ovr": 68,
+    "sc": 0.882
+   },
+   {
+    "real": "Johnny Cardoso",
+    "num": 5,
+    "pos": "MF",
+    "game": "John",
+    "pid": 119199,
+    "jersey": 5,
+    "ovr": 77,
+    "sc": 0.871
+   },
+   {
+    "real": "Koke",
+    "num": 6,
+    "pos": "MF",
+    "game": "Corke",
+    "pid": 100879,
+    "jersey": 6,
+    "ovr": 80,
+    "sc": 0.917
+   },
+   {
+    "real": "Pablo Barrios",
+    "num": 8,
+    "pos": "MF",
+    "game": "Barios",
+    "pid": 118935,
+    "jersey": 8,
+    "ovr": 83,
+    "sc": 0.917
+   },
+   {
+    "real": "Alex Baena",
+    "num": 10,
+    "pos": "MF",
+    "game": "Baina",
+    "pid": 111062,
+    "jersey": 10,
+    "ovr": 82,
+    "sc": 0.821
+   },
+   {
+    "real": "Marcos Llorente",
+    "num": 14,
+    "pos": "MF",
+    "game": "M.Lrorente",
+    "pid": 100885,
+    "jersey": 14,
+    "ovr": 83,
+    "sc": 0.946
+   },
+   {
+    "real": "Giuliano Simeone",
+    "num": 20,
+    "pos": "MF",
+    "game": "G.Simone",
+    "pid": 108042,
+    "jersey": 20,
+    "ovr": 81,
+    "sc": 0.886
+   },
+   {
+    "real": "Alexander Sorloth",
+    "num": 9,
+    "pos": "FW",
+    "game": "Sorloth",
+    "pid": 101411,
+    "jersey": 9,
+    "ovr": 83,
+    "sc": 1.009
+   },
+   {
+    "real": "Julian Alvarez",
+    "num": 19,
+    "pos": "FW",
+    "game": "J.Alvares",
+    "pid": 105222,
+    "jersey": 19,
+    "ovr": 88,
+    "sc": 0.917
+   }
+  ],
+  "unmatched": [
+   [
+    "Salvi Esquivel",
+    25,
+    "GK"
+   ],
+   [
+    "Cristian Romero",
+    21,
+    "DF"
+   ],
+   [
+    "Alex Grimaldo",
+    22,
+    "DF"
+   ],
+   [
+    "Jorge Dominguez",
+    27,
+    "DF"
+   ],
+   [
+    "Dani Martinez",
+    30,
+    "DF"
+   ],
+   [
+    "Lee Kang-in",
+    7,
+    "MF"
+   ],
+   [
+    "Arnau Ortiz",
+    16,
+    "MF"
+   ],
+   [
+    "Morten Hjulmand",
+    23,
+    "MF"
+   ],
+   [
+    "Ademola Lookman",
+    11,
+    "FW"
+   ],
+   [
+    "Jonathan David",
+    15,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "J.M.Gimenez",
+   "Griesman",
+   "Le",
+   "Lorkman",
+   "Rugery",
+   "Morina",
+   "Lenglat",
+   "Armada",
+   "Cardozo",
+   "Gonzales"
+  ]
+ },
+ "Valencia": {
+  "pairs": [
+   {
+    "real": "Stole Dimitrievski",
+    "num": 1,
+    "pos": "GK",
+    "game": "Dinitreivsky",
+    "pid": 104652,
+    "jersey": 1,
+    "ovr": 77,
+    "sc": 0.871
+   },
+   {
+    "real": "Cristian Rivero",
+    "num": 13,
+    "pos": "GK",
+    "game": "Ribero",
+    "pid": 119090,
+    "jersey": 13,
+    "ovr": 66,
+    "sc": 0.75
+   },
+   {
+    "real": "Jose Copete",
+    "num": 3,
+    "pos": "DF",
+    "game": "Kopethe",
+    "pid": 117249,
+    "jersey": 3,
+    "ovr": 74,
+    "sc": 0.838
+   },
+   {
+    "real": "Cesar Tarrega",
+    "num": 5,
+    "pos": "DF",
+    "game": "Tariga",
+    "pid": 150139,
+    "jersey": 5,
+    "ovr": 74,
+    "sc": 0.806
+   },
+   {
+    "real": "Dimitri Foulquier",
+    "num": 20,
+    "pos": "DF",
+    "game": "Foulquer",
+    "pid": 104578,
+    "jersey": 20,
+    "ovr": 71,
+    "sc": 0.917
+   },
+   {
+    "real": "Arnau Martinez",
+    "num": 22,
+    "pos": "DF",
+    "game": "Sanmaria",
+    "pid": 104948,
+    "jersey": 22,
+    "ovr": 74,
+    "sc": 0.821
+   },
+   {
+    "real": "Guido Rodriguez",
+    "num": 2,
+    "pos": "MF",
+    "game": "G.Rodríguez",
+    "pid": 100061,
+    "jersey": 2,
+    "ovr": 75,
+    "sc": 1.183
+   },
+   {
+    "real": "Javi Guerra",
+    "num": 8,
+    "pos": "MF",
+    "game": "Gera",
+    "pid": 119093,
+    "jersey": 8,
+    "ovr": 74,
+    "sc": 0.821
+   },
+   {
+    "real": "Pepelu",
+    "num": 18,
+    "pos": "MF",
+    "game": "Pereru",
+    "pid": 104701,
+    "jersey": 18,
+    "ovr": 77,
+    "sc": 0.917
+   },
+   {
+    "real": "Filip Ugrinic",
+    "num": 23,
+    "pos": "MF",
+    "game": "Ugriny",
+    "pid": 123046,
+    "jersey": 23,
+    "ovr": 69,
+    "sc": 0.806
+   },
+   {
+    "real": "Umar Sadiq",
+    "num": 6,
+    "pos": "FW",
+    "game": "Sadik",
+    "pid": 104603,
+    "jersey": 6,
+    "ovr": 73,
+    "sc": 0.821
+   },
+   {
+    "real": "Arnaut Danjuma",
+    "num": 7,
+    "pos": "FW",
+    "game": "Danzuma",
+    "pid": 103496,
+    "jersey": 7,
+    "ovr": 74,
+    "sc": 0.85
+   },
+   {
+    "real": "Hugo Duro",
+    "num": 9,
+    "pos": "FW",
+    "game": "H.Dulo",
+    "pid": 106853,
+    "jersey": 9,
+    "ovr": 80,
+    "sc": 0.865
+   },
+   {
+    "real": "Luis Rioja",
+    "num": 11,
+    "pos": "FW",
+    "game": "L.Ryoja",
+    "pid": 104479,
+    "jersey": 11,
+    "ovr": 75,
+    "sc": 0.917
+   },
+   {
+    "real": "Diego Lopez",
+    "num": 16,
+    "pos": "FW",
+    "game": "Lopez",
+    "pid": 119095,
+    "jersey": 16,
+    "ovr": 76,
+    "sc": 1.067
+   },
+   {
+    "real": "Dani Raba",
+    "num": 19,
+    "pos": "FW",
+    "game": "Dany Rava",
+    "pid": 107717,
+    "jersey": 19,
+    "ovr": 75,
+    "sc": 1.0
+   }
+  ],
+  "unmatched": [
+   [
+    "Kayne van Oevelen",
+    25,
+    "GK"
+   ],
+   [
+    "Mouctar Diakhaby",
+    4,
+    "DF"
+   ],
+   [
+    "Justin de Haas",
+    12,
+    "DF"
+   ],
+   [
+    "Jose Gaya",
+    14,
+    "DF"
+   ],
+   [
+    "Jesus Vazquez",
+    21,
+    "DF"
+   ],
+   [
+    "Pablo Maffeo",
+    24,
+    "DF"
+   ],
+   [
+    "Aliou Dieng",
+    15,
+    "MF"
+   ],
+   [
+    "Ryunosuke Sato",
+    39,
+    "MF"
+   ],
+   [
+    "Harvey Elliott",
+    10,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Galla",
+   "Thiery R.",
+   "Boltrán",
+   "Cemert",
+   "Almeda",
+   "Diakaby",
+   "L.Ramasani",
+   "Vaskes",
+   "Nunez",
+   "Aguirrezabala"
+  ]
+ },
+ "Getafe": {
+  "pairs": [
+   {
+    "real": "Jiri Letacek",
+    "num": 1,
+    "pos": "GK",
+    "game": "Letack",
+    "pid": 150134,
+    "jersey": 1,
+    "ovr": 71,
+    "sc": 0.956
+   },
+   {
+    "real": "David Soria",
+    "num": 13,
+    "pos": "GK",
+    "game": "D.Solia",
+    "pid": 104394,
+    "jersey": 13,
+    "ovr": 81,
+    "sc": 0.875
+   },
+   {
+    "real": "Dakonam Djene",
+    "num": 2,
+    "pos": "DF",
+    "game": "Dyene",
+    "pid": 104390,
+    "jersey": 2,
+    "ovr": 77,
+    "sc": 0.721
+   },
+   {
+    "real": "Davinchi",
+    "num": 3,
+    "pos": "DF",
+    "game": "Davenchi",
+    "pid": 172651,
+    "jersey": 26,
+    "ovr": 51,
+    "sc": 0.975
+   },
+   {
+    "real": "Sebastian Boselli",
+    "num": 15,
+    "pos": "DF",
+    "game": "Borseli",
+    "pid": 123616,
+    "jersey": 15,
+    "ovr": 67,
+    "sc": 0.772
+   },
+   {
+    "real": "Kiko Femenia",
+    "num": 17,
+    "pos": "DF",
+    "game": "Kirko F.",
+    "pid": 107722,
+    "jersey": 17,
+    "ovr": 70,
+    "sc": 0.838
+   },
+   {
+    "real": "Zaid Romero",
+    "num": 24,
+    "pos": "DF",
+    "game": "Romeyro",
+    "pid": 117601,
+    "jersey": 24,
+    "ovr": 64,
+    "sc": 0.956
+   },
+   {
+    "real": "Mario Martin",
+    "num": 6,
+    "pos": "MF",
+    "game": "Martyn",
+    "pid": 150163,
+    "jersey": 6,
+    "ovr": 76,
+    "sc": 0.838
+   },
+   {
+    "real": "Juanmi",
+    "num": 7,
+    "pos": "FW",
+    "game": "Juanmy",
+    "pid": 104619,
+    "jersey": 11,
+    "ovr": 79,
+    "sc": 0.933
+   },
+   {
+    "real": "Borja Mayoral",
+    "num": 9,
+    "pos": "FW",
+    "game": "B.Malloral",
+    "pid": 104067,
+    "jersey": 9,
+    "ovr": 74,
+    "sc": 0.917
+   },
+   {
+    "real": "Martin Satriano",
+    "num": 10,
+    "pos": "FW",
+    "game": "Sartriano",
+    "pid": 107618,
+    "jersey": 10,
+    "ovr": 72,
+    "sc": 0.946
+   },
+   {
+    "real": "Andres Garcia",
+    "num": 21,
+    "pos": "FW",
+    "game": "Garsia",
+    "pid": 119012,
+    "jersey": 21,
+    "ovr": 70,
+    "sc": 0.806
+   }
+  ],
+  "unmatched": [
+   [
+    "Saba Sazonov",
+    4,
+    "DF"
+   ],
+   [
+    "Abdel Abqar",
+    5,
+    "DF"
+   ],
+   [
+    "Johan Mojica",
+    22,
+    "DF"
+   ],
+   [
+    "Nemanja Gudelj",
+    8,
+    "MF"
+   ],
+   [
+    "Ramon Terrats",
+    11,
+    "MF"
+   ],
+   [
+    "Francho Serrano",
+    16,
+    "MF"
+   ],
+   [
+    "Orel Mangala",
+    23,
+    "MF"
+   ],
+   [
+    "Enes Unal",
+    19,
+    "FW"
+   ],
+   [
+    "Ivan Azon",
+    20,
+    "FW"
+   ],
+   [
+    "Jean Ives Valou",
+    26,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Lico",
+   "Abkar",
+   "L.Miya",
+   "M.Alambary",
+   "Vazquez",
+   "Gonzares",
+   "Bekehoucha",
+   "Dominguez D.",
+   "Sankris",
+   "Niom",
+   "Camara",
+   "J.Munioz",
+   "J. Igresias",
+   "V.Birmansevic",
+   "Lisa"
+  ]
+ },
+ "Sevilla": {
+  "pairs": [
+   {
+    "real": "Odysseas Vlachodimos",
+    "num": 1,
+    "pos": "GK",
+    "game": "Odyseas",
+    "pid": 100422,
+    "jersey": 1,
+    "ovr": 78,
+    "sc": 0.788
+   },
+   {
+    "real": "Kike Salas",
+    "num": 4,
+    "pos": "DF",
+    "game": "Saras",
+    "pid": 119163,
+    "jersey": 4,
+    "ovr": 74,
+    "sc": 0.821
+   },
+   {
+    "real": "Marco",
+    "num": 23,
+    "pos": "DF",
+    "game": "Marco",
+    "pid": 110879,
+    "jersey": 23,
+    "ovr": 73,
+    "sc": 1.5
+   },
+   {
+    "real": "Peque Fernandez",
+    "num": 10,
+    "pos": "MF",
+    "game": "Fernandez",
+    "pid": 123121,
+    "jersey": 14,
+    "ovr": 72,
+    "sc": 0.933
+   },
+   {
+    "real": "Ruben Vargas",
+    "num": 11,
+    "pos": "FW",
+    "game": "Bargas",
+    "pid": 100914,
+    "jersey": 11,
+    "ovr": 76,
+    "sc": 0.956
+   },
+   {
+    "real": "Chidera Ejuke",
+    "num": 21,
+    "pos": "FW",
+    "game": "Ejukey",
+    "pid": 150022,
+    "jersey": 21,
+    "ovr": 73,
+    "sc": 0.806
+   }
+  ],
+  "unmatched": [
+   [
+    "Fran Gonzalez",
+    13,
+    "GK"
+   ],
+   [
+    "Juan Iglesias",
+    2,
+    "DF"
+   ],
+   [
+    "Julio Diaz",
+    3,
+    "DF"
+   ],
+   [
+    "Andres Castrin",
+    5,
+    "DF"
+   ],
+   [
+    "Arouna Sangante",
+    12,
+    "DF"
+   ],
+   [
+    "Gabriel Suazo",
+    17,
+    "DF"
+   ],
+   [
+    "Jose Angel Carmona",
+    22,
+    "DF"
+   ],
+   [
+    "Lucien Agoume",
+    6,
+    "MF"
+   ],
+   [
+    "Giorgi Kochorashvili",
+    8,
+    "MF"
+   ],
+   [
+    "Manu Bueno",
+    14,
+    "MF"
+   ],
+   [
+    "Jon Guridi",
+    18,
+    "MF"
+   ],
+   [
+    "Youssouf Fofana",
+    24,
+    "MF"
+   ],
+   [
+    "Alfon Gonzalez",
+    7,
+    "FW"
+   ],
+   [
+    "Robbie Ure",
+    9,
+    "FW"
+   ],
+   [
+    "Isaac Romero",
+    16,
+    "FW"
+   ],
+   [
+    "Lucas Stassin",
+    19,
+    "FW"
+   ],
+   [
+    "Felix Correia",
+    20,
+    "FW"
+   ],
+   [
+    "Miguel Sierra",
+    30,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Suaso",
+   "Aspiricueta",
+   "Calmona",
+   "Gudely",
+   "Mende",
+   "Sou",
+   "Januzay",
+   "Alexio",
+   "Maupaey",
+   "Nianzo",
+   "I.Romelo",
+   "Nirland",
+   "F.Kardozo",
+   "Sanchez",
+   "Joldan",
+   "Buono",
+   "Adamz",
+   "Agome",
+   "Castrine",
+   "Gatoni"
+  ]
+ },
+ "Espanyol": {
+  "pairs": [
+   {
+    "real": "Angel Fortuno",
+    "num": 1,
+    "pos": "GK",
+    "game": "Fortino",
+    "pid": 150145,
+    "jersey": 1,
+    "ovr": 65,
+    "sc": 0.882
+   },
+   {
+    "real": "Marko Dmitrovic",
+    "num": 13,
+    "pos": "GK",
+    "game": "Dermitrovic",
+    "pid": 100827,
+    "jersey": 13,
+    "ovr": 81,
+    "sc": 0.97
+   },
+   {
+    "real": "Leandro Cabrera",
+    "num": 6,
+    "pos": "DF",
+    "game": "Cabrela",
+    "pid": 104415,
+    "jersey": 6,
+    "ovr": 74,
+    "sc": 0.821
+   },
+   {
+    "real": "Urko Gonzalez de Zarate",
+    "num": 4,
+    "pos": "MF",
+    "game": "Gonzalez",
+    "pid": 122944,
+    "jersey": 4,
+    "ovr": 76,
+    "sc": 0.971
+   },
+   {
+    "real": "Edu Exposito",
+    "num": 8,
+    "pos": "MF",
+    "game": "E.Exposito",
+    "pid": 104499,
+    "jersey": 8,
+    "ovr": 78,
+    "sc": 1.25
+   },
+   {
+    "real": "Pol Lozano",
+    "num": 10,
+    "pos": "MF",
+    "game": "P.Losano",
+    "pid": 104429,
+    "jersey": 10,
+    "ovr": 76,
+    "sc": 1.0
+   },
+   {
+    "real": "Javi Puado",
+    "num": 7,
+    "pos": "FW",
+    "game": "Puardo",
+    "pid": 106843,
+    "jersey": 7,
+    "ovr": 76,
+    "sc": 0.917
+   },
+   {
+    "real": "Roberto Fernandez",
+    "num": 9,
+    "pos": "FW",
+    "game": "Robert",
+    "pid": 123352,
+    "jersey": 9,
+    "ovr": 76,
+    "sc": 0.945
+   },
+   {
+    "real": "Pere Milla",
+    "num": 11,
+    "pos": "FW",
+    "game": "P.Miya",
+    "pid": 104678,
+    "jersey": 11,
+    "ovr": 76,
+    "sc": 0.821
+   },
+   {
+    "real": "Jofre Carreras",
+    "num": 17,
+    "pos": "FW",
+    "game": "Karreras",
+    "pid": 118797,
+    "jersey": 17,
+    "ovr": 72,
+    "sc": 0.917
+   },
+   {
+    "real": "Kike Garcia",
+    "num": 19,
+    "pos": "FW",
+    "game": "Kirke G.",
+    "pid": 104541,
+    "jersey": 19,
+    "ovr": 76,
+    "sc": 0.875
+   },
+   {
+    "real": "Tyrhys Dolan",
+    "num": 24,
+    "pos": "FW",
+    "game": "Doran",
+    "pid": 108135,
+    "jersey": 24,
+    "ovr": 74,
+    "sc": 0.75
+   }
+  ],
+  "unmatched": [
+   [
+    "Andoni Gorosabel",
+    2,
+    "DF"
+   ],
+   [
+    "Quilindschy Hartman",
+    3,
+    "DF"
+   ],
+   [
+    "Clemens Riedel",
+    5,
+    "DF"
+   ],
+   [
+    "Unai Nunez",
+    14,
+    "DF"
+   ],
+   [
+    "Vanja Drkusic",
+    16,
+    "DF"
+   ],
+   [
+    "Roger Hinojo",
+    21,
+    "DF"
+   ],
+   [
+    "Omar El Hilali",
+    23,
+    "DF"
+   ],
+   [
+    "Gabriel Moscardo",
+    20,
+    "MF"
+   ],
+   [
+    "Alex Calatrava",
+    22,
+    "MF"
+   ],
+   [
+    "Rafel Bauza",
+    26,
+    "MF"
+   ],
+   [
+    "Bryan Zaragoza",
+    15,
+    "FW"
+   ],
+   [
+    "Marcos Fernandez",
+    18,
+    "FW"
+   ],
+   [
+    "Javi Hernandez",
+    28,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Romelo",
+   "Carero",
+   "Hirary",
+   "Picker",
+   "Tellats",
+   "Rieder",
+   "M.Rubbio",
+   "Ngongo",
+   "Rocca",
+   "Sanchez",
+   "Sarinas"
+  ]
+ },
+ "AthleticBilbao": {
+  "pairs": [
+   {
+    "real": "Unai Simon",
+    "num": 1,
+    "pos": "GK",
+    "game": "U.Simon",
+    "pid": 100889,
+    "jersey": 1,
+    "ovr": 85,
+    "sc": 1.05
+   },
+   {
+    "real": "Dani Vivian",
+    "num": 3,
+    "pos": "DF",
+    "game": "D.Viwian",
+    "pid": 106840,
+    "jersey": 3,
+    "ovr": 85,
+    "sc": 0.956
+   },
+   {
+    "real": "Aitor Paredes",
+    "num": 4,
+    "pos": "DF",
+    "game": "Paledes",
+    "pid": 117304,
+    "jersey": 4,
+    "ovr": 80,
+    "sc": 0.882
+   },
+   {
+    "real": "Yeray Alvarez",
+    "num": 5,
+    "pos": "DF",
+    "game": "Yerey",
+    "pid": 104446,
+    "jersey": 5,
+    "ovr": 83,
+    "sc": 0.721
+   },
+   {
+    "real": "Jesus Areso",
+    "num": 12,
+    "pos": "DF",
+    "game": "Arezo",
+    "pid": 118992,
+    "jersey": 12,
+    "ovr": 74,
+    "sc": 0.783
+   },
+   {
+    "real": "Aymeric Laporte",
+    "num": 14,
+    "pos": "DF",
+    "game": "Raporte",
+    "pid": 100883,
+    "jersey": 14,
+    "ovr": 81,
+    "sc": 0.917
+   },
+   {
+    "real": "Yuri Berchiche",
+    "num": 17,
+    "pos": "DF",
+    "game": "Verchiche",
+    "pid": 117303,
+    "jersey": 17,
+    "ovr": 80,
+    "sc": 0.977
+   },
+   {
+    "real": "Oihan Sancet",
+    "num": 8,
+    "pos": "MF",
+    "game": "O.Sanset",
+    "pid": 106837,
+    "jersey": 8,
+    "ovr": 84,
+    "sc": 0.917
+   },
+   {
+    "real": "Inigo Ruiz de Galarreta",
+    "num": 16,
+    "pos": "MF",
+    "game": "R.De Gararleta",
+    "pid": 104564,
+    "jersey": 16,
+    "ovr": 79,
+    "sc": 0.875
+   },
+   {
+    "real": "Mikel Jauregizar",
+    "num": 18,
+    "pos": "MF",
+    "game": "Jaurizar",
+    "pid": 150133,
+    "jersey": 18,
+    "ovr": 83,
+    "sc": 0.946
+   },
+   {
+    "real": "Alex Berenguer",
+    "num": 7,
+    "pos": "FW",
+    "game": "Berenger",
+    "pid": 104443,
+    "jersey": 7,
+    "ovr": 79,
+    "sc": 1.012
+   },
+   {
+    "real": "Inaki Williams",
+    "num": 9,
+    "pos": "FW",
+    "game": "Willians",
+    "pid": 104441,
+    "jersey": 9,
+    "ovr": 82,
+    "sc": 0.917
+   },
+   {
+    "real": "Gorka Guruzeta",
+    "num": 11,
+    "pos": "FW",
+    "game": "Gureseta",
+    "pid": 117305,
+    "jersey": 11,
+    "ovr": 78,
+    "sc": 0.821
+   },
+   {
+    "real": "Maroan Sannadi",
+    "num": 21,
+    "pos": "FW",
+    "game": "M.Sanadi",
+    "pid": 171759,
+    "jersey": 21,
+    "ovr": 68,
+    "sc": 0.95
+   },
+   {
+    "real": "Nico Serrano",
+    "num": 22,
+    "pos": "FW",
+    "game": "Serano",
+    "pid": 123495,
+    "jersey": 22,
+    "ovr": 62,
+    "sc": 0.956
+   },
+   {
+    "real": "Robert Navarro",
+    "num": 23,
+    "pos": "FW",
+    "game": "Navaro",
+    "pid": 119027,
+    "jersey": 23,
+    "ovr": 74,
+    "sc": 0.882
+   }
+  ],
+  "unmatched": [
+   [
+    "Alex Padilla",
+    13,
+    "GK"
+   ],
+   [
+    "Mikel Santos",
+    26,
+    "GK"
+   ],
+   [
+    "Hugo Rincon",
+    15,
+    "DF"
+   ],
+   [
+    "Unai Egiluz",
+    -1,
+    "DF"
+   ],
+   [
+    "Iker Monreal",
+    30,
+    "DF"
+   ],
+   [
+    "Johaneko Louis-Jean",
+    31,
+    "DF"
+   ],
+   [
+    "Benat Prados",
+    6,
+    "MF"
+   ],
+   [
+    "Alejandro Rego",
+    20,
+    "MF"
+   ],
+   [
+    "Benat Gerenabarrena",
+    24,
+    "MF"
+   ],
+   [
+    "Peio Canales",
+    28,
+    "MF"
+   ],
+   [
+    "Selton Sanchez",
+    44,
+    "MF"
+   ],
+   [
+    "Nico Williams",
+    10,
+    "FW"
+   ],
+   [
+    "Alvaro Djalo",
+    25,
+    "FW"
+   ],
+   [
+    "Asier Hierro",
+    29,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Vega",
+   "Boero",
+   "Patilla",
+   "Iseta",
+   "B.Pratos",
+   "Eguilluz",
+   "I.Rekue",
+   "Gomez",
+   "Golozabel"
+  ]
+ },
+ "RealSociedad": {
+  "pairs": [
+   {
+    "real": "Alex Remiro",
+    "num": 1,
+    "pos": "GK",
+    "game": "A.Remilo",
+    "pid": 104460,
+    "jersey": 1,
+    "ovr": 84,
+    "sc": 0.956
+   },
+   {
+    "real": "Unai Marrero",
+    "num": 13,
+    "pos": "GK",
+    "game": "Marelo",
+    "pid": 122942,
+    "jersey": 13,
+    "ovr": 71,
+    "sc": 0.838
+   },
+   {
+    "real": "Jon Aramburu",
+    "num": 2,
+    "pos": "DF",
+    "game": "Alamboru",
+    "pid": 109787,
+    "jersey": 2,
+    "ovr": 77,
+    "sc": 0.882
+   },
+   {
+    "real": "Aihen Munoz",
+    "num": 3,
+    "pos": "DF",
+    "game": "Munioz",
+    "pid": 111039,
+    "jersey": 3,
+    "ovr": 73,
+    "sc": 0.875
+   },
+   {
+    "real": "Igor Zubeldia",
+    "num": 5,
+    "pos": "DF",
+    "game": "Suberdia",
+    "pid": 104463,
+    "jersey": 5,
+    "ovr": 75,
+    "sc": 0.85
+   },
+   {
+    "real": "Alvaro Odriozola",
+    "num": 20,
+    "pos": "DF",
+    "game": "Odriosora",
+    "pid": 122943,
+    "jersey": 20,
+    "ovr": 71,
+    "sc": 0.833
+   },
+   {
+    "real": "Jon Gorrotxategi",
+    "num": 4,
+    "pos": "MF",
+    "game": "Gorotxategi",
+    "pid": 150570,
+    "jersey": 4,
+    "ovr": 70,
+    "sc": 1.196
+   },
+   {
+    "real": "Benat Turrientes",
+    "num": 8,
+    "pos": "MF",
+    "game": "Turientes",
+    "pid": 107695,
+    "jersey": 8,
+    "ovr": 71,
+    "sc": 1.0
+   },
+   {
+    "real": "Pablo Marin",
+    "num": 15,
+    "pos": "MF",
+    "game": "Marin",
+    "pid": 122947,
+    "jersey": 15,
+    "ovr": 71,
+    "sc": 1.067
+   },
+   {
+    "real": "Sergio Gomez",
+    "num": 17,
+    "pos": "MF",
+    "game": "S.Gomez",
+    "pid": 102078,
+    "jersey": 17,
+    "ovr": 75,
+    "sc": 0.956
+   },
+   {
+    "real": "Carlos Soler",
+    "num": 18,
+    "pos": "MF",
+    "game": "C.Sorer",
+    "pid": 104380,
+    "jersey": 18,
+    "ovr": 75,
+    "sc": 0.838
+   },
+   {
+    "real": "Yangel Herrera",
+    "num": 21,
+    "pos": "MF",
+    "game": "Errera",
+    "pid": 109338,
+    "jersey": 4,
+    "ovr": 80,
+    "sc": 0.782
+   },
+   {
+    "real": "Arsen Zakharyan",
+    "num": 23,
+    "pos": "MF",
+    "game": "Zakaryan",
+    "pid": 122946,
+    "jersey": 21,
+    "ovr": 72,
+    "sc": 0.727
+   },
+   {
+    "real": "Luka Sucic",
+    "num": 24,
+    "pos": "MF",
+    "game": "Susic",
+    "pid": 111332,
+    "jersey": 24,
+    "ovr": 74,
+    "sc": 0.821
+   },
+   {
+    "real": "Ander Barrenetxea",
+    "num": 7,
+    "pos": "FW",
+    "game": "Barenetksea",
+    "pid": 117683,
+    "jersey": 7,
+    "ovr": 76,
+    "sc": 0.917
+   },
+   {
+    "real": "Orri Oskarsson",
+    "num": 9,
+    "pos": "FW",
+    "game": "O.Óskarson",
+    "pid": 144595,
+    "jersey": 9,
+    "ovr": 74,
+    "sc": 1.1680000000000001
+   },
+   {
+    "real": "Mikel Oyarzabal",
+    "num": 10,
+    "pos": "FW",
+    "game": "Ollarsaval",
+    "pid": 100888,
+    "jersey": 10,
+    "ovr": 83,
+    "sc": 0.75
+   },
+   {
+    "real": "Goncalo Guedes",
+    "num": 11,
+    "pos": "FW",
+    "game": "Gedes",
+    "pid": 100749,
+    "jersey": 11,
+    "ovr": 75,
+    "sc": 0.806
+   },
+   {
+    "real": "Takefusa Kubo",
+    "num": 14,
+    "pos": "FW",
+    "game": "Takke",
+    "pid": 100561,
+    "jersey": 14,
+    "ovr": 79,
+    "sc": 0.721
+   }
+  ],
+  "unmatched": [
+   [
+    "Jon Martin",
+    6,
+    "DF"
+   ],
+   [
+    "Jon Pacheco",
+    16,
+    "DF"
+   ],
+   [
+    "Mamadou Sarr",
+    19,
+    "DF"
+   ],
+   [
+    "Hector Fort",
+    22,
+    "DF"
+   ],
+   [
+    "Job Ochieng",
+    12,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Marten",
+   "B. Mendez",
+   "Caleta-Tsar",
+   "Carrikaburu",
+   "Weasley",
+   "Arits"
+  ]
+ },
+ "Alaves": {
+  "pairs": [
+   {
+    "real": "Antonio Sivera",
+    "num": 1,
+    "pos": "GK",
+    "game": "Silvera",
+    "pid": 107696,
+    "jersey": 1,
+    "ovr": 79,
+    "sc": 0.85
+   },
+   {
+    "real": "Youssef Enriquez",
+    "num": 3,
+    "pos": "DF",
+    "game": "Y.Enrique",
+    "pid": 172659,
+    "jersey": 3,
+    "ovr": 66,
+    "sc": 0.946
+   },
+   {
+    "real": "Nahuel Tenaglia",
+    "num": 14,
+    "pos": "DF",
+    "game": "N.Tenagya",
+    "pid": 107700,
+    "jersey": 14,
+    "ovr": 75,
+    "sc": 0.886
+   },
+   {
+    "real": "Jonny Otto",
+    "num": 17,
+    "pos": "DF",
+    "game": "J.Otor",
+    "pid": 143081,
+    "jersey": 17,
+    "ovr": 71,
+    "sc": 0.821
+   },
+   {
+    "real": "Denis Suarez",
+    "num": 4,
+    "pos": "MF",
+    "game": "D.Suares",
+    "pid": 104630,
+    "jersey": 4,
+    "ovr": 76,
+    "sc": 0.917
+   },
+   {
+    "real": "Ander Guevara",
+    "num": 6,
+    "pos": "MF",
+    "game": "Guewara",
+    "pid": 104465,
+    "jersey": 6,
+    "ovr": 75,
+    "sc": 0.882
+   },
+   {
+    "real": "Antonio Blanco",
+    "num": 8,
+    "pos": "MF",
+    "game": "Blanko",
+    "pid": 117331,
+    "jersey": 8,
+    "ovr": 73,
+    "sc": 0.776
+   },
+   {
+    "real": "Carles Alena",
+    "num": 10,
+    "pos": "MF",
+    "game": "Alena",
+    "pid": 104395,
+    "jersey": 10,
+    "ovr": 75,
+    "sc": 1.025
+   },
+   {
+    "real": "Pablo Ibanez",
+    "num": 19,
+    "pos": "MF",
+    "game": "Ibarez",
+    "pid": 118994,
+    "jersey": 19,
+    "ovr": 71,
+    "sc": 0.838
+   },
+   {
+    "real": "Mariano Diaz",
+    "num": 9,
+    "pos": "FW",
+    "game": "Maliano",
+    "pid": 111035,
+    "jersey": 9,
+    "ovr": 70,
+    "sc": 0.917
+   },
+   {
+    "real": "Toni Martinez",
+    "num": 11,
+    "pos": "FW",
+    "game": "Martinez",
+    "pid": 123540,
+    "jersey": 11,
+    "ovr": 74,
+    "sc": 1.2
+   },
+   {
+    "real": "Lucas Boye",
+    "num": 15,
+    "pos": "FW",
+    "game": "L.Boyer",
+    "pid": 104676,
+    "jersey": 15,
+    "ovr": 70,
+    "sc": 0.917
+   },
+   {
+    "real": "Abde Rebbach",
+    "num": 21,
+    "pos": "FW",
+    "game": "Rebach",
+    "pid": 123052,
+    "jersey": 21,
+    "ovr": 65,
+    "sc": 0.956
+   }
+  ],
+  "unmatched": [
+   [
+    "Adrian Rodriguez",
+    13,
+    "GK"
+   ],
+   [
+    "Gregoire Swiderski",
+    31,
+    "GK"
+   ],
+   [
+    "Nicolas Valentini",
+    2,
+    "DF"
+   ],
+   [
+    "Facundo Garces",
+    5,
+    "DF"
+   ],
+   [
+    "Hugo Novoa",
+    12,
+    "DF"
+   ],
+   [
+    "Ville Koski",
+    16,
+    "DF"
+   ],
+   [
+    "Xanet Olaiz",
+    27,
+    "DF"
+   ],
+   [
+    "Angel Perez",
+    7,
+    "MF"
+   ],
+   [
+    "Mikel Rodriguez",
+    18,
+    "MF"
+   ],
+   [
+    "Miguel Rodriguez",
+    22,
+    "MF"
+   ],
+   [
+    "Carlos Protesoni",
+    23,
+    "MF"
+   ],
+   [
+    "Selu Diallo",
+    24,
+    "MF"
+   ],
+   [
+    "Izei Hernandez",
+    29,
+    "MF"
+   ],
+   [
+    "Aitor Manas",
+    20,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Pacheko",
+   "Garcéz",
+   "Caleve",
+   "Á.Péres",
+   "Guridy",
+   "V.Kosković",
+   "Raur F.",
+   "Parata",
+   "Benavidez",
+   "I.Deabade"
+  ]
+ },
+ "Villarreal": {
+  "pairs": [
+   {
+    "real": "Luiz Junior",
+    "num": 1,
+    "pos": "GK",
+    "game": "Junior R.",
+    "pid": 106977,
+    "jersey": 1,
+    "ovr": 77,
+    "sc": 0.956
+   },
+   {
+    "real": "Logan Costa",
+    "num": 2,
+    "pos": "DF",
+    "game": "L.Cozta",
+    "pid": 117234,
+    "jersey": 2,
+    "ovr": 74,
+    "sc": 0.875
+   },
+   {
+    "real": "Alex Freeman",
+    "num": 3,
+    "pos": "DF",
+    "game": "Free",
+    "pid": 124011,
+    "jersey": 3,
+    "ovr": 67,
+    "sc": 0.933
+   },
+   {
+    "real": "Pau Navarro",
+    "num": 6,
+    "pos": "DF",
+    "game": "Navarou",
+    "pid": 150529,
+    "jersey": 6,
+    "ovr": 69,
+    "sc": 0.956
+   },
+   {
+    "real": "Juan Foyth",
+    "num": 8,
+    "pos": "DF",
+    "game": "Foyt",
+    "pid": 100067,
+    "jersey": 8,
+    "ovr": 78,
+    "sc": 1.0150000000000001
+   },
+   {
+    "real": "Renato Veiga",
+    "num": 12,
+    "pos": "DF",
+    "game": "Vaiga",
+    "pid": 125394,
+    "jersey": 12,
+    "ovr": 76,
+    "sc": 0.75
+   },
+   {
+    "real": "Santiago Mourino",
+    "num": 15,
+    "pos": "DF",
+    "game": "Mourinio",
+    "pid": 119042,
+    "jersey": 15,
+    "ovr": 73,
+    "sc": 0.859
+   },
+   {
+    "real": "Sergi Cardona",
+    "num": 23,
+    "pos": "DF",
+    "game": "S.Caltona",
+    "pid": 107895,
+    "jersey": 23,
+    "ovr": 76,
+    "sc": 0.85
+   },
+   {
+    "real": "Santi Comesana",
+    "num": 14,
+    "pos": "MF",
+    "game": "Santy C. V.",
+    "pid": 104657,
+    "jersey": 14,
+    "ovr": 79,
+    "sc": 0.75
+   },
+   {
+    "real": "Tajon Buchanan",
+    "num": 17,
+    "pos": "MF",
+    "game": "T.Buchnan",
+    "pid": 111440,
+    "jersey": 17,
+    "ovr": 73,
+    "sc": 1.012
+   },
+   {
+    "real": "Pape Gueye",
+    "num": 18,
+    "pos": "MF",
+    "game": "P.Geye",
+    "pid": 111424,
+    "jersey": 18,
+    "ovr": 78,
+    "sc": 0.964
+   },
+   {
+    "real": "Gerard Moreno",
+    "num": 7,
+    "pos": "FW",
+    "game": "Gelard",
+    "pid": 100881,
+    "jersey": 7,
+    "ovr": 80,
+    "sc": 0.806
+   },
+   {
+    "real": "Georges Mikautadze",
+    "num": 9,
+    "pos": "FW",
+    "game": "Mikautadse",
+    "pid": 117493,
+    "jersey": 9,
+    "ovr": 75,
+    "sc": 0.917
+   },
+   {
+    "real": "Tani Oluwaseyi",
+    "num": 21,
+    "pos": "FW",
+    "game": "Oluwasey",
+    "pid": 118040,
+    "jersey": 21,
+    "ovr": 63,
+    "sc": 1.162
+   },
+   {
+    "real": "Ayoze Perez",
+    "num": 22,
+    "pos": "FW",
+    "game": "Alloze",
+    "pid": 103325,
+    "jersey": 22,
+    "ovr": 83,
+    "sc": 0.75
+   }
+  ],
+  "unmatched": [
+   [
+    "Ruben Gomez",
+    13,
+    "GK"
+   ],
+   [
+    "Peter Gulacsi",
+    25,
+    "GK"
+   ],
+   [
+    "Carlos Romero",
+    20,
+    "DF"
+   ],
+   [
+    "Alassane Diatta",
+    5,
+    "MF"
+   ],
+   [
+    "Alberto Moleiro",
+    10,
+    "MF"
+   ],
+   [
+    "Carlos Macia",
+    16,
+    "MF"
+   ],
+   [
+    "Nathan Saliba",
+    24,
+    "MF"
+   ],
+   [
+    "Ilias Akhomach",
+    11,
+    "FW"
+   ],
+   [
+    "Nicolas Pepe",
+    19,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "A.Pedrasa",
+   "Marin",
+   "Morero",
+   "Pape",
+   "W.Kanbwala",
+   "Valu",
+   "Cabanez",
+   "T.Konde",
+   "Tomas",
+   "Tenis",
+   "Gomes",
+   "Gonsalez",
+   "Palejo"
+  ]
+ },
+ "Osasuna": {
+  "pairs": [
+   {
+    "real": "Sergio Herrera",
+    "num": 1,
+    "pos": "GK",
+    "game": "S.Errera",
+    "pid": 104549,
+    "jersey": 1,
+    "ovr": 80,
+    "sc": 0.95
+   },
+   {
+    "real": "Jorge Herrando",
+    "num": 5,
+    "pos": "DF",
+    "game": "Herando",
+    "pid": 118991,
+    "jersey": 5,
+    "ovr": 74,
+    "sc": 0.95
+   },
+   {
+    "real": "Valentin Rosier",
+    "num": 19,
+    "pos": "DF",
+    "game": "Rocier",
+    "pid": 102136,
+    "jersey": 19,
+    "ovr": 74,
+    "sc": 0.75
+   },
+   {
+    "real": "Enzo Boyomo",
+    "num": 22,
+    "pos": "DF",
+    "game": "Boiomo",
+    "pid": 107797,
+    "jersey": 22,
+    "ovr": 76,
+    "sc": 0.875
+   },
+   {
+    "real": "Abel Bretones",
+    "num": 23,
+    "pos": "DF",
+    "game": "Bretones",
+    "pid": 119000,
+    "jersey": 23,
+    "ovr": 69,
+    "sc": 1.2
+   },
+   {
+    "real": "Alejandro Catena",
+    "num": 24,
+    "pos": "DF",
+    "game": "Katena",
+    "pid": 104661,
+    "jersey": 24,
+    "ovr": 76,
+    "sc": 0.726
+   },
+   {
+    "real": "Lucas Torro",
+    "num": 6,
+    "pos": "MF",
+    "game": "Torro",
+    "pid": 104545,
+    "jersey": 6,
+    "ovr": 74,
+    "sc": 1.067
+   },
+   {
+    "real": "Jon Moncayola",
+    "num": 7,
+    "pos": "MF",
+    "game": "Monkallora",
+    "pid": 107726,
+    "jersey": 7,
+    "ovr": 76,
+    "sc": 0.795
+   },
+   {
+    "real": "Iker Munoz",
+    "num": 8,
+    "pos": "MF",
+    "game": "Munios",
+    "pid": 118993,
+    "jersey": 8,
+    "ovr": 70,
+    "sc": 0.783
+   },
+   {
+    "real": "Moi Gomez",
+    "num": 16,
+    "pos": "MF",
+    "game": "Moy Gomes",
+    "pid": 104533,
+    "jersey": 16,
+    "ovr": 78,
+    "sc": 1.0
+   },
+   {
+    "real": "Raul Garcia",
+    "num": 9,
+    "pos": "FW",
+    "game": "R.Garsia",
+    "pid": 107972,
+    "jersey": 9,
+    "ovr": 71,
+    "sc": 0.956
+   },
+   {
+    "real": "Kike Barja",
+    "num": 11,
+    "pos": "FW",
+    "game": "K.Balja",
+    "pid": 104550,
+    "jersey": 11,
+    "ovr": 69,
+    "sc": 0.917
+   },
+   {
+    "real": "Ante Budimir",
+    "num": 17,
+    "pos": "FW",
+    "game": "Budimil",
+    "pid": 104536,
+    "jersey": 17,
+    "ovr": 83,
+    "sc": 0.917
+   },
+   {
+    "real": "Raul Moro",
+    "num": 18,
+    "pos": "FW",
+    "game": "Molo",
+    "pid": 117480,
+    "jersey": 18,
+    "ovr": 69,
+    "sc": 0.75
+   }
+  ],
+  "unmatched": [
+   [
+    "Aitor Fernandez",
+    13,
+    "GK"
+   ],
+   [
+    "Diego Rico",
+    15,
+    "DF"
+   ],
+   [
+    "Inigo Arguibide",
+    27,
+    "DF"
+   ],
+   [
+    "Rockson Yeboah",
+    48,
+    "DF"
+   ],
+   [
+    "Aimar Oroz",
+    10,
+    "MF"
+   ],
+   [
+    "Mauro Echegoyen",
+    26,
+    "MF"
+   ],
+   [
+    "Asier Osambela",
+    29,
+    "MF"
+   ],
+   [
+    "Ruben Garcia",
+    14,
+    "MF"
+   ],
+   [
+    "Romain Del Castillo",
+    20,
+    "FW"
+   ],
+   [
+    "Jonathan Dubasin",
+    21,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "J.Crus",
+   "Oros",
+   "Aitol",
+   "V.Munoz",
+   "Benido",
+   "J.Garan"
+  ]
+ },
+ "RealBetis": {
+  "pairs": [
+   {
+    "real": "Alvaro Valles",
+    "num": 1,
+    "pos": "GK",
+    "game": "A.Vayes",
+    "pid": 107894,
+    "jersey": 1,
+    "ovr": 80,
+    "sc": 0.806
+   },
+   {
+    "real": "Hector Bellerin",
+    "num": 2,
+    "pos": "DF",
+    "game": "Berlerin",
+    "pid": 103280,
+    "jersey": 2,
+    "ovr": 74,
+    "sc": 0.886
+   },
+   {
+    "real": "Diego Llorente",
+    "num": 3,
+    "pos": "DF",
+    "game": "Lrorente R.",
+    "pid": 103427,
+    "jersey": 3,
+    "ovr": 80,
+    "sc": 0.886
+   },
+   {
+    "real": "Natan",
+    "num": 4,
+    "pos": "DF",
+    "game": "Nadan",
+    "pid": 119816,
+    "jersey": 4,
+    "ovr": 76,
+    "sc": 1.05
+   },
+   {
+    "real": "Marc Bartra",
+    "num": 5,
+    "pos": "DF",
+    "game": "Baltra",
+    "pid": 114910,
+    "jersey": 5,
+    "ovr": 80,
+    "sc": 0.875
+   },
+   {
+    "real": "Angel Ortiz",
+    "num": 12,
+    "pos": "DF",
+    "game": "A.Ortiz",
+    "pid": 172663,
+    "jersey": 40,
+    "ovr": 68,
+    "sc": 0.75
+   },
+   {
+    "real": "Pablo Fornals",
+    "num": 8,
+    "pos": "MF",
+    "game": "Fornars",
+    "pid": 111003,
+    "jersey": 8,
+    "ovr": 79,
+    "sc": 0.882
+   },
+   {
+    "real": "Alvaro Fidalgo",
+    "num": 15,
+    "pos": "MF",
+    "game": "Fidargo",
+    "pid": 114682,
+    "jersey": 15,
+    "ovr": 77,
+    "sc": 0.85
+   },
+   {
+    "real": "Rodrigo Riquelme",
+    "num": 17,
+    "pos": "MF",
+    "game": "Rikelme",
+    "pid": 109332,
+    "jersey": 17,
+    "ovr": 70,
+    "sc": 0.795
+   },
+   {
+    "real": "Nelson Deossa",
+    "num": 18,
+    "pos": "MF",
+    "game": "Deosa",
+    "pid": 151331,
+    "jersey": 18,
+    "ovr": 73,
+    "sc": 0.838
+   },
+   {
+    "real": "Giovanni Lo Celso",
+    "num": 20,
+    "pos": "MF",
+    "game": "Lo Cerso",
+    "pid": 100062,
+    "jersey": 20,
+    "ovr": 80,
+    "sc": 0.795
+   },
+   {
+    "real": "Marc Roca",
+    "num": 21,
+    "pos": "MF",
+    "game": "Roka",
+    "pid": 104803,
+    "jersey": 21,
+    "ovr": 72,
+    "sc": 0.75
+   },
+   {
+    "real": "Isco",
+    "num": 22,
+    "pos": "MF",
+    "game": "Isko",
+    "pid": 104362,
+    "jersey": 22,
+    "ovr": 80,
+    "sc": 1.0
+   },
+   {
+    "real": "Antony",
+    "num": 7,
+    "pos": "FW",
+    "game": "Antoni",
+    "pid": 102198,
+    "jersey": 7,
+    "ovr": 78,
+    "sc": 1.183
+   },
+   {
+    "real": "Cucho Hernandez",
+    "num": 9,
+    "pos": "FW",
+    "game": "Hernandez",
+    "pid": 114005,
+    "jersey": 19,
+    "ovr": 78,
+    "sc": 0.933
+   },
+   {
+    "real": "Abde Ezzalzouli",
+    "num": 10,
+    "pos": "FW",
+    "game": "Ezzalzuli",
+    "pid": 111450,
+    "jersey": 10,
+    "ovr": 73,
+    "sc": 1.033
+   },
+   {
+    "real": "Aitor Ruibal",
+    "num": 24,
+    "pos": "FW",
+    "game": "Ruiber",
+    "pid": 111043,
+    "jersey": 24,
+    "ovr": 74,
+    "sc": 0.721
+   }
+  ],
+  "unmatched": [
+   [
+    "Diego Conde",
+    13,
+    "GK"
+   ],
+   [
+    "Fran Garcia",
+    11,
+    "DF"
+   ],
+   [
+    "Valentin Gomez",
+    16,
+    "DF"
+   ],
+   [
+    "Junior Firpo",
+    23,
+    "DF"
+   ],
+   [
+    "Facundo Bernal",
+    6,
+    "MF"
+   ],
+   [
+    "Dani Ceballos",
+    25,
+    "MF"
+   ],
+   [
+    "Iker Losada",
+    14,
+    "FW"
+   ],
+   [
+    "Troy Parrott",
+    19,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Rodriguez",
+   "C.Hernándes",
+   "Gómes",
+   "P.Garcia",
+   "Artimira",
+   "C.Avila",
+   "Ferro",
+   "P.Lopes",
+   "Amlabart",
+   "Bakannu",
+   "Adliano"
+  ]
+ },
+ "CeltaVigo": {
+  "pairs": [
+   {
+    "real": "Ivan Villar",
+    "num": 25,
+    "pos": "GK",
+    "game": "M.Vidall",
+    "pid": 172665,
+    "jersey": 25,
+    "ovr": 66,
+    "sc": 0.721
+   },
+   {
+    "real": "Carl Starfelt",
+    "num": 2,
+    "pos": "DF",
+    "game": "Stalfelt",
+    "pid": 119635,
+    "jersey": 2,
+    "ovr": 77,
+    "sc": 0.95
+   },
+   {
+    "real": "Sergio Carreira",
+    "num": 5,
+    "pos": "DF",
+    "game": "Carriera",
+    "pid": 119037,
+    "jersey": 5,
+    "ovr": 76,
+    "sc": 0.886
+   },
+   {
+    "real": "Javi Rueda",
+    "num": 17,
+    "pos": "DF",
+    "game": "Lueda",
+    "pid": 109747,
+    "jersey": 17,
+    "ovr": 69,
+    "sc": 0.821
+   },
+   {
+    "real": "Javi Rodriguez",
+    "num": 20,
+    "pos": "DF",
+    "game": "J.Rodrígues",
+    "pid": 147345,
+    "jersey": 32,
+    "ovr": 76,
+    "sc": 0.783
+   },
+   {
+    "real": "Ilaix Moriba",
+    "num": 6,
+    "pos": "MF",
+    "game": "Moliba",
+    "pid": 111054,
+    "jersey": 6,
+    "ovr": 77,
+    "sc": 0.838
+   },
+   {
+    "real": "Jones El-Abdellaoui",
+    "num": 39,
+    "pos": "FW",
+    "game": "Abdelaoui",
+    "pid": 172668,
+    "jersey": 39,
+    "ovr": 66,
+    "sc": 0.942
+   },
+   {
+    "real": "Borja Iglesias",
+    "num": 7,
+    "pos": "FW",
+    "game": "B.Igrecias",
+    "pid": 104626,
+    "jersey": 7,
+    "ovr": 80,
+    "sc": 0.886
+   },
+   {
+    "real": "Iago Aspas",
+    "num": 10,
+    "pos": "FW",
+    "game": "I.Aspars",
+    "pid": 104627,
+    "jersey": 10,
+    "ovr": 82,
+    "sc": 1.0
+   },
+   {
+    "real": "Williot Swedberg",
+    "num": 19,
+    "pos": "FW",
+    "game": "Sverberg",
+    "pid": 107759,
+    "jersey": 19,
+    "ovr": 71,
+    "sc": 0.772
+   },
+   {
+    "real": "Hugo Alvarez",
+    "num": 23,
+    "pos": "FW",
+    "game": "Alvares",
+    "pid": 150030,
+    "jersey": 23,
+    "ovr": 71,
+    "sc": 0.917
+   }
+  ],
+  "unmatched": [
+   [
+    "Altay Bayindir",
+    1,
+    "GK"
+   ],
+   [
+    "Ionut Radu",
+    13,
+    "GK"
+   ],
+   [
+    "Marcos Alonso",
+    3,
+    "DF"
+   ],
+   [
+    "Abdoulaye Faye",
+    4,
+    "DF"
+   ],
+   [
+    "Alvaro Nunez",
+    15,
+    "DF"
+   ],
+   [
+    "Yoel Lago",
+    18,
+    "DF"
+   ],
+   [
+    "Sebastian Caceres",
+    21,
+    "DF"
+   ],
+   [
+    "Javi Galan",
+    22,
+    "DF"
+   ],
+   [
+    "Miguel Roman",
+    8,
+    "MF"
+   ],
+   [
+    "Aleix Febas",
+    14,
+    "MF"
+   ],
+   [
+    "Ferran Jutgla",
+    9,
+    "FW"
+   ],
+   [
+    "Pablo Duran",
+    11,
+    "FW"
+   ],
+   [
+    "Hugo Gonzalez",
+    16,
+    "FW"
+   ],
+   [
+    "Couhaib Driouech",
+    24,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Ladu",
+   "Malcos A.",
+   "O.Minguesa",
+   "M.Roman",
+   "F.López",
+   "Jurgra",
+   "F.Cersi",
+   "Durant",
+   "Dominguez",
+   "I.Villal",
+   "Vesino",
+   "Aidu Jr.",
+   "Ristich",
+   "Núñes",
+   "Zotero",
+   "Y.Laago",
+   "M.Fernandes"
+  ]
+ },
+ "RayoVallecano": {
+  "pairs": [
+   {
+    "real": "Dani Cardenas",
+    "num": 1,
+    "pos": "GK",
+    "game": "Cartenas",
+    "pid": 104702,
+    "jersey": 1,
+    "ovr": 74,
+    "sc": 0.95
+   },
+   {
+    "real": "Augusto Batalla",
+    "num": 13,
+    "pos": "GK",
+    "game": "Bataya",
+    "pid": 105314,
+    "jersey": 13,
+    "ovr": 80,
+    "sc": 0.75
+   },
+   {
+    "real": "Andrei Ratiu",
+    "num": 2,
+    "pos": "DF",
+    "game": "Ratiq",
+    "pid": 104720,
+    "jersey": 2,
+    "ovr": 70,
+    "sc": 0.75
+   },
+   {
+    "real": "Luiz Felipe",
+    "num": 5,
+    "pos": "DF",
+    "game": "Felippe",
+    "pid": 118826,
+    "jersey": 5,
+    "ovr": 72,
+    "sc": 0.956
+   },
+   {
+    "real": "Ivan Balliu",
+    "num": 20,
+    "pos": "DF",
+    "game": "Baliu",
+    "pid": 104649,
+    "jersey": 20,
+    "ovr": 71,
+    "sc": 0.917
+   },
+   {
+    "real": "Florian Lejeune",
+    "num": 24,
+    "pos": "DF",
+    "game": "Lejean",
+    "pid": 104468,
+    "jersey": 24,
+    "ovr": 79,
+    "sc": 0.75
+   },
+   {
+    "real": "Jozhua Vertrouwd",
+    "num": 33,
+    "pos": "DF",
+    "game": "Vertroude",
+    "pid": 172671,
+    "jersey": 33,
+    "ovr": 65,
+    "sc": 0.917
+   },
+   {
+    "real": "Pedro Diaz",
+    "num": 4,
+    "pos": "MF",
+    "game": "P.diaz",
+    "pid": 108063,
+    "jersey": 4,
+    "ovr": 69,
+    "sc": 0.964
+   },
+   {
+    "real": "Pathe Ciss",
+    "num": 6,
+    "pos": "MF",
+    "game": "P. Siss",
+    "pid": 111426,
+    "jersey": 6,
+    "ovr": 76,
+    "sc": 0.821
+   },
+   {
+    "real": "Alvaro Garcia",
+    "num": 18,
+    "pos": "MF",
+    "game": "A.Garsia",
+    "pid": 104653,
+    "jersey": 18,
+    "ovr": 77,
+    "sc": 0.882
+   },
+   {
+    "real": "Oscar Valentin",
+    "num": 23,
+    "pos": "MF",
+    "game": "Oscal",
+    "pid": 104660,
+    "jersey": 23,
+    "ovr": 76,
+    "sc": 0.806
+   },
+   {
+    "real": "Alemao",
+    "num": 9,
+    "pos": "FW",
+    "game": "Alemao",
+    "pid": 118998,
+    "jersey": 13,
+    "ovr": 67,
+    "sc": 1.25
+   },
+   {
+    "real": "Sergio Camello",
+    "num": 10,
+    "pos": "FW",
+    "game": "Kamelo",
+    "pid": 111064,
+    "jersey": 10,
+    "ovr": 75,
+    "sc": 0.776
+   },
+   {
+    "real": "Randy Nteka",
+    "num": 11,
+    "pos": "FW",
+    "game": "Ndeka",
+    "pid": 107764,
+    "jersey": 11,
+    "ovr": 65,
+    "sc": 0.917
+   },
+   {
+    "real": "Jorge de Frutos",
+    "num": 19,
+    "pos": "FW",
+    "game": "De Fruetos",
+    "pid": 107776,
+    "jersey": 19,
+    "ovr": 82,
+    "sc": 0.977
+   },
+   {
+    "real": "Fran Perez",
+    "num": 21,
+    "pos": "FW",
+    "game": "Perez",
+    "pid": 119097,
+    "jersey": 21,
+    "ovr": 66,
+    "sc": 1.1139999999999999
+   }
+  ],
+  "unmatched": [
+   [
+    "Emil Audero",
+    25,
+    "GK"
+   ],
+   [
+    "Marash Kumbulla",
+    3,
+    "DF"
+   ],
+   [
+    "Mujaid Sadick",
+    15,
+    "DF"
+   ],
+   [
+    "Adria Pedrosa",
+    17,
+    "DF"
+   ],
+   [
+    "Pelayo Fernandez",
+    22,
+    "DF"
+   ],
+   [
+    "Unai Lopez",
+    8,
+    "MF"
+   ],
+   [
+    "Giorgi Tsitaishvili",
+    14,
+    "MF"
+   ],
+   [
+    "Gnangoro Bouare",
+    36,
+    "MF"
+   ],
+   [
+    "Rayane Belaid",
+    37,
+    "MF"
+   ],
+   [
+    "Isi Palazon",
+    7,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Chavaria",
+   "Munin",
+   "U.Lopes",
+   "Irias",
+   "Isy",
+   "Gunbau",
+   "Martin",
+   "N.Mendy",
+   "M.L.S.Treho",
+   "A.Espinora"
+  ]
+ },
+ "Elche": {
+  "pairs": [
+   {
+    "real": "Matias Dituro",
+    "num": 1,
+    "pos": "GK",
+    "game": "Tituro",
+    "pid": 104632,
+    "jersey": 1,
+    "ovr": 77,
+    "sc": 0.917
+   },
+   {
+    "real": "Buba Sangare",
+    "num": 2,
+    "pos": "DF",
+    "game": "B.Sangre",
+    "pid": 147348,
+    "jersey": 42,
+    "ovr": 62,
+    "sc": 0.778
+   },
+   {
+    "real": "Pedro Bigas",
+    "num": 6,
+    "pos": "DF",
+    "game": "P.Bigars",
+    "pid": 104670,
+    "jersey": 6,
+    "ovr": 69,
+    "sc": 0.956
+   },
+   {
+    "real": "Federico Redondo",
+    "num": 5,
+    "pos": "MF",
+    "game": "Radondo",
+    "pid": 124860,
+    "jersey": 5,
+    "ovr": 69,
+    "sc": 0.795
+   },
+   {
+    "real": "Yago Santiago",
+    "num": 7,
+    "pos": "MF",
+    "game": "Santago",
+    "pid": 150384,
+    "jersey": 7,
+    "ovr": 64,
+    "sc": 0.987
+   },
+   {
+    "real": "Marc Aguado",
+    "num": 8,
+    "pos": "MF",
+    "game": "Aguato",
+    "pid": 107839,
+    "jersey": 8,
+    "ovr": 69,
+    "sc": 0.875
+   },
+   {
+    "real": "German Valera",
+    "num": 11,
+    "pos": "MF",
+    "game": "Balera",
+    "pid": 119045,
+    "jersey": 11,
+    "ovr": 70,
+    "sc": 0.806
+   },
+   {
+    "real": "Gonzalo Villar",
+    "num": 12,
+    "pos": "MF",
+    "game": "Vilyar",
+    "pid": 111198,
+    "jersey": 12,
+    "ovr": 74,
+    "sc": 0.776
+   },
+   {
+    "real": "Grady Diangana",
+    "num": 19,
+    "pos": "MF",
+    "game": "Diaang",
+    "pid": 103535,
+    "jersey": 19,
+    "ovr": 67,
+    "sc": 0.776
+   },
+   {
+    "real": "Adam Boayar",
+    "num": 32,
+    "pos": "MF",
+    "game": "Boayir",
+    "pid": 150385,
+    "jersey": 32,
+    "ovr": 53,
+    "sc": 0.875
+   },
+   {
+    "real": "Josan",
+    "num": 17,
+    "pos": "FW",
+    "game": "Jozan",
+    "pid": 104680,
+    "jersey": 17,
+    "ovr": 70,
+    "sc": 1.05
+   },
+   {
+    "real": "Tete Morente",
+    "num": 20,
+    "pos": "FW",
+    "game": "T.Molente",
+    "pid": 104682,
+    "jersey": 15,
+    "ovr": 62,
+    "sc": 0.737
+   },
+   {
+    "real": "Victor Chust",
+    "num": 23,
+    "pos": "DF",
+    "game": "Chyust",
+    "pid": 111094,
+    "jersey": 23,
+    "ovr": 67,
+    "sc": 0.838
+   }
+  ],
+  "unmatched": [
+   [
+    "Alejandro Iturbe",
+    13,
+    "GK"
+   ],
+   [
+    "Roy Revivo",
+    3,
+    "DF"
+   ],
+   [
+    "Bambo Diaby",
+    4,
+    "DF"
+   ],
+   [
+    "Kevin Lomonaco",
+    15,
+    "DF"
+   ],
+   [
+    "Matia Barzic",
+    26,
+    "DF"
+   ],
+   [
+    "Facundo Buonanotte",
+    10,
+    "MF"
+   ],
+   [
+    "Martim Neto",
+    16,
+    "MF"
+   ],
+   [
+    "Thomas Lemar",
+    18,
+    "MF"
+   ],
+   [
+    "Ali Houary",
+    29,
+    "MF"
+   ],
+   [
+    "Javi Morcillo",
+    47,
+    "MF"
+   ],
+   [
+    "Ezequiel Ponce",
+    9,
+    "FW"
+   ],
+   [
+    "Fer Nino",
+    14,
+    "FW"
+   ],
+   [
+    "Lucas Cepeda",
+    21,
+    "FW"
+   ],
+   [
+    "Ruben Sanchez",
+    22,
+    "FW"
+   ],
+   [
+    "Abiel Osorio",
+    24,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Pedroza",
+   "Ford",
+   "Shilva",
+   "Penia",
+   "Petrot",
+   "R.Mil",
+   "Cepida",
+   "Ferbas",
+   "Neta",
+   "Affengrub",
+   "Donard",
+   "Jailo",
+   "Rodriges"
+  ]
+ },
+ "Levante": {
+  "pairs": [
+   {
+    "real": "Victor Garcia",
+    "num": 17,
+    "pos": "DF",
+    "game": "V.Garciaa",
+    "pid": 172672,
+    "jersey": 17,
+    "ovr": 66,
+    "sc": 0.95
+   },
+   {
+    "real": "Jeremy Toljan",
+    "num": 22,
+    "pos": "DF",
+    "game": "Tolian",
+    "pid": 104135,
+    "jersey": 22,
+    "ovr": 70,
+    "sc": 0.806
+   },
+   {
+    "real": "Manu Sanchez",
+    "num": 23,
+    "pos": "DF",
+    "game": "Sanchez",
+    "pid": 111051,
+    "jersey": 23,
+    "ovr": 72,
+    "sc": 1.178
+   },
+   {
+    "real": "Jon Ander Olasagasti",
+    "num": 8,
+    "pos": "MF",
+    "game": "Orasagasti",
+    "pid": 122945,
+    "jersey": 8,
+    "ovr": 73,
+    "sc": 0.964
+   },
+   {
+    "real": "Roger Brugue",
+    "num": 7,
+    "pos": "FW",
+    "game": "Bruge",
+    "pid": 117743,
+    "jersey": 7,
+    "ovr": 75,
+    "sc": 0.875
+   },
+   {
+    "real": "Ivan Romero",
+    "num": 9,
+    "pos": "FW",
+    "game": "Romelo",
+    "pid": 119010,
+    "jersey": 9,
+    "ovr": 75,
+    "sc": 0.875
+   },
+   {
+    "real": "Karl Etta Eyong",
+    "num": 21,
+    "pos": "FW",
+    "game": "Etta Eiong",
+    "pid": 150540,
+    "jersey": 21,
+    "ovr": 72,
+    "sc": 0.977
+   }
+  ],
+  "unmatched": [
+   [
+    "Pablo Campos",
+    1,
+    "GK"
+   ],
+   [
+    "Alex Primo",
+    32,
+    "GK"
+   ],
+   [
+    "Aissa Mandi",
+    2,
+    "DF"
+   ],
+   [
+    "Ifeanyi Ndukwe",
+    3,
+    "DF"
+   ],
+   [
+    "Adrian Dela",
+    4,
+    "DF"
+   ],
+   [
+    "Jorge Cabello",
+    14,
+    "DF"
+   ],
+   [
+    "Axel Tape",
+    16,
+    "DF"
+   ],
+   [
+    "Nacho Perez",
+    29,
+    "DF"
+   ],
+   [
+    "Marc Santos",
+    33,
+    "DF"
+   ],
+   [
+    "Hugo Sotelo",
+    5,
+    "MF"
+   ],
+   [
+    "Dani Requena",
+    6,
+    "MF"
+   ],
+   [
+    "Enzo Bardeli",
+    18,
+    "MF"
+   ],
+   [
+    "Oriol Rey",
+    20,
+    "MF"
+   ],
+   [
+    "Thiago Fernandez",
+    24,
+    "MF"
+   ],
+   [
+    "Paco Cortes",
+    27,
+    "MF"
+   ],
+   [
+    "Petar Ratkov",
+    10,
+    "FW"
+   ],
+   [
+    "Yanis Musuayi",
+    11,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "M.Ryen",
+   "Morano",
+   "Fuerte",
+   "Martinez",
+   "Raghubir",
+   "K.Tantd",
+   "Alvarez",
+   "T.Adab",
+   "C.Espi",
+   "Cunatt",
+   "O.Reid",
+   "Pampin",
+   "Loseda",
+   "Molares",
+   "Vensedol",
+   "K.Ariaga",
+   "Maturo",
+   "Elgesaval"
+  ]
+ },
+ "Malaga": {
+  "pairs": [
+   {
+    "real": "Alfonso Herrero",
+    "num": 1,
+    "pos": "GK",
+    "game": "A.Herero",
+    "pid": 107968,
+    "jersey": 1,
+    "ovr": 77,
+    "sc": 0.917
+   },
+   {
+    "real": "Carlos Lopez",
+    "num": 13,
+    "pos": "GK",
+    "game": "Lopez",
+    "pid": 123339,
+    "jersey": 13,
+    "ovr": 64,
+    "sc": 1.025
+   },
+   {
+    "real": "Diego Murillo",
+    "num": 16,
+    "pos": "DF",
+    "game": "Murilo",
+    "pid": 152763,
+    "jersey": 16,
+    "ovr": 61,
+    "sc": 0.917
+   },
+   {
+    "real": "Izan Merino",
+    "num": 23,
+    "pos": "DF",
+    "game": "Morino",
+    "pid": 152764,
+    "jersey": 23,
+    "ovr": 69,
+    "sc": 0.875
+   },
+   {
+    "real": "Ramon",
+    "num": 6,
+    "pos": "MF",
+    "game": "Ramon",
+    "pid": 107952,
+    "jersey": 6,
+    "ovr": 63,
+    "sc": 1.5
+   },
+   {
+    "real": "David Larrubia",
+    "num": 10,
+    "pos": "MF",
+    "game": "Rarrubia",
+    "pid": 123351,
+    "jersey": 10,
+    "ovr": 60,
+    "sc": 0.917
+   },
+   {
+    "real": "Joaquin Munoz",
+    "num": 11,
+    "pos": "MF",
+    "game": "Joaquin",
+    "pid": 104718,
+    "jersey": 11,
+    "ovr": 62,
+    "sc": 1.137
+   },
+   {
+    "real": "Aaron Ochoa",
+    "num": 35,
+    "pos": "MF",
+    "game": "Ocoa",
+    "pid": 152765,
+    "jersey": 35,
+    "ovr": 54,
+    "sc": 0.821
+   },
+   {
+    "real": "Haitam",
+    "num": 7,
+    "pos": "FW",
+    "game": "Haytam",
+    "pid": 107944,
+    "jersey": 7,
+    "ovr": 51,
+    "sc": 1.183
+   },
+   {
+    "real": "Eneko Jauregi",
+    "num": 17,
+    "pos": "FW",
+    "game": "Jaulegy",
+    "pid": 109712,
+    "jersey": 17,
+    "ovr": 61,
+    "sc": 0.776
+   },
+   {
+    "real": "Julen Lobete",
+    "num": 24,
+    "pos": "FW",
+    "game": "Robete",
+    "pid": 123406,
+    "jersey": 24,
+    "ovr": 57,
+    "sc": 0.838
+   }
+  ],
+  "unmatched": [
+   [
+    "Carlos Puga",
+    2,
+    "DF"
+   ],
+   [
+    "Einar Galilea",
+    3,
+    "DF"
+   ],
+   [
+    "Alex Pastor",
+    4,
+    "DF"
+   ],
+   [
+    "Jose Salinas",
+    12,
+    "DF"
+   ],
+   [
+    "Angel Recio",
+    15,
+    "DF"
+   ],
+   [
+    "Fernando Calero",
+    20,
+    "DF"
+   ],
+   [
+    "Juan Berrocal",
+    25,
+    "DF"
+   ],
+   [
+    "Rafita",
+    31,
+    "DF"
+   ],
+   [
+    "Jens Cajuste",
+    3,
+    "MF"
+   ],
+   [
+    "Carlos Dotor",
+    8,
+    "MF"
+   ],
+   [
+    "Pablo Martinez",
+    18,
+    "MF"
+   ],
+   [
+    "Dani Lorenzo",
+    22,
+    "MF"
+   ],
+   [
+    "Adam Aznou",
+    39,
+    "MF"
+   ],
+   [
+    "Chupete",
+    9,
+    "FW"
+   ],
+   [
+    "Rafa",
+    14,
+    "FW"
+   ],
+   [
+    "Juan Cruz",
+    19,
+    "FW"
+   ],
+   [
+    "Adrian Nino",
+    21,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Garsia",
+   "Garirea",
+   "Purga",
+   "Rolenso",
+   "Dotol",
+   "Y.Rahmany",
+   "Baterina",
+   "Sangari",
+   "Dorio",
+   "Morina",
+   "S.Caster",
+   "Brashanec",
+   "Luismy",
+   "Montelo",
+   "Sanchez",
+   "Gabirondo",
+   "Diara",
+   "Juanpar",
+   "Dyony",
+   "A.Pastol"
+  ]
+ },
+ "RacingSantander": {
+  "pairs": [
+   {
+    "real": "Alvaro Mantilla",
+    "num": 2,
+    "pos": "DF",
+    "game": "Mantiya",
+    "pid": 123113,
+    "jersey": 2,
+    "ovr": 64,
+    "sc": 0.821
+   },
+   {
+    "real": "Aaron Martin",
+    "num": 3,
+    "pos": "DF",
+    "game": "Martin",
+    "pid": 123122,
+    "jersey": 11,
+    "ovr": 67,
+    "sc": 0.856
+   },
+   {
+    "real": "Manu Hernando",
+    "num": 4,
+    "pos": "DF",
+    "game": "M.Hernandez",
+    "pid": 107164,
+    "jersey": 13,
+    "ovr": 64,
+    "sc": 0.727
+   },
+   {
+    "real": "Pablo Ramon",
+    "num": 5,
+    "pos": "DF",
+    "game": "Ramon",
+    "pid": 123202,
+    "jersey": 21,
+    "ovr": 65,
+    "sc": 0.817
+   },
+   {
+    "real": "Facundo Gonzalez",
+    "num": 16,
+    "pos": "DF",
+    "game": "Gonzalez",
+    "pid": 119763,
+    "jersey": 46,
+    "ovr": 57,
+    "sc": 0.846
+   },
+   {
+    "real": "Inigo Sainz-Maza",
+    "num": 6,
+    "pos": "MF",
+    "game": "Sainz-Masa",
+    "pid": 123116,
+    "jersey": 6,
+    "ovr": 65,
+    "sc": 0.946
+   },
+   {
+    "real": "Inigo Vicente",
+    "num": 10,
+    "pos": "MF",
+    "game": "I.Vicende",
+    "pid": 108002,
+    "jersey": 10,
+    "ovr": 70,
+    "sc": 0.95
+   },
+   {
+    "real": "Maguette Gueye",
+    "num": 14,
+    "pos": "MF",
+    "game": "Guey",
+    "pid": 150631,
+    "jersey": 14,
+    "ovr": 65,
+    "sc": 0.871
+   },
+   {
+    "real": "Juan Carlos Arana",
+    "num": 9,
+    "pos": "FW",
+    "game": "Alana",
+    "pid": 123123,
+    "jersey": 9,
+    "ovr": 65,
+    "sc": 0.75
+   },
+   {
+    "real": "Andres Martin",
+    "num": 11,
+    "pos": "FW",
+    "game": "Andrez",
+    "pid": 104664,
+    "jersey": 11,
+    "ovr": 71,
+    "sc": 0.806
+   },
+   {
+    "real": "Asier Villalibre",
+    "num": 12,
+    "pos": "FW",
+    "game": "Viyalibre",
+    "pid": 104436,
+    "jersey": 12,
+    "ovr": 64,
+    "sc": 0.917
+   },
+   {
+    "real": "Pablo Garcia",
+    "num": 15,
+    "pos": "FW",
+    "game": "Sangari",
+    "pid": 108032,
+    "jersey": 15,
+    "ovr": 63,
+    "sc": 0.806
+   }
+  ],
+  "unmatched": [
+   [
+    "Simon Eriksson",
+    1,
+    "GK"
+   ],
+   [
+    "Julen Agirrezabala",
+    13,
+    "GK"
+   ],
+   [
+    "Jorge Salinas",
+    17,
+    "DF"
+   ],
+   [
+    "Pedro Felipe",
+    22,
+    "DF"
+   ],
+   [
+    "Jeanuel Belocian",
+    24,
+    "DF"
+   ],
+   [
+    "Andre Almeida",
+    8,
+    "MF"
+   ],
+   [
+    "Matteo Prati",
+    18,
+    "MF"
+   ],
+   [
+    "Ivan Martin",
+    23,
+    "MF"
+   ],
+   [
+    "Giorgi Guliashvili",
+    7,
+    "FW"
+   ],
+   [
+    "Iker Luque",
+    19,
+    "FW"
+   ],
+   [
+    "Sergio Canales",
+    20,
+    "MF"
+   ],
+   [
+    "Yassir Zabiri",
+    21,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Eskieta",
+   "Castrou",
+   "Ardasolo",
+   "Damion",
+   "Garsia",
+   "Puerda",
+   "Marta",
+   "Kamala",
+   "Junior",
+   "M.Parela",
+   "Ekein",
+   "Saur"
+  ]
+ },
+ "Deportivo": {
+  "pairs": [
+   {
+    "real": "German Parreno",
+    "num": 1,
+    "pos": "GK",
+    "game": "German",
+    "pid": 107884,
+    "jersey": 1,
+    "ovr": 66,
+    "sc": 1.032
+   },
+   {
+    "real": "Alvaro Fernandez",
+    "num": 25,
+    "pos": "GK",
+    "game": "A.Fernandez",
+    "pid": 104714,
+    "jersey": 24,
+    "ovr": 73,
+    "sc": 0.8
+   },
+   {
+    "real": "Adria Altimira",
+    "num": 2,
+    "pos": "DF",
+    "game": "Artimira",
+    "pid": 123188,
+    "jersey": 2,
+    "ovr": 70,
+    "sc": 1.012
+   },
+   {
+    "real": "Arnau Comas",
+    "num": 3,
+    "pos": "DF",
+    "game": "Comaz",
+    "pid": 125389,
+    "jersey": 3,
+    "ovr": 65,
+    "sc": 0.783
+   },
+   {
+    "real": "Lucas Noubi",
+    "num": 4,
+    "pos": "DF",
+    "game": "L.Nouby",
+    "pid": 145380,
+    "jersey": 4,
+    "ovr": 64,
+    "sc": 0.875
+   },
+   {
+    "real": "Dani Barcia",
+    "num": 5,
+    "pos": "DF",
+    "game": "Balsia",
+    "pid": 123084,
+    "jersey": 5,
+    "ovr": 65,
+    "sc": 0.75
+   },
+   {
+    "real": "Giacomo Quagliata",
+    "num": 12,
+    "pos": "DF",
+    "game": "Quattrata",
+    "pid": 106628,
+    "jersey": 12,
+    "ovr": 65,
+    "sc": 0.73
+   },
+   {
+    "real": "Miguel Loureiro",
+    "num": 15,
+    "pos": "DF",
+    "game": "Lourailo",
+    "pid": 107931,
+    "jersey": 15,
+    "ovr": 72,
+    "sc": 0.795
+   },
+   {
+    "real": "Ximo Navarro",
+    "num": 23,
+    "pos": "DF",
+    "game": "X.Navalo",
+    "pid": 104469,
+    "jersey": 23,
+    "ovr": 70,
+    "sc": 0.917
+   },
+   {
+    "real": "Riki Rodriguez",
+    "num": 14,
+    "pos": "MF",
+    "game": "Rodriguez",
+    "pid": 123284,
+    "jersey": 25,
+    "ovr": 70,
+    "sc": 1.068
+   },
+   {
+    "real": "Mario Soriano",
+    "num": 21,
+    "pos": "MF",
+    "game": "Soliano",
+    "pid": 109850,
+    "jersey": 21,
+    "ovr": 65,
+    "sc": 0.882
+   },
+   {
+    "real": "Diego Villares",
+    "num": 8,
+    "pos": "MF",
+    "game": "Viyares",
+    "pid": 109848,
+    "jersey": 8,
+    "ovr": 72,
+    "sc": 0.85
+   },
+   {
+    "real": "Zakaria Eddahchouri",
+    "num": 9,
+    "pos": "FW",
+    "game": "Eddahchory",
+    "pid": 106586,
+    "jersey": 9,
+    "ovr": 67,
+    "sc": 0.893
+   },
+   {
+    "real": "Yeremay Hernandez",
+    "num": 10,
+    "pos": "FW",
+    "game": "Hernandez",
+    "pid": 117868,
+    "jersey": 10,
+    "ovr": 78,
+    "sc": 1.12
+   }
+  ],
+  "unmatched": [
+   [
+    "Leo Roman",
+    13,
+    "GK"
+   ],
+   [
+    "Angelino",
+    17,
+    "DF"
+   ],
+   [
+    "Marc Casado",
+    6,
+    "MF"
+   ],
+   [
+    "Lorenzo Amatucci",
+    16,
+    "MF"
+   ],
+   [
+    "Jonathan Asp Jensen",
+    18,
+    "MF"
+   ],
+   [
+    "Bright Ede",
+    22,
+    "DF"
+   ],
+   [
+    "Pierre-Emerick Aubameyang",
+    7,
+    "FW"
+   ],
+   [
+    "David Mella",
+    11,
+    "FW"
+   ],
+   [
+    "Luismi Cruz",
+    19,
+    "FW"
+   ],
+   [
+    "Jose Maria Gimenez",
+    20,
+    "DF"
+   ],
+   [
+    "Adama Traore",
+    24,
+    "FW"
+   ],
+   [
+    "Bil Nsongo",
+    32,
+    "FW"
+   ]
+  ],
+  "extras": [
+   "Gragela",
+   "Meya",
+   "Eskudero",
+   "Sanchez",
+   "Porter",
+   "Perez",
+   "J.Anger",
+   "Murattiery",
+   "Martines",
+   "Barvero",
+   "Stojkov",
+   "Darbo",
+   "Crus",
+   "Mphulu",
+   "H.Lama",
+   "Padino",
+   "Heldon",
+   "Errera"
+  ]
+ }
+}

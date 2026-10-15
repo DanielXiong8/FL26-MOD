@@ -1,0 +1,49 @@
+{
+  "step": "Phase 12 - FL26 Face Builder v1 Productization",
+  "updated": "2026-09-06T03:05:00+08:00",
+  "baseline_locked": "recon/baselines/FULL_PIPELINE_VALID_GREEN/ (PHASE12_BASELINE_LOCKED=true)",
+  "dashboard": "tools/FL26_FaceDashboard/dashboard.py (single entry, tkinter)",
+  "gates": {
+    "PHASE12_BASELINE_LOCKED": "GREEN",
+    "STEP12_SINGLE_ENTRY": "GREEN",
+    "STEP12_PLAYER_INFO": "GREEN",
+    "STEP12_TEAM_SELECTOR": "GREEN",
+    "STEP12_BUILD_ORCHESTRATION": "GREEN",
+    "STEP12_INSTALL_GATE": "GREEN",
+    "STEP12_PID_ALLOCATION": "GREEN",
+    "FACE_BUILDER_V1": "GREEN"
+  },
+  "evidence": {
+    "single_entry": "dashboard.py: photo/candidates/tuning/player info/build/install all wired",
+    "player_info": "Name entry + Position dropdown (3=FW confirmed) + Team dropdown (3 verified teams) + 17 attrs (1-99 validation)",
+    "build_orchestration": "BUILD APK button: final_face check -> PID allocation -> build_config.json -> phase11_e2e_inject.py subprocess (PHASE11_CONFIG) -> sign/verify -> APK PASS",
+    "install_gate": "INSTALL only when the APK stage PASS; adb install -r; errors surfaced",
+    "pid_allocation": "three-table scan (Players/ClubPlayer/PA), 175923-175999 pool, conflict raises",
+    "regression_build": "runs/builds/regression_ma_jiantao/build_config.json -> config override loaded -> sign/verify OK (headless verified)",
+    "baseline_protection": "Step11 reports/scripts/APK/final_face copied with SHA256; PHASE12_BASELINE_LOCKED=true; originals untouched"
+  },
+  "known_limitations": [
+    "b4/b7/b10/b14: recorded to manifest (device-effective), no PC realtime preview (FaceMaterialSupplier runtime logic not reversed)",
+    "3D preview: batch render ~1-2 min; interactive rotate/zoom via Unity Play mode",
+    "Position codes: only 3=FW confirmed; others not reversed (UI shows confirmed only)",
+    "Jersey Number: NOT YET EXPOSED",
+    "device USB intermittent disconnect: install watcher auto-retries"
+  ],
+  "next": "device reconnect -> install regression APK -> user plays full match -> MATCH_E2E -> FACE_BUILDER_V1=GREEN",
+  "regression": {
+    "verdict": "MATCH_E2E = PASS + FACE_BUILDER_V1 = GREEN (user-confirmed 2026-09-06)",
+    "userConfirmation": "可以全部正常（完整比赛、Ma Jianto 在曼城阵容、脸像马健涛、无崩溃）",
+    "config": {
+      "pid": 175923,
+      "name": "Ma Jiantao",
+      "team_id": 20026,
+      "attrs": "81..97",
+      "nat": 13
+    },
+    "evidence": [
+      "regression_final.png（曼城阵容界面）",
+      "runs/builds/regression_ma_jiantao/build_config.json",
+      "phase11 注入日志（sign/verify OK）"
+    ]
+  }
+}

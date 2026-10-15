@@ -1,0 +1,3866 @@
+{
+ "Birmingham": [
+  [
+   1,
+   "James Beadle",
+   "GK",
+   "ENG"
+  ],
+  [
+   2,
+   "Ethan Laird",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Lee Buchanan (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Christoph Klarer",
+   "DF",
+   "AUT"
+  ],
+  [
+   5,
+   "Phil Neumann",
+   "DF",
+   "GER"
+  ],
+  [
+   7,
+   "Carlos Vicente (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   8,
+   "Paik Seung-ho",
+   "MF",
+   "KOR"
+  ],
+  [
+   9,
+   "August Priske",
+   "FW",
+   "DEN"
+  ],
+  [
+   10,
+   "Demarai Gray",
+   "MF",
+   "JAM"
+  ],
+  [
+   11,
+   "Scott Wright (footballer)",
+   "MF",
+   "SCO"
+  ],
+  [
+   12,
+   "Marc Leonard",
+   "MF",
+   "SCO"
+  ],
+  [
+   14,
+   "Jhon Solís (footballer, born 2004)",
+   "MF",
+   "COL"
+  ],
+  [
+   16,
+   "Patrick Roberts",
+   "FW",
+   "ENG"
+  ],
+  [
+   17,
+   "Liam Millar",
+   "FW",
+   "CAN"
+  ],
+  [
+   18,
+   "Max Bird",
+   "MF",
+   "ENG"
+  ],
+  [
+   19,
+   "Taylor Gardner-Hickman",
+   "MF",
+   "ENG"
+  ],
+  [
+   20,
+   "Alex Cochrane (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   21,
+   "Ryan Allsop",
+   "GK",
+   "ENG"
+  ],
+  [
+   23,
+   "Dael Fry",
+   "DF",
+   "ENG"
+  ],
+  [
+   24,
+   "Tomoki Iwata",
+   "MF",
+   "JPN"
+  ],
+  [
+   25,
+   "Kristoffer Lund",
+   "DF",
+   "USA"
+  ],
+  [
+   26,
+   "Bright Osayi-Samuel",
+   "DF",
+   "NGA"
+  ],
+  [
+   27,
+   "Kanya Fujimoto",
+   "MF",
+   "JPN"
+  ],
+  [
+   28,
+   "Jay Stansfield",
+   "FW",
+   "ENG"
+  ],
+  [
+   30,
+   "Brad Mayo",
+   "GK",
+   "ENG"
+  ],
+  [
+   32,
+   "Luis Vázquez (footballer)",
+   "FW",
+   "ARG"
+  ],
+  [
+   33,
+   "Marvin Ducksch",
+   "FW",
+   "GER"
+  ],
+  [
+   39,
+   "Briar Bateman",
+   "FW",
+   "ENG"
+  ],
+  [
+   40,
+   "Menzi Mazwi",
+   "MF",
+   "ZIM"
+  ],
+  [
+   41,
+   "Cobi Maddox",
+   "MF",
+   "ENG"
+  ]
+ ],
+ "Blackburn": [
+  [
+   1,
+   "Aynsley Pears",
+   "GK",
+   "ENG"
+  ],
+  [
+   2,
+   "Ryan Alebiosu",
+   "DF",
+   "NGA"
+  ],
+  [
+   3,
+   "Harry Pickering (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Yuri Ribeiro",
+   "DF",
+   "POR"
+  ],
+  [
+   5,
+   "Sidnei Tavares",
+   "MF",
+   "POR"
+  ],
+  [
+   6,
+   "Tom Atcheson",
+   "DF",
+   "NIR"
+  ],
+  [
+   7,
+   "Augustus Kargbo",
+   "FW",
+   "SLE"
+  ],
+  [
+   8,
+   "Sam Morsy",
+   "MF",
+   "EGY"
+  ],
+  [
+   9,
+   "Andri Guðjohnsen",
+   "FW",
+   "ISL"
+  ],
+  [
+   10,
+   "Todd Cantwell",
+   "MF",
+   "ENG"
+  ],
+  [
+   11,
+   "Jayden Fevrier",
+   "MF",
+   "ENG"
+  ],
+  [
+   14,
+   "Dion De Neve",
+   "MF",
+   "BEL"
+  ],
+  [
+   15,
+   "Sean McLoughlin (footballer)",
+   "DF",
+   "IRL"
+  ],
+  [
+   16,
+   "Scott Wharton",
+   "DF",
+   "ENG"
+  ],
+  [
+   17,
+   "Hayden Carter",
+   "DF",
+   "ENG"
+  ],
+  [
+   18,
+   "Axel Henriksson",
+   "MF",
+   "SWE"
+  ],
+  [
+   21,
+   "Dapo Afolayan",
+   "FW",
+   "ENG"
+  ],
+  [
+   22,
+   "Balázs Tóth (footballer, born 1997)",
+   "GK",
+   "HUN"
+  ],
+  [
+   23,
+   "Yūki Ōhashi",
+   "FW",
+   "JPN"
+  ],
+  [
+   24,
+   "Moussa Baradji",
+   "MF",
+   "FRA"
+  ],
+  [
+   25,
+   "Ryōya Morishita",
+   "MF",
+   "JPN"
+  ],
+  [
+   26,
+   "Connor O'Riordan",
+   "DF",
+   "IRL"
+  ],
+  [
+   27,
+   "Gady Beyuku",
+   "DF",
+   "FRA"
+  ],
+  [
+   28,
+   "Adam Forshaw",
+   "MF",
+   "ENG"
+  ],
+  [
+   29,
+   "Mathias Jørgensen (footballer, born 2000)",
+   "FW",
+   "DEN"
+  ],
+  [
+   30,
+   "Jake Garrett",
+   "MF",
+   "ENG"
+  ],
+  [
+   31,
+   "Kristi Montgomery",
+   "MF",
+   "SCO"
+  ],
+  [
+   33,
+   "Lewis Miller (soccer)",
+   "DF",
+   "AUS"
+  ],
+  [
+   34,
+   "Jack Barrett (footballer, born 2002)",
+   "GK",
+   "ENG"
+  ],
+  [
+   35,
+   "Nicholas Michalski",
+   "GK",
+   "ENG"
+  ],
+  [
+   36,
+   "James Edmondson (footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   37,
+   "Felix Goddard",
+   "GK",
+   "ENG"
+  ],
+  [
+   39,
+   "Harvey Pates",
+   "DF",
+   "ENG"
+  ],
+  [
+   40,
+   "Matty Litherland",
+   "DF",
+   "ENG"
+  ],
+  [
+   43,
+   "George Pratt (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   45,
+   "Harvey Higgins",
+   "FW",
+   "ENG"
+  ]
+ ],
+ "Bolton": [
+  [
+   1,
+   "Jack Bonham",
+   "GK",
+   "IRL"
+  ],
+  [
+   3,
+   "Chris Forino-Joseph",
+   "DF",
+   "LCA"
+  ],
+  [
+   4,
+   "Xavier Simons",
+   "MF",
+   "ENG"
+  ],
+  [
+   5,
+   "Lewis Brunt",
+   "DF",
+   "ENG"
+  ],
+  [
+   6,
+   "Ben Davies (footballer, born 1995)",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Kyliane Dong",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Josh Sheehan",
+   "MF",
+   "WAL"
+  ],
+  [
+   9,
+   "Theo Bair",
+   "FW",
+   "CAN"
+  ],
+  [
+   10,
+   "Sam Dalby",
+   "FW",
+   "ENG"
+  ],
+  [
+   11,
+   "Thierry Gale",
+   "FW",
+   "BRB"
+  ],
+  [
+   12,
+   "David Watson (footballer, born 2005)",
+   "MF",
+   "SCO"
+  ],
+  [
+   13,
+   "Nathan Broome",
+   "GK",
+   "ENG"
+  ],
+  [
+   14,
+   "Akin Famewo",
+   "DF",
+   "ENG"
+  ],
+  [
+   16,
+   "Samuel Iling-Junior",
+   "FW",
+   "ENG"
+  ],
+  [
+   17,
+   "Atsuki Itō",
+   "MF",
+   "JPN"
+  ],
+  [
+   18,
+   "Eoin Toal",
+   "DF",
+   "NIR"
+  ],
+  [
+   20,
+   "Rúben Rodrigues (footballer, born 1996)",
+   "MF",
+   "POR"
+  ],
+  [
+   21,
+   "Ethan Erhahon",
+   "MF",
+   "SCO"
+  ],
+  [
+   22,
+   "Gaizka Larrazabal",
+   "DF",
+   "ESP"
+  ],
+  [
+   23,
+   "David Harrington (footballer)",
+   "GK",
+   "IRL"
+  ],
+  [
+   25,
+   "Max Conway",
+   "DF",
+   "ENG"
+  ],
+  [
+   26,
+   "Jayden Nelson",
+   "FW",
+   "CAN"
+  ],
+  [
+   27,
+   "Luca Stephenson",
+   "DF",
+   "ENG"
+  ],
+  [
+   30,
+   "Luke Hutchinson",
+   "GK",
+   "ENG"
+  ],
+  [
+   31,
+   "Gavin Bazunu",
+   "GK",
+   "IRL"
+  ],
+  [
+   32,
+   "Sam Inwood",
+   "DF",
+   "NIR"
+  ],
+  [
+   33,
+   "Charlie Warren (footballer)",
+   "FW",
+   "ENG"
+  ],
+  [
+   39,
+   "Ryan Hardie",
+   "FW",
+   "SCO"
+  ],
+  [
+   45,
+   "John McAtee",
+   "FW",
+   "ENG"
+  ]
+ ],
+ "BristolCity": [
+  [
+   1,
+   "Sam Tickle",
+   "GK",
+   "ENG"
+  ],
+  [
+   2,
+   "Lisav Eissat",
+   "DF",
+   "ROU"
+  ],
+  [
+   3,
+   "Cameron Pring",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Adam Randell",
+   "MF",
+   "ENG"
+  ],
+  [
+   5,
+   "Robert Atkinson (footballer, born 1998)",
+   "DF",
+   "ENG"
+  ],
+  [
+   6,
+   "Brian De Keersmaecker",
+   "MF",
+   "BEL"
+  ],
+  [
+   7,
+   "Yū Hirakawa",
+   "FW",
+   "JPN"
+  ],
+  [
+   8,
+   "Joe Williams (footballer, born 1996)",
+   "MF",
+   "ENG"
+  ],
+  [
+   9,
+   "Lorent Tolaj",
+   "FW",
+   "SUI"
+  ],
+  [
+   10,
+   "Scott Twine",
+   "MF",
+   "ENG"
+  ],
+  [
+   11,
+   "Sam Bell (footballer, born 2002)",
+   "FW",
+   "ENG"
+  ],
+  [
+   12,
+   "Jason Knight (footballer)",
+   "MF",
+   "IRL"
+  ],
+  [
+   14,
+   "Tomi Horvat",
+   "MF",
+   "SVN"
+  ],
+  [
+   15,
+   "Luke McNally",
+   "DF",
+   "IRL"
+  ],
+  [
+   16,
+   "Robert Dickie (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   17,
+   "Jed Wallace",
+   "MF",
+   "ENG"
+  ],
+  [
+   19,
+   "George Tanner (English footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   20,
+   "Sam Greenwood (footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   21,
+   "Rio Cardines",
+   "DF",
+   "TRI"
+  ],
+  [
+   22,
+   "Jamie Knight-Lebel",
+   "DF",
+   "CAN"
+  ],
+  [
+   23,
+   "Dom Ballard",
+   "FW",
+   "ENG"
+  ],
+  [
+   24,
+   "Seb Naylor",
+   "DF",
+   "ENG"
+  ],
+  [
+   25,
+   "Ephraim Yeboah",
+   "FW",
+   "ITA"
+  ],
+  [
+   26,
+   "Josh Stokes",
+   "MF",
+   "ENG"
+  ],
+  [
+   27,
+   "Gibson Yah",
+   "MF",
+   "NED"
+  ],
+  [
+   28,
+   "Adam Murphy",
+   "MF",
+   "IRL"
+  ],
+  [
+   29,
+   "Leo Pecover",
+   "MF",
+   "ENG"
+  ],
+  [
+   30,
+   "Marley Thelwell",
+   "DF",
+   "ENG"
+  ],
+  [
+   31,
+   "Elijah Morrison",
+   "DF",
+   "ENG"
+  ],
+  [
+   32,
+   "Lewis Thomas (footballer, born 1997)",
+   "GK",
+   "WAL"
+  ],
+  [
+   33,
+   "Josh Campbell-Slowey",
+   "DF",
+   "ENG"
+  ],
+  [
+   35,
+   "Louie Derrick",
+   "MF",
+   "ENG"
+  ],
+  [
+   38,
+   "Noah Eile",
+   "DF",
+   "SWE"
+  ],
+  [
+   39,
+   "Freddie Godden",
+   "GK",
+   "ENG"
+  ],
+  [
+   40,
+   "Bradley Collins",
+   "GK",
+   "ENG"
+  ],
+  [
+   42,
+   "Daniel Ezendu",
+   "MF",
+   "ITA"
+  ],
+  [
+   43,
+   "Luke Skinner",
+   "FW",
+   "ENG"
+  ],
+  [
+   45,
+   "Elijah Adebayo",
+   "FW",
+   "ENG"
+  ]
+ ],
+ "Burnley": [
+  [
+   1,
+   "Max Weiß (footballer)",
+   "GK",
+   "GER"
+  ],
+  [
+   2,
+   "Kyle Walker",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Max Alleyne",
+   "DF",
+   "ENG"
+  ],
+  [
+   5,
+   "Reo Hatate",
+   "MF",
+   "JPN"
+  ],
+  [
+   6,
+   "Bashir Humphreys",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Jacob Bruun Larsen",
+   "FW",
+   "DEN"
+  ],
+  [
+   8,
+   "Ugo Raghouber",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Jamie Vardy",
+   "FW",
+   "ENG"
+  ],
+  [
+   10,
+   "Marcus Edwards",
+   "FW",
+   "CYP"
+  ],
+  [
+   11,
+   "Zeki Amdouni",
+   "FW",
+   "SUI"
+  ],
+  [
+   12,
+   "Dastan Satpayev",
+   "FW",
+   "KAZ"
+  ],
+  [
+   13,
+   "Ben Amos",
+   "GK",
+   "ENG"
+  ],
+  [
+   14,
+   "Connor Roberts (footballer, born 1995)",
+   "DF",
+   "WAL"
+  ],
+  [
+   15,
+   "Anel Ahmedhodžić",
+   "DF",
+   "BIH"
+  ],
+  [
+   17,
+   "Andréas Hountondji",
+   "FW",
+   "BEN"
+  ],
+  [
+   18,
+   "Hjalmar Ekdal",
+   "DF",
+   "SWE"
+  ],
+  [
+   19,
+   "Largie Ramazani",
+   "FW",
+   "BEL"
+  ],
+  [
+   20,
+   "Shurandy Sambo",
+   "DF",
+   "CUW"
+  ],
+  [
+   21,
+   "Aaron Ramsey (English footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   22,
+   "Oliver Sonne",
+   "DF",
+   "PER"
+  ],
+  [
+   23,
+   "Lucas Pires (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   24,
+   "Josh Cullen (footballer, born 1996)",
+   "MF",
+   "IRL"
+  ],
+  [
+   27,
+   "Armando Broja",
+   "FW",
+   "ALB"
+  ],
+  [
+   28,
+   "Hannibal Mejbri",
+   "MF",
+   "TUN"
+  ],
+  [
+   29,
+   "Josh Laurent",
+   "MF",
+   "ENG"
+  ],
+  [
+   30,
+   "Lluc Castell",
+   "FW",
+   "ESP"
+  ],
+  [
+   31,
+   "Mike Trésor",
+   "MF",
+   "BEL"
+  ],
+  [
+   34,
+   "Jaydon Banel",
+   "FW",
+   "NED"
+  ],
+  [
+   35,
+   "Ashley Barnes",
+   "FW",
+   "ENG"
+  ],
+  [
+   37,
+   "Grégoire Coudert",
+   "GK",
+   "FRA"
+  ],
+  [
+   44,
+   "Igor Julio",
+   "DF",
+   "BRA"
+  ],
+  [
+   45,
+   "Michael Obafemi",
+   "FW",
+   "IRL"
+  ]
+ ],
+ "Cardiff": [
+  [
+   1,
+   "Nathan Trott",
+   "GK",
+   "BER"
+  ],
+  [
+   2,
+   "Will Fish",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Joel Bagan",
+   "DF",
+   "IRL"
+  ],
+  [
+   4,
+   "Gabriel Osho",
+   "DF",
+   "NGA"
+  ],
+  [
+   5,
+   "Krystian Bielik",
+   "DF",
+   "POL"
+  ],
+  [
+   7,
+   "Peter Whittingham",
+   "MF",
+   "ENG"
+  ],
+  [
+   8,
+   "Jack Moylan",
+   "MF",
+   "IRL"
+  ],
+  [
+   9,
+   "Yousef Salech",
+   "FW",
+   "DEN"
+  ],
+  [
+   10,
+   "Rubin Colwill",
+   "MF",
+   "WAL"
+  ],
+  [
+   11,
+   "Ollie Tanner",
+   "FW",
+   "ENG"
+  ],
+  [
+   12,
+   "Calum Chambers",
+   "DF",
+   "ENG"
+  ],
+  [
+   14,
+   "David Turnbull (footballer)",
+   "MF",
+   "SCO"
+  ],
+  [
+   16,
+   "Chris Willock",
+   "MF",
+   "ENG"
+  ],
+  [
+   18,
+   "Alexander Robertson (footballer, born 2003)",
+   "MF",
+   "AUS"
+  ],
+  [
+   23,
+   "Calum Scanlon",
+   "DF",
+   "ENG"
+  ],
+  [
+   27,
+   "Joel Colwill",
+   "MF",
+   "WAL"
+  ],
+  [
+   30,
+   "Harry Tyrer (footballer, born 2001)",
+   "GK",
+   "ENG"
+  ],
+  [
+   33,
+   "Rob Tankiewicz",
+   "MF",
+   "WAL"
+  ],
+  [
+   38,
+   "Perry Ng",
+   "DF",
+   "SGP"
+  ],
+  [
+   39,
+   "Isaak Davies",
+   "FW",
+   "WAL"
+  ],
+  [
+   40,
+   "Noah Anyadike",
+   "DF",
+   "WAL"
+  ],
+  [
+   41,
+   "Matthew Turner (footballer, born 2002)",
+   "GK",
+   "WAL"
+  ],
+  [
+   43,
+   "Paul Moreno",
+   "MF",
+   "WAL"
+  ],
+  [
+   44,
+   "Ronan Kpakio",
+   "DF",
+   "WAL"
+  ],
+  [
+   45,
+   "Cian Ashford",
+   "MF",
+   "WAL"
+  ]
+ ],
+ "Derby": [
+  [
+   1,
+   "Jacob Widell Zetterström",
+   "GK",
+   "SWE"
+  ],
+  [
+   2,
+   "Derry Murkin",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Craig Forsyth",
+   "DF",
+   "SCO"
+  ],
+  [
+   4,
+   "David Ozoh",
+   "MF",
+   "ENG"
+  ],
+  [
+   5,
+   "Matthew Clarke (footballer, born 1996)",
+   "DF",
+   "ENG"
+  ],
+  [
+   6,
+   "Sondre Langås",
+   "DF",
+   "NOR"
+  ],
+  [
+   7,
+   "Patrick Agyemang (soccer, born 2000)",
+   "FW",
+   "USA"
+  ],
+  [
+   8,
+   "Bobby Clark (footballer, born 2005)",
+   "MF",
+   "ENG"
+  ],
+  [
+   9,
+   "Carlton Morris",
+   "FW",
+   "ENG"
+  ],
+  [
+   10,
+   "Rhian Brewster",
+   "FW",
+   "ENG"
+  ],
+  [
+   11,
+   "Sammie Szmodics",
+   "MF",
+   "IRL"
+  ],
+  [
+   12,
+   "Richard O'Donnell (footballer)",
+   "GK",
+   "ENG"
+  ],
+  [
+   13,
+   "Filip Bilbija",
+   "MF",
+   "GER"
+  ],
+  [
+   15,
+   "Lars-Jørgen Salvesen",
+   "FW",
+   "NOR"
+  ],
+  [
+   16,
+   "Mohammed Fuseini",
+   "FW",
+   "GHA"
+  ],
+  [
+   17,
+   "Kenzo Goudmijn",
+   "MF",
+   "NED"
+  ],
+  [
+   18,
+   "Charlie Taylor (footballer, born 1993)",
+   "DF",
+   "ENG"
+  ],
+  [
+   19,
+   "Henrik Meister",
+   "FW",
+   "DEN"
+  ],
+  [
+   20,
+   "Alex Mowatt",
+   "MF",
+   "ENG"
+  ],
+  [
+   22,
+   "Max Johnston (footballer)",
+   "DF",
+   "SCO"
+  ],
+  [
+   23,
+   "Joe Ward (footballer, born 1995)",
+   "MF",
+   "ENG"
+  ],
+  [
+   24,
+   "Ryan Nyambe",
+   "DF",
+   "NAM"
+  ],
+  [
+   26,
+   "Ryan Hedges",
+   "MF",
+   "WAL"
+  ],
+  [
+   27,
+   "Lewis Travis",
+   "MF",
+   "ENG"
+  ],
+  [
+   28,
+   "Dion Sanderson",
+   "DF",
+   "ENG"
+  ],
+  [
+   29,
+   "Oscar Fraulo",
+   "MF",
+   "DEN"
+  ],
+  [
+   31,
+   "Josh Vickers",
+   "GK",
+   "ENG"
+  ],
+  [
+   33,
+   "Corey Blackett-Taylor",
+   "FW",
+   "ENG"
+  ],
+  [
+   37,
+   "Owen Eames",
+   "MF",
+   "ENG"
+  ],
+  [
+   39,
+   "Dajaune Brown",
+   "FW",
+   "JAM"
+  ],
+  [
+   39,
+   "Nicholas Bilokapic",
+   "GK",
+   "AUS"
+  ],
+  [
+   40,
+   "Cruz Allen",
+   "MF",
+   "WAL"
+  ],
+  [
+   41,
+   "Charlie Smith",
+   "MF",
+   "ENG"
+  ],
+  [
+   42,
+   "Raymond Offor",
+   "DF",
+   "IRL"
+  ],
+  [
+   44,
+   "Eiran Cashin",
+   "DF",
+   "IRL"
+  ]
+ ],
+ "Middlesbrough": [
+  [
+   1,
+   "Radek Vítek",
+   "GK",
+   "CZE"
+  ],
+  [
+   2,
+   "Callum Brittain",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Sam Byram",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Ashley Phillips",
+   "DF",
+   "ENG"
+  ],
+  [
+   5,
+   "Alfie Jones",
+   "DF",
+   "CAN"
+  ],
+  [
+   6,
+   "Sebastian Berhalter",
+   "MF",
+   "USA"
+  ],
+  [
+   7,
+   "Will Lankshear",
+   "FW",
+   "ENG"
+  ],
+  [
+   8,
+   "Riley McGree",
+   "MF",
+   "AUS"
+  ],
+  [
+   9,
+   "Tommy Conway",
+   "FW",
+   "SCO"
+  ],
+  [
+   10,
+   "Aidan Morris",
+   "MF",
+   "USA"
+  ],
+  [
+   11,
+   "Amario Cozier-Duberry",
+   "FW",
+   "ENG"
+  ],
+  [
+   12,
+   "Luke Ayling",
+   "DF",
+   "ENG"
+  ],
+  [
+   13,
+   "David Strelec",
+   "FW",
+   "SVK"
+  ],
+  [
+   14,
+   "Myles Peart-Harris",
+   "MF",
+   "ENG"
+  ],
+  [
+   15,
+   "Finley Munroe",
+   "DF",
+   "ENG"
+  ],
+  [
+   16,
+   "Jeremy Sarmiento",
+   "MF",
+   "ECU"
+  ],
+  [
+   17,
+   "Max Arfsten",
+   "DF",
+   "USA"
+  ],
+  [
+   18,
+   "Connor Barron",
+   "MF",
+   "SCO"
+  ],
+  [
+   19,
+   "Leo Castledine",
+   "MF",
+   "ENG"
+  ],
+  [
+   21,
+   "Rokas Pukštas",
+   "MF",
+   "USA"
+  ],
+  [
+   22,
+   "Kyle Joseph",
+   "FW",
+   "SCO"
+  ],
+  [
+   24,
+   "Alex Bangura",
+   "DF",
+   "SLE"
+  ],
+  [
+   25,
+   "George Edmundson (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   27,
+   "Sontje Hansen",
+   "FW",
+   "CUW"
+  ],
+  [
+   28,
+   "Law McCabe",
+   "MF",
+   "ENG"
+  ],
+  [
+   29,
+   "Adilson Malanda",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Neto Borges",
+   "DF",
+   "BRA"
+  ],
+  [
+   31,
+   "Sol Brynn",
+   "GK",
+   "ENG"
+  ],
+  [
+   33,
+   "Jon McLaughlin (footballer)",
+   "GK",
+   "SCO"
+  ],
+  [
+   40,
+   "Fin Cartwright",
+   "MF",
+   "ENG"
+  ],
+  [
+   44,
+   "Cruz Ibeh",
+   "MF",
+   "ENG"
+  ]
+ ],
+ "Norwich": [
+  [
+   1,
+   "Vladan Kovačević",
+   "GK",
+   "BIH"
+  ],
+  [
+   3,
+   "Jack Stacey",
+   "DF",
+   "ENG"
+  ],
+  [
+   5,
+   "Jakov Medić",
+   "DF",
+   "CRO"
+  ],
+  [
+   6,
+   "Harry Darling",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Pelle Mattsson",
+   "MF",
+   "DEN"
+  ],
+  [
+   8,
+   "Liam Gibbs",
+   "MF",
+   "ENG"
+  ],
+  [
+   10,
+   "Matěj Jurásek",
+   "MF",
+   "CZE"
+  ],
+  [
+   11,
+   "Andre Brooks",
+   "MF",
+   "JAM"
+  ],
+  [
+   12,
+   "Lucien Mahovo",
+   "DF",
+   "ENG"
+  ],
+  [
+   13,
+   "Darlin Yongwa",
+   "DF",
+   "CMR"
+  ],
+  [
+   14,
+   "Ben Chrisene",
+   "DF",
+   "ENG"
+  ],
+  [
+   15,
+   "Ruairi McConville",
+   "DF",
+   "NIR"
+  ],
+  [
+   16,
+   "Jacob Wright",
+   "MF",
+   "ENG"
+  ],
+  [
+   17,
+   "Ante Crnac",
+   "FW",
+   "CRO"
+  ],
+  [
+   18,
+   "Amankwah Forson",
+   "MF",
+   "GHA"
+  ],
+  [
+   19,
+   "Papa Amadou Diallo",
+   "MF",
+   "SEN"
+  ],
+  [
+   20,
+   "Anis Ben Slimane",
+   "MF",
+   "TUN"
+  ],
+  [
+   21,
+   "Mohamed Touré (soccer, born 2004)",
+   "FW",
+   "AUS"
+  ],
+  [
+   22,
+   "Mirko Topić",
+   "MF",
+   "SRB"
+  ],
+  [
+   23,
+   "Kenny McLean",
+   "MF",
+   "SCO"
+  ],
+  [
+   24,
+   "Jovon Makama",
+   "FW",
+   "ENG"
+  ],
+  [
+   25,
+   "Paris Maghoma",
+   "MF",
+   "COD"
+  ],
+  [
+   26,
+   "Sam Field (footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   28,
+   "Bruno Alves (footballer, born 2005)",
+   "DF",
+   "BRA"
+  ],
+  [
+   29,
+   "Oscar Schwartau",
+   "MF",
+   "DEN"
+  ],
+  [
+   30,
+   "Mathias Kvistgaarden",
+   "FW",
+   "DEN"
+  ],
+  [
+   31,
+   "Louie Moulden",
+   "GK",
+   "ENG"
+  ],
+  [
+   32,
+   "Daniel Grimshaw",
+   "GK",
+   "ENG"
+  ],
+  [
+   33,
+   "José Córdoba",
+   "DF",
+   "PAN"
+  ],
+  [
+   34,
+   "Vicente Reyes (footballer)",
+   "GK",
+   "CHI"
+  ],
+  [
+   35,
+   "Kellen Fisher",
+   "DF",
+   "ENG"
+  ],
+  [
+   37,
+   "Ali Ahmed (soccer)",
+   "MF",
+   "CAN"
+  ],
+  [
+   40,
+   "Caleb Ansen",
+   "GK",
+   "ENG"
+  ],
+  [
+   41,
+   "Gabriel Forsyth",
+   "MF",
+   "SCO"
+  ],
+  [
+   44,
+   "Elliot Myles",
+   "MF",
+   "WAL"
+  ]
+ ],
+ "Portsmouth": [
+  [
+   1,
+   "Nicolas Schmid",
+   "GK",
+   "AUT"
+  ],
+  [
+   3,
+   "Connor Ogilvie",
+   "DF",
+   "ENG"
+  ],
+  [
+   5,
+   "Regan Poole",
+   "DF",
+   "WAL"
+  ],
+  [
+   7,
+   "Marlon Pack",
+   "MF",
+   "ENG"
+  ],
+  [
+   8,
+   "John Swift (footballer, born 1995)",
+   "MF",
+   "ENG"
+  ],
+  [
+   9,
+   "Colby Bishop",
+   "FW",
+   "ENG"
+  ],
+  [
+   10,
+   "Adrian Segečić",
+   "FW",
+   "CRO"
+  ],
+  [
+   11,
+   "Abu Kamara (footballer, born 2003)",
+   "FW",
+   "ENG"
+  ],
+  [
+   15,
+   "Franco Umeh",
+   "FW",
+   "IRL"
+  ],
+  [
+   17,
+   "Tyrese Shade",
+   "FW",
+   "SKN"
+  ],
+  [
+   18,
+   "Márk Kosznovszky",
+   "MF",
+   "HUN"
+  ],
+  [
+   19,
+   "Rocco Robert Shein",
+   "MF",
+   "EST"
+  ],
+  [
+   21,
+   "Keshi Anderson",
+   "FW",
+   "ENG"
+  ],
+  [
+   22,
+   "Zak Swanson",
+   "DF",
+   "ENG"
+  ],
+  [
+   23,
+   "Josh Murphy",
+   "FW",
+   "ENG"
+  ],
+  [
+   24,
+   "Terry Devlin",
+   "DF",
+   "NIR"
+  ],
+  [
+   27,
+   "Odin Bailey",
+   "MF",
+   "ENG"
+  ],
+  [
+   28,
+   "Luke Brooke-Smith",
+   "FW",
+   "NZL"
+  ],
+  [
+   29,
+   "Marko Milovanović (footballer, born 2003)",
+   "FW",
+   "SER"
+  ],
+  [
+   30,
+   "Ben Killip",
+   "GK",
+   "ENG"
+  ],
+  [
+   31,
+   "Daniel Bielica",
+   "GK",
+   "POL"
+  ],
+  [
+   32,
+   "Eoin Kenny",
+   "FW",
+   "NIR"
+  ],
+  [
+   33,
+   "Jacob Farrell",
+   "DF",
+   "AUS"
+  ],
+  [
+   34,
+   "Harvey Blair",
+   "FW",
+   "ENG"
+  ],
+  [
+   37,
+   "Iyad Mohamed",
+   "MF",
+   "COM"
+  ],
+  [
+   38,
+   "Ebou Adams",
+   "MF",
+   "GAM"
+  ],
+  [
+   45,
+   "Chinedu Agu",
+   "MF",
+   "ENG"
+  ]
+ ],
+ "Preston": [
+  [
+   1,
+   "Daniel Iversen",
+   "GK",
+   "DEN"
+  ],
+  [
+   2,
+   "Pol Valentín",
+   "DF",
+   "ESP"
+  ],
+  [
+   3,
+   "Andrija Vukčević",
+   "DF",
+   "MNE"
+  ],
+  [
+   4,
+   "Harry Clarke (footballer, born 2001)",
+   "DF",
+   "ENG"
+  ],
+  [
+   6,
+   "Liam Lindsay",
+   "DF",
+   "SCO"
+  ],
+  [
+   7,
+   "Alfie Devine",
+   "MF",
+   "ENG"
+  ],
+  [
+   8,
+   "Ali McCann",
+   "MF",
+   "NIR"
+  ],
+  [
+   9,
+   "Jusef Erabi",
+   "FW",
+   "SWE"
+  ],
+  [
+   10,
+   "Callum Lang",
+   "FW",
+   "ENG"
+  ],
+  [
+   11,
+   "Thierry Small",
+   "DF",
+   "ENG"
+  ],
+  [
+   12,
+   "Caleb Wiley",
+   "DF",
+   "USA"
+  ],
+  [
+   14,
+   "Jordan Storey",
+   "DF",
+   "ENG"
+  ],
+  [
+   15,
+   "Jordan Thompson (footballer, born 1997)",
+   "MF",
+   "NIR"
+  ],
+  [
+   16,
+   "Andrew Hughes (footballer, born 1992)",
+   "DF",
+   "WAL"
+  ],
+  [
+   17,
+   "Stanley Mills (footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   19,
+   "Lewis Gibson (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   20,
+   "Liam Gibbs",
+   "MF",
+   "ENG"
+  ],
+  [
+   21,
+   "Lee Nicholls",
+   "GK",
+   "ENG"
+  ],
+  [
+   23,
+   "Andrew Moran",
+   "MF",
+   "IRL"
+  ],
+  [
+   24,
+   "Odel Offiah",
+   "DF",
+   "ENG"
+  ],
+  [
+   27,
+   "Léo Leroy",
+   "MF",
+   "FRA"
+  ],
+  [
+   30,
+   "George Gryba",
+   "FW",
+   "ENG"
+  ],
+  [
+   34,
+   "Kitt Nelson",
+   "MF",
+   "ENG"
+  ],
+  [
+   37,
+   "Delano Burgzorg",
+   "FW",
+   "NED"
+  ],
+  [
+   38,
+   "Johnny Kenny",
+   "FW",
+   "IRL"
+  ],
+  [
+   41,
+   "Li-Bau Stowell",
+   "GK",
+   "ENG"
+  ],
+  [
+   44,
+   "Brad Potts",
+   "MF",
+   "ENG"
+  ]
+ ],
+ "QPR": [
+  [
+   1,
+   "Pierce Charles",
+   "GK",
+   "NIR"
+  ],
+  [
+   2,
+   "Kealey Adamson",
+   "DF",
+   "AUS"
+  ],
+  [
+   3,
+   "Jimmy Dunne (footballer, born 1997)",
+   "DF",
+   "IRL"
+  ],
+  [
+   4,
+   "Liam Morrison",
+   "DF",
+   "SCO"
+  ],
+  [
+   5,
+   "Ronnie Edwards (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   6,
+   "Jake Clarke-Salter",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Karamoko Dembélé",
+   "MF",
+   "ENG"
+  ],
+  [
+   10,
+   "Ilias Chair",
+   "MF",
+   "MAR"
+  ],
+  [
+   11,
+   "Paul Smyth (footballer)",
+   "MF",
+   "NIR"
+  ],
+  [
+   12,
+   "Boy Kemper",
+   "DF",
+   "NED"
+  ],
+  [
+   13,
+   "Calum Ward",
+   "GK",
+   "ENG"
+  ],
+  [
+   14,
+   "Kōki Saitō (footballer)",
+   "MF",
+   "JPN"
+  ],
+  [
+   15,
+   "Alfie Lloyd",
+   "FW",
+   "ENG"
+  ],
+  [
+   16,
+   "Rumarn Burrell",
+   "FW",
+   "JAM"
+  ],
+  [
+   17,
+   "Kwame Poku",
+   "MF",
+   "GHA"
+  ],
+  [
+   18,
+   "Glen Kamara",
+   "MF",
+   "FIN"
+  ],
+  [
+   19,
+   "Dennis Cirkin",
+   "DF",
+   "LVA"
+  ],
+  [
+   20,
+   "Harvey Vale",
+   "MF",
+   "IRL"
+  ],
+  [
+   21,
+   "Kieran Morgan",
+   "MF",
+   "ENG"
+  ],
+  [
+   22,
+   "Richard Kone",
+   "FW",
+   "CIV"
+  ],
+  [
+   23,
+   "Isak Alemayehu",
+   "MF",
+   "SWE"
+  ],
+  [
+   24,
+   "Nicolas Madsen",
+   "MF",
+   "DEN"
+  ],
+  [
+   25,
+   "Justin Obikwu",
+   "FW",
+   "TRI"
+  ],
+  [
+   26,
+   "Rayan Kolli",
+   "FW",
+   "ALG"
+  ],
+  [
+   27,
+   "Amadou Mbengue",
+   "DF",
+   "SEN"
+  ],
+  [
+   30,
+   "Tylon Smith",
+   "DF",
+   "RSA"
+  ],
+  [
+   31,
+   "Ray Jones (footballer, born 1988)",
+   "FW",
+   "ENG"
+  ],
+  [
+   32,
+   "Matteo Salamon",
+   "GK",
+   "ENG"
+  ],
+  [
+   33,
+   "Leon Scarlett",
+   "MF",
+   "WAL"
+  ],
+  [
+   35,
+   "Philip Sanyaolu",
+   "MF",
+   "ENG"
+  ],
+  [
+   38,
+   "Ziyad Larkeche",
+   "DF",
+   "FRA"
+  ],
+  [
+   40,
+   "Jonathan Varane",
+   "MF",
+   "MTQ"
+  ]
+ ],
+ "SheffieldUtd": [
+  [
+   1,
+   "Michael Cooper (footballer)",
+   "GK",
+   "ENG"
+  ],
+  [
+   2,
+   "Matt Doherty (footballer, born 1992)",
+   "DF",
+   "IRL"
+  ],
+  [
+   3,
+   "Sam McCallum",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Ollie Arblaster",
+   "MF",
+   "ENG"
+  ],
+  [
+   5,
+   "Japhet Tanganga",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Joe Rothwell",
+   "MF",
+   "ENG"
+  ],
+  [
+   8,
+   "Hamza Choudhury",
+   "MF",
+   "BAN"
+  ],
+  [
+   9,
+   "Tom Cannon (footballer)",
+   "FW",
+   "IRL"
+  ],
+  [
+   10,
+   "Jordan Ayew",
+   "FW",
+   "GHA"
+  ],
+  [
+   11,
+   "Romelle Donovan",
+   "FW",
+   "ENG"
+  ],
+  [
+   14,
+   "Harrison Burrows",
+   "DF",
+   "ENG"
+  ],
+  [
+   15,
+   "Liam Kitching",
+   "DF",
+   "IRL"
+  ],
+  [
+   16,
+   "Jamie Shackleton",
+   "DF",
+   "ENG"
+  ],
+  [
+   17,
+   "Adam Davies (footballer, born 1992)",
+   "GK",
+   "WAL"
+  ],
+  [
+   19,
+   "Tahith Chong",
+   "FW",
+   "CUW"
+  ],
+  [
+   21,
+   "Nils Zätterström",
+   "DF",
+   "SWE"
+  ],
+  [
+   22,
+   "Ben Brereton Díaz",
+   "FW",
+   "CHI"
+  ],
+  [
+   23,
+   "Tyrese Campbell",
+   "FW",
+   "ENG"
+  ],
+  [
+   25,
+   "Mark McGuinness",
+   "DF",
+   "IRL"
+  ],
+  [
+   26,
+   "Ryan Oné",
+   "FW",
+   "SCO"
+  ],
+  [
+   27,
+   "Kalvin Phillips",
+   "MF",
+   "ENG"
+  ],
+  [
+   28,
+   "Alex Matos",
+   "MF",
+   "ENG"
+  ],
+  [
+   30,
+   "Rhys Norrington-Davies",
+   "DF",
+   "WAL"
+  ],
+  [
+   31,
+   "Luke Faxon",
+   "MF",
+   "ENG"
+  ],
+  [
+   31,
+   "Tommy Betts",
+   "GK",
+   "ENG"
+  ],
+  [
+   33,
+   "Jamal Baptiste",
+   "DF",
+   "ENG"
+  ],
+  [
+   34,
+   "Louie Marsh",
+   "FW",
+   "ENG"
+  ],
+  [
+   38,
+   "Femi Seriki",
+   "DF",
+   "ENG"
+  ],
+  [
+   42,
+   "Sydie Peck",
+   "MF",
+   "ENG"
+  ],
+  [
+   44,
+   "Jaïro Riedewald",
+   "MF",
+   "NED"
+  ],
+  [
+   45,
+   "Patrick Bamford",
+   "FW",
+   "ENG"
+  ]
+ ],
+ "Southampton": [
+  [
+   1,
+   "Daniel Peretz",
+   "GK",
+   "ISR"
+  ],
+  [
+   2,
+   "Mads Roerslev",
+   "DF",
+   "DEN"
+  ],
+  [
+   3,
+   "Ryan Manning",
+   "DF",
+   "IRL"
+  ],
+  [
+   4,
+   "Flynn Downes",
+   "MF",
+   "ENG"
+  ],
+  [
+   5,
+   "Jack Stephens (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   6,
+   "Zach Abbott",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Léo Scienza",
+   "MF",
+   "BRA"
+  ],
+  [
+   8,
+   "Caspar Jander",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Cyle Larin",
+   "FW",
+   "CAN"
+  ],
+  [
+   10,
+   "Finn Azaz",
+   "MF",
+   "IRL"
+  ],
+  [
+   11,
+   "Lewis Dobbin",
+   "FW",
+   "ENG"
+  ],
+  [
+   13,
+   "Keven Schlotterbeck",
+   "DF",
+   "GER"
+  ],
+  [
+   14,
+   "James Bree (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   15,
+   "Nathan Wood (footballer, born 2002)",
+   "DF",
+   "ENG"
+  ],
+  [
+   16,
+   "Yukinari Sugawara",
+   "DF",
+   "JPN"
+  ],
+  [
+   17,
+   "Joshua Quarshie",
+   "DF",
+   "GER"
+  ],
+  [
+   18,
+   "Tom Fellows",
+   "MF",
+   "ENG"
+  ],
+  [
+   19,
+   "Cameron Archer",
+   "FW",
+   "ENG"
+  ],
+  [
+   22,
+   "Ben Brereton Díaz",
+   "FW",
+   "CHI"
+  ],
+  [
+   23,
+   "Samuel Edozie",
+   "MF",
+   "ENG"
+  ],
+  [
+   25,
+   "George Long (footballer)",
+   "GK",
+   "ENG"
+  ],
+  [
+   26,
+   "Cam Bragg",
+   "MF",
+   "SCO"
+  ],
+  [
+   27,
+   "Kuryu Matsuki",
+   "MF",
+   "JPN"
+  ],
+  [
+   28,
+   "Divin Mubama",
+   "FW",
+   "ENG"
+  ],
+  [
+   29,
+   "Romeo Akachukwu",
+   "MF",
+   "IRL"
+  ],
+  [
+   30,
+   "James Ward-Prowse",
+   "MF",
+   "ENG"
+  ],
+  [
+   31,
+   "Jamie Jones (footballer)",
+   "GK",
+   "ENG"
+  ],
+  [
+   32,
+   "Aaron Ramsdale",
+   "GK",
+   "ENG"
+  ],
+  [
+   34,
+   "Welington (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   42,
+   "Damion Downs",
+   "FW",
+   "USA"
+  ]
+ ],
+ "Stoke": [
+  [
+   1,
+   "Viktor Johansson",
+   "GK",
+   "SWE"
+  ],
+  [
+   2,
+   "Ben Johnson (footballer, born 2000)",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Aaron Cresswell",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Ben Pearson (footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   5,
+   "Luke Graham (footballer, born 2004)",
+   "DF",
+   "SCO"
+  ],
+  [
+   6,
+   "Svante Ingelsson",
+   "MF",
+   "SWE"
+  ],
+  [
+   7,
+   "Jack McGlynn",
+   "MF",
+   "USA"
+  ],
+  [
+   8,
+   "Ethan Galbraith",
+   "MF",
+   "NIR"
+  ],
+  [
+   9,
+   "Róbert Boženík",
+   "FW",
+   "SVK"
+  ],
+  [
+   10,
+   "Bae Jun-ho",
+   "MF",
+   "KOR"
+  ],
+  [
+   11,
+   "Lamine Cissé",
+   "FW",
+   "FRA"
+  ],
+  [
+   13,
+   "Justin Devenny",
+   "MF",
+   "NIR"
+  ],
+  [
+   14,
+   "Ato Ampah",
+   "FW",
+   "ENG"
+  ],
+  [
+   15,
+   "George Hirst (footballer)",
+   "FW",
+   "SCO"
+  ],
+  [
+   16,
+   "Ben Wilmot",
+   "DF",
+   "ENG"
+  ],
+  [
+   17,
+   "Eric Bocat",
+   "DF",
+   "FRA"
+  ],
+  [
+   18,
+   "Bosun Lawal",
+   "MF",
+   "IRL"
+  ],
+  [
+   19,
+   "Tomáš Rigo",
+   "MF",
+   "SVK"
+  ],
+  [
+   20,
+   "Sam Gallagher (footballer, born 1995)",
+   "FW",
+   "ENG"
+  ],
+  [
+   21,
+   "Luca Bombino",
+   "DF",
+   "USA"
+  ],
+  [
+   22,
+   "Junior Tchamadeu",
+   "DF",
+   "CMR"
+  ],
+  [
+   23,
+   "Ben Gibson",
+   "DF",
+   "ENG"
+  ],
+  [
+   24,
+   "Josh Griffiths (footballer)",
+   "GK",
+   "ENG"
+  ],
+  [
+   25,
+   "Tommy Simkin",
+   "GK",
+   "ENG"
+  ],
+  [
+   27,
+   "Djibril Soumaré",
+   "MF",
+   "SEN"
+  ],
+  [
+   34,
+   "Frank Fielding",
+   "GK",
+   "ENG"
+  ],
+  [
+   35,
+   "Nathan Lowe",
+   "FW",
+   "ENG"
+  ],
+  [
+   37,
+   "Emre Tezgel",
+   "FW",
+   "ENG"
+  ],
+  [
+   40,
+   "Maksym Talovierov",
+   "DF",
+   "UKR"
+  ],
+  [
+   42,
+   "Million Manhoef",
+   "FW",
+   "NED"
+  ]
+ ],
+ "Swansea": [
+  [
+   1,
+   "Andy Fisher (footballer)",
+   "GK",
+   "ENG"
+  ],
+  [
+   2,
+   "Joshua Key (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Jenson Seelt",
+   "DF",
+   "NED"
+  ],
+  [
+   4,
+   "Jay Fulton",
+   "MF",
+   "SCO"
+  ],
+  [
+   5,
+   "Ben Cabango",
+   "DF",
+   "WAL"
+  ],
+  [
+   6,
+   "Marko Stamenić",
+   "MF",
+   "NZL"
+  ],
+  [
+   7,
+   "Melker Widell",
+   "MF",
+   "SWE"
+  ],
+  [
+   8,
+   "Elijah Just",
+   "MF",
+   "NZL"
+  ],
+  [
+   9,
+   "Žan Vipotnik",
+   "FW",
+   "SVN"
+  ],
+  [
+   10,
+   "Eom Ji-sung",
+   "FW",
+   "KOR"
+  ],
+  [
+   12,
+   "Jeremy Monga",
+   "FW",
+   "ENG"
+  ],
+  [
+   14,
+   "Josh Tymon",
+   "DF",
+   "ENG"
+  ],
+  [
+   15,
+   "Cameron Burgess",
+   "DF",
+   "AUS"
+  ],
+  [
+   16,
+   "Tom Iorpenda",
+   "MF",
+   "ENG"
+  ],
+  [
+   17,
+   "Gonçalo Franco",
+   "MF",
+   "POR"
+  ],
+  [
+   20,
+   "Tiago Parente (footballer, born 2006)",
+   "DF",
+   "POR"
+  ],
+  [
+   22,
+   "Lawrence Vigouroux",
+   "GK",
+   "CHI"
+  ],
+  [
+   23,
+   "Stephen Welsh",
+   "DF",
+   "SCO"
+  ],
+  [
+   26,
+   "Filip Lissah",
+   "DF",
+   "CZE"
+  ],
+  [
+   29,
+   "Paul Farman",
+   "GK",
+   "ENG"
+  ],
+  [
+   30,
+   "Joseph Opoku",
+   "FW",
+   "GHA"
+  ],
+  [
+   31,
+   "Ross Stewart (footballer, born 1996)",
+   "FW",
+   "SCO"
+  ],
+  [
+   33,
+   "Adam Idah",
+   "FW",
+   "IRL"
+  ],
+  [
+   35,
+   "Ronald (footballer, born 2001)",
+   "FW",
+   "BRA"
+  ],
+  [
+   40,
+   "Besian Idrizaj",
+   "FW",
+   "AUT"
+  ]
+ ],
+ "Watford": [
+  [
+   1,
+   "Federico Ravaglia",
+   "GK",
+   "ITA"
+  ],
+  [
+   2,
+   "Jeremy Ngakia",
+   "DF",
+   "COD"
+  ],
+  [
+   3,
+   "Soumaïla Coulibaly (footballer, born 2003)",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Kévin Keben",
+   "DF",
+   "CMR"
+  ],
+  [
+   5,
+   "Hector Kyprianou",
+   "MF",
+   "CYP"
+  ],
+  [
+   6,
+   "Mattie Pollock",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Othmane Maamma",
+   "FW",
+   "MAR"
+  ],
+  [
+   8,
+   "Edoardo Bove",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Luca Kjerrumgaard",
+   "FW",
+   "DEN"
+  ],
+  [
+   10,
+   "Myron Boadu",
+   "FW",
+   "NED"
+  ],
+  [
+   11,
+   "Rocco Vata",
+   "FW",
+   "IRL"
+  ],
+  [
+   13,
+   "Egil Selvik",
+   "GK",
+   "NOR"
+  ],
+  [
+   14,
+   "Kwadwo Baah",
+   "FW",
+   "GER"
+  ],
+  [
+   16,
+   "Marc Bola",
+   "DF",
+   "ENG"
+  ],
+  [
+   17,
+   "Iker Bravo",
+   "FW",
+   "ESP"
+  ],
+  [
+   18,
+   "Michail Antonio",
+   "FW",
+   "JAM"
+  ],
+  [
+   18,
+   "Vivaldo Semedo",
+   "FW",
+   "POR"
+  ],
+  [
+   19,
+   "Nikoloz Chikovani",
+   "FW",
+   "GEO"
+  ],
+  [
+   20,
+   "Mamadou Doumbia (footballer, born 2006)",
+   "FW",
+   "MLI"
+  ],
+  [
+   21,
+   "Amin Nabizada",
+   "FW",
+   "AFG"
+  ],
+  [
+   22,
+   "Martín Payero",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Omar Haktab Traoré",
+   "DF",
+   "GER"
+  ],
+  [
+   24,
+   "Sam Walker (footballer)",
+   "GK",
+   "ENG"
+  ],
+  [
+   26,
+   "Daniel Bachmann",
+   "GK",
+   "AUT"
+  ],
+  [
+   29,
+   "Branimir Mlačić",
+   "DF",
+   "CRO"
+  ],
+  [
+   33,
+   "Jordan Zemura",
+   "DF",
+   "ZIM"
+  ],
+  [
+   39,
+   "Edo Kayembe",
+   "MF",
+   "COD"
+  ],
+  [
+   41,
+   "Alfie Marriott",
+   "GK",
+   "ENG"
+  ],
+  [
+   43,
+   "Jack Grieves",
+   "MF",
+   "ENG"
+  ],
+  [
+   45,
+   "Stephy Mavididi",
+   "FW",
+   "COD"
+  ]
+ ],
+ "WestBrom": [
+  [
+   1,
+   "Max O'Leary",
+   "GK",
+   "IRL"
+  ],
+  [
+   2,
+   "Chris Mepham",
+   "DF",
+   "WAL"
+  ],
+  [
+   3,
+   "Nat Phillips",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Callum Styles",
+   "DF",
+   "HUN"
+  ],
+  [
+   6,
+   "George Campbell (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   7,
+   "Felix Horn Myhre",
+   "MF",
+   "NOR"
+  ],
+  [
+   8,
+   "Jayson Molumby",
+   "MF",
+   "IRL"
+  ],
+  [
+   9,
+   "Barney Stewart",
+   "FW",
+   "SCO"
+  ],
+  [
+   10,
+   "Mikey Johnston",
+   "FW",
+   "IRL"
+  ],
+  [
+   11,
+   "Jimmy-Jay Morgan",
+   "FW",
+   "ENG"
+  ],
+  [
+   13,
+   "Matt Ingram",
+   "GK",
+   "ENG"
+  ],
+  [
+   14,
+   "Alfie Gilchrist",
+   "DF",
+   "ENG"
+  ],
+  [
+   15,
+   "Toby Collyer",
+   "MF",
+   "ENG"
+  ],
+  [
+   17,
+   "Ousmane Diakité",
+   "MF",
+   "MLI"
+  ],
+  [
+   18,
+   "Brayann Pereira",
+   "DF",
+   "FRA"
+  ],
+  [
+   19,
+   "Aune Heggebø",
+   "FW",
+   "NOR"
+  ],
+  [
+   20,
+   "Rabby Nzingoula",
+   "MF",
+   "FRA"
+  ],
+  [
+   21,
+   "Isaac Price",
+   "MF",
+   "NIR"
+  ],
+  [
+   22,
+   "Conor Townsend",
+   "DF",
+   "ENG"
+  ],
+  [
+   23,
+   "Tammer Bany",
+   "FW",
+   "JOR"
+  ],
+  [
+   25,
+   "Nolan Galves",
+   "DF",
+   "FRA"
+  ],
+  [
+   26,
+   "Kareem Tunde",
+   "FW",
+   "ESP"
+  ],
+  [
+   28,
+   "Alex Williams (footballer, born 2005)",
+   "DF",
+   "WAL"
+  ],
+  [
+   29,
+   "Harry Whitwell",
+   "MF",
+   "ENG"
+  ]
+ ],
+ "WestHam": [
+  [
+   1,
+   "Mads Hermansen",
+   "GK",
+   "DEN"
+  ],
+  [
+   2,
+   "Kyle Walker-Peters",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Maximilian Kilman",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Edson Álvarez",
+   "MF",
+   "MEX"
+  ],
+  [
+   5,
+   "Morato (footballer, born 2001)",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Arne Engels",
+   "MF",
+   "BEL"
+  ],
+  [
+   9,
+   "Joël Piroe",
+   "FW",
+   "SUR"
+  ],
+  [
+   10,
+   "Manor Solomon",
+   "FW",
+   "ISR"
+  ],
+  [
+   11,
+   "Taty Castellanos",
+   "FW",
+   "ARG"
+  ],
+  [
+   14,
+   "Divine Mukasa",
+   "MF",
+   "ENG"
+  ],
+  [
+   15,
+   "Konstantinos Mavropanos",
+   "DF",
+   "GRE"
+  ],
+  [
+   17,
+   "Mohamadou Kanté",
+   "MF",
+   "FRA"
+  ],
+  [
+   18,
+   "Adama Boiro",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Pablo (footballer, born 2004)",
+   "FW",
+   "BRA"
+  ],
+  [
+   20,
+   "Jarrod Bowen",
+   "FW",
+   "ENG"
+  ],
+  [
+   21,
+   "Keiber Lamadrid",
+   "MF",
+   "VEN"
+  ],
+  [
+   22,
+   "Maxwel Cornet",
+   "FW",
+   "CIV"
+  ],
+  [
+   23,
+   "Alphonse Areola",
+   "GK",
+   "FRA"
+  ],
+  [
+   25,
+   "Jean-Clair Todibo",
+   "DF",
+   "FRA"
+  ],
+  [
+   27,
+   "Soungoutou Magassa",
+   "MF",
+   "FRA"
+  ],
+  [
+   28,
+   "Tomáš Souček",
+   "MF",
+   "CZE"
+  ],
+  [
+   29,
+   "Aaron Wan-Bissaka",
+   "DF",
+   "COD"
+  ],
+  [
+   30,
+   "Oliver Scarles",
+   "DF",
+   "ENG"
+  ],
+  [
+   34,
+   "Joël Veltman",
+   "DF",
+   "NED"
+  ],
+  [
+   35,
+   "Edvin Austbø",
+   "FW",
+   "NOR"
+  ],
+  [
+   42,
+   "Kaelan Casey",
+   "DF",
+   "ENG"
+  ]
+ ],
+ "Wolves": [
+  [
+   1,
+   "José Sá",
+   "GK",
+   "POR"
+  ],
+  [
+   2,
+   "Kieran Trippier",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Hugo Bueno (footballer, born 2002)",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Santiago Bueno",
+   "DF",
+   "URU"
+  ],
+  [
+   5,
+   "Marshall Munetsi",
+   "MF",
+   "ZIM"
+  ],
+  [
+   6,
+   "David Møller Wolfe",
+   "DF",
+   "NOR"
+  ],
+  [
+   7,
+   "André (footballer, born 2001)",
+   "MF",
+   "BRA"
+  ],
+  [
+   8,
+   "Jordan James (footballer, born 2004)",
+   "MF",
+   "WAL"
+  ],
+  [
+   9,
+   "Raúl Jiménez",
+   "FW",
+   "MEX"
+  ],
+  [
+   10,
+   "Adam Armstrong (footballer)",
+   "FW",
+   "ENG"
+  ],
+  [
+   11,
+   "Bertrand Traoré",
+   "FW",
+   "BFA"
+  ],
+  [
+   11,
+   "Hwang Hee-chan",
+   "FW",
+   "KOR"
+  ],
+  [
+   12,
+   "Boubacar Traoré (footballer, born 2001)",
+   "MF",
+   "MLI"
+  ],
+  [
+   13,
+   "João Virgínia",
+   "GK",
+   "POR"
+  ],
+  [
+   14,
+   "Sean Neave",
+   "FW",
+   "ENG"
+  ],
+  [
+   14,
+   "Tolu Arokodare",
+   "FW",
+   "NGA"
+  ],
+  [
+   15,
+   "Yerson Mosquera",
+   "DF",
+   "COL"
+  ],
+  [
+   17,
+   "Pedro Lima (footballer, born 2006)",
+   "DF",
+   "BRA"
+  ],
+  [
+   19,
+   "Rafiki Saïd",
+   "FW",
+   "COM"
+  ],
+  [
+   20,
+   "Tommy Doyle (footballer, born 2001)",
+   "MF",
+   "ENG"
+  ],
+  [
+   21,
+   "Rodrigo Gomes",
+   "FW",
+   "POR"
+  ],
+  [
+   23,
+   "Tawanda Chirewa",
+   "FW",
+   "ZIM"
+  ],
+  [
+   24,
+   "Toti Gomes",
+   "DF",
+   "POR"
+  ],
+  [
+   26,
+   "John Ruddy",
+   "GK",
+   "ENG"
+  ],
+  [
+   27,
+   "Jean‐Ricner Bellegarde",
+   "MF",
+   "HAI"
+  ],
+  [
+   28,
+   "Fer López",
+   "MF",
+   "ESP"
+  ],
+  [
+   30,
+   "Enso González",
+   "FW",
+   "PAR"
+  ],
+  [
+   31,
+   "Sam Johnstone",
+   "GK",
+   "ENG"
+  ],
+  [
+   33,
+   "Ghislain Konan",
+   "DF",
+   "CIV"
+  ],
+  [
+   34,
+   "Nasser Djiga",
+   "DF",
+   "BFA"
+  ],
+  [
+   36,
+   "Mateus Mané",
+   "FW",
+   "POR"
+  ],
+  [
+   37,
+   "Ladislav Krejčí (footballer, born 1999)",
+   "DF",
+   "CZE"
+  ],
+  [
+   38,
+   "Jackson Tchatchoua",
+   "DF",
+   "CMR"
+  ]
+ ],
+ "Wrexham": [
+  [
+   1,
+   "Arthur Okonkwo",
+   "GK",
+   "NGA"
+  ],
+  [
+   2,
+   "Callum Doyle",
+   "DF",
+   "ENG"
+  ],
+  [
+   3,
+   "Jacques Ekomié",
+   "DF",
+   "GAB"
+  ],
+  [
+   4,
+   "Max Cleworth",
+   "DF",
+   "ENG"
+  ],
+  [
+   6,
+   "Joe Worrall (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Davis Keillor-Dunn",
+   "FW",
+   "ENG"
+  ],
+  [
+   8,
+   "Ben Whiteman (footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   9,
+   "Ryan Hardie",
+   "FW",
+   "SCO"
+  ],
+  [
+   10,
+   "Josh Windass",
+   "MF",
+   "ENG"
+  ],
+  [
+   11,
+   "Bailey Cadamarteri",
+   "FW",
+   "JAM"
+  ],
+  [
+   12,
+   "Issa Kaboré",
+   "DF",
+   "BFA"
+  ],
+  [
+   13,
+   "Liberato Cacace",
+   "DF",
+   "NZL"
+  ],
+  [
+   14,
+   "George Thomason (footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   15,
+   "George Dobson (footballer, born 1997)",
+   "MF",
+   "ENG"
+  ],
+  [
+   17,
+   "Callum O'Hare",
+   "MF",
+   "ENG"
+  ],
+  [
+   18,
+   "Ben Sheaf",
+   "MF",
+   "ENG"
+  ],
+  [
+   19,
+   "Kieffer Moore",
+   "FW",
+   "WAL"
+  ],
+  [
+   20,
+   "Ollie Rathbone",
+   "MF",
+   "ENG"
+  ],
+  [
+   21,
+   "Danny Ward (Welsh footballer)",
+   "GK",
+   "WAL"
+  ],
+  [
+   22,
+   "Anthony Patterson",
+   "GK",
+   "ENG"
+  ],
+  [
+   23,
+   "Sebastian Revan",
+   "DF",
+   "ENG"
+  ],
+  [
+   25,
+   "Callum Burton",
+   "GK",
+   "ENG"
+  ],
+  [
+   26,
+   "Zak Vyner",
+   "DF",
+   "KEN"
+  ],
+  [
+   27,
+   "Lewis O'Brien (footballer)",
+   "MF",
+   "ENG"
+  ],
+  [
+   28,
+   "Sam Smith (footballer, born 1998)",
+   "FW",
+   "ENG"
+  ],
+  [
+   29,
+   "Ryan Barnett",
+   "MF",
+   "ENG"
+  ],
+  [
+   30,
+   "Danny Imray",
+   "DF",
+   "ENG"
+  ],
+  [
+   33,
+   "Nathan Broadhead",
+   "FW",
+   "WAL"
+  ],
+  [
+   34,
+   "Aaron James (English footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   37,
+   "Matty James",
+   "MF",
+   "ENG"
+  ],
+  [
+   40,
+   "Alex Moore",
+   "MF",
+   "ENG"
+  ]
+ ]
+}

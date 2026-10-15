@@ -1,0 +1,100 @@
+{
+  "phase": "14A-WEB",
+  "title": "Browser Face Builder V1",
+  "updated": "2026-09-10 17:30",
+  "gates": {
+    "SAVE_EXPORT_READY": "GREEN (Phase 14A)",
+    "SAVE_ROUNDTRIP_READY": "GREEN (user-confirmed device verdict)",
+    "NEW_PLAYER_SAVE_READY": "BLOCKED_BY_DESIGN -> SAVE_IMPORT_LIMITATION recorded",
+    "WEB_INPUT_READY": {
+      "status": "GREEN_CODE",
+      "note": "1-3 photo upload + primary mark + drag/drop; needs browser E2E pass"
+    },
+    "WEB_CANDIDATE_READY": {
+      "status": "GREEN_CODE",
+      "note": "reuses generate_candidates.py subprocess; metrics + PASS/REJECT cards; needs E2E"
+    },
+    "WEB_FACE_READY": {
+      "status": "GREEN_CODE",
+      "note": "Reference Player selector (19 verified CHN) + b5 10 colors + b6 22 beards + b8 eyebrows; b14/b3 FOLLOW_REFERENCE; Eyes=V2 placeholder"
+    },
+    "WEB_PLAYER_CONFIG_READY": {
+      "status": "GREEN_CODE",
+      "note": "name/position(4 templates, MF-DF experimental)/nat(217 real)/jersey(1-99+dup check)/17 attrs(3 presets+custom)"
+    },
+    "WEB_BUILD_READY": {
+      "status": "GREEN",
+      "note": "build_20260910_021918 PASS: pid=175931 (registry cumulative), China 10059 jersey 40, TEXTURE-ONLY inject, zipalign+sign+verify OK, player.apk 548MB sha256 f29227947d66b8a85a82ce772a52273edf8b10accf2910efbb97eab9aa5833a8. FIXED today: BUILD was feeding the UV BAKE png to MICA as if it were a photo (app.py old line 236) and ran the chain unconditionally; now geometry='on' reuses candidate-job geometry (from photo_0) or errors, default 'off' = texture_inject only."
+    },
+    "WEB_INSTALL_READY": {
+      "status": "GREEN_CODE",
+      "note": "gated on BUILD PASS + device present; adb install -r -d"
+    },
+    "WEB_E2E_READY": {
+      "status": "PENDING",
+      "blocking": "device install + League verdict for build_20260910_021918 (device offline at 02:25)"
+    },
+    "WEB_GEOMETRY_PERSONALIZED": {
+      "status": "SUPERSEDED_BY_VISUAL_VERDICT",
+      "note": "Numeric personalization is real (stage2=f(stage1)=f(photo); same person 0.74mm vs different person 2.44-3.29mm) BUT PC A/B/C render verdict (2026-09-10): geometry injection is a VISUAL REGRESSION vs neutral head + bake. Root cause: bake texture is painted for the NEUTRAL mesh; warping geometry without re-baking misaligns painted features (bulging ring-eyes, sagging jaw). stage2c MESH_DIR turned out to be DEAD CODE (mv/mkpt loaded, never used) - the personalization always flowed through stage1 anchors. Jaw/chin anchors have known semantic offset (stage1 header says so; stage2c TPS wrongly used them -> fixed to rigid_core in chain_geometry). Even with rigid_core the warp shifts the whole face ~2cm (cm-scale anchor mapping noise). DECISION: V1 default = TEXTURE-ONLY (golden, device-proven); geometry = explicit experimental opt-in (geometry=on, UI checkbox) pending texture-re-bake-on-warped-mesh (V2).",
+      "evidence": [
+        "static/previews/8a3da8a3f67fd16e/dash_front.png (neutral head + user1 c3 bake: NATURAL)",
+        "static/previews/08ee69e9489b7830/dash_front.png (old shared-anchor geometry: DEFORMED)",
+        "static/previews/f0c1859e08afbef4/dash_front.png (rigid_core geometry: STILL DEFORMED)",
+        "work/face_pipeline/phase14a5/chain_test01_v2, chain_user1_v2 (fixed-anchor chains)"
+      ]
+    },
+    "FACE_SLOT_MAPPING": {
+      "status": "GREEN_DEVICE",
+      "note": "b1 10-15 -> face_eastAsia_new1-6 (slot = b1 - 9), device-proven with 6-player tinted probe (B10=red/new1, B11=green/new2, B12=blue/new3, B13=yellow/new4, B14=rose/new5, B15=dark-green/new6). Applies to DEFAULT-HEAD (fa/fb/fc=0) players. Real-head players (cloned fa/fb/fc) use the head asset's own material slot (golden MJ pipeline injected new1 with b1=14 clones and it displayed). ROOT CAUSE OF 'all faces identical / not like photo': earlier origin builds had b1=14 -> device read slot new5 (untouched baseline) while bakes were injected into new1 - the bake was NEVER displayed.",
+      "evidence": [
+        "probe build_20260910_161222 (per-player b1 verified byte-level)",
+        "user color readout 2026-09-10"
+      ]
+    },
+    "PER_PLAYER_SLOTS": {
+      "status": "GREEN_CODE",
+      "note": "inject_player_v1 auto-allocates lowest free b1 in 10-15 from registry (face_texture_id=0 = auto); texture_inject/mesh_inject take slot_b1 and target face_eastAsia_new{b1-9} (men path); app.py auto-registers pid/jersey/slot on BUILD PASS. Demo built: PhotoA(175932,jersey21,slot new1,golden-tight bake) + PhotoB(175933,jersey22,slot new2,candidate-c2 bake), both with MediaPipe skeleton. Install pending device re-connect.",
+      "limit": "6 distinct faces per APK (b1 10-15); mesh asset face_EastAsia_new1 is SHARED - all default-head players get the same warped shape (per-player meshes need per-player head assets = V3)."
+    },
+    "PHOTO_DRIVEN_SKELETON": {
+      "status": "GREEN_PC",
+      "note": "geowarp_mp.py: MediaPipe 468 3D landmarks -> 13-anchor 3D Umeyama -> dense per-vertex displacement on the EA1 700-vert template (533/700 verts active, mean 2.71mm max 6.98mm), confidence mask + clamp 8mm + Laplacian smooth. Replaces MICA-mesh registration (unreliable: eye sockets 17mm, cheeks 108mm NN mismatch). Face shape now comes entirely from the user's photo.",
+      "evidence": [
+        "static/previews/cd4614a701f0a7ef/dash_front.png (no distortion, features coherent)"
+      ]
+    }
+  },
+  "BROWSER_FACE_BUILDER_V1": "IN_PROGRESS (all code written; E2E pending)",
+  "server": "python -m uvicorn backend.app:app --port 8765 (tools/FL26_FaceBuilderWeb)",
+  "files": {
+    "backend": [
+      "app.py",
+      "data_catalog.py",
+      "appearance_state.py",
+      "jobs.py",
+      "inject_player_v1.py",
+      "texture_inject.py"
+    ],
+    "frontend": [
+      "index.html",
+      "style.css",
+      "app.js"
+    ],
+    "readme": "tools/FL26_FaceBuilderWeb/README.md"
+  },
+  "provenance_sources": {
+    "candidates": "face_benchmark/scripts/generate_candidates.py (unchanged)",
+    "injection_formula": "Phase 13B device-proven (fl26_phase13b_probe_v4_8.apk chain)",
+    "save_editor": "work/save_pipeline/phase14a/save_editor.py (SAVE_ROUNDTRIP=GREEN)",
+    "appearance_semantics": "Phase 13B byte decode + device verdicts"
+  },
+  "e2e_plan": [
+    "user opens http://127.0.0.1:8765 with device connected",
+    "upload Ma Jiantao 3 photos -> candidates -> select c4",
+    "reference Wu L., hair pink, beard Beard8, jersey 41, China NT",
+    "BUILD -> INSTALL -> play Friendly China -> verdict",
+    "Roster Manager: move 175924 -> China -> IMPORT -> restart -> verdict"
+  ],
+  "cache_semantics": "preview cache key = sha256(bake bytes [+ stage2 bytes]). Same photo re-upload => byte-identical bakes/geometry => INSTANT cache hits (user's repeated same-photo uploads on 09-09 evening were all cache hits - this, not a broken chain, is why 'every photo returns the same model' during those tests; different photos DO produce different cards)."
+}

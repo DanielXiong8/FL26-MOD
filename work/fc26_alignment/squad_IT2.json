@@ -1,0 +1,1520 @@
+{
+ "Ascoli": [
+  [
+   1,
+   "Samuele Vitale",
+   "GK",
+   "ITA"
+  ],
+  [
+   3,
+   "Manuel Nicoletti",
+   "DF",
+   "ITA"
+  ],
+  [
+   4,
+   "Samuele Damiani",
+   "MF",
+   "ITA"
+  ],
+  [
+   7,
+   "Andrea Silipo",
+   "FW",
+   "ITA"
+  ],
+  [
+   8,
+   "Giovanni Corradini",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Mohammed Chakir",
+   "FW",
+   "ITA"
+  ],
+  [
+   13,
+   "Gennaro Acampora",
+   "MF",
+   "ITA"
+  ],
+  [
+   15,
+   "Simone D'Uffizi",
+   "FW",
+   "ITA"
+  ],
+  [
+   16,
+   "Antonio Russo",
+   "MF",
+   "ITA"
+  ],
+  [
+   18,
+   "Luca Lo Scalzo",
+   "MF",
+   "ITA"
+  ],
+  [
+   19,
+   "Abdoul Guiebre",
+   "DF",
+   "BFA"
+  ],
+  [
+   23,
+   "Manuel Alagna",
+   "DF",
+   "ITA"
+  ],
+  [
+   27,
+   "Matteo Ricci (footballer, born May 1994)",
+   "MF",
+   "ITA"
+  ],
+  [
+   30,
+   "Marcos Curado",
+   "DF",
+   "ARG"
+  ],
+  [
+   32,
+   "Federico Gattoni",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "Nicholas Rizzo",
+   "DF",
+   "ITA"
+  ],
+  [
+   35,
+   "Gabriele Gori",
+   "FW",
+   "ITA"
+  ],
+  [
+   41,
+   "Rok Bržan",
+   "GK",
+   "SVN"
+  ],
+  [
+   45,
+   "Gian Marco Crespi",
+   "GK",
+   "ITA"
+  ]
+ ],
+ "Benevento": [
+  [
+   4,
+   "Antonio Prisco",
+   "MF",
+   "ITA"
+  ],
+  [
+   5,
+   "Luca Caldirola",
+   "DF",
+   "ITA"
+  ],
+  [
+   6,
+   "Antonis Siatounis",
+   "MF",
+   "GRE"
+  ],
+  [
+   8,
+   "Mattia Maita",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Francesco Salvemini",
+   "FW",
+   "ITA"
+  ],
+  [
+   11,
+   "Davide Lamesta",
+   "MF",
+   "ITA"
+  ],
+  [
+   13,
+   "Raffaele Celia",
+   "DF",
+   "ITA"
+  ],
+  [
+   14,
+   "Stefano Scognamillo",
+   "DF",
+   "ITA"
+  ],
+  [
+   15,
+   "Christian Dalle Mura",
+   "DF",
+   "ITA"
+  ],
+  [
+   17,
+   "Leonardo Sernicola",
+   "DF",
+   "ITA"
+  ],
+  [
+   18,
+   "Pier Luigi Simonetti",
+   "MF",
+   "ITA"
+  ],
+  [
+   19,
+   "Vincenzo Battista",
+   "FW",
+   "ITA"
+  ],
+  [
+   20,
+   "Pietro Beruatto",
+   "DF",
+   "ITA"
+  ],
+  [
+   21,
+   "Emanuele Schimmenti",
+   "FW",
+   "ITA"
+  ],
+  [
+   22,
+   "Manuel Esposito",
+   "GK",
+   "ITA"
+  ],
+  [
+   23,
+   "Pietro Saio",
+   "DF",
+   "ITA"
+  ],
+  [
+   25,
+   "Raffaele Romano",
+   "DF",
+   "ITA"
+  ],
+  [
+   26,
+   "Gianmarco Vannucchi",
+   "GK",
+   "ITA"
+  ],
+  [
+   28,
+   "Christian Kouan",
+   "MF",
+   "CIV"
+  ],
+  [
+   29,
+   "David Okereke",
+   "FW",
+   "NGR"
+  ],
+  [
+   30,
+   "Logan",
+   "FW",
+   "BRA"
+  ],
+  [
+   31,
+   "Giacomo Ricci (footballer)",
+   "DF",
+   "ITA"
+  ],
+  [
+   32,
+   "Guglielmo Mignani",
+   "FW",
+   "ITA"
+  ],
+  [
+   38,
+   "Angelo Talia",
+   "MF",
+   "ITA"
+  ]
+ ],
+ "Carrarese": [
+  [
+   2,
+   "Colin Dagba",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "David Vujević",
+   "DF",
+   "CRO"
+  ],
+  [
+   6,
+   "Filippo Oliana",
+   "DF",
+   "ITA"
+  ],
+  [
+   7,
+   "Niccolò Belloni",
+   "MF",
+   "ITA"
+  ],
+  [
+   8,
+   "Yanis Khafi",
+   "MF",
+   "MAR"
+  ],
+  [
+   9,
+   "Fabio Abiuso",
+   "FW",
+   "ITA"
+  ],
+  [
+   12,
+   "Giovanni Garofani",
+   "GK",
+   "ITA"
+  ],
+  [
+   13,
+   "Fabio Andrea Ruggeri",
+   "DF",
+   "ITA"
+  ],
+  [
+   18,
+   "Nicolás Schiavi",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Matthias Braunöder",
+   "MF",
+   "AUT"
+  ],
+  [
+   27,
+   "Giulio Cianti",
+   "DF",
+   "ITA"
+  ],
+  [
+   28,
+   "Jacopo Martini",
+   "MF",
+   "ITA"
+  ],
+  [
+   30,
+   "Nicola Ravaglia",
+   "GK",
+   "ITA"
+  ],
+  [
+   32,
+   "Mattia Finotto",
+   "FW",
+   "ITA"
+  ]
+ ],
+ "Catanzaro": [
+  [
+   1,
+   "Christian Marietta",
+   "GK",
+   "ITA"
+  ],
+  [
+   3,
+   "Marco Imperiale",
+   "DF",
+   "ITA"
+  ],
+  [
+   4,
+   "Matias Antonini",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Niccolò Postiglione",
+   "DF",
+   "ITA"
+  ],
+  [
+   7,
+   "Nicolò Buso",
+   "MF",
+   "ITA"
+  ],
+  [
+   10,
+   "Jacopo Petriccione",
+   "MF",
+   "ITA"
+  ],
+  [
+   14,
+   "Samuel Giovane",
+   "MF",
+   "ITA"
+  ],
+  [
+   18,
+   "Alejo Garnica",
+   "FW",
+   "ARG"
+  ],
+  [
+   19,
+   "N'dri Philippe Koffi",
+   "FW",
+   "CIV"
+  ],
+  [
+   22,
+   "Mirko Pigliacelli",
+   "GK",
+   "ITA"
+  ],
+  [
+   25,
+   "Franck Tchaouna",
+   "FW",
+   "CHA"
+  ],
+  [
+   26,
+   "Bruno Verrengia",
+   "DF",
+   "ITA"
+  ],
+  [
+   28,
+   "Franky Tchaouna",
+   "MF",
+   "CHA"
+  ],
+  [
+   29,
+   "Federico Di Francesco",
+   "FW",
+   "ITA"
+  ],
+  [
+   30,
+   "Gabriele Alesi",
+   "MF",
+   "ITA"
+  ],
+  [
+   31,
+   "Emanuele Pecorino",
+   "FW",
+   "ITA"
+  ]
+ ],
+ "Cremonese": [
+  [
+   1,
+   "Andrea Fulignati",
+   "GK",
+   "ITA"
+  ],
+  [
+   2,
+   "Morten Thorsby",
+   "MF",
+   "NOR"
+  ],
+  [
+   3,
+   "Giuseppe Pezzella",
+   "DF",
+   "ITA"
+  ],
+  [
+   4,
+   "Tommaso Barbieri",
+   "DF",
+   "ITA"
+  ],
+  [
+   5,
+   "Sebastiano Luperto",
+   "DF",
+   "ITA"
+  ],
+  [
+   6,
+   "Federico Baschirotto",
+   "DF",
+   "ITA"
+  ],
+  [
+   7,
+   "David Stückler",
+   "FW",
+   "DEN"
+  ],
+  [
+   8,
+   "Simone Lottici Tessadri",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Manuel De Luca",
+   "FW",
+   "ITA"
+  ],
+  [
+   11,
+   "Milan Đurić (footballer, born 1990)",
+   "FW",
+   "BIH"
+  ],
+  [
+   12,
+   "Marco Festa",
+   "GK",
+   "ITA"
+  ],
+  [
+   14,
+   "Tommaso Berti",
+   "MF",
+   "ITA"
+  ],
+  [
+   15,
+   "Matteo Bianchetti",
+   "DF",
+   "ITA"
+  ],
+  [
+   16,
+   "Fabio Gerli",
+   "DF",
+   "ITA"
+  ],
+  [
+   17,
+   "Adrian Lickūnas",
+   "FW",
+   "LTU"
+  ],
+  [
+   18,
+   "Michele Collocolo",
+   "MF",
+   "ITA"
+  ],
+  [
+   19,
+   "Marco Nasti",
+   "FW",
+   "ITA"
+  ],
+  [
+   20,
+   "Simone Pontisso",
+   "MF",
+   "ITA"
+  ],
+  [
+   21,
+   "Yuri Rocchetti",
+   "DF",
+   "ITA"
+  ],
+  [
+   22,
+   "Federico Agazzi",
+   "GK",
+   "ITA"
+  ],
+  [
+   25,
+   "Dachi Lordkipanidze",
+   "MF",
+   "GEO"
+  ],
+  [
+   27,
+   "Jari Vandeputte",
+   "MF",
+   "BEL"
+  ],
+  [
+   33,
+   "Alberto Grassi",
+   "MF",
+   "ITA"
+  ],
+  [
+   38,
+   "Alessandro Vogliacco",
+   "DF",
+   "ITA"
+  ]
+ ],
+ "Empoli": [
+  [
+   1,
+   "Samuele Perisan",
+   "GK",
+   "ITA"
+  ],
+  [
+   5,
+   "Duccio Degli Innocenti",
+   "MF",
+   "ITA"
+  ],
+  [
+   6,
+   "Simone Romagnoli",
+   "DF",
+   "ITA"
+  ],
+  [
+   8,
+   "Luca Magnino",
+   "MF",
+   "ITA"
+  ],
+  [
+   10,
+   "Edoardo Saporiti",
+   "FW",
+   "ITA"
+  ],
+  [
+   11,
+   "Stiven Shpendi",
+   "FW",
+   "ALB"
+  ],
+  [
+   12,
+   "Jacopo Seghetti",
+   "GK",
+   "ITA"
+  ],
+  [
+   13,
+   "Emiliano Filippis",
+   "GK",
+   "ITA"
+  ],
+  [
+   15,
+   "Joseph Ceesay",
+   "MF",
+   "GAM"
+  ],
+  [
+   17,
+   "Salvatore Monaco",
+   "FW",
+   "ITA"
+  ],
+  [
+   20,
+   "Filippo Distefano",
+   "FW",
+   "ITA"
+  ],
+  [
+   21,
+   "Gerard Yepes",
+   "MF",
+   "ESP"
+  ],
+  [
+   23,
+   "Filippo Bandinelli",
+   "MF",
+   "ITA"
+  ],
+  [
+   25,
+   "Marco Curto",
+   "DF",
+   "ITA"
+  ],
+  [
+   28,
+   "Gabriele Indragoli",
+   "DF",
+   "ITA"
+  ],
+  [
+   33,
+   "Cristian Cauz",
+   "DF",
+   "ITA"
+  ],
+  [
+   35,
+   "Matteo Egan",
+   "MF",
+   "IRL"
+  ],
+  [
+   39,
+   "Edoardo Biondini",
+   "MF",
+   "ITA"
+  ],
+  [
+   40,
+   "Roberto Berizzi",
+   "DF",
+   "ITA"
+  ],
+  [
+   45,
+   "Andrea Orlandi",
+   "MF",
+   "ITA"
+  ]
+ ],
+ "Verona": [
+  [
+   1,
+   "Nicola Leali",
+   "GK",
+   "ITA"
+  ],
+  [
+   3,
+   "Martin Frese",
+   "DF",
+   "DEN"
+  ],
+  [
+   5,
+   "Andrias Edmundsson",
+   "DF",
+   "FRO"
+  ],
+  [
+   6,
+   "Domagoj Bradarić",
+   "DF",
+   "CRO"
+  ],
+  [
+   8,
+   "Suat Serdar",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Amin Sarr",
+   "FW",
+   "SWE"
+  ],
+  [
+   10,
+   "Tomáš Suslov",
+   "MF",
+   "SVK"
+  ],
+  [
+   14,
+   "Dailon Livramento",
+   "FW",
+   "CPV"
+  ],
+  [
+   18,
+   "Leorat Bega",
+   "MF",
+   "SUI"
+  ],
+  [
+   20,
+   "Grigoris Kastanos",
+   "MF",
+   "CYP"
+  ],
+  [
+   21,
+   "Abdou Harroui",
+   "MF",
+   "MAR"
+  ],
+  [
+   22,
+   "Giacomo Toniolo",
+   "GK",
+   "ITA"
+  ],
+  [
+   23,
+   "Nunzio Lella",
+   "MF",
+   "ITA"
+  ],
+  [
+   24,
+   "Antoine Bernède",
+   "MF",
+   "FRA"
+  ],
+  [
+   25,
+   "Daniel Mosquera",
+   "FW",
+   "COL"
+  ],
+  [
+   27,
+   "Paweł Dawidowicz",
+   "MF",
+   "POL"
+  ],
+  [
+   28,
+   "Tobias Slotsager",
+   "DF",
+   "DEN"
+  ],
+  [
+   33,
+   "Noé Maël Tagne",
+   "DF",
+   "FRA"
+  ],
+  [
+   34,
+   "Simone Perilli",
+   "GK",
+   "ITA"
+  ],
+  [
+   35,
+   "Salvatore Cerbone",
+   "FW",
+   "ITA"
+  ],
+  [
+   37,
+   "Nicolò Calabrese",
+   "DF",
+   "ITA"
+  ],
+  [
+   38,
+   "Ruben Akalé",
+   "FW",
+   "FRA"
+  ],
+  [
+   44,
+   "Edoardo Iannoni",
+   "MF",
+   "ITA"
+  ]
+ ],
+ "Modena": [
+  [
+   1,
+   "Leandro Chichizola",
+   "GK",
+   "ARG"
+  ],
+  [
+   5,
+   "Alessandro Sersanti",
+   "MF",
+   "ITA"
+  ],
+  [
+   7,
+   "Francesco Zampano",
+   "MF",
+   "ITA"
+  ],
+  [
+   8,
+   "Simone Santoro",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Daniele Montevago",
+   "FW",
+   "ITA"
+  ],
+  [
+   10,
+   "Giuseppe Caso",
+   "MF",
+   "ITA"
+  ],
+  [
+   11,
+   "Andrea Belotti",
+   "FW",
+   "ITA"
+  ],
+  [
+   12,
+   "Andrea Maran",
+   "GK",
+   "ITA"
+  ],
+  [
+   14,
+   "Tito Fabbri",
+   "MF",
+   "ITA"
+  ],
+  [
+   15,
+   "Martino Odero",
+   "DF",
+   "ITA"
+  ],
+  [
+   16,
+   "Gastón Brugman",
+   "MF",
+   "URU"
+  ],
+  [
+   17,
+   "Kleis Bozhanaj",
+   "MF",
+   "ALB"
+  ],
+  [
+   18,
+   "Joris Manquant",
+   "FW",
+   "FRA"
+  ],
+  [
+   19,
+   "Steven Nador",
+   "DF",
+   "TOG"
+  ],
+  [
+   20,
+   "Bryant Nieling",
+   "DF",
+   "NED"
+  ],
+  [
+   22,
+   "Leonardo Consiglio",
+   "GK",
+   "ITA"
+  ],
+  [
+   25,
+   "Abdullah Laidani",
+   "GK",
+   "SUI"
+  ],
+  [
+   26,
+   "Antonio Imputato",
+   "MF",
+   "ITA"
+  ],
+  [
+   27,
+   "Paulo Azzi",
+   "MF",
+   "BRA"
+  ],
+  [
+   28,
+   "Davide Adorni",
+   "DF",
+   "ITA"
+  ],
+  [
+   29,
+   "Luca Bacchin",
+   "FW",
+   "ITA"
+  ],
+  [
+   33,
+   "Stênio (footballer, born 2003)",
+   "FW",
+   "BRA"
+  ],
+  [
+   34,
+   "Diego Ronco",
+   "DF",
+   "ITA"
+  ],
+  [
+   37,
+   "Treasure Egharevba",
+   "DF",
+   "ITA"
+  ],
+  [
+   42,
+   "Alessandro Bianco",
+   "MF",
+   "ITA"
+  ]
+ ],
+ "Palermo": [
+  [
+   1,
+   "Mattia Perin",
+   "GK",
+   "ITA"
+  ],
+  [
+   3,
+   "Tommaso Augello",
+   "DF",
+   "ITA"
+  ],
+  [
+   5,
+   "Antonio Palumbo",
+   "MF",
+   "ITA"
+  ],
+  [
+   6,
+   "Claudio Gomes",
+   "MF",
+   "FRA"
+  ],
+  [
+   7,
+   "Gabriel Strefezza",
+   "MF",
+   "BRA"
+  ],
+  [
+   8,
+   "Jacopo Segre",
+   "MF",
+   "ITA"
+  ],
+  [
+   10,
+   "Filippo Ranocchia",
+   "MF",
+   "ITA"
+  ],
+  [
+   11,
+   "Emanuel Gyasi",
+   "MF",
+   "GHA"
+  ],
+  [
+   12,
+   "Manfredi Nespola",
+   "GK",
+   "ITA"
+  ],
+  [
+   13,
+   "Mattia Bani",
+   "DF",
+   "ITA"
+  ],
+  [
+   17,
+   "Dennis Johnsen",
+   "FW",
+   "NOR"
+  ],
+  [
+   20,
+   "Joel Pohjanpalo",
+   "FW",
+   "FIN"
+  ],
+  [
+   23,
+   "Hernani (footballer, born 1994)",
+   "MF",
+   "BRA"
+  ],
+  [
+   24,
+   "Nahuel Estévez",
+   "MF",
+   "ARG"
+  ],
+  [
+   27,
+   "Niccolò Pierozzi",
+   "DF",
+   "ITA"
+  ],
+  [
+   29,
+   "Patryk Peda",
+   "DF",
+   "POL"
+  ],
+  [
+   32,
+   "Pietro Ceccaroni",
+   "DF",
+   "ITA"
+  ],
+  [
+   36,
+   "Luca Mazzitelli",
+   "MF",
+   "ITA"
+  ]
+ ],
+ "Pisa": [
+  [
+   1,
+   "Simone Scuffet",
+   "GK",
+   "ITA"
+  ],
+  [
+   2,
+   "Rosen Bozhinov",
+   "DF",
+   "BUL"
+  ],
+  [
+   3,
+   "Samuele Angori",
+   "DF",
+   "ITA"
+  ],
+  [
+   4,
+   "Antonio Caracciolo",
+   "DF",
+   "ITA"
+  ],
+  [
+   5,
+   "Simone Canestrelli",
+   "DF",
+   "ITA"
+  ],
+  [
+   7,
+   "Mehdi Léris",
+   "MF",
+   "ALG"
+  ],
+  [
+   8,
+   "Filippo Pittarello",
+   "FW",
+   "ITA"
+  ],
+  [
+   10,
+   "Mattéo Tramoni",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Ichem Ferrah",
+   "FW",
+   "FRA"
+  ],
+  [
+   13,
+   "Andrea Primasso",
+   "DF",
+   "ITA"
+  ],
+  [
+   14,
+   "Felipe Loyola",
+   "MF",
+   "CHI"
+  ],
+  [
+   16,
+   "Louis Buffon",
+   "FW",
+   "CZE"
+  ],
+  [
+   19,
+   "Tomás Esteves",
+   "MF",
+   "POR"
+  ],
+  [
+   21,
+   "İsak Vural",
+   "MF",
+   "TUR"
+  ],
+  [
+   22,
+   "Leonardo Loria",
+   "GK",
+   "ITA"
+  ],
+  [
+   23,
+   "Tommaso Marras",
+   "FW",
+   "ITA"
+  ],
+  [
+   26,
+   "Francesco Coppola (footballer)",
+   "DF",
+   "ITA"
+  ],
+  [
+   29,
+   "Omar Correia",
+   "MF",
+   "FRA"
+  ],
+  [
+   32,
+   "Stefano Moreo",
+   "FW",
+   "ITA"
+  ],
+  [
+   33,
+   "Arturo Calabresi",
+   "DF",
+   "ITA"
+  ],
+  [
+   36,
+   "Gabriele Piccinini",
+   "MF",
+   "ITA"
+  ],
+  [
+   37,
+   "Andrea Petagna",
+   "FW",
+   "ITA"
+  ],
+  [
+   44,
+   "Daniel Denoon",
+   "DF",
+   "SUI"
+  ]
+ ],
+ "Sampdoria": [
+  [
+   2,
+   "Mattia Viti",
+   "DF",
+   "ITA"
+  ],
+  [
+   3,
+   "Stefan Gartenmann",
+   "DF",
+   "SUI"
+  ],
+  [
+   5,
+   "Bjorn Meijer",
+   "DF",
+   "NED"
+  ],
+  [
+   6,
+   "Liam Henderson",
+   "MF",
+   "SCO"
+  ],
+  [
+   7,
+   "Manuel Cicconi",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Tobias Lauritsen",
+   "FW",
+   "NOR"
+  ],
+  [
+   10,
+   "Lorenzo Insigne",
+   "FW",
+   "ITA"
+  ],
+  [
+   11,
+   "Tjaš Begić",
+   "FW",
+   "SVN"
+  ],
+  [
+   12,
+   "Andrey Krastev",
+   "GK",
+   "BUL"
+  ],
+  [
+   13,
+   "Luca Ravanelli",
+   "DF",
+   "ITA"
+  ],
+  [
+   14,
+   "Yann Karamoh",
+   "FW",
+   "FRA"
+  ],
+  [
+   16,
+   "Yari Verschaeren",
+   "MF",
+   "BEL"
+  ],
+  [
+   18,
+   "Nikola Sekulov",
+   "MF",
+   "ITA"
+  ],
+  [
+   20,
+   "Danel Sinani",
+   "MF",
+   "LUX"
+  ],
+  [
+   23,
+   "Fabio Depaoli",
+   "DF",
+   "ITA"
+  ],
+  [
+   25,
+   "Alex Ferrari (footballer)",
+   "DF",
+   "ITA"
+  ],
+  [
+   28,
+   "Oliver Abildgaard",
+   "MF",
+   "DEN"
+  ],
+  [
+   29,
+   "Alessandro Di Pardo",
+   "DF",
+   "ITA"
+  ],
+  [
+   33,
+   "Francesco Conti",
+   "MF",
+   "ITA"
+  ],
+  [
+   38,
+   "Karim Diop",
+   "DF",
+   "ITA"
+  ],
+  [
+   39,
+   "Lorenzo Mezzotero",
+   "FW",
+   "AZE"
+  ],
+  [
+   43,
+   "Kevin Mbabu",
+   "DF",
+   "SUI"
+  ]
+ ],
+ "Vicenza": [
+  [
+   1,
+   "Fabrizio Bagheria",
+   "GK",
+   "ITA"
+  ],
+  [
+   4,
+   "Marco Carraro",
+   "MF",
+   "ITA"
+  ],
+  [
+   5,
+   "Riccardo Marchizza",
+   "DF",
+   "ITA"
+  ],
+  [
+   6,
+   "Maxime Leverbe",
+   "DF",
+   "FRA"
+  ],
+  [
+   7,
+   "Nicola Rauti",
+   "FW",
+   "ITA"
+  ],
+  [
+   8,
+   "Alessandro Bellemo",
+   "MF",
+   "ITA"
+  ],
+  [
+   9,
+   "Claudio Morra",
+   "FW",
+   "ITA"
+  ],
+  [
+   10,
+   "Mattia Valoti",
+   "MF",
+   "ITA"
+  ],
+  [
+   11,
+   "Gabriele Moncini",
+   "FW",
+   "ITA"
+  ],
+  [
+   14,
+   "Giuseppe Cuomo",
+   "DF",
+   "ITA"
+  ],
+  [
+   16,
+   "Riccardo Gagno",
+   "GK",
+   "ITA"
+  ],
+  [
+   23,
+   "Nicolò Brighenti",
+   "DF",
+   "ITA"
+  ],
+  [
+   24,
+   "Filippo Alessio",
+   "FW",
+   "ITA"
+  ],
+  [
+   26,
+   "Giulio Pellizzari",
+   "MF",
+   "ITA"
+  ],
+  [
+   27,
+   "Thomas Sandon",
+   "DF",
+   "ITA"
+  ],
+  [
+   28,
+   "Lorenzo Caferri",
+   "DF",
+   "ITA"
+  ],
+  [
+   29,
+   "Loris Zonta",
+   "MF",
+   "ITA"
+  ],
+  [
+   30,
+   "Matteo Vescovi",
+   "DF",
+   "ITA"
+  ],
+  [
+   32,
+   "Filippo Costa",
+   "DF",
+   "ITA"
+  ],
+  [
+   33,
+   "Silvio Merkaj",
+   "FW",
+   "ALB"
+  ],
+  [
+   44,
+   "Raul Talarico",
+   "MF",
+   "ITA"
+  ]
+ ]
+}

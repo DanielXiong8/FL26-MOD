@@ -1,0 +1,14 @@
+{
+  "bundlePath": "D:/FL26_Mod/tools/FL26_AvatarPreviewer/extracted/avatar_mjt.unity3d",
+  "outDir": "D:/FL26_Mod/work/face_pipeline/phase13b/renders/pc_batch1",
+  "states": [
+    {"name": "P00_ctrl",        "faceMesh": "face_EastAsia_new1", "faceTex": "face_eastAsia_new1", "irisTex": "eye_darkbrown", "hairGO": "", "hairTex": "", "hairColor": ""},
+    {"name": "hair_ss01",       "faceMesh": "face_EastAsia_new1", "faceTex": "face_eastAsia_new1", "irisTex": "eye_darkbrown", "hairGO": "hair_short_straight_01", "hairTex": "", "hairColor": "", "hairTintTex": ""},
+    {"name": "hair_ss02",       "faceMesh": "face_EastAsia_new1", "faceTex": "face_eastAsia_new1", "irisTex": "eye_darkbrown", "hairGO": "hair_short_straight_02", "hairTex": "", "hairColor": "", "hairTintTex": ""},
+    {"name": "hair_ss03",       "faceMesh": "face_EastAsia_new1", "faceTex": "face_eastAsia_new1", "irisTex": "eye_darkbrown", "hairGO": "hair_short_straight_03", "hairTex": "", "hairColor": "", "hairTintTex": ""},
+    {"name": "tint_dark_ss01",  "faceMesh": "face_EastAsia_new1", "faceTex": "face_eastAsia_new1", "irisTex": "eye_darkbrown", "hairGO": "hair_short_straight_01", "hairTex": "", "hairColor": "6D3F02", "hairTintTex": "D:/FL26_Mod/tools/FL26_AvatarPreviewer/extracted/hair_tint_textures/hair_tint_0.png"},
+    {"name": "tint_red_ss01",   "faceMesh": "face_EastAsia_new1", "faceTex": "face_eastAsia_new1", "irisTex": "eye_darkbrown", "hairGO": "hair_short_straight_01", "hairTex": "", "hairColor": "B0787B", "hairTintTex": "D:/FL26_Mod/tools/FL26_AvatarPreviewer/extracted/hair_tint_textures/hair_tint_5.png"},
+    {"name": "tint_light_ss01", "faceMesh": "face_EastAsia_new1", "faceTex": "face_eastAsia_new1", "irisTex": "eye_darkbrown", "hairGO": "hair_short_straight_01", "hairTex": "", "hairColor": "B0C4DE", "hairTintTex": "D:/FL26_Mod/tools/FL26_AvatarPreviewer/extracted/hair_tint_textures/hair_tint_6.png"},
+    {"name": "iris_lightblue",  "faceMesh": "face_EastAsia_new1", "faceTex": "face_eastAsia_new1", "irisTex": "eye_lightblue", "hairGO": "hair_short_straight_01", "hairTex": "", "hairColor": "", "hairTintTex": ""}
+  ]
+}

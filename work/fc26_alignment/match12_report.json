@@ -1,0 +1,3175 @@
+{
+ "TR1": {
+  "Kayserispor": {
+   "tid": 20616,
+   "pairs": [
+    {
+     "real": "Semih Güler",
+     "num": 4,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Guler",
+     "pid": 115062,
+     "jersey": 6,
+     "ovr": 61,
+     "sc": 1.0
+    },
+    {
+     "real": "Joshua Brenet",
+     "num": 20,
+     "pos": "DF",
+     "nat": "CUR",
+     "game": "Brenert",
+     "pid": 105052,
+     "jersey": 30,
+     "ovr": 66,
+     "sc": 0.923
+    },
+    {
+     "real": "Yiğit Emre Çeltik",
+     "num": 21,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Certik",
+     "pid": 106624,
+     "jersey": 21,
+     "ovr": 50,
+     "sc": 0.833
+    },
+    {
+     "real": "Abdulsamet Burak",
+     "num": 23,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Bulak",
+     "pid": 119486,
+     "jersey": 3,
+     "ovr": 49,
+     "sc": 0.8
+    },
+    {
+     "real": "Enes Melih Gökçek",
+     "num": 24,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Benes",
+     "pid": 104868,
+     "jersey": 8,
+     "ovr": 74,
+     "sc": 0.889
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Jemal Tabidze",
+     "DF",
+     "GEO"
+    ],
+    [
+     5,
+     "Kayra Cihan",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Murat Cem Akpınar",
+     "MF",
+     "TUR"
+    ],
+    [
+     7,
+     "Murat Uçar",
+     "DF",
+     "TUR"
+    ],
+    [
+     8,
+     "Sinan Kurt",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Florent Hasani",
+     "FW",
+     "KOS"
+    ],
+    [
+     10,
+     "Benhur Keser",
+     "FW",
+     "TUR"
+    ],
+    [
+     11,
+     "Ensar Kemaloğlu",
+     "MF",
+     "TUR"
+    ],
+    [
+     14,
+     "Muhammed Eren Arıkan",
+     "DF",
+     "TUR"
+    ],
+    [
+     16,
+     "Deniz Dönmezer",
+     "GK",
+     "TUR"
+    ],
+    [
+     17,
+     "Mert Göçkan",
+     "DF",
+     "TUR"
+    ],
+    [
+     18,
+     "Fethi Özer",
+     "DF",
+     "TUR"
+    ],
+    [
+     19,
+     "Malik Hayvalı",
+     "MF",
+     "TUR"
+    ],
+    [
+     22,
+     "Denis Radu",
+     "MF",
+     "ROM"
+    ],
+    [
+     27,
+     "Daniel Moreno",
+     "FW",
+     "COL"
+    ],
+    [
+     28,
+     "Mamadi Camará",
+     "MF",
+     "GNB"
+    ],
+    [
+     29,
+     "Burak Erkan",
+     "FW",
+     "TUR"
+    ],
+    [
+     35,
+     "Gökhan Değirmenci",
+     "GK",
+     "TUR"
+    ],
+    [
+     36,
+     "Arda Kabukcı",
+     "FW",
+     "TUR"
+    ],
+    [
+     38,
+     "Ataol Taylan Karapınar",
+     "MF",
+     "TUR"
+    ],
+    [
+     40,
+     "Hasan Kaan Yalçı",
+     "GK",
+     "TUR"
+    ],
+    [
+     41,
+     "Güneş Talas",
+     "FW",
+     "TUR"
+    ],
+    [
+     43,
+     "Muhammet Talha Yaşar",
+     "MF",
+     "TUR"
+    ],
+    [
+     44,
+     "Ahmet Emin Cömert",
+     "DF",
+     "TUR"
+    ],
+    [
+     45,
+     "Aras Çelik",
+     "MF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Baiazit",
+    "Carore",
+    "Denswill",
+    "Uzodymma",
+    "Burabia",
+    "Mane",
+    "Sollalp",
+    "Ciberek",
+    "I.Tusi",
+    "Piry",
+    "Sajlam",
+    "Binnaser",
+    "Kolovetsos",
+    "Morta",
+    "Onukha",
+    "Kapachak",
+    "Nason",
+    "Ackeh",
+    "Cardozo",
+    "Hoseini",
+    "Jeanviel",
+    "Korman",
+    "Katango",
+    "Mendez",
+    "Karimy",
+    "Tokus",
+    "Bahokin",
+    "Attamo",
+    "Chalev",
+    "Kaldıram",
+    "Erkirp",
+    "Jong"
+   ]
+  },
+  "Sivasspor": {
+   "tid": 20613,
+   "pairs": [
+    {
+     "real": "Aaron Appindangoyé",
+     "num": 2,
+     "pos": "DF",
+     "nat": "GAB",
+     "game": "Appindangoye",
+     "pid": 115093,
+     "jersey": 2,
+     "ovr": 57,
+     "sc": 1.0
+    },
+    {
+     "real": "Charis Charisis",
+     "num": 8,
+     "pos": "MF",
+     "nat": "GRE",
+     "game": "Charysis",
+     "pid": 115087,
+     "jersey": 8,
+     "ovr": 65,
+     "sc": 0.875
+    },
+    {
+     "real": "Emre Gökay",
+     "num": 19,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Gokey",
+     "pid": 152219,
+     "jersey": 21,
+     "ovr": 48,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Göktuğ Bakırbaş",
+     "GK",
+     "TUR"
+    ],
+    [
+     4,
+     "Mert Çelik",
+     "DF",
+     "AZE"
+    ],
+    [
+     6,
+     "Kamil Fidan",
+     "MF",
+     "TUR"
+    ],
+    [
+     7,
+     "Murat Paluli",
+     "DF",
+     "TUR"
+    ],
+    [
+     9,
+     "Rey Manaj",
+     "FW",
+     "ALB"
+    ],
+    [
+     11,
+     "Burak Kapacak",
+     "FW",
+     "TUR"
+    ],
+    [
+     16,
+     "Arda Erdursun",
+     "GK",
+     "TUR"
+    ],
+    [
+     17,
+     "Clinton Duodu",
+     "FW",
+     "GHA"
+    ],
+    [
+     20,
+     "Musah Mohammed",
+     "MF",
+     "GHA"
+    ],
+    [
+     22,
+     "Okan Erdoğan",
+     "DF",
+     "TUR"
+    ],
+    [
+     23,
+     "Cihat Çelik",
+     "MF",
+     "TUR"
+    ],
+    [
+     25,
+     "Süleyman Özdamar",
+     "DF",
+     "TUR"
+    ],
+    [
+     26,
+     "Feyzi Yıldırım",
+     "DF",
+     "TUR"
+    ],
+    [
+     27,
+     "Valon Ethemi",
+     "MF",
+     "MKD"
+    ],
+    [
+     28,
+     "Salih Kavrazlı",
+     "FW",
+     "TUR"
+    ],
+    [
+     30,
+     "Ebrima Ceesay",
+     "FW",
+     "GAM"
+    ],
+    [
+     34,
+     "Turan Tuzlacık",
+     "DF",
+     "TUR"
+    ],
+    [
+     35,
+     "Ali Şaşal Vural",
+     "GK",
+     "TUR"
+    ],
+    [
+     43,
+     "Eymen Yurdcu",
+     "MF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Varol",
+    "Yiftci",
+    "Sandberg",
+    "T. Cierci",
+    "Paruri",
+    "Moutousamy",
+    "Rodrigéz",
+    "Keita",
+    "Prichard",
+    "Borke",
+    "Kaiya",
+    "Yigit",
+    "Gülez",
+    "Yurcay",
+    "Torgunboev",
+    "Menick",
+    "Biegansky",
+    "Shaker",
+    "Pongouras",
+    "Sarmin",
+    "Başyit",
+    "Okamuş",
+    "Barkan",
+    "Aslan",
+    "Nikoleć",
+    "Ekdar",
+    "Camala",
+    "Baji",
+    "Albarak",
+    "Aksoi"
+   ]
+  },
+  "Bandirma": {
+   "tid": 20622,
+   "pairs": [
+    {
+     "real": "Cédric Hountondji",
+     "num": 4,
+     "pos": "DF",
+     "nat": "BEN",
+     "game": "Hountondzi",
+     "pid": 103821,
+     "jersey": 4,
+     "ovr": 68,
+     "sc": 0.9
+    },
+    {
+     "real": "Akın Alkan",
+     "num": 16,
+     "pos": "GK",
+     "nat": "TUR",
+     "game": "Alkani",
+     "pid": 123986,
+     "jersey": 16,
+     "ovr": 56,
+     "sc": 0.909
+    },
+    {
+     "real": "Emirhan Ayhan",
+     "num": 17,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Aihan",
+     "pid": 152962,
+     "jersey": 21,
+     "ovr": 53,
+     "sc": 0.8
+    },
+    {
+     "real": "Enes Aydın",
+     "num": 34,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Aydin",
+     "pid": 115285,
+     "jersey": 28,
+     "ovr": 59,
+     "sc": 0.889
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Huseyin Biler",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Lucas Lima",
+     "MF",
+     "BRA"
+    ],
+    [
+     8,
+     "Dean Liço",
+     "MF",
+     "ALB"
+    ],
+    [
+     9,
+     "Gianni Bruno",
+     "FW",
+     "BEL"
+    ],
+    [
+     10,
+     "Muhammed Gümüşkaya",
+     "MF",
+     "TUR"
+    ],
+    [
+     11,
+     "Tosin Kehinde",
+     "FW",
+     "NGR"
+    ],
+    [
+     14,
+     "Yusuf Kocatürk",
+     "DF",
+     "TUR"
+    ],
+    [
+     18,
+     "Cem Türkmen",
+     "MF",
+     "TUR"
+    ],
+    [
+     19,
+     "Arda Midiliç",
+     "DF",
+     "TUR"
+    ],
+    [
+     20,
+     "Enes Çinemre",
+     "MF",
+     "TUR"
+    ],
+    [
+     21,
+     "Mehmet Eray Özbek",
+     "MF",
+     "TUR"
+    ],
+    [
+     23,
+     "Kerem Dönertaş",
+     "MF",
+     "TUR"
+    ],
+    [
+     25,
+     "Bartu Kulbilge",
+     "GK",
+     "TUR"
+    ],
+    [
+     27,
+     "Dame Seck",
+     "FW",
+     "SEN"
+    ],
+    [
+     29,
+     "Amidou Badji",
+     "FW",
+     "SEN"
+    ]
+   ],
+   "extras": [
+    "Zorlier",
+    "Genc",
+    "Diniyav",
+    "Nurkan",
+    "Barişbek",
+    "Rodrygo",
+    "Mekser",
+    "Ciftcy",
+    "Kersgin",
+    "Paiksao",
+    "Picincior",
+    "Pauliño",
+    "Kömar",
+    "Murumba",
+    "Nomer",
+    "Adıgüzal",
+    "Çelikbey",
+    "Dilik",
+    "Ozcan",
+    "Loziv"
+   ]
+  },
+  "Bursaspor": {
+   "tid": 20642,
+   "pairs": [
+    {
+     "real": "Baran Başyiğit",
+     "num": 20,
+     "pos": "FW",
+     "nat": "TUR",
+     "game": "Yaran",
+     "pid": 115138,
+     "jersey": 21,
+     "ovr": 63,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Anıl Atağ",
+     "GK",
+     "TUR"
+    ],
+    [
+     4,
+     "Ertuğrul Ersoy",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Zeki Yavru",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Juergen Elitim",
+     "MF",
+     "COL"
+    ],
+    [
+     8,
+     "Soner Aydoğdu",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Emir Kaan Gültekin",
+     "FW",
+     "TUR"
+    ],
+    [
+     10,
+     "Lincoln",
+     "MF",
+     "BRA"
+    ],
+    [
+     11,
+     "İlhan Depe",
+     "FW",
+     "TUR"
+    ],
+    [
+     14,
+     "Kelechi Iheanacho",
+     "FW",
+     "NGR"
+    ],
+    [
+     17,
+     "Zeki Dursun",
+     "MF",
+     "TUR"
+    ],
+    [
+     18,
+     "Amine Boutrah",
+     "FW",
+     "FRA"
+    ],
+    [
+     24,
+     "Alperen Babacan",
+     "DF",
+     "TUR"
+    ],
+    [
+     27,
+     "Toral Bayramov",
+     "DF",
+     "AZE"
+    ],
+    [
+     28,
+     "Salih Kavrazlı",
+     "FW",
+     "TUR"
+    ],
+    [
+     34,
+     "Eyüp Akcan",
+     "MF",
+     "TUR"
+    ],
+    [
+     39,
+     "Ahmet Kıvanç",
+     "GK",
+     "TUR"
+    ],
+    [
+     42,
+     "Lewis Baker",
+     "MF",
+     "ENG"
+    ],
+    [
+     44,
+     "Emir Kayacık",
+     "DF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Llakin",
+    "Tasger",
+    "Unber",
+    "Kurturus",
+    "Turnari",
+    "Kok",
+    "Tepegoz",
+    "Knibey",
+    "Genk",
+    "Shahin",
+    "Artindis",
+    "Boskurt",
+    "Alikan",
+    "Sonmes",
+    "Gorguc",
+    "Darkilan",
+    "Günay",
+    "Guler",
+    "Demil"
+   ]
+  },
+  "Bodrum": {
+   "tid": 20627,
+   "pairs": [
+    {
+     "real": "Diogo Sousa",
+     "num": 1,
+     "pos": "GK",
+     "nat": "POR",
+     "game": "Souza",
+     "pid": 115381,
+     "jersey": 1,
+     "ovr": 61,
+     "sc": 0.8
+    },
+    {
+     "real": "Bahri Can Tosun",
+     "num": 32,
+     "pos": "GK",
+     "nat": "TUR",
+     "game": "Torson",
+     "pid": 115392,
+     "jersey": 32,
+     "ovr": 56,
+     "sc": 0.727
+    },
+    {
+     "real": "Ali Aytemur",
+     "num": 34,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Aitemur",
+     "pid": 115393,
+     "jersey": 34,
+     "ovr": 59,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Ali Şahin Yılmaz",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Arlind Ajeti",
+     "DF",
+     "ALB"
+    ],
+    [
+     6,
+     "Tomás Moreira",
+     "MF",
+     "LUX"
+    ],
+    [
+     8,
+     "Mustafa Erdilman",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Kerem Kayaarası",
+     "FW",
+     "TUR"
+    ],
+    [
+     10,
+     "Fernando Andrade",
+     "FW",
+     "BRA"
+    ],
+    [
+     11,
+     "Ege Bilsel",
+     "FW",
+     "TUR"
+    ],
+    [
+     14,
+     "Florian Loshaj",
+     "MF",
+     "KVX"
+    ],
+    [
+     17,
+     "Ege Arslan",
+     "MF",
+     "TUR"
+    ],
+    [
+     19,
+     "Berkay Aslan",
+     "FW",
+     "TUR"
+    ],
+    [
+     20,
+     "Yusuf Sertkaya",
+     "MF",
+     "TUR"
+    ],
+    [
+     21,
+     "Ahmet Aslan",
+     "MF",
+     "TUR"
+    ],
+    [
+     23,
+     "Furkan Apaydın",
+     "DF",
+     "TUR"
+    ],
+    [
+     25,
+     "Adem Metin Türk",
+     "FW",
+     "TUR"
+    ],
+    [
+     26,
+     "Vincent Aboubakar",
+     "FW",
+     "CMR"
+    ],
+    [
+     27,
+     "Kartal Cengizer",
+     "MF",
+     "TUR"
+    ],
+    [
+     30,
+     "Elvir Gashijan",
+     "MF",
+     "KVX"
+    ],
+    [
+     42,
+     "Kenan Fakılı",
+     "MF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Sen",
+    "Ozdamar",
+    "Akbai",
+    "Erjun",
+    "Degishmez",
+    "Ozer",
+    "Ozmart",
+    "Yaltchin",
+    "Bayraktar",
+    "Jetinkaya",
+    "Tarum",
+    "Albaylak",
+    "Yeshil",
+    "Kurtulush",
+    "Ozler",
+    "Imeri",
+    "Akran",
+    "Fredj",
+    "Antaryarl"
+   ]
+  },
+  "Manisa": {
+   "tid": 20632,
+   "pairs": [
+    {
+     "real": "Osman Kaynak",
+     "num": 3,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Karnak",
+     "pid": 115487,
+     "jersey": 14,
+     "ovr": 61,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Vedat Karakuş",
+     "GK",
+     "TUR"
+    ],
+    [
+     2,
+     "Yunus Köse",
+     "DF",
+     "TUR"
+    ],
+    [
+     4,
+     "Fırat İnal",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Christophe Hérelle",
+     "DF",
+     "MTQ"
+    ],
+    [
+     6,
+     "Atakan Çankaya",
+     "DF",
+     "TUR"
+    ],
+    [
+     7,
+     "Yusuf Talum",
+     "DF",
+     "TUR"
+    ],
+    [
+     8,
+     "Kerem Arık",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Cheikne Sylla",
+     "FW",
+     "MLI"
+    ],
+    [
+     10,
+     "Jonathan Lindseth",
+     "MF",
+     "NOR"
+    ],
+    [
+     11,
+     "Noha Lemina",
+     "MF",
+     "GAB"
+    ],
+    [
+     13,
+     "Egemen Yaylı",
+     "GK",
+     "TUR"
+    ],
+    [
+     17,
+     "Osman Kahraman",
+     "FW",
+     "TUR"
+    ],
+    [
+     20,
+     "Yassine Benrahou",
+     "MF",
+     "MAR"
+    ],
+    [
+     21,
+     "Emre Akboğa",
+     "MF",
+     "TUR"
+    ],
+    [
+     22,
+     "Kadir Yurdakul",
+     "MF",
+     "TUR"
+    ],
+    [
+     23,
+     "Julien Anziani",
+     "MF",
+     "FRA"
+    ],
+    [
+     24,
+     "Yunus Emre Dursun",
+     "MF",
+     "TUR"
+    ],
+    [
+     25,
+     "Ahmet Şen",
+     "MF",
+     "TUR"
+    ],
+    [
+     27,
+     "Yasin Güreler",
+     "DF",
+     "TUR"
+    ],
+    [
+     45,
+     "Ada İbik",
+     "DF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Caheqi",
+    "Awuko",
+    "Ba",
+    "Shahin",
+    "Starke",
+    "Gakba",
+    "Pribs",
+    "Tablar",
+    "Koch",
+    "Buyuk",
+    "Odabasogru",
+    "Fophana",
+    "Altipamark",
+    "Gurdar",
+    "Erdenm",
+    "Domgjony",
+    "Cetin",
+    "Uysar",
+    "Graovak",
+    "Varges",
+    "Dioni",
+    "Fernandez",
+    "Criprit",
+    "Hadžić",
+    "Turé"
+   ]
+  },
+  "Pendik": {
+   "tid": 20628,
+   "pairs": [
+    {
+     "real": "Berkay Sülüngöz",
+     "num": 5,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Sulungos",
+     "pid": 115414,
+     "jersey": 5,
+     "ovr": 60,
+     "sc": 0.875
+    },
+    {
+     "real": "Kerem Kalafat",
+     "num": 22,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Ertem",
+     "pid": 152265,
+     "jersey": 52,
+     "ovr": 52,
+     "sc": 0.8
+    },
+    {
+     "real": "Emre Koyuncu",
+     "num": 30,
+     "pos": "GK",
+     "nat": "TUR",
+     "game": "Koryuncu",
+     "pid": 115552,
+     "jersey": 30,
+     "ovr": 65,
+     "sc": 0.933
+    },
+    {
+     "real": "Mesut Özdemir",
+     "num": 41,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Ozder",
+     "pid": 152261,
+     "jersey": 41,
+     "ovr": 68,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Taha Emre İnce",
+     "DF",
+     "TUR"
+    ],
+    [
+     4,
+     "Ahmet Özkaya",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Vinko Soldo",
+     "DF",
+     "CRO"
+    ],
+    [
+     7,
+     "Emrah Başsan",
+     "FW",
+     "TUR"
+    ],
+    [
+     9,
+     "Jonson Clarke-Harris",
+     "FW",
+     "JAM"
+    ],
+    [
+     14,
+     "Hakan Yeşil",
+     "MF",
+     "TUR"
+    ],
+    [
+     17,
+     "Samuel Abifade",
+     "DF",
+     "GER"
+    ],
+    [
+     19,
+     "Baran Demiroğlu",
+     "MF",
+     "TUR"
+    ],
+    [
+     20,
+     "Yekta Sönmez",
+     "MF",
+     "TUR"
+    ],
+    [
+     21,
+     "Safa Yıldırım",
+     "MF",
+     "TUR"
+    ],
+    [
+     23,
+     "Erdem Gökçe",
+     "DF",
+     "TUR"
+    ],
+    [
+     25,
+     "Favour Fomujang",
+     "DF",
+     "CMR"
+    ],
+    [
+     27,
+     "Ismaila Manga",
+     "MF",
+     "SEN"
+    ],
+    [
+     28,
+     "Efehan Pekdemir",
+     "MF",
+     "TUR"
+    ],
+    [
+     33,
+     "Hüseyin İşlek",
+     "GK",
+     "TUR"
+    ],
+    [
+     34,
+     "Thuram",
+     "FW",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "Ogur",
+    "Sekeyra",
+    "Wellington",
+    "Ozgen",
+    "Kilich",
+    "Kaia",
+    "Capper",
+    "Akdarg",
+    "Aze",
+    "Doran",
+    "Ozturk",
+    "Chola",
+    "Del Vaye",
+    "Asatakin",
+    "Topaly",
+    "Calick",
+    "Kira",
+    "Akcha",
+    "Gine",
+    "Caradenis",
+    "Tekdar"
+   ]
+  },
+  "Vanspor": {
+   "tid": 20635,
+   "pairs": [
+    {
+     "real": "Şahan Aslan",
+     "num": 3,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Şahan",
+     "pid": 152687,
+     "jersey": 89,
+     "ovr": 50,
+     "sc": 1.0
+    },
+    {
+     "real": "Çınar Benzer",
+     "num": 33,
+     "pos": "GK",
+     "nat": "TUR",
+     "game": "Chinar",
+     "pid": 115375,
+     "jersey": 23,
+     "ovr": 61,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Alperen Uysal",
+     "GK",
+     "TUR"
+    ],
+    [
+     2,
+     "Kadir Seven",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Sinan Osmanoğlu",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Anıl Yıldırım",
+     "MF",
+     "TUR"
+    ],
+    [
+     7,
+     "Ilias Alhaft",
+     "FW",
+     "NED"
+    ],
+    [
+     8,
+     "Molik Khan",
+     "MF",
+     "TRI"
+    ],
+    [
+     9,
+     "Alvaro de Oliveira",
+     "FW",
+     "UAE"
+    ],
+    [
+     10,
+     "Ozan Kökcü",
+     "MF",
+     "AZE"
+    ],
+    [
+     11,
+     "Mehmet Manış",
+     "FW",
+     "TUR"
+    ],
+    [
+     13,
+     "Naby Oularé",
+     "DF",
+     "GUI"
+    ],
+    [
+     15,
+     "Tenton Yenne",
+     "FW",
+     "NGR"
+    ],
+    [
+     17,
+     "İlkan Sever",
+     "FW",
+     "TUR"
+    ],
+    [
+     19,
+     "Hikmet Çiftçi",
+     "MF",
+     "TUR"
+    ],
+    [
+     22,
+     "Abdulsamed Damlu",
+     "GK",
+     "TUR"
+    ],
+    [
+     25,
+     "Furkan Özhan",
+     "FW",
+     "TUR"
+    ],
+    [
+     27,
+     "Jurgen Bardhi",
+     "MF",
+     "ALB"
+    ],
+    [
+     30,
+     "Richairo Živković",
+     "FW",
+     "CUR"
+    ],
+    [
+     35,
+     "Batuhan İşçiler",
+     "DF",
+     "TUR"
+    ],
+    [
+     41,
+     "Mehmet Özcan",
+     "MF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Yuvarkuran",
+    "Giritliağlu",
+    "Cansef",
+    "Solmatz",
+    "Yuksal",
+    "Aydon",
+    "Sarıkeya",
+    "Sahinturk",
+    "Turki",
+    "Kucukoylu",
+    "Zaman",
+    "Caidas",
+    "Cicin",
+    "Kert",
+    "Gural",
+    "Kelik",
+    "Eyican",
+    "Fırancı",
+    "Paper",
+    "Demeral",
+    "Aymac",
+    "Unlu",
+    "Dermuş",
+    "Ozkale",
+    "Koilu",
+    "Uestindag",
+    "Mertağlu",
+    "Durmashan",
+    "Kala",
+    "Demiryorek",
+    "Kera",
+    "Kılıs"
+   ]
+  },
+  "Karagumruk": {
+   "tid": 20611,
+   "pairs": [
+    {
+     "real": "Davide Biraschi",
+     "num": 4,
+     "pos": "DF",
+     "nat": "ITA",
+     "game": "Berashi",
+     "pid": 115052,
+     "jersey": 4,
+     "ovr": 70,
+     "sc": 0.8
+    },
+    {
+     "real": "Barış Kalaycı",
+     "num": 7,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Kalayce",
+     "pid": 152504,
+     "jersey": 72,
+     "ovr": 59,
+     "sc": 0.923
+    },
+    {
+     "real": "Daniele Verde",
+     "num": 10,
+     "pos": "FW",
+     "nat": "ITA",
+     "game": "Verdy",
+     "pid": 104265,
+     "jersey": 10,
+     "ovr": 58,
+     "sc": 0.8
+    },
+    {
+     "real": "Muhammed Emin Sarıkaya",
+     "num": 25,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Yanrkaya",
+     "pid": 115225,
+     "jersey": 6,
+     "ovr": 59,
+     "sc": 0.8
+    },
+    {
+     "real": "Çağtay Kurukalıp",
+     "num": 33,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Kurukalp",
+     "pid": 152500,
+     "jersey": 33,
+     "ovr": 56,
+     "sc": 1.0
+    },
+    {
+     "real": "Josh Esen",
+     "num": 41,
+     "pos": "MF",
+     "nat": "WAL",
+     "game": "Johnsen",
+     "pid": 108384,
+     "jersey": 11,
+     "ovr": 63,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Marco Silvestri",
+     "GK",
+     "ITA"
+    ],
+    [
+     3,
+     "Atınç Nukan",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Emre Akbaba",
+     "MF",
+     "TUR"
+    ],
+    [
+     6,
+     "Robin Yalçın",
+     "DF",
+     "TUR"
+    ],
+    [
+     8,
+     "Dorukhan Toköz",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Cenk Tosun",
+     "FW",
+     "TUR"
+    ],
+    [
+     11,
+     "Tiago Çukur",
+     "FW",
+     "TUR"
+    ],
+    [
+     14,
+     "Marius Tresor",
+     "MF",
+     "CIV"
+    ],
+    [
+     17,
+     "Tarık Buğra Kalpaklı",
+     "FW",
+     "TUR"
+    ],
+    [
+     19,
+     "Yaya Onogo",
+     "MF",
+     "CIV"
+    ],
+    [
+     20,
+     "Manolis Siopis",
+     "MF",
+     "GRE"
+    ],
+    [
+     21,
+     "Candan Başkale",
+     "MF",
+     "TUR"
+    ],
+    [
+     22,
+     "Fatih Kurucuk",
+     "DF",
+     "TUR"
+    ],
+    [
+     22,
+     "Ramazan Civelek",
+     "DF",
+     "TUR"
+    ],
+    [
+     23,
+     "Batuhan Şen",
+     "GK",
+     "TUR"
+    ],
+    [
+     24,
+     "Burhan Ersoy",
+     "DF",
+     "TUR"
+    ],
+    [
+     26,
+     "Ahmed Traore",
+     "FW",
+     "CIV"
+    ],
+    [
+     27,
+     "Muhammed Kadıoğlu",
+     "DF",
+     "TUR"
+    ],
+    [
+     28,
+     "Anıl Yiğit Çınar",
+     "DF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Grbic",
+    "Sınar",
+    "R.Esgaro",
+    "Elmas",
+    "Kraneviter",
+    "Babilka",
+    "Camacha",
+    "Ozjan",
+    "Larson",
+    "Ersai",
+    "Mart",
+    "Dabanly",
+    "Loco",
+    "Fedan",
+    "Mladenovich",
+    "Tintish",
+    "Akyus",
+    "Bekrevic",
+    "Paoretty",
+    "Lichnovski",
+    "Jirobodji",
+    "Grey",
+    "Dohh",
+    "Ugor",
+    "Barkovic",
+    "Demiroulou",
+    "Sifri",
+    "Ackgün",
+    "Gümüç",
+    "Akün",
+    "Dovdan",
+    "Tuğan"
+   ]
+  },
+  "Keçiörengücü": {
+   "tid": 20629,
+   "pairs": [
+    {
+     "real": "Oğuzcan Çalışkan",
+     "num": 5,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Caliscan",
+     "pid": 152932,
+     "jersey": 5,
+     "ovr": 57,
+     "sc": 0.8
+    },
+    {
+     "real": "Erkam Develi",
+     "num": 6,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Devely",
+     "pid": 152934,
+     "jersey": 6,
+     "ovr": 58,
+     "sc": 0.833
+    },
+    {
+     "real": "Oğuzhan Ayaydın",
+     "num": 16,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Ayadin",
+     "pid": 152935,
+     "jersey": 16,
+     "ovr": 66,
+     "sc": 0.833
+    },
+    {
+     "real": "Recep Taşbakır",
+     "num": 17,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Tasbakar",
+     "pid": 152939,
+     "jersey": 20,
+     "ovr": 57,
+     "sc": 0.933
+    },
+    {
+     "real": "Emre Satılmış",
+     "num": 18,
+     "pos": "GK",
+     "nat": "TUR",
+     "game": "Satilmaz",
+     "pid": 152929,
+     "jersey": 18,
+     "ovr": 63,
+     "sc": 0.714
+    },
+    {
+     "real": "Halil Can Ayan",
+     "num": 22,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Ayin",
+     "pid": 152938,
+     "jersey": 22,
+     "ovr": 67,
+     "sc": 0.75
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Mehmet Erdoğan",
+     "GK",
+     "TUR"
+    ],
+    [
+     2,
+     "Yunus Bahadır",
+     "DF",
+     "TUR"
+    ],
+    [
+     3,
+     "Wellington",
+     "DF",
+     "BRA"
+    ],
+    [
+     4,
+     "Abdullah Çelik",
+     "DF",
+     "AUT"
+    ],
+    [
+     7,
+     "Odise Roshi",
+     "MF",
+     "ALB"
+    ],
+    [
+     8,
+     "İshak Karaoğul",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Ömer Faruk Demirel",
+     "FW",
+     "TUR"
+    ],
+    [
+     10,
+     "Jefferson Júnior",
+     "MF",
+     "BRA"
+    ],
+    [
+     12,
+     "Berkan Keskin",
+     "DF",
+     "TUR"
+    ],
+    [
+     14,
+     "İbrahim Akdağ",
+     "MF",
+     "TUR"
+    ],
+    [
+     15,
+     "Yunus Emre Metin",
+     "DF",
+     "TUR"
+    ],
+    [
+     19,
+     "Enes Yılmaz",
+     "MF",
+     "TUR"
+    ],
+    [
+     20,
+     "Alcídio Raice",
+     "FW",
+     "MOZ"
+    ],
+    [
+     21,
+     "Francis Ezeh",
+     "FW",
+     "NGR"
+    ],
+    [
+     25,
+     "Efe Kaan Yıldız",
+     "GK",
+     "TUR"
+    ],
+    [
+     33,
+     "Süleyman Luş",
+     "DF",
+     "TUR"
+    ],
+    [
+     37,
+     "Duhan Aksu",
+     "DF",
+     "TUR"
+    ],
+    [
+     45,
+     "Herculano Nabian",
+     "FW",
+     "POR"
+    ]
+   ],
+   "extras": [
+    "Erdar",
+    "Carker",
+    "Kurra",
+    "Luşh",
+    "Nahir",
+    "Trore",
+    "Basrave",
+    "Togu",
+    "Dembele",
+    "Kamara",
+    "Atas",
+    "Shengül",
+    "Aksan",
+    "Dele",
+    "Uchar",
+    "Birtin",
+    "Rroka",
+    "Abaza",
+    "Dyoof"
+   ]
+  },
+  "Boluspor": {
+   "tid": 20626,
+   "pairs": [],
+   "unmatched": [
+    [
+     1,
+     "Angelo Tafas",
+     "GK",
+     "ALB"
+    ],
+    [
+     2,
+     "Furkan Metin",
+     "DF",
+     "TUR"
+    ],
+    [
+     3,
+     "Kevin Cuesta",
+     "DF",
+     "COL"
+    ],
+    [
+     5,
+     "Ali Çırak",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Can Arda Yılmaz",
+     "MF",
+     "TUR"
+    ],
+    [
+     7,
+     "Erdem Can Polat",
+     "FW",
+     "TUR"
+    ],
+    [
+     8,
+     "Tolunay Artuç",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Rodrigo Rivas",
+     "FW",
+     "COL"
+    ],
+    [
+     10,
+     "Fernando Escobar",
+     "FW",
+     "PAR"
+    ],
+    [
+     11,
+     "Furkan Kaçmaz",
+     "FW",
+     "TUR"
+    ],
+    [
+     13,
+     "Orkun Özdemir",
+     "GK",
+     "TUR"
+    ],
+    [
+     14,
+     "Abdulsamet Kırım",
+     "DF",
+     "TUR"
+    ],
+    [
+     15,
+     "Burak Topçu",
+     "MF",
+     "TUR"
+    ],
+    [
+     16,
+     "Temel Çakmak",
+     "MF",
+     "TUR"
+    ],
+    [
+     17,
+     "Alptekin Çaylı",
+     "FW",
+     "TUR"
+    ],
+    [
+     19,
+     "Hosue Díaz",
+     "MF",
+     "PAR"
+    ],
+    [
+     20,
+     "Deniz Yıldız",
+     "MF",
+     "TUR"
+    ],
+    [
+     21,
+     "Muhammed Mert",
+     "MF",
+     "TUR"
+    ],
+    [
+     22,
+     "Arda Saygı",
+     "DF",
+     "TUR"
+    ],
+    [
+     23,
+     "Zeki Dursun",
+     "MF",
+     "TUR"
+    ],
+    [
+     24,
+     "Juan Cruz Argüello",
+     "DF",
+     "ARG"
+    ],
+    [
+     25,
+     "Muhammet Özkan",
+     "GK",
+     "TUR"
+    ],
+    [
+     27,
+     "Uğurhan Uğurlu",
+     "DF",
+     "TUR"
+    ],
+    [
+     32,
+     "Elvin Yunuszade",
+     "DF",
+     "AZE"
+    ],
+    [
+     35,
+     "Ege Özkayımoğlu",
+     "FW",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Akvava",
+    "Koskun",
+    "Uras",
+    "Oulare",
+    "Birgic",
+    "Kasal",
+    "Yirdis",
+    "Kinali",
+    "Atarseven",
+    "Kayanba",
+    "Sousa",
+    "Mousiti-Oko",
+    "Urgen",
+    "Posmark",
+    "Paikok",
+    "Iscirer",
+    "Guntekin",
+    "Kurbilge",
+    "Canri",
+    "Ozer",
+    "Betaie",
+    "Estrera",
+    "Atazayar",
+    "Mukayru",
+    "Landell"
+   ]
+  },
+  "Istanbulspor": {
+   "tid": 20630,
+   "pairs": [
+    {
+     "real": "Mamadou Fall",
+     "num": 27,
+     "pos": "MF",
+     "nat": "SEN",
+     "game": "Mamadu",
+     "pid": 124405,
+     "jersey": 66,
+     "ovr": 48,
+     "sc": 0.923
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "İsa Doğan",
+     "GK",
+     "TUR"
+    ],
+    [
+     2,
+     "Demeaco Duhaney",
+     "DF",
+     "ENG"
+    ],
+    [
+     3,
+     "Yusuf Özer",
+     "DF",
+     "TUR"
+    ],
+    [
+     4,
+     "Duran Şahin",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Michael Ologo",
+     "DF",
+     "NGR"
+    ],
+    [
+     6,
+     "Isa Dayakli",
+     "MF",
+     "AUT"
+    ],
+    [
+     7,
+     "Phellipe",
+     "MF",
+     "BRA"
+    ],
+    [
+     8,
+     "Vefa Temel",
+     "MF",
+     "TUR"
+    ],
+    [
+     9,
+     "Mustafa Sol",
+     "FW",
+     "TUR"
+    ],
+    [
+     10,
+     "Ilian Iliev",
+     "MF",
+     "BUL"
+    ],
+    [
+     11,
+     "Berk Nizam",
+     "MF",
+     "TUR"
+    ],
+    [
+     12,
+     "Kubilay Sönmez",
+     "MF",
+     "TUR"
+    ],
+    [
+     13,
+     "Fatih Tultak",
+     "DF",
+     "TUR"
+    ],
+    [
+     15,
+     "Elvin Mendy",
+     "MF",
+     "GAM"
+    ],
+    [
+     16,
+     "Saviour Kagbetor",
+     "MF",
+     "GHA"
+    ],
+    [
+     17,
+     "Essap Njie",
+     "FW",
+     "GAM"
+    ],
+    [
+     18,
+     "Deniz Tuncer",
+     "DF",
+     "TUR"
+    ],
+    [
+     20,
+     "Özcan Şahan",
+     "DF",
+     "TUR"
+    ],
+    [
+     21,
+     "Dijlan Aydın",
+     "MF",
+     "TUR"
+    ],
+    [
+     25,
+     "Batuhan Yavuz",
+     "DF",
+     "TUR"
+    ],
+    [
+     26,
+     "Mücahit Serbest",
+     "GK",
+     "TUR"
+    ],
+    [
+     28,
+     "Alp Tutar",
+     "GK",
+     "TUR"
+    ],
+    [
+     30,
+     "Alieu Cham",
+     "FW",
+     "GAM"
+    ],
+    [
+     31,
+     "Ertuğrul Sandıkcı",
+     "FW",
+     "TUR"
+    ],
+    [
+     34,
+     "Aytaç Kara",
+     "MF",
+     "TUR"
+    ],
+    [
+     44,
+     "Erdem Seçgin",
+     "MF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Shzumski",
+    "Axoy",
+    "Carayer",
+    "Dorson",
+    "Uğurly",
+    "Tote",
+    "Aabit",
+    "Saint-Luis",
+    "Basagackoglu",
+    "Demil",
+    "Pektepek",
+    "Simons",
+    "Akpiner",
+    "Dikman",
+    "Kılıçe",
+    "Altintas",
+    "Çakmal",
+    "Eğrie",
+    "Asıltekun",
+    "Luan",
+    "Sipe",
+    "Aklian",
+    "Türkan",
+    "Cepar",
+    "Şenli",
+    "Uzon",
+    "F.Andlade",
+    "Demirtash",
+    "Erturka",
+    "Demiri"
+   ]
+  },
+  "Corum": {
+   "tid": 20617,
+   "pairs": [],
+   "unmatched": [
+    [
+     1,
+     "Marcos Felipe",
+     "GK",
+     "BRA"
+    ],
+    [
+     2,
+     "Çağlar Söyüncü",
+     "DF",
+     "TUR"
+    ],
+    [
+     3,
+     "Berat Özdemir",
+     "MF",
+     "TUR"
+    ],
+    [
+     4,
+     "Serdar Saatçı",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Hrvoje Smolčić",
+     "DF",
+     "CRO"
+    ],
+    [
+     7,
+     "Cengiz Ünder",
+     "FW",
+     "TUR"
+    ],
+    [
+     8,
+     "Markus Karlsbakk",
+     "MF",
+     "NOR"
+    ],
+    [
+     9,
+     "Mame Thiam",
+     "FW",
+     "SEN"
+    ],
+    [
+     10,
+     "Mohamed Diomande",
+     "MF",
+     "CIV"
+    ],
+    [
+     11,
+     "Gökhan Sazdağı",
+     "DF",
+     "TUR"
+    ],
+    [
+     15,
+     "Arda Şengül",
+     "DF",
+     "TUR"
+    ],
+    [
+     16,
+     "Fredy",
+     "MF",
+     "ANG"
+    ],
+    [
+     17,
+     "Emircan Gürlük",
+     "MF",
+     "TUR"
+    ],
+    [
+     18,
+     "Erhan Erentürk",
+     "GK",
+     "TUR"
+    ],
+    [
+     19,
+     "Jesús Ramírez",
+     "FW",
+     "VEN"
+    ],
+    [
+     20,
+     "Ylber Ramadani",
+     "MF",
+     "ALB"
+    ],
+    [
+     22,
+     "Hüseyin Bulut",
+     "DF",
+     "TUR"
+    ],
+    [
+     23,
+     "Hasanege Akdoğan",
+     "FW",
+     "TUR"
+    ],
+    [
+     24,
+     "Andrei Borza",
+     "DF",
+     "ROM"
+    ],
+    [
+     26,
+     "Ermin Mahmić",
+     "MF",
+     "BIH"
+    ],
+    [
+     30,
+     "Ahmed Ildız",
+     "MF",
+     "TUR"
+    ],
+    [
+     45,
+     "Furkan Çetinkaya",
+     "FW",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Bosan",
+    "Rodriguez",
+    "Kezoldal",
+    "Avena",
+    "Rungoy",
+    "Kamara",
+    "Kabasakel",
+    "L.Perez",
+    "Maksim",
+    "Koslovski",
+    "Ballo",
+    "Soreshu",
+    "Sanush",
+    "Altan",
+    "Calakas",
+    "Kabaday",
+    "Driguc",
+    "Erdogan",
+    "Ozucicek",
+    "Dabin",
+    "Diondis",
+    "Sangare",
+    "M'Bakada",
+    "Mujakic",
+    "Ndeya",
+    "Bazci",
+    "Stefan",
+    "Cakyr",
+    "Yikiza",
+    "Chihan",
+    "Kuzou",
+    "Gorgen",
+    "E.Borateng",
+    "R.Niset",
+    "Erzoy",
+    "Alak",
+    "Dervishoglu",
+    "Huzik",
+    "Gumuskaya",
+    "Gorgeri"
+   ]
+  },
+  "AdanaDemir": {
+   "tid": 20612,
+   "pairs": [],
+   "unmatched": [
+    [
+     2,
+     "Enes Demirtaş",
+     "DF",
+     "TUR"
+    ],
+    [
+     3,
+     "Hasan Alp Kaya",
+     "DF",
+     "TUR"
+    ],
+    [
+     4,
+     "Aslan Atay",
+     "DF",
+     "TUR"
+    ],
+    [
+     7,
+     "Sefa Gülay",
+     "FW",
+     "TUR"
+    ],
+    [
+     14,
+     "Demir Yavuz",
+     "MF",
+     "TUR"
+    ],
+    [
+     15,
+     "Diyar Zengin",
+     "FW",
+     "TUR"
+    ],
+    [
+     16,
+     "Kürşat Türkeş Küçük",
+     "MF",
+     "TUR"
+    ],
+    [
+     17,
+     "Mert Menemencioğlu",
+     "DF",
+     "TUR"
+    ],
+    [
+     18,
+     "Ahmet Bolat",
+     "FW",
+     "TUR"
+    ],
+    [
+     20,
+     "Ahmet Arda Birinci",
+     "FW",
+     "TUR"
+    ],
+    [
+     22,
+     "Gökdeniz Tunç",
+     "FW",
+     "TUR"
+    ],
+    [
+     23,
+     "Yusuf Demirkıran",
+     "DF",
+     "TUR"
+    ],
+    [
+     24,
+     "Aykut Sarıkaya",
+     "DF",
+     "TUR"
+    ],
+    [
+     25,
+     "Murat Eser",
+     "GK",
+     "TUR"
+    ],
+    [
+     26,
+     "Doğuhan Asım Dübüş",
+     "DF",
+     "TUR"
+    ],
+    [
+     27,
+     "Ata Gül",
+     "GK",
+     "TUR"
+    ],
+    [
+     30,
+     "Yücel Gürol",
+     "DF",
+     "TUR"
+    ],
+    [
+     43,
+     "Ali Fidan",
+     "DF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Osbir",
+    "Rodriguez",
+    "Cisse",
+    "Gravilon",
+    "Eokdal",
+    "Zernely",
+    "Aygün",
+    "Berhamda",
+    "A.Aynbetov",
+    "Nyanng",
+    "Barotely",
+    "Karacic"
+   ]
+  },
+  "Denizli": {
+   "tid": 20640,
+   "pairs": [
+    {
+     "real": "Mehmet Ali Ulaman",
+     "num": 11,
+     "pos": "FW",
+     "nat": "TUR",
+     "game": "Uraman",
+     "pid": 115665,
+     "jersey": 11,
+     "ovr": 52,
+     "sc": 0.833
+    },
+    {
+     "real": "Abdülkadir Sünger",
+     "num": 20,
+     "pos": "GK",
+     "nat": "TUR",
+     "game": "Songer",
+     "pid": 115657,
+     "jersey": 20,
+     "ovr": 58,
+     "sc": 0.833
+    },
+    {
+     "real": "Gökhan Süzen",
+     "num": 26,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Susen",
+     "pid": 115660,
+     "jersey": 26,
+     "ovr": 65,
+     "sc": 0.8
+    },
+    {
+     "real": "Emre Sağlık",
+     "num": 27,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Sagrik",
+     "pid": 115661,
+     "jersey": 27,
+     "ovr": 58,
+     "sc": 0.727
+    },
+    {
+     "real": "Ahmet Tekin",
+     "num": 42,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Terkin",
+     "pid": 115659,
+     "jersey": 45,
+     "ovr": 54,
+     "sc": 0.909
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Ali Eren Yalçın",
+     "GK",
+     "TUR"
+    ],
+    [
+     3,
+     "Emre Yıldırım",
+     "DF",
+     "TUR"
+    ],
+    [
+     4,
+     "Muhammet Özkal",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Emirhan Kaşcıoğlu",
+     "DF",
+     "TUR"
+    ],
+    [
+     6,
+     "Mehmet Eren Sıngın",
+     "DF",
+     "TUR"
+    ],
+    [
+     7,
+     "Alihan Kalkan",
+     "FW",
+     "TUR"
+    ],
+    [
+     10,
+     "Omer Gündüz",
+     "MF",
+     "TUR"
+    ],
+    [
+     13,
+     "Ertuğrul Yıldırım",
+     "MF",
+     "TUR"
+    ],
+    [
+     14,
+     "Bekir Turaç Böke",
+     "MF",
+     "TUR"
+    ],
+    [
+     16,
+     "Muhammed Eren Kıryolcu",
+     "DF",
+     "TUR"
+    ],
+    [
+     17,
+     "Deniz Kodal",
+     "FW",
+     "TUR"
+    ],
+    [
+     18,
+     ":tr:Doğan Seyfi Atlı",
+     "FW",
+     "TUR"
+    ],
+    [
+     24,
+     "Oktay Kısaoğlu",
+     "DF",
+     "TUR"
+    ],
+    [
+     25,
+     "Yusuf Emre İnanır",
+     "MF",
+     "TUR"
+    ],
+    [
+     31,
+     "Ertuğrul Bağ",
+     "GK",
+     "TUR"
+    ],
+    [
+     37,
+     "Alaattin Öner",
+     "MF",
+     "TUR"
+    ],
+    [
+     45,
+     "Emre Burgaz",
+     "DF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Artintas",
+    "Schweslen",
+    "Cinemre",
+    "Yirmas",
+    "Oskar",
+    "Djede",
+    "Gunurbasar",
+    "Ozdemil",
+    "Yismanogru",
+    "Hamasaceby",
+    "Dericy",
+    "Mai",
+    "Akdary"
+   ]
+  },
+  "Erzurumspor2": {
+   "tid": 20637,
+   "pairs": [
+    {
+     "real": "Yakup Kırtay",
+     "num": 3,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Kirtai",
+     "pid": 152637,
+     "jersey": 3,
+     "ovr": 55,
+     "sc": 0.727
+    },
+    {
+     "real": "Sefa Akgün",
+     "num": 8,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Akgun",
+     "pid": 115600,
+     "jersey": 8,
+     "ovr": 54,
+     "sc": 1.0
+    },
+    {
+     "real": "Guram Giorbelidze",
+     "num": 15,
+     "pos": "DF",
+     "nat": "GEO",
+     "game": "Giorbelitze",
+     "pid": 152638,
+     "jersey": 15,
+     "ovr": 56,
+     "sc": 0.909
+    },
+    {
+     "real": "Mustafa Yumlu",
+     "num": 22,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Yurmru",
+     "pid": 115586,
+     "jersey": 22,
+     "ovr": 62,
+     "sc": 0.727
+    },
+    {
+     "real": "Cengizhan Bayrak",
+     "num": 23,
+     "pos": "DF",
+     "nat": "TUR",
+     "game": "Bairak",
+     "pid": 115597,
+     "jersey": 23,
+     "ovr": 61,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Ertuğrul Taşkıran",
+     "GK",
+     "TUR"
+    ],
+    [
+     2,
+     "Festy Ebosele",
+     "DF",
+     "IRL"
+    ],
+    [
+     4,
+     "Amar Gërxhaliu",
+     "DF",
+     "KOS"
+    ],
+    [
+     6,
+     "Brandon Baiye",
+     "MF",
+     "BEL"
+    ],
+    [
+     9,
+     "Gyrano Kerk",
+     "FW",
+     "SUR"
+    ],
+    [
+     10,
+     "Eren Tozlu",
+     "FW",
+     "TUR"
+    ],
+    [
+     17,
+     "Erkan Anapa",
+     "GK",
+     "TUR"
+    ],
+    [
+     18,
+     "Nihad Mujakić",
+     "DF",
+     "BIH"
+    ],
+    [
+     19,
+     "Ibrahim Diabate",
+     "FW",
+     "CIV"
+    ],
+    [
+     20,
+     "Miguel Cardoso",
+     "FW",
+     "POR"
+    ],
+    [
+     25,
+     "Ömer Arda Kara",
+     "DF",
+     "TUR"
+    ],
+    [
+     31,
+     "Matija Orbanić",
+     "GK",
+     "CRO"
+    ],
+    [
+     42,
+     "Elisha Owusu",
+     "MF",
+     "GHA"
+    ]
+   ],
+   "extras": [
+    "Bakirbas",
+    "Akbas",
+    "Ovacikli",
+    "Azubuyke",
+    "Rosh",
+    "Teklic",
+    "Taskali",
+    "Tosru",
+    "Kilinc",
+    "Koch",
+    "Rodrígues",
+    "Artarsran",
+    "Hanarp",
+    "Selt",
+    "Ackan",
+    "Yagqi",
+    "Mengy",
+    "Sarikay",
+    "Tokk",
+    "Cill",
+    "Tazev",
+    "Ozan",
+    "Fettaholu",
+    "Mambah",
+    "Moradahu",
+    "Karakash",
+    "Yaviloğlu",
+    "Crosiate"
+   ]
+  },
+  "Umraniye": {
+   "tid": 20638,
+   "pairs": [
+    {
+     "real": "Kubilay Aktaş",
+     "num": 5,
+     "pos": "MF",
+     "nat": "TUR",
+     "game": "Aktars",
+     "pid": 115620,
+     "jersey": 5,
+     "ovr": 57,
+     "sc": 0.909
+    },
+    {
+     "real": "Özgün Köklü",
+     "num": 13,
+     "pos": "GK",
+     "nat": "TUR",
+     "game": "Ozgun",
+     "pid": 115614,
+     "jersey": 99,
+     "ovr": 62,
+     "sc": 1.0
+    }
+   ],
+   "unmatched": [
+    [
+     4,
+     "Mustafa Eser",
+     "DF",
+     "TUR"
+    ],
+    [
+     7,
+     "Santeri Hostikka",
+     "FW",
+     "FIN"
+    ],
+    [
+     8,
+     "Serkan Göksu",
+     "MF",
+     "TUR"
+    ],
+    [
+     10,
+     "Andrej Đokanović",
+     "MF",
+     "BIH"
+    ],
+    [
+     11,
+     "Álex Blanco",
+     "FW",
+     "ESP"
+    ],
+    [
+     16,
+     "Kerem Şen",
+     "MF",
+     "TUR"
+    ],
+    [
+     18,
+     "Talha Özdemir",
+     "FW",
+     "TUR"
+    ],
+    [
+     20,
+     "Atalay Babacan",
+     "MF",
+     "TUR"
+    ],
+    [
+     26,
+     "Batuhan Çakır",
+     "DF",
+     "TUR"
+    ],
+    [
+     27,
+     "Cebio Soukou",
+     "FW",
+     "BEN"
+    ],
+    [
+     28,
+     "Oğuzhan Aydoğan",
+     "MF",
+     "GER"
+    ],
+    [
+     30,
+     "Yusuf Şaş",
+     "MF",
+     "TUR"
+    ],
+    [
+     31,
+     "Deniz Aksoy",
+     "FW",
+     "TUR"
+    ],
+    [
+     35,
+     "Cihan Topaloğlu",
+     "GK",
+     "TUR"
+    ],
+    [
+     44,
+     "Tomislav Glumac",
+     "DF",
+     "CRO"
+    ]
+   ],
+   "extras": [
+    "Ostasderen",
+    "Esendemil",
+    "Dickmen",
+    "Aiy",
+    "Gorkce",
+    "Yirmas",
+    "Ozcan",
+    "Aidin",
+    "Cocaer",
+    "Osek",
+    "Metina",
+    "Aslan",
+    "Llener",
+    "Kalla"
+   ]
+  },
+  "Sariyer": {
+   "tid": 20621,
+   "pairs": [],
+   "unmatched": [
+    [
+     1,
+     "Furkan Onur Akyüz",
+     "GK",
+     "TUR"
+    ],
+    [
+     3,
+     "Joseph Attamah",
+     "DF",
+     "GHA"
+    ],
+    [
+     4,
+     "Erdi Dikmen",
+     "DF",
+     "TUR"
+    ],
+    [
+     5,
+     "Eşref Korkmazoğlu",
+     "DF",
+     "TUR"
+    ],
+    [
+     7,
+     "Barış Alıcı",
+     "FW",
+     "TUR"
+    ],
+    [
+     8,
+     "Marcos Silva",
+     "MF",
+     "ANG"
+    ],
+    [
+     9,
+     "Batuhan Kör",
+     "FW",
+     "TUR"
+    ],
+    [
+     10,
+     "Efecan Karaca",
+     "FW",
+     "TUR"
+    ],
+    [
+     11,
+     "Eren Karadağ",
+     "FW",
+     "TUR"
+    ],
+    [
+     13,
+     "Ibrahim Šehić",
+     "GK",
+     "BIH"
+    ],
+    [
+     14,
+     "Tunahan Ergül",
+     "MF",
+     "TUR"
+    ],
+    [
+     17,
+     "Doğan Can Davas",
+     "MF",
+     "TUR"
+    ],
+    [
+     19,
+     "Yağız Şen",
+     "MF",
+     "TUR"
+    ],
+    [
+     23,
+     "Üzeyir Ergün",
+     "DF",
+     "TUR"
+    ],
+    [
+     24,
+     "Işık Kaan Arslan",
+     "DF",
+     "TUR"
+    ],
+    [
+     27,
+     "Mahmut Yücel",
+     "MF",
+     "TUR"
+    ],
+    [
+     28,
+     "Hasan Emre Yeşilyurt",
+     "MF",
+     "TUR"
+    ],
+    [
+     35,
+     "Hasan Kayalı",
+     "DF",
+     "TUR"
+    ],
+    [
+     41,
+     "Furkan Gedik",
+     "MF",
+     "TUR"
+    ]
+   ],
+   "extras": [
+    "Topaloglu",
+    "Popov",
+    "Glumak",
+    "Ezer",
+    "Yildirm",
+    "Cofi",
+    "Breigu",
+    "Goksu",
+    "Sanluturk",
+    "Souku",
+    "Shaponjich",
+    "Taskin",
+    "Ayalogru",
+    "Cavare",
+    "Öksüs",
+    "Adayaman",
+    "Damulu",
+    "Babaca",
+    "Nass",
+    "Bomba",
+    "Ayik",
+    "Orkutan"
+   ]
+  }
+ }
+}

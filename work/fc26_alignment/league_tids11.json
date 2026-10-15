@@ -1,0 +1,32 @@
+{
+ "NL2": {
+  "Vitesse": 20251,
+  "RKC": 20254,
+  "Heracles": 20260,
+  "Almere": 30171,
+  "Breda": 30173,
+  "Dordrecht": 30174,
+  "Kerkrade": 30175,
+  "DenBosch": 30178,
+  "Emmen": 30179,
+  "Helmond": 30182,
+  "Maastricht": 30183,
+  "Oss": 30184,
+  "Venlo": 30181
+ },
+ "BR2": {
+  "AmericaMG": 20278,
+  "Goianiense": 20293,
+  "Avai": 20281,
+  "BotafogoSP": 20288,
+  "Ceara": 20010,
+  "CRB": 20431,
+  "Criciuma": 20281,
+  "Goias": 20008,
+  "Londrina": 20024,
+  "Nautico": 20291,
+  "Novorizontino": 20006,
+  "PontePreta": 20289,
+  "VilaNova": 20008
+ }
+}

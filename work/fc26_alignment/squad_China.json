@@ -1,0 +1,3436 @@
+{
+ "Port": [
+  [
+   1,
+   "Ren Zihao",
+   "GK",
+   "CHN"
+  ],
+  [
+   1,
+   "Yan Junling",
+   "GK",
+   "CHN"
+  ],
+  [
+   2,
+   "Zhang Wei (footballer, born March 1993)",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "Jiang Guangtai",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "Wang Zheng",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Wang Shenchao",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Fan Weiyang",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Zhang Linpeng",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Zhang Yuan (footballer, born 1997)",
+   "MF",
+   "CHN"
+  ],
+  [
+   7,
+   "Wang Yiwei",
+   "MF",
+   "CHN"
+  ],
+  [
+   7,
+   "Wu Lei",
+   "FW",
+   "CHN"
+  ],
+  [
+   8,
+   "Fan Yangyang",
+   "MF",
+   "CHN"
+  ],
+  [
+   8,
+   "Kodjo Aziangbe",
+   "MF",
+   "TGO"
+  ],
+  [
+   9,
+   "Li Deming",
+   "MF",
+   "CHN"
+  ],
+  [
+   10,
+   "Mateus Vital",
+   "MF",
+   "BRA"
+  ],
+  [
+   10,
+   "Zhang Huiyu",
+   "FW",
+   "CHN"
+  ],
+  [
+   11,
+   "Gabrielzinho",
+   "FW",
+   "BRA"
+  ],
+  [
+   11,
+   "Li Zesheng",
+   "FW",
+   "CHN"
+  ],
+  [
+   12,
+   "Chen Wei (footballer, born 1998)",
+   "GK",
+   "CHN"
+  ],
+  [
+   13,
+   "Jiang Tianle",
+   "MF",
+   "CHN"
+  ],
+  [
+   13,
+   "Wei Zhen (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   14,
+   "Li Shenglong",
+   "FW",
+   "CHN"
+  ],
+  [
+   14,
+   "Matt Orr",
+   "FW",
+   "HKG"
+  ],
+  [
+   16,
+   "Jaume Grau",
+   "MF",
+   "ESP"
+  ],
+  [
+   16,
+   "Li Jiaqi",
+   "MF",
+   "CHN"
+  ],
+  [
+   17,
+   "Prince Ampem",
+   "FW",
+   "GHA"
+  ],
+  [
+   18,
+   "Han Yang",
+   "FW",
+   "CHN"
+  ],
+  [
+   19,
+   "Wang Zhen'ao",
+   "DF",
+   "CHN"
+  ],
+  [
+   20,
+   "Xie Hongyu",
+   "DF",
+   "CHN"
+  ],
+  [
+   20,
+   "Yang Shiyuan",
+   "MF",
+   "CHN"
+  ],
+  [
+   21,
+   "Li Ming",
+   "DF",
+   "CHN"
+  ],
+  [
+   21,
+   "Óscar Melendo",
+   "MF",
+   "ESP"
+  ],
+  [
+   22,
+   "Alex Yang",
+   "DF",
+   "CHN"
+  ],
+  [
+   23,
+   "Fu Huan",
+   "DF",
+   "CHN"
+  ],
+  [
+   23,
+   "Li Yang",
+   "MF",
+   "CHN"
+  ],
+  [
+   24,
+   "Li Ruilong",
+   "MF",
+   "CHN"
+  ],
+  [
+   26,
+   "Liu Ruofan",
+   "MF",
+   "CHN"
+  ],
+  [
+   27,
+   "Ren Xiaohang",
+   "MF",
+   "CHN"
+  ],
+  [
+   28,
+   "Yue Xin (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   29,
+   "Lu Weiyu",
+   "MF",
+   "CHN"
+  ],
+  [
+   30,
+   "Xu Ruixuan",
+   "DF",
+   "CHN"
+  ],
+  [
+   31,
+   "Bao Shimeng",
+   "DF",
+   "CHN"
+  ],
+  [
+   32,
+   "Li Shuai (footballer, born 1995)",
+   "DF",
+   "CHN"
+  ],
+  [
+   33,
+   "Liu Zhurun",
+   "FW",
+   "CHN"
+  ],
+  [
+   35,
+   "Wen Junxiang",
+   "FW",
+   "CHN"
+  ],
+  [
+   37,
+   "Zhang Junjie",
+   "FW",
+   "CHN"
+  ],
+  [
+   38,
+   "Lu Yongtao",
+   "MF",
+   "CHN"
+  ],
+  [
+   39,
+   "Wang Wenzheng",
+   "FW",
+   "CHN"
+  ],
+  [
+   40,
+   "Umidjan Yusup",
+   "DF",
+   "CHN"
+  ],
+  [
+   43,
+   "Wang Zhaopu",
+   "MF",
+   "CHN"
+  ],
+  [
+   44,
+   "Miguel Campos",
+   "DF",
+   "POR"
+  ],
+  [
+   44,
+   "Yang Qiandong",
+   "MF",
+   "CHN"
+  ],
+  [
+   45,
+   "Leonardo (footballer, born 1997)",
+   "FW",
+   "BRA"
+  ]
+ ],
+ "Shenhua": [
+  [
+   1,
+   "Xue Qinghao",
+   "GK",
+   "CHN"
+  ],
+  [
+   2,
+   "Wang Shilong",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "Jin Shunkai",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Jiang Shenglong",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Zhu Chenjie",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Li Songyi",
+   "DF",
+   "CHN"
+  ],
+  [
+   8,
+   "Nico Yennaris",
+   "MF",
+   "CHN"
+  ],
+  [
+   9,
+   "Rafael Ratão",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "João Carlos Teixeira",
+   "MF",
+   "POR"
+  ],
+  [
+   13,
+   "Wilson Manafá",
+   "DF",
+   "POR"
+  ],
+  [
+   15,
+   "Wu Xi (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   16,
+   "Yang Zexiang",
+   "DF",
+   "CHN"
+  ],
+  [
+   17,
+   "Gao Tianyi",
+   "MF",
+   "CHN"
+  ],
+  [
+   18,
+   "Liu Chengyu (footballer)",
+   "FW",
+   "CHN"
+  ],
+  [
+   19,
+   "Luís Asué",
+   "FW",
+   "EQG"
+  ],
+  [
+   21,
+   "Xu Haoyang",
+   "MF",
+   "CHN"
+  ],
+  [
+   24,
+   "Ma Zhen",
+   "GK",
+   "CHN"
+  ],
+  [
+   25,
+   "Zhu Yue (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   26,
+   "Yang Shuai (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   27,
+   "Shinichi Chan",
+   "DF",
+   "HKG"
+  ],
+  [
+   29,
+   "Makhtar Gueye (footballer)",
+   "FW",
+   "SEN"
+  ],
+  [
+   30,
+   "Xie Pengfei",
+   "FW",
+   "CHN"
+  ],
+  [
+   33,
+   "Wang Haijian",
+   "MF",
+   "CHN"
+  ],
+  [
+   36,
+   "Huang Ming",
+   "MF",
+   "CHN"
+  ],
+  [
+   38,
+   "Wu Qipeng",
+   "MF",
+   "CHN"
+  ],
+  [
+   39,
+   "Sun Dongyang",
+   "GK",
+   "CHN"
+  ],
+  [
+   40,
+   "Wang Jie",
+   "GK",
+   "CHN"
+  ],
+  [
+   41,
+   "Jiang Hongyu",
+   "DF",
+   "CHN"
+  ],
+  [
+   42,
+   "Zhao Shuyi",
+   "DF",
+   "CHN"
+  ],
+  [
+   43,
+   "Yang Haoyu (footballer, born 2006)",
+   "MF",
+   "CHN"
+  ],
+  [
+   44,
+   "Cheng Tianle",
+   "FW",
+   "CHN"
+  ],
+  [
+   45,
+   "Han Jiawen",
+   "MF",
+   "CHN"
+  ]
+ ],
+ "Chengdu": [
+  [
+   1,
+   "Jian Tao",
+   "GK",
+   "CHN"
+  ],
+  [
+   2,
+   "Hu Hetao",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "Alexander Jojo",
+   "DF",
+   "HKG"
+  ],
+  [
+   4,
+   "He Yiran",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Matheus Jussa",
+   "MF",
+   "BRA"
+  ],
+  [
+   6,
+   "Feng Zhuoyi",
+   "MF",
+   "CHN"
+  ],
+  [
+   6,
+   "Xu Zhenghang",
+   "FW",
+   "CHN"
+  ],
+  [
+   7,
+   "Wei Shihao",
+   "FW",
+   "CHN"
+  ],
+  [
+   7,
+   "Zhang Zili",
+   "MF",
+   "CHN"
+  ],
+  [
+   9,
+   "Felipe (footballer, born 1992)",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Rômulo (footballer, born October 1995)",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Chen Xiaohan",
+   "MF",
+   "CHN"
+  ],
+  [
+   11,
+   "Wellington Silva (footballer, born 1993)",
+   "FW",
+   "BRA"
+  ],
+  [
+   15,
+   "Liu Zhetao",
+   "FW",
+   "CHN"
+  ],
+  [
+   15,
+   "Ran Weifeng",
+   "GK",
+   "CHN"
+  ],
+  [
+   16,
+   "Yang Mingyang",
+   "MF",
+   "CHN"
+  ],
+  [
+   16,
+   "Yao Younan",
+   "MF",
+   "CHN"
+  ],
+  [
+   17,
+   "Dai Wenhao",
+   "DF",
+   "CHN"
+  ],
+  [
+   17,
+   "Wang Dongsheng",
+   "DF",
+   "CHN"
+  ],
+  [
+   18,
+   "Han Pengfei",
+   "DF",
+   "CHN"
+  ],
+  [
+   19,
+   "Dong Yanfeng",
+   "DF",
+   "CHN"
+  ],
+  [
+   20,
+   "Wang Ziming (footballer)",
+   "FW",
+   "CHN"
+  ],
+  [
+   21,
+   "Chen Shihan",
+   "MF",
+   "CHN"
+  ],
+  [
+   21,
+   "Cui Xinglong",
+   "MF",
+   "CHN"
+  ],
+  [
+   22,
+   "Li Yang (footballer, born 1997)",
+   "DF",
+   "CHN"
+  ],
+  [
+   23,
+   "Li Wenle",
+   "MF",
+   "CHN"
+  ],
+  [
+   23,
+   "Liao Lisheng",
+   "MF",
+   "CHN"
+  ],
+  [
+   24,
+   "Tang Chuang",
+   "FW",
+   "CHN"
+  ],
+  [
+   25,
+   "Mirahmetjan Muzepper",
+   "MF",
+   "CHN"
+  ],
+  [
+   27,
+   "Behram Abduweli",
+   "FW",
+   "CHN"
+  ],
+  [
+   27,
+   "Wang Yueheng",
+   "MF",
+   "CHN"
+  ],
+  [
+   28,
+   "Yegor Sorokin",
+   "DF",
+   "RUS"
+  ],
+  [
+   29,
+   "Mutellip Iminqari",
+   "MF",
+   "CHN"
+  ],
+  [
+   29,
+   "Yao Zixuan",
+   "MF",
+   "CHN"
+  ],
+  [
+   31,
+   "Qin Wanzhun",
+   "MF",
+   "CHN"
+  ],
+  [
+   32,
+   "Liu Dianzuo",
+   "GK",
+   "CHN"
+  ],
+  [
+   34,
+   "Wang Jintian",
+   "MF",
+   "CHN"
+  ],
+  [
+   36,
+   "Tang Yixuan",
+   "GK",
+   "CHN"
+  ],
+  [
+   37,
+   "Du Yijinwu",
+   "DF",
+   "CHN"
+  ],
+  [
+   38,
+   "Huang Zhenhang",
+   "FW",
+   "CHN"
+  ],
+  [
+   39,
+   "Gan Chao",
+   "MF",
+   "CHN"
+  ],
+  [
+   40,
+   "Wang Haoqin",
+   "GK",
+   "CHN"
+  ],
+  [
+   41,
+   "Huang Junjie",
+   "MF",
+   "CHN"
+  ],
+  [
+   43,
+   "Zhang Kongzhi",
+   "MF",
+   "CHN"
+  ],
+  [
+   44,
+   "Lobsang",
+   "DF",
+   "CHN"
+  ],
+  [
+   45,
+   "Ezimet Qeyser",
+   "FW",
+   "CHN"
+  ]
+ ],
+ "Guoan": [
+  [
+   2,
+   "Wu Shaocong",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "He Yupeng",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Li Lei (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Guilherme Ramos",
+   "DF",
+   "POR"
+  ],
+  [
+   6,
+   "Chi Zhongguo",
+   "MF",
+   "CHN"
+  ],
+  [
+   7,
+   "Serginho (footballer, born March 1995)",
+   "MF",
+   "CHN"
+  ],
+  [
+   8,
+   "Boubacar Konté",
+   "MF",
+   "MLI"
+  ],
+  [
+   9,
+   "Zhang Yuning (footballer, born 1997)",
+   "FW",
+   "CHN"
+  ],
+  [
+   10,
+   "Zhang Xizhe",
+   "MF",
+   "CHN"
+  ],
+  [
+   11,
+   "Lin Liangming",
+   "FW",
+   "CHN"
+  ],
+  [
+   14,
+   "Lu Tongyun",
+   "GK",
+   "CHN"
+  ],
+  [
+   17,
+   "Yang Liyu",
+   "FW",
+   "CHN"
+  ],
+  [
+   18,
+   "Wang Yu (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   20,
+   "Béni Nkololo",
+   "MF",
+   "FRA"
+  ],
+  [
+   21,
+   "Yue Tze Nam",
+   "DF",
+   "HKG"
+  ],
+  [
+   22,
+   "Han Jiaqi",
+   "GK",
+   "CHN"
+  ],
+  [
+   23,
+   "Dawhan",
+   "MF",
+   "BRA"
+  ],
+  [
+   24,
+   "Abduhamit Abdugheni",
+   "DF",
+   "CHN"
+  ],
+  [
+   25,
+   "Uroš Spajić",
+   "DF",
+   "SRB"
+  ],
+  [
+   26,
+   "Bai Yang (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   27,
+   "Wang Gang (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   28,
+   "Jeremy Dudziak",
+   "MF",
+   "TUN"
+  ],
+  [
+   29,
+   "Fábio Abreu",
+   "FW",
+   "ANG"
+  ],
+  [
+   30,
+   "Fan Shuangjie",
+   "DF",
+   "CHN"
+  ],
+  [
+   31,
+   "Liu Shaoziyang",
+   "GK",
+   "CHN"
+  ],
+  [
+   32,
+   "Wang Size",
+   "MF",
+   "CHN"
+  ],
+  [
+   33,
+   "Nureli Abbas",
+   "GK",
+   "CHN"
+  ],
+  [
+   34,
+   "Hou Sen",
+   "GK",
+   "CHN"
+  ],
+  [
+   36,
+   "Jia Feifan",
+   "MF",
+   "CHN"
+  ],
+  [
+   37,
+   "Cao Yongjing",
+   "MF",
+   "CHN"
+  ],
+  [
+   41,
+   "Cheng Xi",
+   "MF",
+   "CHN"
+  ],
+  [
+   42,
+   "Lin Hanqi",
+   "DF",
+   "CHN"
+  ],
+  [
+   43,
+   "Xia Xiaoyu",
+   "MF",
+   "CHN"
+  ],
+  [
+   45,
+   "Ma Mingyang",
+   "FW",
+   "CHN"
+  ]
+ ],
+ "Shandong": [
+  [
+   1,
+   "Yu Jinyong",
+   "GK",
+   "CHN"
+  ],
+  [
+   2,
+   "Deng Zhiwen",
+   "DF",
+   "CHN"
+  ],
+  [
+   2,
+   "Yang Ruiqi",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "Peng Xiao",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Hu Hangming",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Li Junpeng",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Zheng Zheng",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Wang Tong (footballer, born 1993)",
+   "DF",
+   "CHN"
+  ],
+  [
+   7,
+   "Li Yuanjie",
+   "FW",
+   "CHN"
+  ],
+  [
+   7,
+   "Xie Wenneng",
+   "MF",
+   "CHN"
+  ],
+  [
+   8,
+   "Guilherme Madruga",
+   "MF",
+   "BRA"
+  ],
+  [
+   8,
+   "He Kanghua",
+   "FW",
+   "CHN"
+  ],
+  [
+   9,
+   "Cryzan",
+   "FW",
+   "BRA"
+  ],
+  [
+   9,
+   "Sun Ziyue",
+   "FW",
+   "CHN"
+  ],
+  [
+   10,
+   "Valeri Qazaishvili",
+   "MF",
+   "GEO"
+  ],
+  [
+   11,
+   "Liu Yang (footballer, born 1995)",
+   "DF",
+   "CHN"
+  ],
+  [
+   13,
+   "Ihsen Ilham",
+   "GK",
+   "CHN"
+  ],
+  [
+   14,
+   "Guo Xin",
+   "MF",
+   "CHN"
+  ],
+  [
+   14,
+   "Wang Dalei",
+   "GK",
+   "CHN"
+  ],
+  [
+   15,
+   "Shi Songchen",
+   "DF",
+   "CHN"
+  ],
+  [
+   16,
+   "Yan Hengye",
+   "DF",
+   "CHN"
+  ],
+  [
+   17,
+   "Raphaël Merkies",
+   "FW",
+   "HKG"
+  ],
+  [
+   18,
+   "Li Xiang",
+   "MF",
+   "CHN"
+  ],
+  [
+   19,
+   "Wang Zicheng",
+   "FW",
+   "CHN"
+  ],
+  [
+   19,
+   "Zeca (footballer, born 1997)",
+   "FW",
+   "BRA"
+  ],
+  [
+   21,
+   "Niu Bowei",
+   "GK",
+   "CHN"
+  ],
+  [
+   22,
+   "Li Yuanyi",
+   "MF",
+   "CHN"
+  ],
+  [
+   22,
+   "Zhang Xuyao",
+   "MF",
+   "CHN"
+  ],
+  [
+   23,
+   "Pedro Álvaro",
+   "DF",
+   "POR"
+  ],
+  [
+   23,
+   "Wang Tianyou",
+   "DF",
+   "CHN"
+  ],
+  [
+   26,
+   "Zhao Guancheng",
+   "MF",
+   "CHN"
+  ],
+  [
+   27,
+   "Bao Kaiwen",
+   "MF",
+   "CHN"
+  ],
+  [
+   28,
+   "Mewlan Mijit",
+   "MF",
+   "CHN"
+  ],
+  [
+   29,
+   "Chen Pu",
+   "FW",
+   "CHN"
+  ],
+  [
+   29,
+   "Ma Yinhao",
+   "MF",
+   "CHN"
+  ],
+  [
+   30,
+   "Xiao Chenxi",
+   "MF",
+   "CHN"
+  ],
+  [
+   32,
+   "Sun Qihang",
+   "GK",
+   "CHN"
+  ],
+  [
+   33,
+   "Gao Zhunyi",
+   "DF",
+   "CHN"
+  ],
+  [
+   34,
+   "Yin Jiaxi",
+   "MF",
+   "CHN"
+  ],
+  [
+   35,
+   "Huang Yizhou",
+   "DF",
+   "CHN"
+  ],
+  [
+   35,
+   "Huang Zhengyu",
+   "DF",
+   "CHN"
+  ],
+  [
+   36,
+   "Liu Qiwei",
+   "GK",
+   "CHN"
+  ],
+  [
+   37,
+   "Chen Zeshi",
+   "MF",
+   "CHN"
+  ],
+  [
+   38,
+   "Imran Memet",
+   "MF",
+   "CHN"
+  ],
+  [
+   40,
+   "Mei Shuaijun",
+   "FW",
+   "CHN"
+  ],
+  [
+   41,
+   "Lu Junwei",
+   "FW",
+   "CHN"
+  ],
+  [
+   42,
+   "Peng Yixiang",
+   "FW",
+   "CHN"
+  ],
+  [
+   43,
+   "Wang Yuxuan",
+   "FW",
+   "CHN"
+  ],
+  [
+   44,
+   "Qi Qiancheng",
+   "DF",
+   "CHN"
+  ]
+ ],
+ "Tianjin": [
+  [
+   3,
+   "Wang Zhenghao",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Yang Fan (footballer, born 1996)",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Wang Xianjun",
+   "DF",
+   "CHN"
+  ],
+  [
+   7,
+   "Guilherme Schettine",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Xadas",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Alberto Quiles",
+   "FW",
+   "ESP"
+  ],
+  [
+   10,
+   "Cristian Salvador",
+   "FW",
+   "ESP"
+  ],
+  [
+   11,
+   "Xie Weijun",
+   "FW",
+   "CHN"
+  ],
+  [
+   14,
+   "Huang Jiahui",
+   "MF",
+   "CHN"
+  ],
+  [
+   16,
+   "Liu Shuai",
+   "MF",
+   "CHN"
+  ],
+  [
+   17,
+   "Wu Xinghan",
+   "MF",
+   "CHN"
+  ],
+  [
+   18,
+   "Aitor Córdoba",
+   "DF",
+   "ESP"
+  ],
+  [
+   19,
+   "Liu Junxian",
+   "FW",
+   "CHN"
+  ],
+  [
+   20,
+   "Ji Shengpan",
+   "FW",
+   "CHN"
+  ],
+  [
+   21,
+   "Qi Yuxi",
+   "GK",
+   "CHN"
+  ],
+  [
+   22,
+   "Li Yongjia",
+   "MF",
+   "CHN"
+  ],
+  [
+   24,
+   "Chen Zhexuan",
+   "DF",
+   "CHN"
+  ],
+  [
+   25,
+   "Yan Bingliang (footballer)",
+   "GK",
+   "CHN"
+  ],
+  [
+   26,
+   "Zhang Haoran",
+   "GK",
+   "CHN"
+  ],
+  [
+   28,
+   "Guo Hao",
+   "MF",
+   "CHN"
+  ],
+  [
+   29,
+   "Ba Dun",
+   "FW",
+   "CHN"
+  ],
+  [
+   30,
+   "Wang Qiuming",
+   "MF",
+   "CHN"
+  ],
+  [
+   31,
+   "Sun Ming Him",
+   "MF",
+   "HKG"
+  ],
+  [
+   33,
+   "Naibo Ninglin",
+   "MF",
+   "CHN"
+  ],
+  [
+   38,
+   "Li Shuaiqi",
+   "DF",
+   "CHN"
+  ],
+  [
+   39,
+   "Cai Chengjun",
+   "DF",
+   "CHN"
+  ],
+  [
+   40,
+   "Shi Yan (footballer)",
+   "MF",
+   "CHN"
+  ]
+ ],
+ "Zhejiang": [
+  [
+   1,
+   "Dong Chunyu",
+   "GK",
+   "CHN"
+  ],
+  [
+   3,
+   "Wang Yang (footballer, born 1993)",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Park Jin-seob (footballer, born 1995)",
+   "DF",
+   "KOR"
+  ],
+  [
+   5,
+   "Liu Haofan",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Bao Shengxin",
+   "MF",
+   "CHN"
+  ],
+  [
+   7,
+   "Tao Qianglong",
+   "FW",
+   "CHN"
+  ],
+  [
+   8,
+   "Alexander N'Doumbou",
+   "MF",
+   "GAB"
+  ],
+  [
+   9,
+   "Gao Di (footballer)",
+   "FW",
+   "CHN"
+  ],
+  [
+   10,
+   "Marko Tolić",
+   "MF",
+   "CRO"
+  ],
+  [
+   11,
+   "Wang Yudong",
+   "FW",
+   "CHN"
+  ],
+  [
+   13,
+   "Ma Haoqi",
+   "FW",
+   "CHN"
+  ],
+  [
+   14,
+   "Wu Wei (footballer, born 1997)",
+   "MF",
+   "CHN"
+  ],
+  [
+   16,
+   "Tong Lei",
+   "DF",
+   "CHN"
+  ],
+  [
+   17,
+   "Wang Shiqin",
+   "DF",
+   "CHN"
+  ],
+  [
+   18,
+   "Fang Hao",
+   "FW",
+   "CHN"
+  ],
+  [
+   20,
+   "Ning Fangze",
+   "FW",
+   "CHN"
+  ],
+  [
+   21,
+   "Qian Yuanfan",
+   "MF",
+   "CHN"
+  ],
+  [
+   22,
+   "Cheng Jin",
+   "MF",
+   "CHN"
+  ],
+  [
+   24,
+   "Zhao Peicheng",
+   "GK",
+   "CHN"
+  ],
+  [
+   25,
+   "Xu Junchi",
+   "DF",
+   "CHN"
+  ],
+  [
+   26,
+   "Sun Guowen",
+   "DF",
+   "CHN"
+  ],
+  [
+   27,
+   "Felippe Cardoso",
+   "FW",
+   "BRA"
+  ],
+  [
+   28,
+   "Alexandru Mitriță",
+   "FW",
+   "ROU"
+  ],
+  [
+   29,
+   "Zhang Jiaqi (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   32,
+   "Huo Shenping",
+   "GK",
+   "CHN"
+  ],
+  [
+   33,
+   "Zhao Bo",
+   "GK",
+   "CHN"
+  ],
+  [
+   34,
+   "Wang Pengbo",
+   "DF",
+   "CHN"
+  ],
+  [
+   36,
+   "Lucas Possignolo",
+   "DF",
+   "BRA"
+  ],
+  [
+   38,
+   "Zhang Aihui",
+   "DF",
+   "CHN"
+  ],
+  [
+   40,
+   "Zhou Wentao",
+   "FW",
+   "CHN"
+  ],
+  [
+   41,
+   "Jiang Yuxuan",
+   "MF",
+   "CHN"
+  ]
+ ],
+ "Yunnan": [
+  [
+   1,
+   "Bao Yaxiong",
+   "GK",
+   "CHN"
+  ],
+  [
+   2,
+   "Hu Ruibao",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "Tsui Wang Kit",
+   "DF",
+   "HKG"
+  ],
+  [
+   5,
+   "Shi Ke",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Zhao Yuhao",
+   "MF",
+   "CHN"
+  ],
+  [
+   7,
+   "Ye Chugui",
+   "MF",
+   "CHN"
+  ],
+  [
+   8,
+   "Xu Xin (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   9,
+   "Cléber (footballer, born 1996)",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Alexandru Ioniță (footballer, born 1994)",
+   "MF",
+   "ROU"
+  ],
+  [
+   11,
+   "Oscar Maritu",
+   "FW",
+   "COD"
+  ],
+  [
+   13,
+   "Qiu Shengjun",
+   "GK",
+   "CHN"
+  ],
+  [
+   14,
+   "Wang Xinghao",
+   "GK",
+   "CHN"
+  ],
+  [
+   16,
+   "Zhang Xiangshuo",
+   "DF",
+   "CHN"
+  ],
+  [
+   17,
+   "Sun Xuelong",
+   "MF",
+   "CHN"
+  ],
+  [
+   18,
+   "Yi Teng",
+   "DF",
+   "CHN"
+  ],
+  [
+   19,
+   "Huang Zichang",
+   "FW",
+   "CHN"
+  ],
+  [
+   21,
+   "Zhang Zihao",
+   "DF",
+   "CHN"
+  ],
+  [
+   22,
+   "Duan Liuyu",
+   "GK",
+   "CHN"
+  ],
+  [
+   23,
+   "Wang Zhifeng",
+   "GK",
+   "CHN"
+  ],
+  [
+   24,
+   "Yu Jianxian",
+   "GK",
+   "CHN"
+  ],
+  [
+   25,
+   "Deng Hanwen",
+   "DF",
+   "CHN"
+  ],
+  [
+   26,
+   "Zhang Chenliang",
+   "DF",
+   "CHN"
+  ],
+  [
+   27,
+   "Han Zilong",
+   "FW",
+   "CHN"
+  ],
+  [
+   30,
+   "John Hou Sæter",
+   "MF",
+   "NOR"
+  ],
+  [
+   33,
+   "Andrei Burcă",
+   "DF",
+   "ROU"
+  ],
+  [
+   34,
+   "Caio Vinícius",
+   "MF",
+   "BRA"
+  ],
+  [
+   35,
+   "Cui Qi (footballer, born 1997)",
+   "DF",
+   "CHN"
+  ],
+  [
+   36,
+   "Fei Ernanduo",
+   "FW",
+   "CHN"
+  ],
+  [
+   39,
+   "Bunyamin Abdusalam",
+   "MF",
+   "CHN"
+  ]
+ ],
+ "WestCoast": [
+  [
+   2,
+   "Bruno Viana",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Zhao Honglüe",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Elnizar Lohman",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Samir Memišević",
+   "DF",
+   "BIH"
+  ],
+  [
+   6,
+   "Jin Shiming",
+   "MF",
+   "CHN"
+  ],
+  [
+   8,
+   "Zhang Xiuwei",
+   "MF",
+   "CHN"
+  ],
+  [
+   9,
+   "Abdul-Aziz Yakubu",
+   "FW",
+   "GHA"
+  ],
+  [
+   10,
+   "Nelson da Luz",
+   "FW",
+   "ANG"
+  ],
+  [
+   11,
+   "Davidson (footballer)",
+   "FW",
+   "BRA"
+  ],
+  [
+   15,
+   "Wang Peng (footballer, born 1993)",
+   "DF",
+   "CHN"
+  ],
+  [
+   16,
+   "Li Hao (footballer, born 2004)",
+   "GK",
+   "CHN"
+  ],
+  [
+   18,
+   "Barak Braunshtain",
+   "MF",
+   "HKG"
+  ],
+  [
+   19,
+   "Dong Yu (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   20,
+   "He Longhai",
+   "MF",
+   "CHN"
+  ],
+  [
+   21,
+   "Meng Jingchao",
+   "MF",
+   "CHN"
+  ],
+  [
+   22,
+   "Wang Gengrui",
+   "MF",
+   "CHN"
+  ],
+  [
+   25,
+   "Peng Xinli",
+   "MF",
+   "CHN"
+  ],
+  [
+   26,
+   "Liu Shibo",
+   "GK",
+   "CHN"
+  ],
+  [
+   27,
+   "Afrden Asqer",
+   "FW",
+   "CHN"
+  ],
+  [
+   28,
+   "Zhang Chengdong",
+   "DF",
+   "CHN"
+  ],
+  [
+   29,
+   "Jia Weiwei",
+   "FW",
+   "CHN"
+  ],
+  [
+   30,
+   "Yang Zhanpeng",
+   "MF",
+   "CHN"
+  ],
+  [
+   31,
+   "Alexander Xie",
+   "MF",
+   "CHN"
+  ],
+  [
+   32,
+   "Ding Haifeng",
+   "DF",
+   "CHN"
+  ],
+  [
+   33,
+   "Liu Zhicheng",
+   "DF",
+   "CHN"
+  ],
+  [
+   35,
+   "Nan Song (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   36,
+   "Sun Jie (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   37,
+   "Dong Hang",
+   "GK",
+   "CHN"
+  ]
+ ],
+ "Henan": [
+  [
+   2,
+   "Iago Maidana",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Oliver Gerbig",
+   "DF",
+   "HKG"
+  ],
+  [
+   4,
+   "Yeljan Shinar",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Liu Jiahui (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   6,
+   "Wang Shangyuan",
+   "DF",
+   "CHN"
+  ],
+  [
+   7,
+   "Zhong Yihao",
+   "MF",
+   "CHN"
+  ],
+  [
+   8,
+   "Maranhão",
+   "FW",
+   "BRA"
+  ],
+  [
+   9,
+   "Gustavo (footballer, born 1994)",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Bruno Nazário",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Nebijan Muhmet",
+   "DF",
+   "CHN"
+  ],
+  [
+   13,
+   "Abdurasul Abudulam",
+   "MF",
+   "CHN"
+  ],
+  [
+   15,
+   "Ablahan Haliq",
+   "MF",
+   "CHN"
+  ],
+  [
+   16,
+   "Yang Kuo",
+   "MF",
+   "CHN"
+  ],
+  [
+   17,
+   "Wang Jinshuai",
+   "GK",
+   "CHN"
+  ],
+  [
+   18,
+   "Wang Guoming",
+   "GK",
+   "CHN"
+  ],
+  [
+   21,
+   "He Chao (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   22,
+   "Huang Ruifeng",
+   "MF",
+   "CHN"
+  ],
+  [
+   23,
+   "Lucas Maia",
+   "DF",
+   "BRA"
+  ],
+  [
+   24,
+   "Yin Congyao",
+   "MF",
+   "CHN"
+  ],
+  [
+   25,
+   "Yang Yilin (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   26,
+   "Xu Jiamin",
+   "GK",
+   "CHN"
+  ],
+  [
+   27,
+   "Liu Yixin",
+   "DF",
+   "CHN"
+  ],
+  [
+   28,
+   "Du Changjie",
+   "MF",
+   "CHN"
+  ],
+  [
+   29,
+   "Zheng Dalun",
+   "MF",
+   "CHN"
+  ],
+  [
+   30,
+   "Fan Xulin",
+   "MF",
+   "CHN"
+  ],
+  [
+   33,
+   "Shi Chenglong",
+   "GK",
+   "CHN"
+  ],
+  [
+   39,
+   "Ekber Osman",
+   "MF",
+   "CHN"
+  ],
+  [
+   40,
+   "Zhai Mingwang",
+   "GK",
+   "CHN"
+  ],
+  [
+   41,
+   "Wang Chaohui",
+   "GK",
+   "CHN"
+  ],
+  [
+   45,
+   "Chen Hanyang",
+   "MF",
+   "CHN"
+  ]
+ ],
+ "Dalian": [
+  [
+   1,
+   "Ge Peng",
+   "GK",
+   "CHN"
+  ],
+  [
+   2,
+   "Mamadou Traoré (footballer, born 1994)",
+   "DF",
+   "MLI"
+  ],
+  [
+   4,
+   "Isnik Alimi",
+   "MF",
+   "MKD"
+  ],
+  [
+   5,
+   "Peng Shunjie",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Song Yue",
+   "DF",
+   "CHN"
+  ],
+  [
+   7,
+   "Luo Jing (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   7,
+   "Piao Zhixun",
+   "MF",
+   "CHN"
+  ],
+  [
+   8,
+   "Zhang Huachen",
+   "FW",
+   "CHN"
+  ],
+  [
+   8,
+   "Zhang Shuai",
+   "FW",
+   "CHN"
+  ],
+  [
+   9,
+   "Pedro Delgado (footballer, born 1997)",
+   "MF",
+   "POR"
+  ],
+  [
+   9,
+   "Wang Shengbo",
+   "FW",
+   "CHN"
+  ],
+  [
+   10,
+   "Muzapar Obuqasym",
+   "MF",
+   "CHN"
+  ],
+  [
+   10,
+   "Nicolae Stanciu (footballer, born 1993)",
+   "MF",
+   "ROU"
+  ],
+  [
+   11,
+   "Cephas Malele",
+   "FW",
+   "CHE"
+  ],
+  [
+   11,
+   "Mao Wuda",
+   "MF",
+   "CHN"
+  ],
+  [
+   12,
+   "Feng Boxuan",
+   "MF",
+   "CHN"
+  ],
+  [
+   12,
+   "Nie Xin",
+   "DF",
+   "CHN"
+  ],
+  [
+   15,
+   "Wen Jiabao (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   16,
+   "Zhu Pengyu",
+   "FW",
+   "CHN"
+  ],
+  [
+   17,
+   "Zhu Yanpeng",
+   "MF",
+   "CHN"
+  ],
+  [
+   18,
+   "Wang Zhenghao",
+   "MF",
+   "CHN"
+  ],
+  [
+   19,
+   "Xiao Zhiren",
+   "GK",
+   "CHN"
+  ],
+  [
+   20,
+   "Liu Weiguo",
+   "GK",
+   "CHN"
+  ],
+  [
+   21,
+   "Lü Peng (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   22,
+   "Mao Weijie",
+   "MF",
+   "CHN"
+  ],
+  [
+   23,
+   "Huang Shan",
+   "MF",
+   "CHN"
+  ],
+  [
+   24,
+   "Bi Jinhao",
+   "DF",
+   "CHN"
+  ],
+  [
+   25,
+   "Liu Jincheng",
+   "MF",
+   "CHN"
+  ],
+  [
+   26,
+   "Huang Zihao",
+   "GK",
+   "CHN"
+  ],
+  [
+   27,
+   "Yang Mingrui",
+   "DF",
+   "CHN"
+  ],
+  [
+   28,
+   "Sun Kangbo",
+   "MF",
+   "CHN"
+  ],
+  [
+   29,
+   "Jing Kuanjie",
+   "MF",
+   "CHN"
+  ],
+  [
+   30,
+   "Frank Acheampong",
+   "FW",
+   "GHA"
+  ],
+  [
+   31,
+   "Ding Xiangrui",
+   "GK",
+   "CHN"
+  ],
+  [
+   32,
+   "Wang Xiaofeng",
+   "GK",
+   "CHN"
+  ],
+  [
+   33,
+   "Cao Haiqing",
+   "DF",
+   "CHN"
+  ],
+  [
+   34,
+   "Mo Weihao",
+   "DF",
+   "CHN"
+  ],
+  [
+   35,
+   "Zhang Tao",
+   "DF",
+   "CHN"
+  ],
+  [
+   36,
+   "Lin Shangyuan",
+   "MF",
+   "CHN"
+  ],
+  [
+   37,
+   "Zhang Chengrui",
+   "DF",
+   "CHN"
+  ],
+  [
+   38,
+   "Lü Zhuoyi",
+   "MF",
+   "CHN"
+  ],
+  [
+   39,
+   "Ma Mingwei",
+   "FW",
+   "CHN"
+  ],
+  [
+   40,
+   "Hu Mingyu",
+   "FW",
+   "CHN"
+  ],
+  [
+   40,
+   "Liao Jintao",
+   "MF",
+   "CHN"
+  ],
+  [
+   44,
+   "Feng Jin",
+   "FW",
+   "CHN"
+  ],
+  [
+   44,
+   "Tursun Memet",
+   "FW",
+   "CHN"
+  ],
+  [
+   45,
+   "Liu Yi (footballer, born 1997)",
+   "MF",
+   "CHN"
+  ]
+ ],
+ "PengCity": [
+  [
+   1,
+   "Ji Jiabao",
+   "GK",
+   "CHN"
+  ],
+  [
+   2,
+   "Tian Yifan",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "Gabriel Xavier (footballer, born 2001)",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Jiang Zhipeng",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Yao Junsheng",
+   "MF",
+   "CHN"
+  ],
+  [
+   7,
+   "Wesley (footballer, born November 1996)",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Tim Chow",
+   "MF",
+   "TPE"
+  ],
+  [
+   10,
+   "Dai Wai Tsun",
+   "MF",
+   "CHN"
+  ],
+  [
+   11,
+   "Albion Ademi",
+   "MF",
+   "ALB"
+  ],
+  [
+   13,
+   "Peng Peng",
+   "GK",
+   "CHN"
+  ],
+  [
+   14,
+   "Li Long (footballer)",
+   "FW",
+   "CHN"
+  ],
+  [
+   15,
+   "Yu Rui (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   16,
+   "Tang Miao (footballer, born October 1990)",
+   "DF",
+   "CHN"
+  ],
+  [
+   17,
+   "Li Ning (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   19,
+   "Zhang Yufeng (footballer)",
+   "MF",
+   "CHN"
+  ],
+  [
+   20,
+   "Xuan Zhijian",
+   "DF",
+   "CHN"
+  ],
+  [
+   23,
+   "Yang Yiming",
+   "DF",
+   "CHN"
+  ],
+  [
+   25,
+   "Zhao Jianfei",
+   "DF",
+   "CHN"
+  ],
+  [
+   29,
+   "Xia Dalong",
+   "FW",
+   "CHN"
+  ],
+  [
+   31,
+   "Deabeas Owusu-Sekyere",
+   "FW",
+   "NED"
+  ],
+  [
+   35,
+   "Wei Minzhe",
+   "GK",
+   "CHN"
+  ],
+  [
+   36,
+   "Eden Kartsev",
+   "MF",
+   "ISR"
+  ],
+  [
+   39,
+   "Yu Menghui",
+   "MF",
+   "CHN"
+  ]
+ ],
+ "Wuhan": [
+  [
+   1,
+   "He Jianqiu",
+   "GK",
+   "CHN"
+  ],
+  [
+   2,
+   "He Guan",
+   "DF",
+   "CHN"
+  ],
+  [
+   3,
+   "Jiang Weilang",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Xu Haofeng",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Zikrulla Memetimin",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Li Shenyuan",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Long Wei",
+   "MF",
+   "CHN"
+  ],
+  [
+   6,
+   "Yang Fan",
+   "MF",
+   "CHN"
+  ],
+  [
+   7,
+   "Gustavo Sauer",
+   "MF",
+   "BRA"
+  ],
+  [
+   7,
+   "Tan Jiaye",
+   "FW",
+   "CHN"
+  ],
+  [
+   8,
+   "He Xinjie",
+   "MF",
+   "CHN"
+  ],
+  [
+   8,
+   "Wang Jinxian",
+   "MF",
+   "CHN"
+  ],
+  [
+   9,
+   "Liu Yiheng",
+   "FW",
+   "CHN"
+  ],
+  [
+   9,
+   "Zheng Haoqian",
+   "FW",
+   "CHN"
+  ],
+  [
+   10,
+   "Gao Yunan",
+   "MF",
+   "CHN"
+  ],
+  [
+   10,
+   "Kilian Bevis",
+   "FW",
+   "GLP"
+  ],
+  [
+   11,
+   "Li Ang (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   11,
+   "Wu Junhao",
+   "MF",
+   "CHN"
+  ],
+  [
+   12,
+   "He Sifan",
+   "FW",
+   "CHN"
+  ],
+  [
+   12,
+   "Liao Chengjian",
+   "DF",
+   "CHN"
+  ],
+  [
+   13,
+   "Zheng Kaimu",
+   "MF",
+   "CHN"
+  ],
+  [
+   14,
+   "Song Ziqi",
+   "DF",
+   "CHN"
+  ],
+  [
+   15,
+   "Chen Zhechao",
+   "DF",
+   "CHN"
+  ],
+  [
+   16,
+   "Min Zixi",
+   "MF",
+   "CHN"
+  ],
+  [
+   17,
+   "Halit Abdugheni",
+   "MF",
+   "CHN"
+  ],
+  [
+   18,
+   "Wu Chenfei",
+   "MF",
+   "CHN"
+  ],
+  [
+   18,
+   "Zhang Xiaobin (footballer, born 1993)",
+   "MF",
+   "CHN"
+  ],
+  [
+   19,
+   "Liu Yiming (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   19,
+   "Zhao Ziye",
+   "FW",
+   "CHN"
+  ],
+  [
+   20,
+   "Adriano (footballer, born November 1999)",
+   "MF",
+   "BRA"
+  ],
+  [
+   21,
+   "Xiong Jizheng",
+   "MF",
+   "CHN"
+  ],
+  [
+   22,
+   "Fang Jingqi",
+   "GK",
+   "CHN"
+  ],
+  [
+   24,
+   "Jiang Lixun",
+   "FW",
+   "CHN"
+  ],
+  [
+   25,
+   "He Jincheng",
+   "DF",
+   "CHN"
+  ],
+  [
+   25,
+   "Ming Tian",
+   "DF",
+   "CHN"
+  ],
+  [
+   26,
+   "Ruan Jingyang",
+   "DF",
+   "CHN"
+  ],
+  [
+   27,
+   "Xia Zihao",
+   "MF",
+   "CHN"
+  ],
+  [
+   28,
+   "Denny Wang",
+   "DF",
+   "ITA"
+  ],
+  [
+   29,
+   "Jhonder Cádiz",
+   "FW",
+   "VEN"
+  ],
+  [
+   29,
+   "Zhang Xinyu",
+   "DF",
+   "CHN"
+  ],
+  [
+   30,
+   "Yu Tanbo",
+   "MF",
+   "CHN"
+  ],
+  [
+   30,
+   "Zhong Jinbao",
+   "MF",
+   "CHN"
+  ],
+  [
+   31,
+   "Guo Jiayu",
+   "GK",
+   "CHN"
+  ],
+  [
+   32,
+   "Xu Jiayi",
+   "DF",
+   "CHN"
+  ],
+  [
+   33,
+   "Liu Binbin",
+   "MF",
+   "CHN"
+  ],
+  [
+   33,
+   "Zhang Peixiong",
+   "DF",
+   "CHN"
+  ],
+  [
+   34,
+   "Ruan Jingwei",
+   "DF",
+   "CHN"
+  ],
+  [
+   35,
+   "Yu Tianle",
+   "DF",
+   "CHN"
+  ],
+  [
+   36,
+   "Zheng Yiran",
+   "GK",
+   "CHN"
+  ],
+  [
+   37,
+   "Wang Kang",
+   "DF",
+   "CHN"
+  ],
+  [
+   37,
+   "Wang Kang (footballer, born 2006)",
+   "FW",
+   "CHN"
+  ],
+  [
+   39,
+   "Lu Rongte",
+   "GK",
+   "CHN"
+  ],
+  [
+   41,
+   "Li Xingchen",
+   "MF",
+   "CHN"
+  ],
+  [
+   43,
+   "Zhang Tao",
+   "DF",
+   "CHN"
+  ],
+  [
+   45,
+   "Wu Haonan",
+   "DF",
+   "CHN"
+  ]
+ ],
+ "Hainiu": [
+  [
+   1,
+   "Liu Jun",
+   "GK",
+   "CHN"
+  ],
+  [
+   3,
+   "Liu Junshuai",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Jin Yangyang",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Mustapa Tash",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Malcom Edjouma",
+   "MF",
+   "MAR"
+  ],
+  [
+   7,
+   "Yaw Yeboah",
+   "FW",
+   "GHA"
+  ],
+  [
+   8,
+   "Lin Chuangyi",
+   "MF",
+   "CHN"
+  ],
+  [
+   9,
+   "Liu Xinyu (footballer, born 1991)",
+   "FW",
+   "CHN"
+  ],
+  [
+   10,
+   "Carlos Strandberg",
+   "FW",
+   "SWE"
+  ],
+  [
+   14,
+   "Sun Zheng'ao",
+   "DF",
+   "CHN"
+  ],
+  [
+   16,
+   "Li Hailong",
+   "DF",
+   "CHN"
+  ],
+  [
+   17,
+   "Wang Qiao (footballer)",
+   "DF",
+   "CHN"
+  ],
+  [
+   19,
+   "Song Wenjie",
+   "FW",
+   "CHN"
+  ],
+  [
+   20,
+   "Gong Ruicong",
+   "DF",
+   "CHN"
+  ],
+  [
+   21,
+   "Liu Guobao",
+   "FW",
+   "CHN"
+  ],
+  [
+   22,
+   "Yang Cong",
+   "FW",
+   "CHN"
+  ],
+  [
+   23,
+   "Song Long",
+   "DF",
+   "CHN"
+  ],
+  [
+   24,
+   "Ngan Cheuk Pan",
+   "MF",
+   "HKG"
+  ],
+  [
+   26,
+   "Nemanja Anđelković",
+   "DF",
+   "SRB"
+  ],
+  [
+   27,
+   "Kuang Zhaolei",
+   "FW",
+   "CHN"
+  ],
+  [
+   28,
+   "Mu Pengfei",
+   "GK",
+   "CHN"
+  ],
+  [
+   29,
+   "Li Suda",
+   "DF",
+   "CHN"
+  ],
+  [
+   30,
+   "Che Shiwei",
+   "MF",
+   "CHN"
+  ],
+  [
+   31,
+   "Luo Senwen",
+   "MF",
+   "CHN"
+  ],
+  [
+   32,
+   "Lazar Tufegdžić",
+   "MF",
+   "SER"
+  ],
+  [
+   33,
+   "Liu Jiashen",
+   "DF",
+   "CHN"
+  ],
+  [
+   34,
+   "Jin Yonghao",
+   "MF",
+   "CHN"
+  ],
+  [
+   37,
+   "Wei Zixian",
+   "DF",
+   "CHN"
+  ],
+  [
+   39,
+   "Li Sirong",
+   "DF",
+   "CHN"
+  ],
+  [
+   43,
+   "Mewlan Jappar",
+   "GK",
+   "CHN"
+  ]
+ ],
+ "Liaoning": [
+  [
+   3,
+   "Pan Ximing",
+   "DF",
+   "CHN"
+  ],
+  [
+   5,
+   "Dilmurat Mawlanyaz",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Pavle Vagić",
+   "DF",
+   "SWE"
+  ],
+  [
+   7,
+   "Ange Kouamé",
+   "FW",
+   "TPE"
+  ],
+  [
+   8,
+   "Yan Dinghao",
+   "MF",
+   "CHN"
+  ],
+  [
+   9,
+   "Guy Mbenza",
+   "FW",
+   "CGO"
+  ],
+  [
+   10,
+   "Takahiro Kunimoto",
+   "FW",
+   "JPN"
+  ],
+  [
+   11,
+   "Chen Binbin",
+   "FW",
+   "CHN"
+  ],
+  [
+   13,
+   "Jie Jintian",
+   "GK",
+   "CHN"
+  ],
+  [
+   14,
+   "Zang Yifeng",
+   "FW",
+   "CHN"
+  ],
+  [
+   15,
+   "Felipe (footballer, born 1994)",
+   "DF",
+   "BRA"
+  ],
+  [
+   16,
+   "Wang Tianai",
+   "GK",
+   "CHN"
+  ],
+  [
+   17,
+   "Tian Yuda",
+   "FW",
+   "CHN"
+  ],
+  [
+   18,
+   "Li Tixiang",
+   "MF",
+   "CHN"
+  ],
+  [
+   19,
+   "Wu Mingyu",
+   "DF",
+   "CHN"
+  ],
+  [
+   21,
+   "Han Rongze",
+   "GK",
+   "CHN"
+  ],
+  [
+   22,
+   "Liu Guobo",
+   "GK",
+   "CHN"
+  ],
+  [
+   26,
+   "Yuan Mincheng",
+   "DF",
+   "CHN"
+  ],
+  [
+   27,
+   "Gao Jiarun",
+   "DF",
+   "CHN"
+  ],
+  [
+   28,
+   "Xu Dong",
+   "DF",
+   "CHN"
+  ],
+  [
+   29,
+   "Zhang Yan (footballer, born 1997)",
+   "GK",
+   "CHN"
+  ],
+  [
+   30,
+   "Pang Shenghan",
+   "DF",
+   "CHN"
+  ],
+  [
+   33,
+   "Tian Yinong",
+   "MF",
+   "CHN"
+  ],
+  [
+   34,
+   "Zhang Hongfu",
+   "DF",
+   "CHN"
+  ],
+  [
+   35,
+   "Li Haoran",
+   "DF",
+   "CHN"
+  ],
+  [
+   36,
+   "Tian De'ao",
+   "DF",
+   "CHN"
+  ],
+  [
+   37,
+   "Zheng Jiacheng",
+   "MF",
+   "BEL"
+  ],
+  [
+   39,
+   "Li Shiqi",
+   "DF",
+   "CHN"
+  ]
+ ],
+ "Chongqing": [
+  [
+   1,
+   "Yao Haoyang",
+   "GK",
+   "CHN"
+  ],
+  [
+   3,
+   "Zhang Yingkai",
+   "DF",
+   "CHN"
+  ],
+  [
+   4,
+   "Yue Ruijie",
+   "DF",
+   "CHN"
+  ],
+  [
+   6,
+   "Jin Pengxiang",
+   "DF",
+   "CHN"
+  ],
+  [
+   7,
+   "Xiang Yuwang",
+   "FW",
+   "CHN"
+  ],
+  [
+   8,
+   "Li Zhenquan",
+   "MF",
+   "CHN"
+  ],
+  [
+   9,
+   "Alexandru Cîmpanu",
+   "FW",
+   "ROU"
+  ],
+  [
+   10,
+   "Ibrahim Amadou",
+   "MF",
+   "FRA"
+  ],
+  [
+   11,
+   "Landry Dimata",
+   "FW",
+   "BEL"
+  ],
+  [
+   15,
+   "Chen Chunxin",
+   "MF",
+   "CHN"
+  ],
+  [
+   16,
+   "Zhang Zhixiong",
+   "MF",
+   "CHN"
+  ],
+  [
+   17,
+   "Ng Yu Hei",
+   "MF",
+   "HKG"
+  ],
+  [
+   18,
+   "Liang Weipeng",
+   "FW",
+   "CHN"
+  ],
+  [
+   19,
+   "Du Yuezheng",
+   "FW",
+   "CHN"
+  ],
+  [
+   21,
+   "Liu Jiale",
+   "MF",
+   "CHN"
+  ],
+  [
+   24,
+   "Liu Mingshi",
+   "DF",
+   "CHN"
+  ],
+  [
+   25,
+   "Yerjet Yerzat",
+   "GK",
+   "CHN"
+  ],
+  [
+   26,
+   "He Xiaoqiang",
+   "DF",
+   "CHN"
+  ],
+  [
+   27,
+   "Wu Yongqiang",
+   "MF",
+   "CHN"
+  ],
+  [
+   30,
+   "Bai Yutao",
+   "MF",
+   "CHN"
+  ],
+  [
+   31,
+   "Wu Zitong",
+   "GK",
+   "CHN"
+  ],
+  [
+   32,
+   "Michael Ngadeu-Ngadjui",
+   "DF",
+   "CMR"
+  ],
+  [
+   33,
+   "Lucão (footballer, born 1996)",
+   "DF",
+   "BRA"
+  ],
+  [
+   37,
+   "Wei Suowei",
+   "DF",
+   "CHN"
+  ],
+  [
+   38,
+   "Ruan Qilong",
+   "DF",
+   "CHN"
+  ]
+ ]
+}

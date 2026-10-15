@@ -1,0 +1,614 @@
+{
+ "Argentina": {
+  "Boca": [
+   "Boca Juniors",
+   20151
+  ],
+  "River": [
+   "Club Atlético River Plate",
+   20152
+  ],
+  "Velez": [
+   "Club Atlético Vélez Sarsfield",
+   20153
+  ],
+  "Racing": [
+   "Racing Club de Avellaneda",
+   20154
+  ],
+  "SanLorenzo": [
+   "Club Atlético San Lorenzo de Almagro",
+   20155
+  ],
+  "Defensa": [
+   "Defensa y Justicia",
+   20156
+  ],
+  "Lanus": [
+   "Club Atlético Lanús",
+   20157
+  ],
+  "Argentinos": [
+   "Argentinos Juniors",
+   20158
+  ],
+  "RosarioCentral": [
+   "Rosario Central",
+   20159
+  ],
+  "Newells": [
+   "Newell's Old Boys",
+   20160
+  ],
+  "EstudiantesLP": [
+   "Estudiantes de La Plata",
+   20163
+  ],
+  "Sarmiento": [
+   "Club Atlético Sarmiento",
+   20164
+  ],
+  "UnionSF": [
+   "Club Atlético Unión",
+   20168
+  ],
+  "Huracan": [
+   "Club Atlético Huracán",
+   20166
+  ],
+  "GodoyCruz": [
+   "Godoy Cruz Antonio Tomba",
+   20171
+  ],
+  "Platense": [
+   "Club Atlético Platense",
+   20172
+  ],
+  "Banfield": [
+   "Club Atlético Banfield",
+   20173
+  ],
+  "CentralCórdoba": [
+   "Central Córdoba de Santiago del Estero",
+   20174
+  ],
+  "Tucuman": [
+   "Atlético Tucumán",
+   20176
+  ],
+  "Tigre": [
+   "Club Atlético Tigre",
+   20177
+  ],
+  "Barracas": [
+   "Barracas Central",
+   20448
+  ],
+  "Belgrano": [
+   "Club Atlético Belgrano",
+   20450
+  ],
+  "GimnasiaMendoza": [
+   "Gimnasia y Esgrima de Mendoza",
+   20452
+  ],
+  "Riestra": [
+   "Deportivo Riestra",
+   20455
+  ],
+  "Aldosivi": [
+   "Club Atlético Aldosivi",
+   20169
+  ],
+  "EstudiantesRC": [
+   "Estudiantes de Río Cuarto",
+   20454
+  ],
+  "Independiente": [
+   "Club Atlético Independiente",
+   20170
+  ],
+  "GimnasiaLP": [
+   "Club de Gimnasia y Esgrima La Plata",
+   20167
+  ]
+ },
+ "Mexico": {
+  "CruzAzul": [
+   "Cruz Azul",
+   20584
+  ],
+  "America": [
+   "Club América",
+   20595
+  ],
+  "UNAM": [
+   "Pumas UNAM",
+   20585
+  ],
+  "Guadalajara": [
+   "C.D. Guadalajara",
+   20447
+  ],
+  "Atlas": [
+   "Atlas F.C.",
+   20672
+  ],
+  "Monterrey": [
+   "C.F. Monterrey",
+   20439
+  ],
+  "Tigres": [
+   "Tigres UANL",
+   20441
+  ],
+  "Toluca": [
+   "Toluca FC",
+   20646
+  ],
+  "Pachuca": [
+   "C.F. Pachuca",
+   20644
+  ],
+  "Puebla": [
+   "Club Puebla",
+   20647
+  ],
+  "Juarez": [
+   "FC Juárez",
+   20649
+  ],
+  "Necaxa": [
+   "Club Necaxa",
+   20650
+  ],
+  "SantosLaguna": [
+   "Santos Laguna",
+   20586
+  ],
+  "Tijuana": [
+   "Club Tijuana",
+   20653
+  ],
+  "Queretaro": [
+   "Querétaro F.C.",
+   20655
+  ],
+  "SanLuis": [
+   "Atlético San Luis",
+   20651
+  ],
+  "Mazatlan": [
+   "Mazatlán F.C.",
+   20652
+  ]
+ },
+ "Saudi": {
+  "Hilal": [
+   "Al Hilal SFC",
+   20436
+  ],
+  "Nassr": [
+   "Al-Nassr FC",
+   20545
+  ],
+  "Ahli": [
+   "Al-Ahli Saudi FC",
+   20515
+  ],
+  "Ittihad": [
+   "Al-Ittihad Club (Jeddah)",
+   20546
+  ],
+  "Shabab": [
+   "Al Shabab Club",
+   20708
+  ],
+  "Riyadh": [
+   "Al-Riyadh SC",
+   20726
+  ],
+  "Taawoun": [
+   "Al Taawoun FC",
+   20709
+  ],
+  "Raed": [
+   "Al-Raed SC",
+   20714
+  ],
+  "Ettifaq": [
+   "Al-Ettifaq Club",
+   20712
+  ],
+  "Khaleej": [
+   "Al-Khaleej FC",
+   20721
+  ],
+  "Fateh": [
+   "Al Fateh SC",
+   20711
+  ],
+  "Abha": [
+   "Abha Club",
+   20717
+  ],
+  "Fayha": [
+   "Al-Fayha Club",
+   20713
+  ]
+ },
+ "Japan": {
+  "Shimizu": [
+   "Shimizu S-Pulse",
+   20885
+  ],
+  "Kashima": [
+   "Kashima Antlers",
+   20446
+  ],
+  "Mito": [
+   "Mito HollyHock",
+   20899
+  ],
+  "Urawa": [
+   "Urawa Red Diamonds",
+   20553
+  ],
+  "JEF": [
+   "JEF United Chiba",
+   20889
+  ],
+  "Kashiwa": [
+   "Kashiwa Reysol",
+   20532
+  ],
+  "FCTokyo": [
+   "FC Tokyo",
+   20780
+  ],
+  "Machida": [
+   "FC Machida Zelvia",
+   20882
+  ],
+  "Kawasaki": [
+   "Kawasaki Frontale",
+   20536
+  ],
+  "YokohamaFM": [
+   "Yokohama F. Marinos",
+   20776
+  ],
+  "Nagoya": [
+   "Nagoya Grampus",
+   20779
+  ],
+  "Kyoto": [
+   "Kyoto Sanga FC",
+   20782
+  ],
+  "Gamba": [
+   "Gamba Osaka",
+   20781
+  ],
+  "Cerezo": [
+   "Cerezo Osaka",
+   20539
+  ],
+  "Sanfrecce": [
+   "Sanfrecce Hiroshima",
+   20551
+  ],
+  "Okayama": [
+   "Fagiano Okayama",
+   20888
+  ],
+  "Avispa": [
+   "Avispa Fukuoka",
+   20783
+  ],
+  "Nagasaki": [
+   "V-Varen Nagasaki",
+   20887
+  ]
+ },
+ "K1": {
+  "Ulsan": [
+   "Ulsan HD FC",
+   20442
+  ],
+  "Jeonbuk": [
+   "Jeonbuk Hyundai Motors",
+   20530
+  ],
+  "Jeju": [
+   "Jeju SK FC",
+   20540
+  ],
+  "SuwonS": [
+   "Suwon Samsung Bluewings",
+   20541
+  ],
+  "Daegu": [
+   "Daegu FC",
+   20552
+  ],
+  "Pohang": [
+   "Pohang Steelers",
+   20789
+  ],
+  "Seoul": [
+   "FC Seoul",
+   20790
+  ],
+  "SuwonFC": [
+   "Suwon FC",
+   20792
+  ],
+  "Daejeon": [
+   "Daejeon Hana Citizen",
+   20793
+  ],
+  "Gangwon": [
+   "Gangwon FC",
+   20794
+  ],
+  "Gwangju": [
+   "Gwangju FC",
+   20795
+  ],
+  "Anyang": [
+   "FC Anyang",
+   30262
+  ]
+ },
+ "China": {
+  "Port": [
+   "Shanghai Port F.C.",
+   20534
+  ],
+  "Shenhua": [
+   "Shanghai Shenhua F.C.",
+   20543
+  ],
+  "Chengdu": [
+   "Chengdu Rongcheng F.C.",
+   40102
+  ],
+  "Guoan": [
+   "Beijing Guoan F.C.",
+   20554
+  ],
+  "Shandong": [
+   "Shandong Taishan F.C.",
+   20548
+  ],
+  "Tianjin": [
+   "Tianjin Jinmen Tiger F.C.",
+   20531
+  ],
+  "Zhejiang": [
+   "Zhejiang Professional F.C.",
+   20841
+  ],
+  "Yunnan": [
+   "Yunnan Yukun F.C.",
+   40103
+  ],
+  "WestCoast": [
+   "Qingdao West Coast F.C.",
+   40107
+  ],
+  "Henan": [
+   "Henan F.C.",
+   40106
+  ],
+  "Dalian": [
+   "Dalian Yingbo F.C.",
+   40104
+  ],
+  "PengCity": [
+   "Shenzhen Peng City F.C.",
+   40101
+  ],
+  "Wuhan": [
+   "Wuhan Three Towns F.C.",
+   20840
+  ],
+  "Hainiu": [
+   "Qingdao Hainiu F.C.",
+   40108
+  ],
+  "Liaoning": [
+   "Liaoning Tieren F.C.",
+   40100
+  ],
+  "Chongqing": [
+   "Chongqing Tonglianglong F.C.",
+   40105
+  ]
+ },
+ "MLS": {
+  "Atlanta": [
+   "Atlanta United FC",
+   20565
+  ],
+  "Austin": [
+   "Austin FC",
+   20570
+  ],
+  "Montreal": [
+   "CF Montréal",
+   20556
+  ],
+  "Charlotte": [
+   "Charlotte FC",
+   20563
+  ],
+  "Chicago": [
+   "Chicago Fire FC",
+   20566
+  ],
+  "Colorado": [
+   "Colorado Rapids",
+   20578
+  ],
+  "Columbus": [
+   "Columbus Crew",
+   20562
+  ],
+  "DC": [
+   "D.C. United",
+   20568
+  ],
+  "Cincinnati": [
+   "FC Cincinnati",
+   20559
+  ],
+  "Dallas": [
+   "FC Dallas",
+   20571
+  ],
+  "Houston": [
+   "Houston Dynamo FC",
+   20581
+  ],
+  "Miami": [
+   "Inter Miami CF",
+   20560
+  ],
+  "Galaxy": [
+   "LA Galaxy",
+   20569
+  ],
+  "LAFC": [
+   "Los Angeles FC",
+   20572
+  ],
+  "Nashville": [
+   "Nashville SC",
+   20573
+  ],
+  "NewEngland": [
+   "New England Revolution",
+   20564
+  ],
+  "NYCFC": [
+   "New York City FC",
+   20557
+  ],
+  "NYRB": [
+   "New York Red Bulls",
+   20558
+  ],
+  "Orlando": [
+   "Orlando City SC",
+   20561
+  ],
+  "Philadelphia": [
+   "Philadelphia Union",
+   20555
+  ],
+  "Portland": [
+   "Portland Timbers",
+   20576
+  ],
+  "SaltLake": [
+   "Real Salt Lake",
+   20575
+  ],
+  "SanDiego": [
+   "San Diego FC",
+   20745
+  ],
+  "SanJose": [
+   "San Jose Earthquakes",
+   20582
+  ],
+  "Seattle": [
+   "Seattle Sounders FC",
+   20579
+  ],
+  "KansasCity": [
+   "Sporting Kansas City",
+   20580
+  ],
+  "StLouis": [
+   "St. Louis City SC",
+   30441
+  ],
+  "Toronto": [
+   "Toronto FC",
+   20567
+  ],
+  "Vancouver": [
+   "Vancouver Whitecaps FC",
+   20577
+  ]
+ },
+ "Russia": {
+  "Zenit": [
+   "FC Zenit Saint Petersburg",
+   20196
+  ],
+  "CSKA": [
+   "PFC CSKA Moscow",
+   20197
+  ],
+  "Spartak": [
+   "FC Spartak Moscow",
+   20200
+  ],
+  "Lokomotiv": [
+   "FC Lokomotiv Moscow",
+   20199
+  ],
+  "Dynamo": [
+   "FC Dynamo Moscow",
+   20973
+  ],
+  "Rubin": [
+   "FC Rubin Kazan",
+   20967
+  ],
+  "Rostov": [
+   "FC Rostov",
+   20963
+  ],
+  "Akhmat": [
+   "FC Akhmat Grozny",
+   20965
+  ],
+  "Krylia": [
+   "PFC Krylia Sovetov Samara",
+   20962
+  ],
+  "Makhachkala": [
+   "FC Dynamo Makhachkala",
+   20981
+  ],
+  "Krasnodar": [
+   "FC Krasnodar",
+   20198
+  ],
+  "Fakel": [
+   "FC Fakel Voronezh",
+   20971
+  ],
+  "Orenburg": [
+   "FC Orenburg",
+   20966
+  ],
+  "Baltika": [
+   "FC Baltika Kaliningrad",
+   20970
+  ],
+  "Ural": [
+   "FC Ural Yekaterinburg",
+   20969
+  ],
+  "Rodina": [
+   "FC Rodina Moscow",
+   20991
+  ]
+ }
+}

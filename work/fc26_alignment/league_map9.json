@@ -1,0 +1,194 @@
+{
+ "DE2": {
+  "Hertha": [
+   "Hertha BSC",
+   20136
+  ],
+  "Bielefeld": [
+   "Arminia Bielefeld",
+   20143
+  ],
+  "Bochum": [
+   "VfL Bochum",
+   20142
+  ],
+  "Braunschweig": [
+   "Eintracht Braunschweig",
+   20341
+  ],
+  "Darmstadt": [
+   "SV Darmstadt 98",
+   20335
+  ],
+  "Dresden": [
+   "Dynamo Dresden",
+   20381
+  ],
+  "Furth": [
+   "SpVgg Greuther Fürth",
+   20146
+  ],
+  "Hannover": [
+   "Hannover 96",
+   20149
+  ],
+  "Heidenheim": [
+   "1. FC Heidenheim",
+   20332
+  ],
+  "Kaiserslautern": [
+   "1. FC Kaiserslautern",
+   20331
+  ],
+  "Karlsruhe": [
+   "Karlsruher SC",
+   20339
+  ],
+  "Kiel": [
+   "Holstein Kiel",
+   20336
+  ],
+  "Magdeburg": [
+   "1. FC Magdeburg",
+   20340
+  ],
+  "Nurnberg": [
+   "1. FC Nürnberg",
+   20150
+  ],
+  "StPauli": [
+   "FC St. Pauli",
+   20337
+  ],
+  "Wolfsburg": [
+   "VfL Wolfsburg",
+   20133
+  ]
+ },
+ "IT2": {
+  "Sudtirol": [
+   "FC Südtirol",
+   20354
+  ],
+  "Ascoli": [
+   "Ascoli Calcio 1898 FC",
+   20345
+  ],
+  "Benevento": [
+   "Benevento Calcio",
+   20093
+  ],
+  "Carrarese": [
+   "Carrarese Calcio 1908",
+   20411
+  ],
+  "Catanzaro": [
+   "US Catanzaro 1929",
+   20414
+  ],
+  "Cremonese": [
+   "US Cremonese",
+   20368
+  ],
+  "Empoli": [
+   "Empoli FC",
+   20090
+  ],
+  "Verona": [
+   "Hellas Verona FC",
+   20094
+  ],
+  "Modena": [
+   "Modena FC 2018",
+   20352
+  ],
+  "Palermo": [
+   "Palermo FC",
+   20343
+  ],
+  "Pisa": [
+   "Pisa SC",
+   20350
+  ],
+  "Sampdoria": [
+   "Sampdoria",
+   20095
+  ],
+  "Vicenza": [
+   "LR Vicenza",
+   20410
+  ]
+ },
+ "FR2": {
+  "Annecy": [
+   "FC Annecy",
+   20374
+  ],
+  "Clermont": [
+   "Clermont Foot",
+   20066
+  ],
+  "Dijon": [
+   "Dijon FCO",
+   20073
+  ],
+  "Dunkerque": [
+   "USL Dunkerque",
+   20416
+  ],
+  "Grenoble": [
+   "Grenoble Foot 38",
+   20360
+  ],
+  "Guingamp": [
+   "En Avant Guingamp",
+   20355
+  ],
+  "Laval": [
+   "Stade Lavallois",
+   20357
+  ],
+  "Metz": [
+   "FC Metz",
+   20068
+  ],
+  "Montpellier": [
+   "Montpellier HSC",
+   20056
+  ],
+  "Nancy": [
+   "AS Nancy Lorraine",
+   20419
+  ],
+  "Nantes": [
+   "FC Nantes",
+   20062
+  ],
+  "Pau": [
+   "Pau FC",
+   20364
+  ],
+  "Reims": [
+   "Stade de Reims",
+   20069
+  ],
+  "Rodez": [
+   "Rodez AF",
+   20366
+  ],
+  "SaintEtienne": [
+   "AS Saint-Étienne",
+   20054
+  ]
+ },
+ "ES2": {
+  "Tenerife": [
+   "CD Tenerife",
+   20308
+  ],
+  "Girona": [
+   "Girona FC",
+   20371
+  ]
+ }
+}

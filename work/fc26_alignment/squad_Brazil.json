@@ -1,0 +1,3208 @@
+{
+ "AtleticoPR": [
+  [
+   1,
+   "Mycael",
+   "GK",
+   "Brazil"
+  ],
+  [
+   2,
+   "Gilberto (footballer, born 2005)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   3,
+   "Léo Pelé",
+   "DF",
+   "Brazil"
+  ],
+  [
+   4,
+   "Arthur Dias",
+   "DF",
+   "Brazil"
+  ],
+  [
+   5,
+   "Felipinho (footballer, born 2001)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   6,
+   "Léo Derik",
+   "DF",
+   "Brazil"
+  ],
+  [
+   7,
+   "Stiven Mendoza",
+   "FW",
+   "Colombia"
+  ],
+  [
+   8,
+   "João Cruz (footballer, born 2006)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   9,
+   "Kevin Viveros",
+   "FW",
+   "Colombia"
+  ],
+  [
+   10,
+   "Bruno Zapelli",
+   "MF",
+   "Argentina"
+  ],
+  [
+   12,
+   "Gilberto (footballer, born 1993)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   14,
+   "Luiz Gustavo",
+   "MF",
+   "Brazil"
+  ],
+  [
+   16,
+   "Jadson (footballer, born 1993)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   17,
+   "Alejandro García (footballer, born 2001)",
+   "MF",
+   "Colombia"
+  ],
+  [
+   18,
+   "Kerwin Vargas",
+   "FW",
+   "Colombia"
+  ],
+  [
+   19,
+   "Jorge Rivaldo",
+   "FW",
+   "Colombia"
+  ],
+  [
+   21,
+   "Leozinho (footballer, born 1998)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   22,
+   "Carlos Terán",
+   "DF",
+   "Colombia"
+  ],
+  [
+   23,
+   "Santos (footballer, born 1990)",
+   "GK",
+   "Brazil"
+  ],
+  [
+   25,
+   "Dantas (footballer)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   26,
+   "Claudinho (footballer, born 2005)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   27,
+   "Juan Portilla",
+   "MF",
+   "Colombia"
+  ],
+  [
+   29,
+   "Gastón Benavídez",
+   "DF",
+   "Argentina"
+  ],
+  [
+   33,
+   "Juan Felipe Aguirre",
+   "DF",
+   "Colombia"
+  ],
+  [
+   36,
+   "Arthur Rodrigues Monteiro",
+   "DF",
+   "Brazil"
+  ],
+  [
+   37,
+   "Lucas Esquivel",
+   "DF",
+   "Argentina"
+  ],
+  [
+   41,
+   "Victor Vinicius Teodoro Ferraz",
+   "DF",
+   "Brazil"
+  ],
+  [
+   42,
+   "Matheus Soares Rocha",
+   "GK",
+   "Brazil"
+  ],
+  [
+   43,
+   "Kayke Ayrton dos Santos Evaristo",
+   "FW",
+   "Brazil"
+  ]
+ ],
+ "AtleticoMG": [
+  [
+   1,
+   "Gabriel Delfim",
+   "GK",
+   "Brazil"
+  ],
+  [
+   2,
+   "Natanael (footballer, born 2002)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   3,
+   "Léo Duarte",
+   "DF",
+   "Brazil"
+  ],
+  [
+   4,
+   "Ruan Tressoldi",
+   "DF",
+   "Brazil"
+  ],
+  [
+   5,
+   "Alexsander (footballer, born 2003)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   6,
+   "Renan Lodi",
+   "DF",
+   "Brazil"
+  ],
+  [
+   7,
+   "Fred (footballer, born 1993)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   8,
+   "Maycon (footballer, born 1997)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   9,
+   "Mateo Cassierra",
+   "FW",
+   "Colombia"
+  ],
+  [
+   10,
+   "Gustavo Scarpa",
+   "MF",
+   "Brazil"
+  ],
+  [
+   11,
+   "Bernard (footballer)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   13,
+   "Lyanco",
+   "DF",
+   "Brazil"
+  ],
+  [
+   14,
+   "Vitor Hugo (footballer, born 1991)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   15,
+   "Kevin Castaño",
+   "MF",
+   "Colombia"
+  ],
+  [
+   17,
+   "Igor Gomes",
+   "MF",
+   "Brazil"
+  ],
+  [
+   18,
+   "Thiago Borbas",
+   "FW",
+   "Uruguay"
+  ],
+  [
+   19,
+   "Reinier Jesus",
+   "MF",
+   "Brazil"
+  ],
+  [
+   21,
+   "Alan Franco (footballer, born 1998)",
+   "MF",
+   "Ecuador"
+  ],
+  [
+   22,
+   "Everson (footballer, born 1990)",
+   "GK",
+   "Brazil"
+  ],
+  [
+   23,
+   "Ángelo Preciado",
+   "DF",
+   "Ecuador"
+  ],
+  [
+   25,
+   "Tomás Pérez (footballer)",
+   "MF",
+   "Argentina"
+  ],
+  [
+   27,
+   "Alan Minda",
+   "FW",
+   "Ecuador"
+  ],
+  [
+   28,
+   "Tomás Cuello",
+   "FW",
+   "Argentina"
+  ],
+  [
+   29,
+   "Cauã Soares",
+   "FW",
+   "Brazil"
+  ],
+  [
+   30,
+   "Victor Hugo (footballer, born 11 May 2004)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   31,
+   "Robert Pinto Alves Assunção",
+   "GK",
+   "Brazil"
+  ],
+  [
+   32,
+   "Luís Gustavo de Oliveira Chaves",
+   "DF",
+   "Brazil"
+  ],
+  [
+   34,
+   "Samuel Lima",
+   "DF",
+   "Brazil"
+  ],
+  [
+   36,
+   "Kauã Pascini",
+   "DF",
+   "Brazil"
+  ],
+  [
+   38,
+   "Índio (footballer, born 2008)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   39,
+   "Mamady Cissé",
+   "MF",
+   "Guinea"
+  ],
+  [
+   40,
+   "Vitão (footballer, born 2008)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   41,
+   "Murillo Fernandes",
+   "FW",
+   "Brazil"
+  ],
+  [
+   43,
+   "Kaio Assis",
+   "GK",
+   "Brazil"
+  ]
+ ],
+ "Bahia": [
+  [
+   1,
+   "Ronaldo (footballer, born August 1996)",
+   "GK",
+   "BRA"
+  ],
+  [
+   3,
+   "Marco Moreno",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Kanu (footballer, born 1997)",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Nicolás Acevedo",
+   "MF",
+   "URU"
+  ],
+  [
+   6,
+   "Jean Lucas (footballer, born 1998)",
+   "MF",
+   "BRA"
+  ],
+  [
+   7,
+   "Ademir (footballer, born 1995)",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Caio Alexandre",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Alejo Véliz (footballer)",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Éverton Ribeiro",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Rodrigo Nestor",
+   "MF",
+   "BRA"
+  ],
+  [
+   12,
+   "Willian José",
+   "FW",
+   "BRA"
+  ],
+  [
+   14,
+   "Erick (footballer, born November 1997)",
+   "MF",
+   "BRA"
+  ],
+  [
+   15,
+   "Michel Araújo",
+   "MF",
+   "URU"
+  ],
+  [
+   16,
+   "Erick Pulga",
+   "FW",
+   "BRA"
+  ],
+  [
+   17,
+   "Guido Herrera",
+   "GK",
+   "ARG"
+  ],
+  [
+   18,
+   "Lautaro López (footballer)",
+   "MF",
+   "ARG"
+  ],
+  [
+   22,
+   "Léo (footballer, born 1990)",
+   "GK",
+   "BRA"
+  ],
+  [
+   23,
+   "Mateo Sanabria",
+   "FW",
+   "ARG"
+  ],
+  [
+   27,
+   "Everaldo (footballer, born 1991)",
+   "FW",
+   "BRA"
+  ],
+  [
+   31,
+   "Román Gómez (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   33,
+   "David Duarte",
+   "DF",
+   "BRA"
+  ],
+  [
+   43,
+   "Luiz Gustavo (footballer, born April 2006)",
+   "DF",
+   "BRA"
+  ],
+  [
+   44,
+   "Marcos Victor",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Botafogo": [
+  [
+   2,
+   "Vitinho (footballer, born July 1999)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   3,
+   "Arthur Chaves",
+   "DF",
+   "Brazil"
+  ],
+  [
+   4,
+   "Mateo Ponte",
+   "DF",
+   "Uruguay"
+  ],
+  [
+   5,
+   "Nahuel Ferraresi",
+   "DF",
+   "Venezuela"
+  ],
+  [
+   6,
+   "Cristian Medina",
+   "MF",
+   "Argentina"
+  ],
+  [
+   7,
+   "Júnior Santos (footballer, born 1994)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   8,
+   "Danilo (footballer, born 2001)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   9,
+   "Tiquinho Soares",
+   "FW",
+   "Brazil"
+  ],
+  [
+   10,
+   "Álvaro Montoro",
+   "MF",
+   "Argentina"
+  ],
+  [
+   11,
+   "Matheus Martins",
+   "FW",
+   "Brazil"
+  ],
+  [
+   12,
+   "Gabriel Batista",
+   "GK",
+   "Brazil"
+  ],
+  [
+   13,
+   "Alex Telles",
+   "DF",
+   "Brazil"
+  ],
+  [
+   14,
+   "Jordan Barrera",
+   "MF",
+   "Colombia"
+  ],
+  [
+   17,
+   "Warleson",
+   "GK",
+   "Brazil"
+  ],
+  [
+   19,
+   "Arthur Cabral",
+   "FW",
+   "Brazil"
+  ],
+  [
+   21,
+   "Fernando Marçal",
+   "DF",
+   "Brazil"
+  ],
+  [
+   22,
+   "Hakim Ziyech",
+   "FW",
+   "Morocco"
+  ],
+  [
+   25,
+   "Allan (footballer, born 1991)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   26,
+   "Anthony Wesley Ciriano Oliveira",
+   "DF",
+   "Brazil"
+  ],
+  [
+   29,
+   "Paulinho (footballer, born 1995)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   31,
+   "Kaio Pantaleão",
+   "DF",
+   "Brazil"
+  ],
+  [
+   32,
+   "Rhyan Luca Carvalho de Arruda",
+   "GK",
+   "Brazil"
+  ],
+  [
+   33,
+   "Lucas Monzón (Uruguayan footballer)",
+   "DF",
+   "Uruguay"
+  ],
+  [
+   34,
+   "Gabriel Pereira Justino",
+   "DF",
+   "Brazil"
+  ],
+  [
+   36,
+   "Gabriel da Silva Abdias",
+   "DF",
+   "Brazil"
+  ],
+  [
+   37,
+   "Kadir Barría",
+   "FW",
+   "Panama"
+  ],
+  [
+   39,
+   "Arthur Izaque Bendayan de Castro Silva",
+   "FW",
+   "Brazil"
+  ],
+  [
+   40,
+   "Cristhian Loor",
+   "GK",
+   "Ecuador"
+  ],
+  [
+   42,
+   "Kadu (footballer, born 2005)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   44,
+   "Riquelme (footballer, born January 2007)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   45,
+   "Caio Ribeiro do Valle Silva",
+   "MF",
+   "Brazil"
+  ]
+ ],
+ "Chapecoense": [
+  [
+   1,
+   "Rafael Santos (footballer, born 1989)",
+   "GK",
+   "BRA"
+  ],
+  [
+   3,
+   "Eduardo Doma",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "João Paulo Silveira dos Santos",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Heitor (footballer, born November 2000)",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Mancha (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Marcinho (footballer, born June 1995)",
+   "FW",
+   "BRA"
+  ],
+  [
+   9,
+   "Túlio Eduardo",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Giovanni Augusto",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Yannick Bolasie",
+   "FW",
+   "COD"
+  ],
+  [
+   12,
+   "Fernando (footballer, born September 1999)",
+   "DF",
+   "BRA"
+  ],
+  [
+   14,
+   "Gabriel Werner",
+   "GK",
+   "BRA"
+  ],
+  [
+   15,
+   "Rafael Thyere",
+   "DF",
+   "BRA"
+  ],
+  [
+   16,
+   "Bruno Matias (footballer, born 1999)",
+   "MF",
+   "BRA"
+  ],
+  [
+   17,
+   "Vinicius Balieiro",
+   "MF",
+   "BRA"
+  ],
+  [
+   19,
+   "David Antunes",
+   "MF",
+   "BRA"
+  ],
+  [
+   20,
+   "Bruno Tubarão",
+   "DF",
+   "BRA"
+  ],
+  [
+   21,
+   "Kauan Faria",
+   "DF",
+   "BRA"
+  ],
+  [
+   25,
+   "Victor Caetano",
+   "DF",
+   "BRA"
+  ],
+  [
+   26,
+   "Everton (footballer, born April 1995)",
+   "DF",
+   "BRA"
+  ],
+  [
+   31,
+   "Maurício Garcez",
+   "FW",
+   "BRA"
+  ],
+  [
+   32,
+   "Wellington Felipe Pradeiczuk",
+   "GK",
+   "BRA"
+  ],
+  [
+   34,
+   "Kainã Correa Dal Magro",
+   "GK",
+   "BRA"
+  ],
+  [
+   35,
+   "Vinicius Eduardo",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Corinthians": [
+  [
+   1,
+   "Hugo Souza",
+   "GK",
+   "BRA"
+  ],
+  [
+   2,
+   "Matheuzinho (footballer, born 2000)",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Gabriel Paulista",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "João Pedro (footballer, born December 2003)",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "André Ramalho",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Breno Bidon",
+   "MF",
+   "BRA"
+  ],
+  [
+   8,
+   "Rodrigo Garro",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Yuri Alberto",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Memphis Depay",
+   "FW",
+   "NED"
+  ],
+  [
+   11,
+   "Vitinho (footballer, born October 1993)",
+   "MF",
+   "BRA"
+  ],
+  [
+   13,
+   "Gustavo Henrique (footballer, born 1993)",
+   "DF",
+   "BRA"
+  ],
+  [
+   14,
+   "Raniele",
+   "MF",
+   "BRA"
+  ],
+  [
+   18,
+   "Pedro Raul",
+   "FW",
+   "BRA"
+  ],
+  [
+   19,
+   "André Carrillo",
+   "MF",
+   "PER"
+  ],
+  [
+   20,
+   "Pedro Milans",
+   "DF",
+   "URU"
+  ],
+  [
+   21,
+   "Matheus Bidu",
+   "DF",
+   "BRA"
+  ],
+  [
+   23,
+   "Matheus Pereira (footballer, born 1998)",
+   "MF",
+   "BRA"
+  ],
+  [
+   26,
+   "Fabrizio Angileri",
+   "DF",
+   "ARG"
+  ],
+  [
+   29,
+   "Allan (footballer, born 1997)",
+   "MF",
+   "BRA"
+  ],
+  [
+   31,
+   "Kayke Ferrari",
+   "FW",
+   "BRA"
+  ],
+  [
+   35,
+   "Charles (footballer, born 1996)",
+   "MF",
+   "BRA"
+  ],
+  [
+   37,
+   "Kaio César",
+   "FW",
+   "BRA"
+  ],
+  [
+   40,
+   "Felipe Longo",
+   "GK",
+   "BRA"
+  ],
+  [
+   42,
+   "Guilherme Pellegrin Almeida",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Coritiba": [
+  [
+   1,
+   "Pedro Morisco",
+   "GK",
+   "BRA"
+  ],
+  [
+   2,
+   "Tinga (footballer, born 1993)",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Maicon (footballer, born September 1988)",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Rodrigo Moledo",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Felipe Jonatan",
+   "DF",
+   "BRA"
+  ],
+  [
+   10,
+   "Josué Pesqueira",
+   "MF",
+   "POR"
+  ],
+  [
+   11,
+   "Lucas Ronier",
+   "FW",
+   "BRA"
+  ],
+  [
+   14,
+   "Fabricio Bustos",
+   "DF",
+   "ARG"
+  ],
+  [
+   14,
+   "Gabriel Ibson",
+   "DF",
+   "BRA"
+  ],
+  [
+   17,
+   "Brian Ocampo",
+   "FW",
+   "URU"
+  ],
+  [
+   18,
+   "Paulo Roberto da Silva Souza",
+   "FW",
+   "BRA"
+  ],
+  [
+   19,
+   "Sebastián Gómez (Colombian footballer)",
+   "MF",
+   "COL"
+  ],
+  [
+   21,
+   "Thiago Santos (footballer, born 1989)",
+   "DF",
+   "BRA"
+  ],
+  [
+   22,
+   "Pedro Rangel (footballer)",
+   "GK",
+   "BRA"
+  ],
+  [
+   23,
+   "Tiago Cóser",
+   "DF",
+   "BRA"
+  ],
+  [
+   25,
+   "Richard (footballer, born 1994)",
+   "MF",
+   "BRA"
+  ],
+  [
+   26,
+   "Bruno Melo",
+   "DF",
+   "BRA"
+  ],
+  [
+   28,
+   "Fabinho (footballer, born 1999)",
+   "FW",
+   "BRA"
+  ],
+  [
+   32,
+   "Pedro Rocha (footballer, born 1994)",
+   "FW",
+   "BRA"
+  ],
+  [
+   33,
+   "David Alves",
+   "FW",
+   "BRA"
+  ],
+  [
+   36,
+   "Vini Paulista",
+   "MF",
+   "BRA"
+  ],
+  [
+   37,
+   "Lucas Crepaldi",
+   "FW",
+   "BRA"
+  ],
+  [
+   39,
+   "Gustavo (footballer, born 2002)",
+   "MF",
+   "BRA"
+  ]
+ ],
+ "Cruzeiro": [
+  [
+   1,
+   "Cássio (footballer, born 1987)",
+   "GK",
+   "Brazil"
+  ],
+  [
+   2,
+   "Kauã Moraes Silva",
+   "DF",
+   "Brazil"
+  ],
+  [
+   5,
+   "Zé Lucas (footballer, born 2008)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   6,
+   "Matías Viña",
+   "DF",
+   "Uruguay"
+  ],
+  [
+   7,
+   "Matheus Henrique",
+   "MF",
+   "Brazil"
+  ],
+  [
+   8,
+   "Gerson (footballer, born 1997)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   9,
+   "Bruno Rodrigues (footballer, born 1997)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   10,
+   "Matheus Pereira (footballer, born 1996)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   11,
+   "Marquinhos (footballer, born 2003)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   12,
+   "William (footballer, born 1995)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   15,
+   "Fabrício Bruno",
+   "DF",
+   "Brazil"
+  ],
+  [
+   16,
+   "Lucas Silva (footballer, born 1993)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   17,
+   "Luis Sinisterra",
+   "FW",
+   "Colombia"
+  ],
+  [
+   19,
+   "Kaio Jorge",
+   "FW",
+   "Brazil"
+  ],
+  [
+   20,
+   "Wesley (footballer, born 2005)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   22,
+   "Néiser Villarreal",
+   "FW",
+   "Colombia"
+  ],
+  [
+   23,
+   "Fagner (footballer, born 1989)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   24,
+   "Marcelo Eráclito de Souza Filho",
+   "GK",
+   "Brazil"
+  ],
+  [
+   25,
+   "Lucas Villalba",
+   "DF",
+   "Argentina"
+  ],
+  [
+   27,
+   "Gabriel Rojas (footballer, born 1997)",
+   "DF",
+   "Argentina"
+  ],
+  [
+   29,
+   "Lucas Romero",
+   "MF",
+   "Argentina"
+  ],
+  [
+   34,
+   "Jonathan Jesus",
+   "DF",
+   "Brazil"
+  ],
+  [
+   38,
+   "Felipe Morais",
+   "MF",
+   "Brazil"
+  ],
+  [
+   40,
+   "Rhuan Gabriel",
+   "MF",
+   "Brazil"
+  ],
+  [
+   41,
+   "Léo Aragão",
+   "GK",
+   "Brazil"
+  ],
+  [
+   42,
+   "Nicolas Pontes de Souza Almeida",
+   "MF",
+   "Brazil"
+  ],
+  [
+   43,
+   "João Marcelo (footballer, born 2000)",
+   "DF",
+   "Brazil"
+  ]
+ ],
+ "Flamengo": [
+  [
+   1,
+   "Agustín Rossi (footballer)",
+   "GK",
+   "Argentina"
+  ],
+  [
+   2,
+   "Guillermo Varela",
+   "DF",
+   "Uruguay"
+  ],
+  [
+   3,
+   "Léo Ortiz",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Léo Pereira (footballer, born 1996)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   5,
+   "Erick Pulgar",
+   "MF",
+   "Chile"
+  ],
+  [
+   6,
+   "Ayrton Lucas",
+   "DF",
+   "Brazil"
+  ],
+  [
+   7,
+   "Luiz Araújo (footballer)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   8,
+   "Saúl (footballer, born 1994)",
+   "MF",
+   "Spain"
+  ],
+  [
+   9,
+   "Pedro (footballer, born 1997)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   10,
+   "Giorgian de Arrascaeta",
+   "MF",
+   "Uruguay"
+  ],
+  [
+   11,
+   "Lucas Paquetá",
+   "MF",
+   "Brazil"
+  ],
+  [
+   13,
+   "Danilo (footballer, born July 1991)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   14,
+   "Anthony Valencia",
+   "FW",
+   "Ecuador"
+  ],
+  [
+   15,
+   "Jorge Carrascal",
+   "MF",
+   "Colombia"
+  ],
+  [
+   16,
+   "Samuel Lino",
+   "FW",
+   "Brazil"
+  ],
+  [
+   17,
+   "Matías Viña",
+   "DF",
+   "Uruguay"
+  ],
+  [
+   18,
+   "Nicolás de la Cruz",
+   "MF",
+   "Uruguay"
+  ],
+  [
+   19,
+   "Gonzalo Plata",
+   "FW",
+   "Ecuador"
+  ],
+  [
+   21,
+   "Jorginho (footballer, born December 1991)",
+   "MF",
+   "Italy"
+  ],
+  [
+   22,
+   "Emerson Royal",
+   "DF",
+   "Brazil"
+  ],
+  [
+   26,
+   "Alex Sandro",
+   "DF",
+   "Brazil"
+  ],
+  [
+   27,
+   "Bruno Henrique (footballer, born 1990)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   29,
+   "Allan (footballer, born 1997)",
+   "MF",
+   "Brazil"
+  ],
+  [
+   30,
+   "Joaquín Freitas",
+   "FW",
+   "Argentina"
+  ],
+  [
+   39,
+   "Josmar Silva Miranda",
+   "FW",
+   "Brazil"
+  ],
+  [
+   42,
+   "Andrew (footballer)",
+   "GK",
+   "Brazil"
+  ],
+  [
+   44,
+   "Vitão (footballer, born February 2000)",
+   "DF",
+   "Brazil"
+  ]
+ ],
+ "Gremio": [
+  [
+   1,
+   "Weverton (footballer, born 1987)",
+   "GK",
+   "BRA"
+  ],
+  [
+   2,
+   "Fabián Balbuena",
+   "DF",
+   "PAR"
+  ],
+  [
+   3,
+   "Wagner Leonardo",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Walter Kannemann",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Juan Nardoni",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Gustavo Martins",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Cristian Pavon",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Erick Noriega",
+   "MF",
+   "PER"
+  ],
+  [
+   9,
+   "Francis Amuzu",
+   "FW",
+   "GHA"
+  ],
+  [
+   10,
+   "Filip Krovinović",
+   "MF",
+   "CRO"
+  ],
+  [
+   11,
+   "Tetê",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Gabriel Grando",
+   "GK",
+   "BRA"
+  ],
+  [
+   14,
+   "Marcos Rocha",
+   "DF",
+   "BRA"
+  ],
+  [
+   15,
+   "Danilo Barbosa",
+   "MF",
+   "BRA"
+  ],
+  [
+   17,
+   "Dodi (footballer)",
+   "MF",
+   "BRA"
+  ],
+  [
+   18,
+   "João Pedro (footballer, born 15 November 1996)",
+   "DF",
+   "BRA"
+  ],
+  [
+   20,
+   "Mathías Villasanti",
+   "MF",
+   "PAR"
+  ],
+  [
+   22,
+   "Martin Braithwaite",
+   "FW",
+   "DEN"
+  ],
+  [
+   23,
+   "Marlon (footballer, born May 1997)",
+   "DF",
+   "BRA"
+  ],
+  [
+   24,
+   "Thiago Beltrame",
+   "GK",
+   "BRA"
+  ],
+  [
+   27,
+   "Diego Caito",
+   "DF",
+   "BRA"
+  ],
+  [
+   30,
+   "Matheus Nascimento (footballer, born 2004)",
+   "FW",
+   "BRA"
+  ],
+  [
+   31,
+   "Gabriel Menegon",
+   "GK",
+   "BRA"
+  ],
+  [
+   32,
+   "Vitor Ramon",
+   "DF",
+   "BRA"
+  ],
+  [
+   38,
+   "Caio Paulista",
+   "DF",
+   "BRA"
+  ],
+  [
+   39,
+   "Tiago (footballer, born 2008)",
+   "MF",
+   "BRA"
+  ],
+  [
+   40,
+   "Jeferson Forneck",
+   "MF",
+   "BRA"
+  ],
+  [
+   42,
+   "Athos",
+   "DF",
+   "BRA"
+  ],
+  [
+   43,
+   "Luis Eduardo",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Internacional": [
+  [
+   1,
+   "Sergio Rochet",
+   "GK",
+   "URU"
+  ],
+  [
+   3,
+   "Guillermo Maripán",
+   "DF",
+   "CHI"
+  ],
+  [
+   4,
+   "Félix Torres (footballer, born 1997)",
+   "DF",
+   "ECU"
+  ],
+  [
+   5,
+   "Rodrigo Villagra",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Matheus Bahia",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Johan Carbonero",
+   "FW",
+   "COL"
+  ],
+  [
+   8,
+   "Bruno Henrique (footballer, born 1989)",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Alerrandro",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Alan Patrick (footballer, born 1991)",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Kayky",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Anthoni Spier Souza",
+   "GK",
+   "BRA"
+  ],
+  [
+   15,
+   "Bruno Gomes (footballer, born 2001)",
+   "DF",
+   "BRA"
+  ],
+  [
+   16,
+   "Ronaldo (footballer, born October 1996)",
+   "MF",
+   "BRA"
+  ],
+  [
+   17,
+   "Niclas Eliasson",
+   "FW",
+   "SWE"
+  ],
+  [
+   18,
+   "Juninho (footballer, born February 1995)",
+   "DF",
+   "BRA"
+  ],
+  [
+   22,
+   "Kauan Jesus Santos Oliveira",
+   "GK",
+   "BRA"
+  ],
+  [
+   23,
+   "Matheus Cunha (footballer, born 2001)",
+   "GK",
+   "BRA"
+  ],
+  [
+   24,
+   "Filipe Borba Sirio",
+   "GK",
+   "BRA"
+  ],
+  [
+   25,
+   "Gabriel Mercado",
+   "DF",
+   "ARG"
+  ],
+  [
+   26,
+   "Alexandro Bernabei",
+   "DF",
+   "ARG"
+  ],
+  [
+   27,
+   "Paulinho (footballer, born January 1997)",
+   "MF",
+   "BRA"
+  ],
+  [
+   28,
+   "Vitinho (footballer, born April 1999)",
+   "FW",
+   "BRA"
+  ],
+  [
+   29,
+   "Thiago Maia",
+   "MF",
+   "BRA"
+  ],
+  [
+   30,
+   "Calebe",
+   "MF",
+   "BRA"
+  ],
+  [
+   31,
+   "Allex Rodrigues Pereira da Silva",
+   "MF",
+   "BRA"
+  ],
+  [
+   32,
+   "Diego Esser Pereira",
+   "GK",
+   "BRA"
+  ],
+  [
+   33,
+   "Benjamin Arhin",
+   "MF",
+   "GHA"
+  ],
+  [
+   35,
+   "Braian Aguirre",
+   "DF",
+   "ARG"
+  ],
+  [
+   37,
+   "Yago Noal",
+   "FW",
+   "BRA"
+  ],
+  [
+   39,
+   "Carlos Eduardo Belmont Ferreira",
+   "FW",
+   "BRA"
+  ],
+  [
+   40,
+   "Lázaro Gonçalves do Nascimento Júnior",
+   "DF",
+   "BRA"
+  ],
+  [
+   41,
+   "Victor Gabriel",
+   "DF",
+   "BRA"
+  ],
+  [
+   43,
+   "Phenyin Denis Marfo",
+   "DF",
+   "GHA"
+  ],
+  [
+   44,
+   "João Victor Alves de Morais Francisco",
+   "FW",
+   "BRA"
+  ]
+ ],
+ "Palmeiras": [
+  [
+   1,
+   "Carlos Miguel (footballer, born 1998)",
+   "GK",
+   "Brazil"
+  ],
+  [
+   2,
+   "Alexander Barboza",
+   "DF",
+   "Argentina"
+  ],
+  [
+   3,
+   "Bruno Fuchs (footballer)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   4,
+   "Agustín Giay",
+   "DF",
+   "Argentina"
+  ],
+  [
+   6,
+   "Jefté",
+   "DF",
+   "Brazil"
+  ],
+  [
+   7,
+   "Felipe Anderson",
+   "MF",
+   "Brazil"
+  ],
+  [
+   8,
+   "Andreas Pereira",
+   "MF",
+   "Brazil"
+  ],
+  [
+   9,
+   "Vitor Roque",
+   "FW",
+   "Brazil"
+  ],
+  [
+   10,
+   "Paulinho (footballer, born July 2000)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   11,
+   "Jhon Arias (footballer)",
+   "FW",
+   "Colombia"
+  ],
+  [
+   12,
+   "Khellven",
+   "DF",
+   "Brazil"
+  ],
+  [
+   14,
+   "Marcelo Lomba",
+   "GK",
+   "Brazil"
+  ],
+  [
+   15,
+   "Gustavo Gómez",
+   "DF",
+   "Paraguay"
+  ],
+  [
+   17,
+   "Marlon Freitas",
+   "MF",
+   "Brazil"
+  ],
+  [
+   18,
+   "Maurício (footballer, born 2001)",
+   "MF",
+   "Paraguay"
+  ],
+  [
+   19,
+   "Ramón Sosa",
+   "FW",
+   "Paraguay"
+  ],
+  [
+   21,
+   "Bruno Bertinato",
+   "GK",
+   "Brazil"
+  ],
+  [
+   22,
+   "Joaquín Piquerez",
+   "DF",
+   "Uruguay"
+  ],
+  [
+   26,
+   "Murilo Cerqueira",
+   "DF",
+   "Brazil"
+  ],
+  [
+   29,
+   "Miguel Bilong",
+   "FW",
+   "Cameroon"
+  ],
+  [
+   30,
+   "Lucas Evangelista",
+   "MF",
+   "Brazil"
+  ],
+  [
+   32,
+   "Emiliano Martínez (footballer, born 1999)",
+   "MF",
+   "Uruguay"
+  ],
+  [
+   39,
+   "Heittor",
+   "FW",
+   "Brazil"
+  ],
+  [
+   41,
+   "Eduardo",
+   "FW",
+   "Brazil"
+  ],
+  [
+   42,
+   "José Manuel López (footballer)",
+   "FW",
+   "Argentina"
+  ],
+  [
+   43,
+   "Luiz Benedetti",
+   "DF",
+   "Brazil"
+  ],
+  [
+   44,
+   "Koné Zie",
+   "DF",
+   "Côte d'Ivoire"
+  ],
+  [
+   45,
+   "Erick Belé",
+   "MF",
+   "Brazil"
+  ]
+ ],
+ "Bragantino": [
+  [
+   1,
+   "Cleiton (footballer, born 1997)",
+   "GK",
+   "BRA"
+  ],
+  [
+   2,
+   "Guzmán Rodríguez",
+   "DF",
+   "URU"
+  ],
+  [
+   3,
+   "Eduardo Santos (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Alix Vinicius",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Fabinho (footballer, born 2002)",
+   "MF",
+   "BRA"
+  ],
+  [
+   6,
+   "Gabriel (footballer, born July 1992)",
+   "MF",
+   "BRA"
+  ],
+  [
+   7,
+   "Eric Ramires",
+   "MF",
+   "BRA"
+  ],
+  [
+   8,
+   "Eduardo Sasha",
+   "FW",
+   "BRA"
+  ],
+  [
+   9,
+   "Isidro Pitta",
+   "FW",
+   "PAR"
+  ],
+  [
+   11,
+   "Fernando (footballer, born March 1999)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Vanderlan",
+   "DF",
+   "BRA"
+  ],
+  [
+   15,
+   "Ignacio Sosa",
+   "MF",
+   "URU"
+  ],
+  [
+   16,
+   "Gustavo Marques",
+   "DF",
+   "BRA"
+  ],
+  [
+   17,
+   "Vinicius Pereira",
+   "FW",
+   "BRA"
+  ],
+  [
+   18,
+   "Tiago Volpi",
+   "GK",
+   "BRA"
+  ],
+  [
+   19,
+   "Bruno Gonçalves (footballer, born 2003)",
+   "FW",
+   "BRA"
+  ],
+  [
+   20,
+   "Rodriguinho (footballer, born 2004)",
+   "MF",
+   "BRA"
+  ],
+  [
+   21,
+   "Lucas Barbosa (footballer, born 2001)",
+   "FW",
+   "BRA"
+  ],
+  [
+   22,
+   "Gustavinho (footballer, born 2004)",
+   "MF",
+   "BRA"
+  ],
+  [
+   23,
+   "Agustín Sant'Anna",
+   "DF",
+   "URU"
+  ],
+  [
+   27,
+   "Davi Gomes",
+   "FW",
+   "BRA"
+  ],
+  [
+   29,
+   "Juninho Capixaba",
+   "DF",
+   "BRA"
+  ],
+  [
+   30,
+   "Henry Mosquera",
+   "FW",
+   "COL"
+  ],
+  [
+   32,
+   "José María Herrera",
+   "FW",
+   "ARG"
+  ],
+  [
+   34,
+   "José Hurtado (footballer)",
+   "DF",
+   "ECU"
+  ],
+  [
+   35,
+   "Matheus Fernandes",
+   "MF",
+   "BRA"
+  ],
+  [
+   37,
+   "Fabrício Oliveira de Souza",
+   "GK",
+   "BRA"
+  ],
+  [
+   41,
+   "Yuri Alves",
+   "MF",
+   "BRA"
+  ]
+ ],
+ "Remo": [
+  [
+   1,
+   "Marcos Alexandre Ferreira Campos Filho",
+   "GK",
+   "BRA"
+  ],
+  [
+   2,
+   "Matheus Alexandre",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Matheus Felipe",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Léo Andrade",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Marlon (footballer, born 1994)",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Jajá Silva",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Patrick (footballer, born 1992)",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Gabriel Poveda",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Jáderson",
+   "MF",
+   "BRA"
+  ],
+  [
+   13,
+   "Marllon",
+   "DF",
+   "BRA"
+  ],
+  [
+   14,
+   "Leonel Picco",
+   "MF",
+   "ARG"
+  ],
+  [
+   15,
+   "Vitor Bueno",
+   "MF",
+   "BRA"
+  ],
+  [
+   17,
+   "Cristian Tassano",
+   "DF",
+   "URU"
+  ],
+  [
+   18,
+   "Duplexe Tchamba",
+   "DF",
+   "CMR"
+  ],
+  [
+   19,
+   "Gabriel Taliari",
+   "FW",
+   "BRA"
+  ],
+  [
+   21,
+   "Antonio Galeano",
+   "FW",
+   "PAR"
+  ],
+  [
+   22,
+   "Yago Pikachu",
+   "FW",
+   "BRA"
+  ],
+  [
+   23,
+   "Franco Catarozzi",
+   "MF",
+   "URU"
+  ],
+  [
+   26,
+   "David Braga",
+   "MF",
+   "BRA"
+  ],
+  [
+   27,
+   "Zé Ivaldo",
+   "DF",
+   "BRA"
+  ],
+  [
+   28,
+   "Zé Welison",
+   "MF",
+   "BRA"
+  ],
+  [
+   30,
+   "João Victor Ferreira da Silva",
+   "GK",
+   "BRA"
+  ],
+  [
+   35,
+   "Edson Fernando",
+   "MF",
+   "BRA"
+  ],
+  [
+   39,
+   "Eduardo Melo",
+   "FW",
+   "BRA"
+  ]
+ ],
+ "Santos": [
+  [
+   1,
+   "Diógenes (footballer, born 2001)",
+   "GK",
+   "Brazil"
+  ],
+  [
+   3,
+   "Vinicius Lira",
+   "DF",
+   "Brazil"
+  ],
+  [
+   4,
+   "Lucas Veríssimo",
+   "DF",
+   "Brazil"
+  ],
+  [
+   5,
+   "João Schmidt",
+   "MF",
+   "Brazil"
+  ],
+  [
+   6,
+   "Arthur Melo",
+   "MF",
+   "Brazil"
+  ],
+  [
+   7,
+   "Everton Soares",
+   "FW",
+   "Brazil"
+  ],
+  [
+   8,
+   "Gabriel Bontempo",
+   "MF",
+   "Brazil"
+  ],
+  [
+   9,
+   "Gabriel Barbosa",
+   "FW",
+   "Brazil"
+  ],
+  [
+   10,
+   "Neymar",
+   "MF",
+   "Brazil"
+  ],
+  [
+   11,
+   "Philippe Coutinho",
+   "MF",
+   "Brazil"
+  ],
+  [
+   14,
+   "Luan Peres",
+   "DF",
+   "Brazil"
+  ],
+  [
+   15,
+   "Willian Arão",
+   "MF",
+   "Brazil"
+  ],
+  [
+   16,
+   "Thaciano",
+   "FW",
+   "Brazil"
+  ],
+  [
+   17,
+   "Gustavo Caballero",
+   "FW",
+   "Paraguay"
+  ],
+  [
+   18,
+   "Igor Vinícius",
+   "DF",
+   "Brazil"
+  ],
+  [
+   20,
+   "Pepê Fermino",
+   "MF",
+   "Brazil"
+  ],
+  [
+   21,
+   "Moisés (footballer, born 1996)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   22,
+   "Álvaro Barreal",
+   "FW",
+   "Argentina"
+  ],
+  [
+   23,
+   "Rodinei",
+   "DF",
+   "Brazil"
+  ],
+  [
+   25,
+   "Gabriel Menino",
+   "DF",
+   "Brazil"
+  ],
+  [
+   26,
+   "João Ananias (footballer, born 2007)",
+   "DF",
+   "Brazil"
+  ],
+  [
+   27,
+   "Davi Fernandes",
+   "DF",
+   "Brazil"
+  ],
+  [
+   28,
+   "Christian Oliva",
+   "MF",
+   "Uruguay"
+  ],
+  [
+   30,
+   "Miguel Terceros",
+   "MF",
+   "Bolivia"
+  ],
+  [
+   31,
+   "Gonzalo Escobar (footballer)",
+   "DF",
+   "Argentina"
+  ],
+  [
+   32,
+   "Benjamín Rollheiser",
+   "MF",
+   "Argentina"
+  ],
+  [
+   33,
+   "Rony (footballer)",
+   "FW",
+   "Brazil"
+  ],
+  [
+   34,
+   "João Paulo (footballer, born 1995)",
+   "GK",
+   "Brazil"
+  ],
+  [
+   38,
+   "Rafael Gonzaga",
+   "DF",
+   "Brazil"
+  ],
+  [
+   39,
+   "Pedro Assis",
+   "FW",
+   "Brazil"
+  ],
+  [
+   42,
+   "João Alencar",
+   "DF",
+   "Brazil"
+  ],
+  [
+   45,
+   "Lima (footballer, born 1996)",
+   "MF",
+   "Brazil"
+  ]
+ ],
+ "SaoPaulo": [
+  [
+   2,
+   "Rafael Tolói",
+   "DF",
+   "ITA"
+  ],
+  [
+   5,
+   "Robert Arboleda",
+   "DF",
+   "ECU"
+  ],
+  [
+   7,
+   "Lucas Moura",
+   "MF",
+   "BRA"
+  ],
+  [
+   8,
+   "Marcos Antônio (footballer, born 2000)",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Jonathan Calleri",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Luciano (footballer, born 1993)",
+   "FW",
+   "BRA"
+  ],
+  [
+   11,
+   "Ferreira (footballer, born 1997)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Iago (footballer, born 1997)",
+   "DF",
+   "BRA"
+  ],
+  [
+   13,
+   "Enzo Díaz (footballer, born 1995)",
+   "DF",
+   "ARG"
+  ],
+  [
+   16,
+   "Damián Bobadilla",
+   "MF",
+   "PAR"
+  ],
+  [
+   17,
+   "André Silva (footballer, born 1997)",
+   "FW",
+   "BRA"
+  ],
+  [
+   18,
+   "Wendell (footballer, born 1993)",
+   "DF",
+   "BRA"
+  ],
+  [
+   19,
+   "Lucas Ramon",
+   "DF",
+   "BRA"
+  ],
+  [
+   20,
+   "Aurélio Buta",
+   "DF",
+   "POR"
+  ],
+  [
+   21,
+   "Cédric Soares",
+   "DF",
+   "POR"
+  ],
+  [
+   22,
+   "Domingos Duarte",
+   "DF",
+   "POR"
+  ],
+  [
+   23,
+   "Rafael (footballer, born 1989)",
+   "GK",
+   "BRA"
+  ],
+  [
+   27,
+   "Victor Sá",
+   "FW",
+   "BRA"
+  ],
+  [
+   28,
+   "Newton (footballer, born 2000)",
+   "MF",
+   "BRA"
+  ],
+  [
+   29,
+   "Pablo Maia",
+   "MF",
+   "BRA"
+  ],
+  [
+   31,
+   "Carlos Coronel",
+   "GK",
+   "PAR"
+  ],
+  [
+   32,
+   "Pedro Lima (footballer, born 2006)",
+   "DF",
+   "BRA"
+  ],
+  [
+   34,
+   "Perivan dos Santos",
+   "FW",
+   "BRA"
+  ],
+  [
+   35,
+   "Sabino (footballer, born 1996)",
+   "DF",
+   "BRA"
+  ],
+  [
+   37,
+   "Artur (footballer, born 1998)",
+   "FW",
+   "BRA"
+  ],
+  [
+   40,
+   "Igor Felisberto",
+   "DF",
+   "BRA"
+  ],
+  [
+   41,
+   "Igão",
+   "DF",
+   "BRA"
+  ],
+  [
+   41,
+   "João Pedro",
+   "GK",
+   "BRA"
+  ],
+  [
+   43,
+   "Gustavo Santana",
+   "FW",
+   "BRA"
+  ],
+  [
+   45,
+   "Lucca Marques",
+   "FW",
+   "BRA"
+  ]
+ ],
+ "Vasco": [
+  [
+   1,
+   "Léo Jardim",
+   "GK",
+   "BRA"
+  ],
+  [
+   2,
+   "José Luis Rodríguez (footballer, born 1997)",
+   "DF",
+   "URU"
+  ],
+  [
+   3,
+   "Tchê Tchê",
+   "MF",
+   "BRA"
+  ],
+  [
+   4,
+   "Alan Saldivia",
+   "DF",
+   "URU"
+  ],
+  [
+   5,
+   "Santiago Sosa",
+   "MF",
+   "ARG"
+  ],
+  [
+   6,
+   "Lucas Piton",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "David (footballer, born October 1995)",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Jair (footballer, born 26 August 1994)",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Facundo Colidio",
+   "FW",
+   "ARG"
+  ],
+  [
+   10,
+   "Johan Rojas (footballer)",
+   "MF",
+   "COL"
+  ],
+  [
+   11,
+   "Andrés Gómez (footballer)",
+   "FW",
+   "COL"
+  ],
+  [
+   13,
+   "Daniel Fuzato",
+   "GK",
+   "BRA"
+  ],
+  [
+   17,
+   "Nuno Moreira",
+   "FW",
+   "POR"
+  ],
+  [
+   18,
+   "Marino Hinestroza",
+   "FW",
+   "COL"
+  ],
+  [
+   19,
+   "Bruno Duarte",
+   "FW",
+   "BRA"
+  ],
+  [
+   20,
+   "Brenner (footballer, born 2000)",
+   "FW",
+   "BRA"
+  ],
+  [
+   22,
+   "Alan Lescano",
+   "MF",
+   "ARG"
+  ],
+  [
+   23,
+   "Thiago Mendes",
+   "MF",
+   "BRA"
+  ],
+  [
+   28,
+   "Adson (footballer, born 2000)",
+   "FW",
+   "BRA"
+  ],
+  [
+   29,
+   "Paulinho (footballer, born 2004)",
+   "DF",
+   "BRA"
+  ],
+  [
+   30,
+   "Robert Renan",
+   "DF",
+   "BRA"
+  ],
+  [
+   37,
+   "Pablo",
+   "GK",
+   "BRA"
+  ],
+  [
+   40,
+   "Phillipe Gabriel",
+   "GK",
+   "BRA"
+  ],
+  [
+   43,
+   "Lucas Freitas",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "VitoriaBA": [
+  [
+   1,
+   "Lucas Arcanjo",
+   "GK",
+   "BRA"
+  ],
+  [
+   2,
+   "Emanuel Brítez",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Darlan Silva Dutra",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Camutanga (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Emmanuel Martínez (footballer, born 1994)",
+   "MF",
+   "ARG"
+  ],
+  [
+   7,
+   "Marinho (footballer, born 1990)",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Tomás Pochettino",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Alex Bruno (footballer, born 1999)",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Matheuzinho (footballer, born 1997)",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Osvaldo (footballer, born 1987)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Diego Tarzia",
+   "FW",
+   "ARG"
+  ],
+  [
+   13,
+   "Ramon (footballer, born 2001)",
+   "DF",
+   "BRA"
+  ],
+  [
+   15,
+   "Walace (footballer, born 1995)",
+   "MF",
+   "BRA"
+  ],
+  [
+   16,
+   "Rúben Ismael",
+   "MF",
+   "POR"
+  ],
+  [
+   18,
+   "Kauan Santos Neves Coutinho",
+   "DF",
+   "BRA"
+  ],
+  [
+   20,
+   "Lucas Rodrigues",
+   "FW",
+   "BRA"
+  ],
+  [
+   21,
+   "Dudu (footballer, born June 1999)",
+   "MF",
+   "BRA"
+  ],
+  [
+   23,
+   "Fabrício (footballer, born October 2000)",
+   "FW",
+   "BRA"
+  ],
+  [
+   25,
+   "Cacá (footballer, born 1999)",
+   "DF",
+   "BRA"
+  ],
+  [
+   26,
+   "Edenilson Santos Nascimento Filho",
+   "DF",
+   "BRA"
+  ],
+  [
+   28,
+   "Anderson Pato",
+   "FW",
+   "BRA"
+  ],
+  [
+   33,
+   "Erick (footballer, born December 1997)",
+   "FW",
+   "BRA"
+  ],
+  [
+   35,
+   "Alexandre Fintelman de Mello Ribeiro da Silva",
+   "GK",
+   "BRA"
+  ],
+  [
+   36,
+   "Luan Cândido",
+   "DF",
+   "BRA"
+  ],
+  [
+   41,
+   "Wendell Santos",
+   "MF",
+   "BRA"
+  ],
+  [
+   42,
+   "Davi Barbosa da Silva Novaes",
+   "GK",
+   "BRA"
+  ],
+  [
+   43,
+   "Edu (footballer, born 2000)",
+   "DF",
+   "BRA"
+  ],
+  [
+   44,
+   "Gabriel Baralhas",
+   "MF",
+   "BRA"
+  ],
+  [
+   45,
+   "Nathan Mendes",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Juventude": [
+  [
+   2,
+   "Raí Ramos",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Titi (footballer, born 1988)",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Messias (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Luan Martins",
+   "MF",
+   "BRA"
+  ],
+  [
+   6,
+   "Wadson",
+   "DF",
+   "BRA"
+  ],
+  [
+   7,
+   "Pablo Roberto",
+   "MF",
+   "BRA"
+  ],
+  [
+   8,
+   "Lucas Mineiro (footballer, born 1996)",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Alan Kardec",
+   "FW",
+   "BRA"
+  ],
+  [
+   10,
+   "Marcos Paulo (footballer, born 2001)",
+   "FW",
+   "POR"
+  ],
+  [
+   11,
+   "Fábio Lima (footballer, born 1996)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Pedro Rocha (footballer, born 1998)",
+   "GK",
+   "BRA"
+  ],
+  [
+   13,
+   "Aderlan",
+   "DF",
+   "BRA"
+  ],
+  [
+   14,
+   "Mateus Schaffer",
+   "DF",
+   "BRA"
+  ],
+  [
+   16,
+   "Diogo Barbosa (footballer)",
+   "DF",
+   "BRA"
+  ],
+  [
+   17,
+   "Manuel Castro (footballer)",
+   "FW",
+   "URU"
+  ],
+  [
+   18,
+   "Luis Amarilla",
+   "FW",
+   "PAR"
+  ],
+  [
+   20,
+   "Allanzinho",
+   "FW",
+   "BRA"
+  ],
+  [
+   21,
+   "Ruan Carneiro",
+   "GK",
+   "BRA"
+  ],
+  [
+   22,
+   "Nathan Santos",
+   "DF",
+   "BRA"
+  ],
+  [
+   25,
+   "Alisson Safira",
+   "FW",
+   "BRA"
+  ],
+  [
+   26,
+   "Iba Ly",
+   "MF",
+   "SEN"
+  ],
+  [
+   27,
+   "Ray Breno",
+   "MF",
+   "BRA"
+  ],
+  [
+   28,
+   "Alan Ruschel",
+   "DF",
+   "BRA"
+  ],
+  [
+   29,
+   "Gabriel Pires",
+   "MF",
+   "BRA"
+  ],
+  [
+   30,
+   "Patryck Lanza",
+   "DF",
+   "BRA"
+  ],
+  [
+   31,
+   "Zé Henrique",
+   "GK",
+   "BRA"
+  ],
+  [
+   34,
+   "Rodrigo Sam",
+   "DF",
+   "BRA"
+  ],
+  [
+   43,
+   "Bernardo (footballer, born March 2005)",
+   "DF",
+   "BRA"
+  ],
+  [
+   44,
+   "Luis Mandaca",
+   "MF",
+   "BRA"
+  ]
+ ]
+}

@@ -1,0 +1,4646 @@
+{
+ "NL2": {
+  "Vitesse": {
+   "tid": 20251,
+   "pairs": [
+    {
+     "real": "Jayden Siecker",
+     "num": 23,
+     "pos": "GK",
+     "nat": "NED",
+     "game": "Hayden",
+     "pid": 151069,
+     "jersey": 30,
+     "ovr": 62,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Connor van den Berg",
+     "GK",
+     "NED"
+    ],
+    [
+     2,
+     "Solomon Bonnah",
+     "DF",
+     "NED"
+    ],
+    [
+     6,
+     "Marco Schikora",
+     "MF",
+     "GER"
+    ],
+    [
+     7,
+     "Nino Zonneveld",
+     "FW",
+     "NED"
+    ],
+    [
+     8,
+     "Ricardo-Felipe Schwarz",
+     "MF",
+     "GER"
+    ],
+    [
+     9,
+     "Naoufal Bannis",
+     "FW",
+     "NED"
+    ],
+    [
+     11,
+     "Yuval Ranon",
+     "MF",
+     "ISR"
+    ],
+    [
+     13,
+     "João Pinto",
+     "FW",
+     "POR"
+    ],
+    [
+     14,
+     "Omar Achouitar",
+     "DF",
+     "NED"
+    ],
+    [
+     15,
+     "Luuk Wouters",
+     "DF",
+     "NED"
+    ],
+    [
+     17,
+     "Valon Zumberi",
+     "DF",
+     "KOS"
+    ],
+    [
+     19,
+     "Jeredy Hilterman",
+     "FW",
+     "NED"
+    ],
+    [
+     20,
+     "Filipe de Carvalho",
+     "MF",
+     "SUI"
+    ],
+    [
+     21,
+     "Ayman Sellouf",
+     "FW",
+     "NED"
+    ],
+    [
+     22,
+     "Xiamaro Thenu",
+     "DF",
+     "NED"
+    ],
+    [
+     24,
+     "Nathan Markelo",
+     "DF",
+     "CUW"
+    ],
+    [
+     25,
+     "Tyrick Bodak",
+     "GK",
+     "CUW"
+    ],
+    [
+     27,
+     "Eduard Probst",
+     "FW",
+     "GER"
+    ],
+    [
+     31,
+     "Maximilian Brüll",
+     "GK",
+     "GER"
+    ],
+    [
+     33,
+     "Mathijs Marschalk",
+     "MF",
+     "NED"
+    ],
+    [
+     34,
+     "Youssef Ouallil",
+     "MF",
+     "NED"
+    ],
+    [
+     38,
+     "Koen te Veluwe",
+     "MF",
+     "NED"
+    ],
+    [
+     42,
+     "Teun Bosch",
+     "MF",
+     "NED"
+    ],
+    [
+     43,
+     "Chiel Olde Keizer",
+     "DF",
+     "NED"
+    ]
+   ],
+   "extras": [
+    "M.van Sars",
+    "Buttner",
+    "Posma",
+    "Bakkel",
+    "M.Kreecels",
+    "Cornelise",
+    "Tiberas",
+    "Keller",
+    "Machias",
+    "de Regta",
+    "Godel",
+    "Platt",
+    "Miller",
+    "Zunbery",
+    "van Duivenboden",
+    "Stefan",
+    "G.Butner",
+    "Tahi",
+    "Dokuma",
+    "Hoger"
+   ]
+  },
+  "RKC": {
+   "tid": 20254,
+   "pairs": [
+    {
+     "real": "Mark Spenkelink",
+     "num": 16,
+     "pos": "GK",
+     "nat": "NED",
+     "game": "Spankelink",
+     "pid": 124566,
+     "jersey": 16,
+     "ovr": 63,
+     "sc": 0.9
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Niek Schiks",
+     "GK",
+     "NED"
+    ],
+    [
+     2,
+     "Bjarn Zorgdrager",
+     "DF",
+     "NED"
+    ],
+    [
+     3,
+     "Sven van der Plas",
+     "DF",
+     "NED"
+    ],
+    [
+     4,
+     "Liam van Gelderen",
+     "DF",
+     "SUR"
+    ],
+    [
+     5,
+     "Juan Castillo",
+     "DF",
+     "DOM"
+    ],
+    [
+     6,
+     "Loek Postma",
+     "DF",
+     "NED"
+    ],
+    [
+     7,
+     "Ryan Fage",
+     "MF",
+     "FRA"
+    ],
+    [
+     8,
+     "Jochem Nap",
+     "MF",
+     "NED"
+    ],
+    [
+     9,
+     "Jesse van de Haar",
+     "FW",
+     "NED"
+    ],
+    [
+     10,
+     "Thijs van Leeuwen",
+     "MF",
+     "NED"
+    ],
+    [
+     11,
+     "Yoram van der Veen",
+     "FW",
+     "NED"
+    ],
+    [
+     13,
+     "Xander Mulder",
+     "GK",
+     "NED"
+    ],
+    [
+     17,
+     "Roy Kuijpers",
+     "FW",
+     "NED"
+    ],
+    [
+     18,
+     "Rein van Hedel",
+     "MF",
+     "NED"
+    ],
+    [
+     19,
+     "Haye van Gemert",
+     "FW",
+     "NED"
+    ],
+    [
+     22,
+     "Tim van de Loo",
+     "MF",
+     "NED"
+    ],
+    [
+     24,
+     "Azzedine Dkidak",
+     "FW",
+     "NED"
+    ],
+    [
+     25,
+     "Navajo Bakboord",
+     "DF",
+     "SUR"
+    ],
+    [
+     27,
+     "Finn Stokkers",
+     "FW",
+     "NED"
+    ],
+    [
+     30,
+     "Jordy de Wijs",
+     "DF",
+     "NED"
+    ],
+    [
+     31,
+     "Luuk Vogels",
+     "GK",
+     "NED"
+    ],
+    [
+     33,
+     "Faissal Al Mazyani",
+     "DF",
+     "MAR"
+    ]
+   ],
+   "extras": [
+    "Horwen",
+    "Van den Baijs",
+    "R.El Yakouby",
+    "Brumah",
+    "Lalieveld",
+    "van der Venny",
+    "Vraegh",
+    "Ferida",
+    "Lokasa",
+    "Claonise",
+    "Bakali",
+    "Romeratoe",
+    "Takidina",
+    "Klamer",
+    "S.van der Watel",
+    "Stavanović",
+    "Niemejer"
+   ]
+  },
+  "Heracles": {
+   "tid": 20260,
+   "pairs": [
+    {
+     "real": "Fabian de Keijzer",
+     "num": 1,
+     "pos": "GK",
+     "nat": "NED",
+     "game": "de Keyjzer",
+     "pid": 106469,
+     "jersey": 1,
+     "ovr": 69,
+     "sc": 0.75
+    },
+    {
+     "real": "Mimeirhel Benita",
+     "num": 2,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "Benitta",
+     "pid": 117444,
+     "jersey": 2,
+     "ovr": 60,
+     "sc": 0.923
+    },
+    {
+     "real": "Djevencio van der Kust",
+     "num": 5,
+     "pos": "MF",
+     "nat": "SUR",
+     "game": "D.van der Kurst",
+     "pid": 142566,
+     "jersey": 5,
+     "ovr": 61,
+     "sc": 0.71
+    },
+    {
+     "real": "Mario Engels",
+     "num": 8,
+     "pos": "FW",
+     "nat": "GER",
+     "game": "Engel",
+     "pid": 106595,
+     "jersey": 8,
+     "ovr": 62,
+     "sc": 0.909
+    },
+    {
+     "real": "Thomas Bruns",
+     "num": 10,
+     "pos": "MF",
+     "nat": "NED",
+     "game": "T.Bluns",
+     "pid": 142591,
+     "jersey": 10,
+     "ovr": 66,
+     "sc": 0.727
+    },
+    {
+     "real": "Yvandro Borges Sanches",
+     "num": 21,
+     "pos": "MF",
+     "nat": "LUX",
+     "game": "Sanchez",
+     "pid": 137489,
+     "jersey": 21,
+     "ovr": 58,
+     "sc": 0.857
+    },
+    {
+     "real": "Diego van Oorschot",
+     "num": 30,
+     "pos": "FW",
+     "nat": "NED",
+     "game": "D.van Oorscot",
+     "pid": 142595,
+     "jersey": 20,
+     "ovr": 54,
+     "sc": 0.815
+    },
+    {
+     "real": "Sem Scheperman",
+     "num": 32,
+     "pos": "MF",
+     "nat": "NED",
+     "game": "S.Schepelman",
+     "pid": 142589,
+     "jersey": 32,
+     "ovr": 64,
+     "sc": 0.857
+    },
+    {
+     "real": "Stijn Bultman",
+     "num": 35,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "S.Burtman",
+     "pid": 142584,
+     "jersey": 35,
+     "ovr": 55,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Mario Borac",
+     "DF",
+     "CRO"
+    ],
+    [
+     4,
+     "Damon Mirani",
+     "DF",
+     "NED"
+    ],
+    [
+     6,
+     "David Tomić",
+     "MF",
+     "GER"
+    ],
+    [
+     7,
+     "Chafik Abbas",
+     "FW",
+     "FRA"
+    ],
+    [
+     9,
+     "Vincent Poppler",
+     "FW",
+     "SWE"
+    ],
+    [
+     11,
+     "Jeff Reine-Adélaïde",
+     "MF",
+     "FRA"
+    ],
+    [
+     14,
+     "Maurice Wrusch",
+     "MF",
+     "GER"
+    ],
+    [
+     15,
+     "David Vicente",
+     "DF",
+     "ESP"
+    ],
+    [
+     16,
+     "Timo Jansink",
+     "GK",
+     "NED"
+    ],
+    [
+     17,
+     "Tristan van Gilst",
+     "MF",
+     "NED"
+    ],
+    [
+     18,
+     "Max Hauswirth",
+     "DF",
+     "GER"
+    ],
+    [
+     19,
+     "Luka Kulenović",
+     "FW",
+     "BIH"
+    ],
+    [
+     20,
+     "Rhys Bozinovski",
+     "MF",
+     "AUS"
+    ],
+    [
+     22,
+     "Tarık Hamamioğlu",
+     "FW",
+     "TUR"
+    ],
+    [
+     23,
+     "Mike te Wierik",
+     "DF",
+     "NED"
+    ],
+    [
+     25,
+     "Manny Rodríguez",
+     "DF",
+     "DOM"
+    ],
+    [
+     26,
+     "Daniël van Kaam",
+     "MF",
+     "NED"
+    ],
+    [
+     27,
+     "Jean-Paul N'Djoli",
+     "FW",
+     "FRA"
+    ],
+    [
+     28,
+     "Giandro Sambo",
+     "FW",
+     "CUR"
+    ],
+    [
+     33,
+     "Leco Zeevalkink",
+     "GK",
+     "NED"
+    ],
+    [
+     39,
+     "Sil Blokhuis",
+     "FW",
+     "NED"
+    ]
+   ],
+   "extras": [
+    "Pasver",
+    "Hogma",
+    "VanHoorenbeck",
+    "te Wiek",
+    "E.Alstrand",
+    "Hroostich",
+    "Unuvar",
+    "W.Ourd-Chikh",
+    "Reina-Adele",
+    "M.Vejirovic",
+    "J.Wickhoff",
+    "L.Wehneyer",
+    "Laursin",
+    "Bakbord",
+    "S.Setic",
+    "L.Zefurk",
+    "B.Linbombe",
+    "D.Milany",
+    "Leardam",
+    "T.van Girst",
+    "D.van Kan"
+   ]
+  },
+  "Almere": {
+   "tid": 30171,
+   "pairs": [
+    {
+     "real": "Martin Wasinski",
+     "num": 2,
+     "pos": "DF",
+     "nat": "BEL",
+     "game": "Martinz",
+     "pid": 137482,
+     "jersey": 27,
+     "ovr": 64,
+     "sc": 0.923
+    },
+    {
+     "real": "Joey Jacobs",
+     "num": 3,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "J.Yacobs",
+     "pid": 142628,
+     "jersey": 3,
+     "ovr": 63,
+     "sc": 0.923
+    },
+    {
+     "real": "James Lawrence",
+     "num": 4,
+     "pos": "DF",
+     "nat": "WAL",
+     "game": "Lawrance",
+     "pid": 124712,
+     "jersey": 15,
+     "ovr": 66,
+     "sc": 0.875
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Wessel Speel",
+     "GK",
+     "NED"
+    ],
+    [
+     5,
+     "Teun Bijleveld",
+     "DF",
+     "NED"
+    ],
+    [
+     6,
+     "Enzo Cornelisse",
+     "MF",
+     "NED"
+    ],
+    [
+     7,
+     "Byron Burgering",
+     "FW",
+     "NED"
+    ],
+    [
+     8,
+     "Milan de Haan",
+     "MF",
+     "NED"
+    ],
+    [
+     9,
+     "Ferdy Druijf",
+     "FW",
+     "NED"
+    ],
+    [
+     10,
+     "Jamie Jacobs",
+     "FW",
+     "NED"
+    ],
+    [
+     11,
+     "Marley Dors",
+     "FW",
+     "SUR"
+    ],
+    [
+     12,
+     "Tristan Kuijsten",
+     "GK",
+     "NED"
+    ],
+    [
+     14,
+     "Mees Hoedemakers",
+     "MF",
+     "NED"
+    ],
+    [
+     15,
+     "Misha Engel",
+     "DF",
+     "NED"
+    ],
+    [
+     16,
+     "Tiziano Vianello",
+     "DF",
+     "NED"
+    ],
+    [
+     17,
+     "Emmanuel Poku",
+     "FW",
+     "NED"
+    ],
+    [
+     18,
+     "Bas Huisman",
+     "FW",
+     "NED"
+    ],
+    [
+     19,
+     "Olivier de Nijs",
+     "MF",
+     "NED"
+    ],
+    [
+     20,
+     "Job Kalisvaart",
+     "MF",
+     "NED"
+    ],
+    [
+     21,
+     "Hamza el Dahri",
+     "MF",
+     "NED"
+    ],
+    [
+     22,
+     "Emmanuel van de Blaak",
+     "DF",
+     "NED"
+    ],
+    [
+     23,
+     "Jochem Ritmeester van de Kamp",
+     "MF",
+     "NED"
+    ],
+    [
+     24,
+     "Malcolm Mateyo",
+     "GK",
+     "NED"
+    ],
+    [
+     25,
+     "Immanuel Ghogli",
+     "FW",
+     "NED"
+    ],
+    [
+     26,
+     "Twan van der Zeeuw",
+     "DF",
+     "NED"
+    ],
+    [
+     30,
+     "Joël van der Wilt",
+     "GK",
+     "NED"
+    ],
+    [
+     33,
+     "Jereno van Gom",
+     "DF",
+     "NED"
+    ],
+    [
+     44,
+     "Damian van Bruggen",
+     "DF",
+     "NED"
+    ]
+   ],
+   "extras": [
+    "S.Kerrel",
+    "Dankelruy",
+    "Visar",
+    "H.Akujoby",
+    "Provinda",
+    "Barboa",
+    "Carbonel",
+    "Kadila",
+    "A.Naric",
+    "Guillume",
+    "K.Harsen",
+    "J.Pulier",
+    "F.Matoil",
+    "Tahiry",
+    "T.Balbet",
+    "Delarier-Chaubet",
+    "A.Blan",
+    "Mamergi",
+    "Wendiger",
+    "van der Witt"
+   ]
+  },
+  "Breda": {
+   "tid": 30173,
+   "pairs": [
+    {
+     "real": "Boyd Lucassen",
+     "num": 2,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "Lucasson",
+     "pid": 106571,
+     "jersey": 2,
+     "ovr": 62,
+     "sc": 0.875
+    },
+    {
+     "real": "Leo Greiml",
+     "num": 4,
+     "pos": "DF",
+     "nat": "AUT",
+     "game": "Greimler",
+     "pid": 110957,
+     "jersey": 12,
+     "ovr": 64,
+     "sc": 0.857
+    },
+    {
+     "real": "Moussa Soumano",
+     "num": 9,
+     "pos": "FW",
+     "nat": "FRA",
+     "game": "Sumano",
+     "pid": 125240,
+     "jersey": 9,
+     "ovr": 63,
+     "sc": 0.923
+    },
+    {
+     "real": "Jan van den Bergh",
+     "num": 12,
+     "pos": "DF",
+     "nat": "BEL",
+     "game": "J.Van den Berg",
+     "pid": 142669,
+     "jersey": 5,
+     "ovr": 66,
+     "sc": 0.88
+    },
+    {
+     "real": "Kamal Sowah",
+     "num": 14,
+     "pos": "FW",
+     "nat": "GHA",
+     "game": "Soah",
+     "pid": 150661,
+     "jersey": 14,
+     "ovr": 64,
+     "sc": 0.889
+    },
+    {
+     "real": "Roy Kortsmit",
+     "num": 23,
+     "pos": "GK",
+     "nat": "NED",
+     "game": "R.Kortzmit",
+     "pid": 142666,
+     "jersey": 1,
+     "ovr": 65,
+     "sc": 0.824
+    },
+    {
+     "real": "Kostas Lamprou",
+     "num": 31,
+     "pos": "GK",
+     "nat": "GRE",
+     "game": "Lampro",
+     "pid": 106667,
+     "jersey": 31,
+     "ovr": 70,
+     "sc": 0.923
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Michael Verrips",
+     "GK",
+     "NED"
+    ],
+    [
+     5,
+     "Jayden Candelaria",
+     "DF",
+     "CUW"
+    ],
+    [
+     6,
+     "Max Balard",
+     "MF",
+     "AUS"
+    ],
+    [
+     7,
+     "Charles-Andreas Brym",
+     "FW",
+     "CAN"
+    ],
+    [
+     8,
+     "Fredrik Oldrup Jensen",
+     "MF",
+     "NOR"
+    ],
+    [
+     10,
+     "Mohamed Nassoh",
+     "MF",
+     "MAR"
+    ],
+    [
+     11,
+     "Raul Paula",
+     "MF",
+     "GER"
+    ],
+    [
+     17,
+     "Dion Versluis",
+     "FW",
+     "NED"
+    ],
+    [
+     19,
+     "Paul Gladon",
+     "FW",
+     "NED"
+    ],
+    [
+     20,
+     "Mats Seuntjens",
+     "MF",
+     "NED"
+    ],
+    [
+     22,
+     "Rio Hillen",
+     "DF",
+     "NED"
+    ],
+    [
+     25,
+     "Cherrion Valerius",
+     "DF",
+     "CUW"
+    ],
+    [
+     26,
+     "Pepijn Reulen",
+     "FW",
+     "NED"
+    ],
+    [
+     44,
+     "Thomas Goos",
+     "GK",
+     "NED"
+    ]
+   ],
+   "extras": [
+    "D.Bierica",
+    "B.Kempel",
+    "R.Hirren",
+    "Odoy",
+    "D.Jarosek",
+    "Ayeo",
+    "Haltby",
+    "C.Bryan",
+    "M.Roio",
+    "K.van der Verdt",
+    "Boele",
+    "Mahmudovich",
+    "Maltina",
+    "T.Trost",
+    "Salma",
+    "Omarsson",
+    "V.Wernerson",
+    "R.Kuipers",
+    "T.Marijisen",
+    "M.Kosernik",
+    "C.Stering",
+    "F.Yensen",
+    "J.Vert",
+    "C.Lemans",
+    "B.Gharidi",
+    "A.Kayed",
+    "R.Beserink",
+    "S.Akougil"
+   ]
+  },
+  "Dordrecht": {
+   "tid": 30174,
+   "pairs": [],
+   "unmatched": [
+    [
+     1,
+     "Calvin Raatsie",
+     "GK",
+     "NED"
+    ],
+    [
+     2,
+     "Adil Lechkar",
+     "DF",
+     "NED"
+    ],
+    [
+     3,
+     "Sem Valk",
+     "DF",
+     "NED"
+    ],
+    [
+     4,
+     "Jaden Pinas",
+     "DF",
+     "NED"
+    ],
+    [
+     5,
+     "Beni Mpanzu",
+     "DF",
+     "BEL"
+    ],
+    [
+     6,
+     "Lorenzo Riccio",
+     "MF",
+     "ITA"
+    ],
+    [
+     7,
+     "Nick Venema",
+     "FW",
+     "NED"
+    ],
+    [
+     9,
+     "Joey de Bie",
+     "FW",
+     "NED"
+    ],
+    [
+     11,
+     "Nicolás Rossi",
+     "FW",
+     "URU"
+    ],
+    [
+     13,
+     "Thomas Artic",
+     "GK",
+     "NED"
+    ],
+    [
+     17,
+     "Yunus Younous",
+     "FW",
+     "NED"
+    ],
+    [
+     20,
+     "Lawson Sunderland",
+     "MF",
+     "USA"
+    ],
+    [
+     21,
+     "Martin Vetkal",
+     "MF",
+     "EST"
+    ],
+    [
+     22,
+     "Jurre van Aken",
+     "DF",
+     "NED"
+    ],
+    [
+     23,
+     "Lucas Woudenberg",
+     "DF",
+     "NED"
+    ],
+    [
+     27,
+     "Dion Van Zanten",
+     "MF",
+     "NED"
+    ],
+    [
+     28,
+     "Tim Coremans",
+     "GK",
+     "NED"
+    ],
+    [
+     29,
+     "Ninho Felicia",
+     "FW",
+     "BON"
+    ],
+    [
+     34,
+     "Mohamed Kessrioui",
+     "FW",
+     "NED"
+    ],
+    [
+     44,
+     "Björn Hardley",
+     "DF",
+     "NED"
+    ],
+    [
+     45,
+     "Sidali Bouraba",
+     "MF",
+     "ALG"
+    ]
+   ],
+   "extras": [
+    "Biaia",
+    "J.Hirton",
+    "R.van Gorg",
+    "J.van der Awert",
+    "L.Seidoux",
+    "D.van Viaren",
+    "J.Schurman",
+    "R.Sein",
+    "B.Remst",
+    "R.Klivak",
+    "P.Doisburg",
+    "Yoan",
+    "Dary",
+    "Sandland",
+    "T.Bartusen",
+    "T.Dornbusch",
+    "B.Smoralczyk",
+    "E.Blito",
+    "J.Ouzu",
+    "J.de Ble"
+   ]
+  },
+  "Kerkrade": {
+   "tid": 30175,
+   "pairs": [
+    {
+     "real": "Justin Treichel",
+     "num": 1,
+     "pos": "GK",
+     "nat": "GER",
+     "game": "J.Stein",
+     "pid": 142707,
+     "jersey": 23,
+     "ovr": 54,
+     "sc": 0.833
+    },
+    {
+     "real": "Lucas Beerten",
+     "num": 15,
+     "pos": "MF",
+     "nat": "BEL",
+     "game": "L.Berten",
+     "pid": 142714,
+     "jersey": 15,
+     "ovr": 55,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Luuk Verheij",
+     "DF",
+     "NED"
+    ],
+    [
+     3,
+     "Marco Tol",
+     "DF",
+     "NED"
+    ],
+    [
+     4,
+     "Josh Nisbet",
+     "MF",
+     "AUS"
+    ],
+    [
+     5,
+     "Koen Jansen",
+     "DF",
+     "NED"
+    ],
+    [
+     6,
+     "Mitchel Paulissen",
+     "MF",
+     "NED"
+    ],
+    [
+     7,
+     "Cain Seedorf",
+     "FW",
+     "NED"
+    ],
+    [
+     11,
+     "Dyon Dorenbosch",
+     "MF",
+     "NED"
+    ],
+    [
+     14,
+     "Xander van den Berg",
+     "DF",
+     "NED"
+    ],
+    [
+     19,
+     "Noah Crabu",
+     "FW",
+     "NED"
+    ],
+    [
+     20,
+     "Mokrane Bentoumi",
+     "MF",
+     "ALG"
+    ],
+    [
+     21,
+     "Martin Stojcevic",
+     "GK",
+     "GER"
+    ],
+    [
+     24,
+     "Jérôme Déom",
+     "MF",
+     "BEL"
+    ],
+    [
+     25,
+     "Bram Marsman",
+     "DF",
+     "NED"
+    ],
+    [
+     26,
+     "Joey Sleegers",
+     "FW",
+     "NED"
+    ],
+    [
+     29,
+     "Zakarya Khaldi",
+     "FW",
+     "FRA"
+    ],
+    [
+     33,
+     "Dario Van den Buijs",
+     "DF",
+     "BEL"
+    ]
+   ],
+   "extras": [
+    "K.Bukel",
+    "T.Bijreveld",
+    "N.Röserel",
+    "B.Kogrin",
+    "B.Reis",
+    "Spyeringhs",
+    "Danels",
+    "Kongoro",
+    "N.Vosebert",
+    "E.Sauner",
+    "M.Gucru",
+    "L.Hammers",
+    "J.Muller",
+    "O.Dsepal",
+    "L.Bean",
+    "S.Bamgura",
+    "S.Krawsyk"
+   ]
+  },
+  "DenBosch": {
+   "tid": 30178,
+   "pairs": [
+    {
+     "real": "Pepijn van de Merbel",
+     "num": 1,
+     "pos": "GK",
+     "nat": "NED",
+     "game": "P.van de Melber",
+     "pid": 142761,
+     "jersey": 1,
+     "ovr": 59,
+     "sc": 0.69
+    },
+    {
+     "real": "Mees Laros",
+     "num": 33,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "M.Lanos",
+     "pid": 142766,
+     "jersey": 33,
+     "ovr": 58,
+     "sc": 0.727
+    },
+    {
+     "real": "Ilias Boumassaoudi",
+     "num": 40,
+     "pos": "MF",
+     "nat": "MAR",
+     "game": "I.Boumasaoudi",
+     "pid": 142775,
+     "jersey": 40,
+     "ovr": 56,
+     "sc": 0.917
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Sheddy Barglan",
+     "DF",
+     "SDN"
+    ],
+    [
+     3,
+     "Stan Maas",
+     "DF",
+     "NED"
+    ],
+    [
+     4,
+     "Jasper van Heertum",
+     "DF",
+     "NED"
+    ],
+    [
+     7,
+     "Genrich Sillé",
+     "FW",
+     "NED"
+    ],
+    [
+     8,
+     "Kévin Monzialo",
+     "FW",
+     "CGO"
+    ],
+    [
+     9,
+     "Sebastian Karlsson Grach",
+     "FW",
+     "SWE"
+    ],
+    [
+     10,
+     "Devon De Corte",
+     "MF",
+     "USA"
+    ],
+    [
+     11,
+     "Jack de Vries",
+     "FW",
+     "USA"
+    ],
+    [
+     15,
+     "Reda Akmum",
+     "DF",
+     "NED"
+    ],
+    [
+     17,
+     "Emian-Johar Semedo",
+     "FW",
+     "CUW"
+    ],
+    [
+     18,
+     "Hessel Eikelboom",
+     "MF",
+     "NED"
+    ],
+    [
+     19,
+     "Rafi Wolters",
+     "FW",
+     "NED"
+    ],
+    [
+     21,
+     "Finn Murre",
+     "GK",
+     "NED"
+    ],
+    [
+     22,
+     "Jeffry Fortes",
+     "DF",
+     "CPV"
+    ],
+    [
+     25,
+     "Silvan Bröker",
+     "DF",
+     "NED"
+    ],
+    [
+     27,
+     "Lorenzo Hoffman",
+     "FW",
+     "NED"
+    ],
+    [
+     31,
+     "Tjemme Bijlsma",
+     "GK",
+     "NED"
+    ],
+    [
+     41,
+     "Kai de Rooij",
+     "DF",
+     "NED"
+    ]
+   ],
+   "extras": [
+    "Bekker",
+    "N.de Grot",
+    "R.Herning",
+    "T.van Grunswen",
+    "R.Murdels",
+    "Achefey",
+    "G.Zeralem",
+    "D.Verberk",
+    "J.Vikario",
+    "D.Kuipers",
+    "L.Vlorijks",
+    "V.van den Bokert",
+    "Y.Ikeschta",
+    "D.Gyanfi",
+    "S.Mars",
+    "S.van der Heyden",
+    "V.Kotsebue",
+    "S.van Baker"
+   ]
+  },
+  "Emmen": {
+   "tid": 30179,
+   "pairs": [
+    {
+     "real": "Torben Rhein",
+     "num": 7,
+     "pos": "MF",
+     "nat": "GER",
+     "game": "T.Rein",
+     "pid": 142788,
+     "jersey": 8,
+     "ovr": 61,
+     "sc": 0.8
+    },
+    {
+     "real": "Freddy Quispel",
+     "num": 12,
+     "pos": "FW",
+     "nat": "NED",
+     "game": "F.Quisper",
+     "pid": 142792,
+     "jersey": 9,
+     "ovr": 58,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Joshua Mukeh",
+     "DF",
+     "NED"
+    ],
+    [
+     3,
+     "Yanis Dede-Lhomme",
+     "DF",
+     "FRA"
+    ],
+    [
+     4,
+     "Christian Østergaard",
+     "DF",
+     "DEN"
+    ],
+    [
+     5,
+     "David Voûte",
+     "DF",
+     "NED"
+    ],
+    [
+     6,
+     "Casper Staring",
+     "MF",
+     "NED"
+    ],
+    [
+     8,
+     "Luca Denk",
+     "MF",
+     "GER"
+    ],
+    [
+     9,
+     "Jack Cooper-Love",
+     "FW",
+     "SWE"
+    ],
+    [
+     10,
+     "Mustafa Abdullatif",
+     "FW",
+     "SYR"
+    ],
+    [
+     11,
+     "Nelson Amadin",
+     "FW",
+     "NED"
+    ],
+    [
+     14,
+     "Stan van Manen",
+     "FW",
+     "NED"
+    ],
+    [
+     15,
+     "Chiel Sunder",
+     "FW",
+     "NED"
+    ],
+    [
+     16,
+     "Dirk Baron",
+     "GK",
+     "NED"
+    ],
+    [
+     17,
+     "Bryan van Hove",
+     "DF",
+     "BEL"
+    ],
+    [
+     18,
+     "Vincent Carus",
+     "DF",
+     "GER"
+    ],
+    [
+     19,
+     "Adam Claridge",
+     "MF",
+     "DEN"
+    ],
+    [
+     20,
+     "Peter Quispel",
+     "MF",
+     "NED"
+    ],
+    [
+     21,
+     "Alessandro Hojabrpour",
+     "MF",
+     "CAN"
+    ],
+    [
+     22,
+     "Michael Breij",
+     "FW",
+     "NED"
+    ],
+    [
+     24,
+     "Luca Everink",
+     "DF",
+     "NED"
+    ],
+    [
+     25,
+     "Rodney Kongolo",
+     "MF",
+     "NED"
+    ],
+    [
+     27,
+     "Jasper Huijzer",
+     "FW",
+     "NED"
+    ],
+    [
+     38,
+     "Kevin Norder",
+     "GK",
+     "NED"
+    ],
+    [
+     40,
+     "Sybrand Veldhuis",
+     "MF",
+     "NED"
+    ]
+   ],
+   "extras": [
+    "Unbeha",
+    "D.Bose",
+    "G.Bork",
+    "P.Murdel",
+    "C.Randu",
+    "Nunamete",
+    "Kada",
+    "G.Yonan",
+    "J.Korings",
+    "F.Hamouti",
+    "Hoikstra",
+    "R.Jarwing",
+    "R.Schuten"
+   ]
+  },
+  "Helmond": {
+   "tid": 30182,
+   "pairs": [
+    {
+     "real": "Flor Van den Eynden",
+     "num": 3,
+     "pos": "DF",
+     "nat": "BEL",
+     "game": "F.Van den Einden",
+     "pid": 142823,
+     "jersey": 20,
+     "ovr": 60,
+     "sc": 0.828
+    },
+    {
+     "real": "Tarik Essakkati",
+     "num": 34,
+     "pos": "MF",
+     "nat": "NED",
+     "game": "T.Esakati",
+     "pid": 142833,
+     "jersey": 37,
+     "ovr": 59,
+     "sc": 0.824
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Menno Bergsen",
+     "GK",
+     "NED"
+    ],
+    [
+     2,
+     "Rayen van Bree",
+     "DF",
+     "NED"
+    ],
+    [
+     4,
+     "Brian Koglin",
+     "DF",
+     "GER"
+    ],
+    [
+     5,
+     "Thomas Poll",
+     "DF",
+     "NED"
+    ],
+    [
+     6,
+     "Michel Ludwig",
+     "MF",
+     "GER"
+    ],
+    [
+     7,
+     "Joep van der Sluijs",
+     "MF",
+     "NED"
+    ],
+    [
+     9,
+     "Labinot Bajrami",
+     "FW",
+     "SUI"
+    ],
+    [
+     10,
+     "Dean Huiberts",
+     "MF",
+     "NED"
+    ],
+    [
+     11,
+     "Livio Cicero",
+     "FW",
+     "BEL"
+    ],
+    [
+     14,
+     "Lovro Golič",
+     "DF",
+     "SLO"
+    ],
+    [
+     17,
+     "Wassim Lantaki",
+     "DF",
+     "MAR"
+    ],
+    [
+     19,
+     "Helgi Fródi Ingason",
+     "MF",
+     "ISL"
+    ],
+    [
+     20,
+     "Sem Dekkers",
+     "DF",
+     "NED"
+    ],
+    [
+     21,
+     "Wessel van der Heijden",
+     "GK",
+     "NED"
+    ],
+    [
+     22,
+     "Alen Dizdarević",
+     "MF",
+     "CRO"
+    ],
+    [
+     23,
+     "Adam El Maach",
+     "GK",
+     "MAR"
+    ],
+    [
+     26,
+     "Diego van Zutphen",
+     "DF",
+     "NED"
+    ],
+    [
+     30,
+     "Kiton Ekoli",
+     "FW",
+     "BEL"
+    ],
+    [
+     35,
+     "Nicolas Meissner",
+     "MF",
+     "ESP"
+    ],
+    [
+     41,
+     "Julian Geerts",
+     "FW",
+     "NED"
+    ],
+    [
+     43,
+     "Tijn Landheer",
+     "DF",
+     "NED"
+    ],
+    [
+     44,
+     "Xander van der Velde",
+     "MF",
+     "BEL"
+    ]
+   ],
+   "extras": [
+    "W.van der Stern",
+    "B.Van Hover",
+    "L.Zoneverd",
+    "E.Ostric",
+    "T.Pachorik",
+    "E.Lievtink",
+    "M.Chakon",
+    "M.Marahi",
+    "O.Zimuangara",
+    "A.van den Hulk",
+    "Botis",
+    "M.Ludvig",
+    "K.Abern",
+    "T.Hendlics"
+   ]
+  },
+  "Maastricht": {
+   "tid": 30183,
+   "pairs": [
+    {
+     "real": "Wout Coomans",
+     "num": 3,
+     "pos": "DF",
+     "nat": "BEL",
+     "game": "W.Comans",
+     "pid": 142841,
+     "jersey": 4,
+     "ovr": 59,
+     "sc": 0.857
+    },
+    {
+     "real": "Lars Schenk",
+     "num": 5,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "L.Shenk",
+     "pid": 142843,
+     "jersey": 34,
+     "ovr": 59,
+     "sc": 0.833
+    },
+    {
+     "real": "Stan Van Dessel",
+     "num": 8,
+     "pos": "MF",
+     "nat": "BEL",
+     "game": "S.Van Deser",
+     "pid": 142849,
+     "jersey": 8,
+     "ovr": 58,
+     "sc": 0.727
+    },
+    {
+     "real": "Mats Kuipers",
+     "num": 14,
+     "pos": "FW",
+     "nat": "BEL",
+     "game": "R.Matsy",
+     "pid": 142837,
+     "jersey": 12,
+     "ovr": 56,
+     "sc": 0.8
+    },
+    {
+     "real": "Djairo Tehubijuluw",
+     "num": 15,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "Theubijulow",
+     "pid": 152056,
+     "jersey": 25,
+     "ovr": 55,
+     "sc": 0.818
+    },
+    {
+     "real": "Amine Amgar",
+     "num": 20,
+     "pos": "MF",
+     "nat": "MAR",
+     "game": "Anmar",
+     "pid": 152061,
+     "jersey": 28,
+     "ovr": 52,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Hugo Wentges",
+     "GK",
+     "NED"
+    ],
+    [
+     2,
+     "Milan Hofland",
+     "DF",
+     "NED"
+    ],
+    [
+     4,
+     "Dylan Timber",
+     "DF",
+     "CUW"
+    ],
+    [
+     6,
+     "Finn Dicke",
+     "DF",
+     "NED"
+    ],
+    [
+     7,
+     "Lennerd Daneels",
+     "FW",
+     "BEL"
+    ],
+    [
+     9,
+     "Toni Vinogradac",
+     "FW",
+     "CRO"
+    ],
+    [
+     10,
+     "Olivier Dumont",
+     "MF",
+     "BEL"
+    ],
+    [
+     11,
+     "Thijme Verheijen",
+     "FW",
+     "NED"
+    ],
+    [
+     12,
+     "Sep van der Heijden",
+     "GK",
+     "NED"
+    ],
+    [
+     16,
+     "Robert Klaasen",
+     "MF",
+     "NED"
+    ],
+    [
+     17,
+     "Sil van der Wegen",
+     "MF",
+     "NED"
+    ],
+    [
+     18,
+     "Elias Sierra",
+     "MF",
+     "BEL"
+    ],
+    [
+     19,
+     "Mika Luijendijk",
+     "MF",
+     "NED"
+    ],
+    [
+     21,
+     "Delano Asante",
+     "FW",
+     "NED"
+    ],
+    [
+     22,
+     "Sven Bouland",
+     "DF",
+     "NED"
+    ],
+    [
+     23,
+     "Victor Goffings",
+     "GK",
+     "NED"
+    ],
+    [
+     24,
+     "Noa el Hamdaoui",
+     "MF",
+     "NED"
+    ],
+    [
+     26,
+     "Adriano Mpudi",
+     "MF",
+     "BEL"
+    ],
+    [
+     27,
+     "Naïm Matoug",
+     "MF",
+     "NED"
+    ],
+    [
+     29,
+     "Onesime Zimuangana",
+     "FW",
+     "NED"
+    ],
+    [
+     31,
+     "Yanis Bourard",
+     "DF",
+     "MAR"
+    ]
+   ],
+   "extras": [
+    "Frantis",
+    "T.Segers",
+    "M.Kreinen",
+    "Smets",
+    "R.Bufrahy",
+    "Tymas",
+    "Braeken",
+    "C.Mmaea",
+    "T.Lanbrix",
+    "A.Kasimi",
+    "F.Sregers",
+    "El Hary",
+    "L.Fonbert",
+    "S.Perdens",
+    "K.Sey",
+    "Sangin",
+    "N.El Basry",
+    "Esaias",
+    "Hoflen",
+    "Beek",
+    "Ö.Artas",
+    "A.Librci"
+   ]
+  },
+  "Oss": {
+   "tid": 30184,
+   "pairs": [
+    {
+     "real": "Mike Havekotte",
+     "num": 1,
+     "pos": "GK",
+     "nat": "NED",
+     "game": "M.Havekote",
+     "pid": 142859,
+     "jersey": 1,
+     "ovr": 65,
+     "sc": 0.889
+    },
+    {
+     "real": "Jay Kuiper",
+     "num": 24,
+     "pos": "DF",
+     "nat": "NED",
+     "game": "J.Kuipers",
+     "pid": 142869,
+     "jersey": 8,
+     "ovr": 57,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Ilounga Pata",
+     "DF",
+     "SMA"
+    ],
+    [
+     3,
+     "Leonel Miguel",
+     "DF",
+     "NED"
+    ],
+    [
+     4,
+     "Quint Jansen",
+     "DF",
+     "NED"
+    ],
+    [
+     5,
+     "Jafar Bynoe",
+     "MF",
+     "NED"
+    ],
+    [
+     6,
+     "Milo Horemans",
+     "MF",
+     "BEL"
+    ],
+    [
+     8,
+     "Marcelencio Esajas",
+     "MF",
+     "NED"
+    ],
+    [
+     9,
+     "Andy Visser",
+     "FW",
+     "NED"
+    ],
+    [
+     10,
+     "Richard van der Venne",
+     "MF",
+     "NED"
+    ],
+    [
+     11,
+     "Justin Mathieu",
+     "MF",
+     "NED"
+    ],
+    [
+     12,
+     "Alvaro Henry",
+     "DF",
+     "NED"
+    ],
+    [
+     14,
+     "Maxim Mariani",
+     "DF",
+     "NED"
+    ],
+    [
+     16,
+     "Devin Remie",
+     "GK",
+     "NED"
+    ],
+    [
+     17,
+     "Mauresmo Hinoke",
+     "FW",
+     "NED"
+    ],
+    [
+     18,
+     "Kyanno Silva",
+     "FW",
+     "NED"
+    ],
+    [
+     19,
+     "Franslyn Nsingi",
+     "FW",
+     "NED"
+    ],
+    [
+     21,
+     "Thomas Cox",
+     "DF",
+     "NED"
+    ],
+    [
+     22,
+     "Mert Erkan",
+     "FW",
+     "TUR"
+    ],
+    [
+     23,
+     "Delano Vianello",
+     "DF",
+     "NED"
+    ],
+    [
+     25,
+     "Jacey Pansa",
+     "FW",
+     "NED"
+    ],
+    [
+     26,
+     "Julian Kuijpers",
+     "DF",
+     "NED"
+    ],
+    [
+     27,
+     "Maurilio de Lannoy",
+     "FW",
+     "NED"
+    ],
+    [
+     28,
+     "Lars Mol",
+     "MF",
+     "NED"
+    ],
+    [
+     30,
+     "Sven Jansen",
+     "GK",
+     "NED"
+    ],
+    [
+     33,
+     "Lars Zonneveld",
+     "DF",
+     "NED"
+    ]
+   ],
+   "extras": [
+    "Mac-Intorsch",
+    "Niewport",
+    "X.Lanbrix",
+    "R.Deker",
+    "M.Lemans",
+    "M.van Royen",
+    "S.Zirman",
+    "G.Koter",
+    "A.Stenslud",
+    "A.Allemersch",
+    "S.Doncoure",
+    "M.van Helk",
+    "D.Rardan",
+    "T.Corks",
+    "J.Van Boster",
+    "G.Darmen",
+    "K.Lokiri",
+    "T.Wirdeboer",
+    "J.Murdel",
+    "Dienias",
+    "Troupel"
+   ]
+  },
+  "Venlo": {
+   "tid": 30181,
+   "pairs": [
+    {
+     "real": "Thomas Janssen",
+     "num": 19,
+     "pos": "FW",
+     "nat": "NED",
+     "game": "Jannsen",
+     "pid": 106609,
+     "jersey": 3,
+     "ovr": 61,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Trevor Doornbusch",
+     "GK",
+     "CUW"
+    ],
+    [
+     4,
+     "Éanna Clancy",
+     "DF",
+     "IRL"
+    ],
+    [
+     5,
+     "Lars de Blok",
+     "DF",
+     "NED"
+    ],
+    [
+     7,
+     "Edhy Zuliani",
+     "MF",
+     "ALG"
+    ],
+    [
+     8,
+     "Ismail Oulad M'Hand",
+     "MF",
+     "MAR"
+    ],
+    [
+     10,
+     "Alex Schalk",
+     "MF",
+     "NED"
+    ],
+    [
+     11,
+     "Nassim Ait Mouhou",
+     "FW",
+     "MAR"
+    ],
+    [
+     13,
+     "Youri Schoonderwaldt",
+     "GK",
+     "NED"
+    ],
+    [
+     14,
+     "Raf Vullers",
+     "MF",
+     "NED"
+    ],
+    [
+     15,
+     "Tijn Joosten",
+     "DF",
+     "NED"
+    ],
+    [
+     16,
+     "Philip Heise",
+     "DF",
+     "GER"
+    ],
+    [
+     17,
+     "Gino Schmidt",
+     "FW",
+     "GER"
+    ],
+    [
+     21,
+     "Luis Görlich",
+     "DF",
+     "GER"
+    ],
+    [
+     22,
+     "Zidane Taylan",
+     "GK",
+     "NED"
+    ],
+    [
+     24,
+     "Mohammed Odriss",
+     "MF",
+     "NED"
+    ],
+    [
+     31,
+     "Michael Davis",
+     "DF",
+     "BEL"
+    ],
+    [
+     33,
+     "Gabin Blancquart",
+     "DF",
+     "FRA"
+    ],
+    [
+     34,
+     "Amir Rais",
+     "MF",
+     "NED"
+    ],
+    [
+     35,
+     "Yousri El Anbri",
+     "DF",
+     "NED"
+    ],
+    [
+     38,
+     "Tristan Schenkhuizen",
+     "MF",
+     "NED"
+    ]
+   ],
+   "extras": [
+    "D.van Croy",
+    "R.Kerting",
+    "D.Tinbel",
+    "J.Kruskens",
+    "R.Lasouwers",
+    "E.Siera",
+    "R.Sedracek",
+    "M.Odlise",
+    "T.Verhejen",
+    "K.Donmtsios",
+    "M.Hegy",
+    "D.van Zutfen",
+    "T.Schlick",
+    "de Boehr"
+   ]
+  }
+ },
+ "BR2": {
+  "AmericaMG": {
+   "tid": 20278,
+   "pairs": [
+    {
+     "real": "Willian",
+     "num": 9,
+     "pos": "FW",
+     "nat": "BRA",
+     "game": "Willian",
+     "pid": 123293,
+     "jersey": 12,
+     "ovr": 73,
+     "sc": 1.0
+    },
+    {
+     "real": "Cássio",
+     "num": 27,
+     "pos": "GK",
+     "nat": "BRA",
+     "game": "Cassio",
+     "pid": 101616,
+     "jersey": 1,
+     "ovr": 72,
+     "sc": 1.0
+    },
+    {
+     "real": "Ricardo Silva",
+     "num": 45,
+     "pos": "DF",
+     "nat": "BRA",
+     "game": "Shilva",
+     "pid": 123296,
+     "jersey": 16,
+     "ovr": 73,
+     "sc": 0.909
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Gustavo",
+     "GK",
+     "BRA"
+    ],
+    [
+     2,
+     "Emerson Santos",
+     "DF",
+     "BRA"
+    ],
+    [
+     3,
+     "Nathan",
+     "DF",
+     "BRA"
+    ],
+    [
+     4,
+     "Rafa Barcelos",
+     "DF",
+     "BRA"
+    ],
+    [
+     5,
+     "Fernando Elizari",
+     "MF",
+     "ARG"
+    ],
+    [
+     7,
+     "Guilherme Parede",
+     "FW",
+     "BRA"
+    ],
+    [
+     8,
+     "Felipe Amaral",
+     "MF",
+     "BRA"
+    ],
+    [
+     10,
+     "Yago Souza",
+     "MF",
+     "BRA"
+    ],
+    [
+     11,
+     "Gabriel Barros",
+     "FW",
+     "BRA"
+    ],
+    [
+     12,
+     "Samuel Alves",
+     "DF",
+     "BRA"
+    ],
+    [
+     15,
+     "Alex da Silva",
+     "DF",
+     "BRA"
+    ],
+    [
+     16,
+     "Alê",
+     "MF",
+     "BRA"
+    ],
+    [
+     17,
+     "Gonzalo Mastriani",
+     "FW",
+     "URU"
+    ],
+    [
+     19,
+     "William",
+     "GK",
+     "BRA"
+    ],
+    [
+     20,
+     "Paulo Victor",
+     "FW",
+     "BRA"
+    ],
+    [
+     21,
+     "Eduardo Person",
+     "MF",
+     "BRA"
+    ],
+    [
+     22,
+     "Léo Alaba",
+     "DF",
+     "BRA"
+    ],
+    [
+     28,
+     "Kappel",
+     "DF",
+     "BRA"
+    ],
+    [
+     29,
+     "Dalbert",
+     "DF",
+     "BRA"
+    ],
+    [
+     33,
+     "Yago Santos de Andrade",
+     "MF",
+     "BRA"
+    ],
+    [
+     37,
+     "Julio César",
+     "MF",
+     "BRA"
+    ],
+    [
+     42,
+     "Jhonny",
+     "DF",
+     "BRA"
+    ],
+    [
+     43,
+     "Wesley Augusto Henn Marth",
+     "DF",
+     "BRA"
+    ],
+    [
+     44,
+     "Thallyson",
+     "DF",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "Caiki",
+    "Viyalba",
+    "Bluno",
+    "L.Romeyro",
+    "Wandarsen",
+    "Edu",
+    "Pereirra",
+    "Jorgge",
+    "Wallace",
+    "K.Kenje",
+    "M.Rhykman",
+    "K.Aroio",
+    "O.Cozta",
+    "Bolasye",
+    "Fagnel",
+    "Marcero",
+    "K.Pratez",
+    "Christia",
+    "Marquinos",
+    "Jasus",
+    "G.Berbosa",
+    "Sinistera",
+    "Henriques",
+    "Gamera",
+    "Arago",
+    "Jappa"
+   ]
+  },
+  "Goianiense": {
+   "tid": 20293,
+   "pairs": [],
+   "unmatched": [],
+   "extras": [
+    "Benites",
+    "B.Collaco",
+    "Moacil",
+    "Arilson",
+    "A.Shilva",
+    "P.Banbu",
+    "Ralf",
+    "V.Andrate",
+    "Apoti",
+    "Matheuzino",
+    "D.Amolim",
+    "Kyo",
+    "Almeda",
+    "Netho",
+    "Marloni",
+    "Luiz",
+    "Waverton",
+    "Koslinski",
+    "Moda"
+   ]
+  },
+  "Avai": {
+   "tid": 20281,
+   "pairs": [
+    {
+     "real": "Wallison",
+     "num": 2,
+     "pos": "DF",
+     "nat": "Brazil",
+     "game": "Alison",
+     "pid": 107262,
+     "jersey": 25,
+     "ovr": 66,
+     "sc": 0.857
+    },
+    {
+     "real": "Gabriel Pereira Simples",
+     "num": 4,
+     "pos": "DF",
+     "nat": "Brazil",
+     "game": "M.Gabrier",
+     "pid": 107260,
+     "jersey": 10,
+     "ovr": 69,
+     "sc": 0.8
+    },
+    {
+     "real": "Felipe Vizeu",
+     "num": 11,
+     "pos": "FW",
+     "nat": "Brazil",
+     "game": "Felipe",
+     "pid": 123764,
+     "jersey": 6,
+     "ovr": 62,
+     "sc": 1.0
+    },
+    {
+     "real": "Thayllon Roberth dos Santos Rebelo",
+     "num": 43,
+     "pos": "FW",
+     "nat": "Brazil",
+     "game": "Roberto",
+     "pid": 125157,
+     "jersey": 50,
+     "ovr": 63,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Igor Bohn",
+     "GK",
+     "Brazil"
+    ],
+    [
+     3,
+     "Allyson",
+     "DF",
+     "Brazil"
+    ],
+    [
+     5,
+     "Romildo Del Piage",
+     "MF",
+     "Brazil"
+    ],
+    [
+     6,
+     "Nicolás Cabral",
+     "DF",
+     "Argentina"
+    ],
+    [
+     8,
+     "Luiz Henrique",
+     "MF",
+     "Brazil"
+    ],
+    [
+     9,
+     "Léo Gamalho",
+     "FW",
+     "Brazil"
+    ],
+    [
+     10,
+     "Jean Lucas",
+     "MF",
+     "Brazil"
+    ],
+    [
+     16,
+     "Jamerson dos Santos Nascimento",
+     "MF",
+     "Brazil"
+    ],
+    [
+     17,
+     "Nicolas Tedesco Borba",
+     "MF",
+     "Brazil"
+    ],
+    [
+     19,
+     "Vinicius Gugel da Silva",
+     "MF",
+     "Brazil"
+    ],
+    [
+     20,
+     "Isaías Pereira da Silva",
+     "FW",
+     "Brazil"
+    ],
+    [
+     21,
+     "Otávio Augusto de Paula Passos",
+     "GK",
+     "Brazil"
+    ],
+    [
+     22,
+     "Kauã Fernandes Cardoso",
+     "DF",
+     "Brazil"
+    ],
+    [
+     27,
+     "José Artur Pedro da Silva",
+     "MF",
+     "Brazil"
+    ],
+    [
+     33,
+     "Leonardo Schirmer Schmorantz",
+     "GK",
+     "Brazil"
+    ],
+    [
+     38,
+     "Jefferson Maciel Bento",
+     "DF",
+     "Brazil"
+    ]
+   ],
+   "extras": [
+    "Rodri",
+    "Castan",
+    "Manan",
+    "Barrato",
+    "Carloz",
+    "F.Materus",
+    "Poro",
+    "Gonsálvez",
+    "Meritao",
+    "Sergino",
+    "Rocchia",
+    "Vitorre",
+    "Mai",
+    "Suto",
+    "Mela",
+    "Naldo",
+    "M.Teixeira",
+    "Caico",
+    "Elison",
+    "John",
+    "Eryk",
+    "Guillermo"
+   ]
+  },
+  "BotafogoSP": {
+   "tid": 20288,
+   "pairs": [],
+   "unmatched": [],
+   "extras": [
+    "Felipe",
+    "M.Selgio",
+    "L.Santoz",
+    "L.Diax",
+    "E.Cordova",
+    "J.Jimenes",
+    "Caike",
+    "L.Siqueirra",
+    "N.Berora",
+    "Ayron",
+    "R.Erias",
+    "R.Pereirra",
+    "G.Magrao",
+    "G.Baros",
+    "Marlinha",
+    "Roverto",
+    "Glauko",
+    "Miqueiaz",
+    "Caio",
+    "Paba"
+   ]
+  },
+  "Ceara": {
+   "tid": 20010,
+   "pairs": [
+    {
+     "real": "Richard",
+     "num": 1,
+     "pos": "GK",
+     "nat": "Brazil",
+     "game": "Richards",
+     "pid": 152150,
+     "jersey": 26,
+     "ovr": 71,
+     "sc": 0.933
+    },
+    {
+     "real": "Rafael Ramos",
+     "num": 2,
+     "pos": "DF",
+     "nat": "Portugal",
+     "game": "R.Ramoz",
+     "pid": 101617,
+     "jersey": 2,
+     "ovr": 76,
+     "sc": 0.727
+    },
+    {
+     "real": "Luiz Otávio",
+     "num": 4,
+     "pos": "DF",
+     "nat": "Brazil",
+     "game": "Otávia",
+     "pid": 125287,
+     "jersey": 13,
+     "ovr": 70,
+     "sc": 0.833
+    },
+    {
+     "real": "Matheus Araújo",
+     "num": 8,
+     "pos": "MF",
+     "nat": "Brazil",
+     "game": "Araujo",
+     "pid": 122977,
+     "jersey": 8,
+     "ovr": 69,
+     "sc": 1.0
+    },
+    {
+     "real": "Lucas Mugni",
+     "num": 10,
+     "pos": "MF",
+     "nat": "Argentina",
+     "game": "Mugani",
+     "pid": 119627,
+     "jersey": 10,
+     "ovr": 67,
+     "sc": 0.909
+    },
+    {
+     "real": "Vinicius Zanocelo",
+     "num": 25,
+     "pos": "MF",
+     "nat": "Brazil",
+     "game": "V.Zanocero",
+     "pid": 101706,
+     "jersey": 25,
+     "ovr": 76,
+     "sc": 0.824
+    },
+    {
+     "real": "Vina",
+     "num": 29,
+     "pos": "MF",
+     "nat": "Brazil",
+     "game": "Bina",
+     "pid": 119443,
+     "jersey": 29,
+     "ovr": 68,
+     "sc": 0.75
+    },
+    {
+     "real": "Éder",
+     "num": 33,
+     "pos": "DF",
+     "nat": "Brazil",
+     "game": "Eder",
+     "pid": 109425,
+     "jersey": 33,
+     "ovr": 70,
+     "sc": 1.0
+    }
+   ],
+   "unmatched": [
+    [
+     6,
+     "Sávio",
+     "DF",
+     "Brazil"
+    ],
+    [
+     7,
+     "Giovanni Pavani",
+     "MF",
+     "Brazil"
+    ],
+    [
+     12,
+     "Sanchez José",
+     "DF",
+     "Brazil"
+    ],
+    [
+     13,
+     "Luiz Otávio",
+     "DF",
+     "Brazil"
+    ],
+    [
+     16,
+     "Rian Santana",
+     "FW",
+     "Brazil"
+    ],
+    [
+     18,
+     "Júlio",
+     "DF",
+     "Brazil"
+    ],
+    [
+     19,
+     "Stanley Boateng",
+     "DF",
+     "Ghana"
+    ],
+    [
+     22,
+     "Matheus Nogueira",
+     "GK",
+     "Brazil"
+    ],
+    [
+     23,
+     "Caíque França",
+     "GK",
+     "Brazil"
+    ],
+    [
+     26,
+     "Richardson",
+     "MF",
+     "Brazil"
+    ],
+    [
+     31,
+     "Bryan",
+     "DF",
+     "Brazil"
+    ],
+    [
+     40,
+     "Melk",
+     "MF",
+     "Brazil"
+    ],
+    [
+     41,
+     "Gustavo Martins",
+     "GK",
+     "Brazil"
+    ],
+    [
+     44,
+     "Kaiky",
+     "DF",
+     "Brazil"
+    ],
+    [
+     45,
+     "Vini Uchella",
+     "DF",
+     "Brazil"
+    ]
+   ],
+   "extras": [
+    "Fernandez",
+    "Baia",
+    "W.Machador",
+    "Marllan",
+    "Fabio",
+    "Diggino",
+    "Henriques",
+    "A.Galeeno",
+    "Raur",
+    "Bayer",
+    "Richarde",
+    "Sabral",
+    "Lourenco",
+    "Bluno",
+    "Fernande",
+    "Lacerto",
+    "Keller",
+    "Aylen",
+    "Rodrige",
+    "Nicolaz",
+    "L.Lema",
+    "Luca"
+   ]
+  },
+  "CRB": {
+   "tid": 20431,
+   "pairs": [
+    {
+     "real": "Matheus Albino",
+     "num": 12,
+     "pos": "GK",
+     "nat": "BRA",
+     "game": "Matheuz",
+     "pid": 125656,
+     "jersey": 10,
+     "ovr": 72,
+     "sc": 0.857
+    },
+    {
+     "real": "Fábio Henrique",
+     "num": 23,
+     "pos": "GK",
+     "nat": "BRA",
+     "game": "Fabrisio",
+     "pid": 119011,
+     "jersey": 23,
+     "ovr": 67,
+     "sc": 0.769
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Vitor Caetano",
+     "GK",
+     "BRA"
+    ],
+    [
+     7,
+     "Douglas Baggio",
+     "FW",
+     "BRA"
+    ],
+    [
+     10,
+     "Danielzinho",
+     "MF",
+     "BRA"
+    ],
+    [
+     11,
+     "Guilherme Pato",
+     "FW",
+     "BRA"
+    ],
+    [
+     16,
+     "David Braw",
+     "MF",
+     "BRA"
+    ],
+    [
+     17,
+     "Thiago Fernandes",
+     "FW",
+     "BRA"
+    ],
+    [
+     19,
+     "Luiz Phellype",
+     "FW",
+     "BRA"
+    ],
+    [
+     20,
+     "Vinícius Nunes",
+     "FW",
+     "BRA"
+    ],
+    [
+     21,
+     "Pedro Castro",
+     "MF",
+     "BRA"
+    ],
+    [
+     22,
+     "Bressan",
+     "DF",
+     "BRA"
+    ],
+    [
+     27,
+     "Fábio Alemão",
+     "DF",
+     "BRA"
+    ],
+    [
+     28,
+     "Mikael",
+     "FW",
+     "BRA"
+    ],
+    [
+     31,
+     "Ruy",
+     "DF",
+     "BRA"
+    ],
+    [
+     32,
+     "Hereda",
+     "DF",
+     "BRA"
+    ],
+    [
+     36,
+     "Lucas Lovat",
+     "DF",
+     "BRA"
+    ],
+    [
+     44,
+     "Henri",
+     "DF",
+     "BRA"
+    ],
+    [
+     45,
+     "Patrick de Lucca",
+     "MF",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "Alcanjo",
+    "Jamelson",
+    "ZeMarcos",
+    "Nelis",
+    "Claudinha",
+    "Ronalde",
+    "Bararhas",
+    "Ozvaldo",
+    "L.Blaga",
+    "Kayzar",
+    "F.Cardozo",
+    "Romarino",
+    "Kaceres",
+    "M.Jesuz",
+    "R.Ryler",
+    "Camatanga",
+    "Pepe",
+    "Ericksen",
+    "Ismaer",
+    "R.Lopez",
+    "Ribero",
+    "Fintelman",
+    "Raymond",
+    "Olivaira",
+    "Coto",
+    "Aitol",
+    "Carlinho"
+   ]
+  },
+  "Criciuma": {
+   "tid": 20281,
+   "pairs": [
+    {
+     "real": "Alisson",
+     "num": 1,
+     "pos": "GK",
+     "nat": "BRA",
+     "game": "Alison",
+     "pid": 107262,
+     "jersey": 25,
+     "ovr": 66,
+     "sc": 0.923
+    },
+    {
+     "real": "Rodrigo",
+     "num": 3,
+     "pos": "DF",
+     "nat": "BRA",
+     "game": "Rodri",
+     "pid": 107254,
+     "jersey": 3,
+     "ovr": 62,
+     "sc": 0.833
+    },
+    {
+     "real": "Luciano Castán",
+     "num": 4,
+     "pos": "DF",
+     "nat": "BRA",
+     "game": "Castan",
+     "pid": 123291,
+     "jersey": 40,
+     "ovr": 65,
+     "sc": 1.0
+    },
+    {
+     "real": "Fellipe Mateus",
+     "num": 7,
+     "pos": "MF",
+     "nat": "BRA",
+     "game": "Felipe",
+     "pid": 123764,
+     "jersey": 6,
+     "ovr": 62,
+     "sc": 0.923
+    },
+    {
+     "real": "Jhonata Robert",
+     "num": 10,
+     "pos": "FW",
+     "nat": "BRA",
+     "game": "Roberto",
+     "pid": 125157,
+     "jersey": 50,
+     "ovr": 63,
+     "sc": 0.923
+    },
+    {
+     "real": "João Carlos Barros Lopes",
+     "num": 21,
+     "pos": "FW",
+     "nat": "BRA",
+     "game": "Carloz",
+     "pid": 125296,
+     "jersey": 20,
+     "ovr": 64,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     5,
+     "Eduardo",
+     "MF",
+     "BRA"
+    ],
+    [
+     6,
+     "Marcinho",
+     "DF",
+     "BRA"
+    ],
+    [
+     8,
+     "Guilherme Lobo",
+     "MF",
+     "BRA"
+    ],
+    [
+     9,
+     "Nicolas",
+     "FW",
+     "BRA"
+    ],
+    [
+     11,
+     "Romarinho",
+     "FW",
+     "BRA"
+    ],
+    [
+     13,
+     "Waguininho",
+     "FW",
+     "BRA"
+    ],
+    [
+     14,
+     "Ronald",
+     "MF",
+     "BRA"
+    ],
+    [
+     15,
+     "Octávio Henrique",
+     "DF",
+     "BRA"
+    ],
+    [
+     18,
+     "Steven Nufour",
+     "MF",
+     "GHA"
+    ],
+    [
+     19,
+     "Thales",
+     "FW",
+     "BRA"
+    ],
+    [
+     20,
+     "Bidu",
+     "FW",
+     "BRA"
+    ],
+    [
+     22,
+     "Marcelo Hermes",
+     "DF",
+     "BRA"
+    ],
+    [
+     31,
+     "Hiago Alves",
+     "DF",
+     "BRA"
+    ],
+    [
+     32,
+     "Airton",
+     "GK",
+     "BRA"
+    ],
+    [
+     33,
+     "Yuri",
+     "FW",
+     "BRA"
+    ],
+    [
+     34,
+     "Bruno Alves",
+     "DF",
+     "BRA"
+    ],
+    [
+     36,
+     "Heitor Roca",
+     "DF",
+     "BRA"
+    ],
+    [
+     37,
+     "César Martins",
+     "DF",
+     "BRA"
+    ],
+    [
+     39,
+     "Thales",
+     "FW",
+     "BRA"
+    ],
+    [
+     41,
+     "Jean",
+     "MF",
+     "BRA"
+    ],
+    [
+     43,
+     "Ruan Carvalho",
+     "DF",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "Manan",
+    "Barrato",
+    "M.Gabrier",
+    "F.Materus",
+    "Poro",
+    "Gonsálvez",
+    "Meritao",
+    "Sergino",
+    "Rocchia",
+    "Vitorre",
+    "Mai",
+    "Suto",
+    "Mela",
+    "Naldo",
+    "M.Teixeira",
+    "Caico",
+    "Elison",
+    "John",
+    "Eryk",
+    "Guillermo"
+   ]
+  },
+  "Goias": {
+   "tid": 20008,
+   "pairs": [
+    {
+     "real": "Thiago Rodrigues",
+     "num": 1,
+     "pos": "GK",
+     "nat": "Brazil",
+     "game": "Rodrigue",
+     "pid": 151397,
+     "jersey": 9,
+     "ovr": 63,
+     "sc": 0.941
+    },
+    {
+     "real": "Lucas Lima",
+     "num": 10,
+     "pos": "MF",
+     "nat": "Brazil",
+     "game": "Lucas",
+     "pid": 151387,
+     "jersey": 25,
+     "ovr": 61,
+     "sc": 1.0
+    },
+    {
+     "real": "Lucas Ribeiro",
+     "num": 14,
+     "pos": "DF",
+     "nat": "Brazil",
+     "game": "Luca",
+     "pid": 151388,
+     "jersey": 21,
+     "ovr": 62,
+     "sc": 0.889
+    },
+    {
+     "real": "Pedro Junqueira",
+     "num": 17,
+     "pos": "FW",
+     "nat": "Brazil",
+     "game": "Pedrin",
+     "pid": 151395,
+     "jersey": 17,
+     "ovr": 59,
+     "sc": 0.727
+    },
+    {
+     "real": "Tadeu",
+     "num": 23,
+     "pos": "GK",
+     "nat": "Brazil",
+     "game": "Tadau",
+     "pid": 123698,
+     "jersey": 23,
+     "ovr": 77,
+     "sc": 0.8
+    },
+    {
+     "real": "Wellington Rato",
+     "num": 27,
+     "pos": "FW",
+     "nat": "Brazil",
+     "game": "Wellingdon",
+     "pid": 101660,
+     "jersey": 5,
+     "ovr": 65,
+     "sc": 0.9
+    },
+    {
+     "real": "Murillo Victorio",
+     "num": 32,
+     "pos": "GK",
+     "nat": "Brazil",
+     "game": "Marillo",
+     "pid": 151378,
+     "jersey": 76,
+     "ovr": 61,
+     "sc": 0.857
+    },
+    {
+     "real": "Ezequiel Ribeiro",
+     "num": 41,
+     "pos": "GK",
+     "nat": "Brazil",
+     "game": "Ezequel",
+     "pid": 151377,
+     "jersey": 41,
+     "ovr": 65,
+     "sc": 0.933
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Rodrigo Soares",
+     "DF",
+     "Brazil"
+    ],
+    [
+     3,
+     "Luiz Felipe",
+     "DF",
+     "Brazil"
+    ],
+    [
+     4,
+     "Ramon",
+     "DF",
+     "Brazil"
+    ],
+    [
+     5,
+     "Machado",
+     "MF",
+     "Brazil"
+    ],
+    [
+     6,
+     "Nicolas Vichiatto",
+     "DF",
+     "Brazil"
+    ],
+    [
+     8,
+     "Juninho",
+     "MF",
+     "Brazil"
+    ],
+    [
+     9,
+     "Anselmo Ramon",
+     "FW",
+     "Brazil"
+    ],
+    [
+     11,
+     "Felipe Clemente",
+     "FW",
+     "Brazil"
+    ],
+    [
+     15,
+     "Esli García",
+     "FW",
+     "Venezuela"
+    ],
+    [
+     18,
+     "Cadu",
+     "FW",
+     "Brazil"
+    ],
+    [
+     19,
+     "Willie",
+     "FW",
+     "Brazil"
+    ],
+    [
+     21,
+     "Jean Carlos",
+     "FW",
+     "Brazil"
+    ],
+    [
+     25,
+     "Luisão",
+     "DF",
+     "Brazil"
+    ],
+    [
+     28,
+     "Gegê",
+     "MF",
+     "Brazil"
+    ],
+    [
+     29,
+     "Murilo Câmara",
+     "DF",
+     "Brazil"
+    ],
+    [
+     35,
+     "Lucas Rodrigues",
+     "MF",
+     "Brazil"
+    ],
+    [
+     40,
+     "Kadu Souza",
+     "FW",
+     "Brazil"
+    ]
+   ],
+   "extras": [
+    "DJ",
+    "Messyas",
+    "Ribairo",
+    "Borell",
+    "Junior",
+    "Rilder",
+    "Welton",
+    "Galhaldo",
+    "Lepa",
+    "Stenson",
+    "J.Vásques",
+    "Henriq",
+    "Gavia",
+    "Aroisio",
+    "Luston",
+    "Andrada",
+    "Gonçalvas",
+    "Mela",
+    "Marcan",
+    "Regis",
+    "Vitinio",
+    "Edson",
+    "Hugho",
+    "Lato",
+    "Reynalda",
+    "Rodreguez",
+    "Barcelli",
+    "Deniel",
+    "D.Bras",
+    "Titi",
+    "Caido"
+   ]
+  },
+  "Londrina": {
+   "tid": 20024,
+   "pairs": [],
+   "unmatched": [
+    [
+     1,
+     "Luan Ribeiro",
+     "GK",
+     "BRA"
+    ],
+    [
+     2,
+     "Nino Paraíba",
+     "DF",
+     "BRA"
+    ],
+    [
+     4,
+     "Wallace",
+     "DF",
+     "BRA"
+    ],
+    [
+     5,
+     "André Luiz",
+     "MF",
+     "BRA"
+    ],
+    [
+     6,
+     "Rafael Monteiro",
+     "DF",
+     "BRA"
+    ],
+    [
+     8,
+     "Lucas Marques",
+     "MF",
+     "BRA"
+    ],
+    [
+     9,
+     "Bruno Santos",
+     "FW",
+     "BRA"
+    ],
+    [
+     11,
+     "Iago Teles",
+     "FW",
+     "BRA"
+    ],
+    [
+     12,
+     "Zanella",
+     "GK",
+     "BRA"
+    ],
+    [
+     13,
+     "André Dhominique",
+     "DF",
+     "BRA"
+    ],
+    [
+     14,
+     "Yuri Lima",
+     "DF",
+     "BRA"
+    ],
+    [
+     15,
+     "Gabriel Lacerda",
+     "DF",
+     "BRA"
+    ],
+    [
+     18,
+     "Paulinho Moccelin",
+     "FW",
+     "BRA"
+    ],
+    [
+     21,
+     "Fabrício",
+     "FW",
+     "BRA"
+    ],
+    [
+     23,
+     "William Pottker",
+     "FW",
+     "BRA"
+    ],
+    [
+     29,
+     "Vítor Jacaré",
+     "FW",
+     "BRA"
+    ],
+    [
+     30,
+     "Maurício Kozlinski",
+     "GK",
+     "BRA"
+    ],
+    [
+     32,
+     "João Tavares",
+     "MF",
+     "BRA"
+    ],
+    [
+     33,
+     "Kevyn Lucas",
+     "DF",
+     "BRA"
+    ],
+    [
+     34,
+     "Heron",
+     "DF",
+     "BRA"
+    ],
+    [
+     39,
+     "Caio",
+     "DF",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "U.Simard",
+    "B.Robertson",
+    "S.Herrera",
+    "X.Lewis",
+    "G.Carpintero",
+    "I.Davidson",
+    "E.Ramirez",
+    "E.Nieves",
+    "Q.Blanco",
+    "M.Bernard",
+    "M.Sordo",
+    "F.Bernier",
+    "X.Smith",
+    "W.Aragonés",
+    "T.Simard",
+    "F.Martel",
+    "B.Pirera",
+    "G.Boudreau",
+    "Q.Brown",
+    "Q.Morris"
+   ]
+  },
+  "Nautico": {
+   "tid": 20291,
+   "pairs": [
+    {
+     "real": "Muriel",
+     "num": 1,
+     "pos": "GK",
+     "nat": "BRA",
+     "game": "Murel",
+     "pid": 147362,
+     "jersey": 22,
+     "ovr": 65,
+     "sc": 0.909
+    },
+    {
+     "real": "Jean Carlos",
+     "num": 10,
+     "pos": "MF",
+     "nat": "BRA",
+     "game": "Carlao",
+     "pid": 107454,
+     "jersey": 4,
+     "ovr": 57,
+     "sc": 0.833
+    }
+   ],
+   "unmatched": [
+    [
+     2,
+     "Arnaldo",
+     "DF",
+     "BRA"
+    ],
+    [
+     3,
+     "Betão",
+     "DF",
+     "BRA"
+    ],
+    [
+     5,
+     "Auremir",
+     "MF",
+     "BRA"
+    ],
+    [
+     6,
+     "Ryan",
+     "DF",
+     "BRA"
+    ],
+    [
+     7,
+     "Vinícius",
+     "FW",
+     "BRA"
+    ],
+    [
+     8,
+     "Wenderson",
+     "MF",
+     "BRA"
+    ],
+    [
+     9,
+     "Paulo Sérgio",
+     "FW",
+     "BRA"
+    ],
+    [
+     11,
+     "Victor Andrade",
+     "FW",
+     "BRA"
+    ],
+    [
+     13,
+     "Índio",
+     "DF",
+     "BRA"
+    ],
+    [
+     14,
+     "Matheus Ribeiro",
+     "DF",
+     "BRA"
+    ],
+    [
+     15,
+     "Léo Oliveira",
+     "MF",
+     "BRA"
+    ],
+    [
+     16,
+     "Luiz Claudio",
+     "FW",
+     "BRA"
+    ],
+    [
+     19,
+     "Kauã Maranhão",
+     "FW",
+     "BRA"
+    ],
+    [
+     20,
+     "Kevyn",
+     "FW",
+     "BRA"
+    ],
+    [
+     21,
+     "Felipe Redaelli",
+     "MF",
+     "BRA"
+    ],
+    [
+     22,
+     "Patricio Núñez",
+     "MF",
+     "ARG"
+    ],
+    [
+     23,
+     "Igor Fernandes",
+     "DF",
+     "BRA"
+    ],
+    [
+     24,
+     "Benjamín Borasi",
+     "FW",
+     "ARG"
+    ],
+    [
+     25,
+     "Mateus Silva",
+     "DF",
+     "BRA"
+    ],
+    [
+     27,
+     "Luiz Felipe",
+     "MF",
+     "BRA"
+    ],
+    [
+     29,
+     "Júnior Todinho",
+     "FW",
+     "BRA"
+    ],
+    [
+     34,
+     "Wanderson",
+     "DF",
+     "BRA"
+    ],
+    [
+     35,
+     "Pedro Ricardo",
+     "MF",
+     "BRA"
+    ],
+    [
+     37,
+     "Juan Rikelme",
+     "DF",
+     "BRA"
+    ],
+    [
+     41,
+     "Samuel",
+     "MF",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "J.Rucas",
+    "B.Bispor",
+    "T.Elnes",
+    "V.Ferras",
+    "Jobsen",
+    "Dzhavan",
+    "Jeuvanio",
+    "R.Franko",
+    "Kyeyza",
+    "L.Phelippe",
+    "J.Tavarles",
+    "Ailton",
+    "Wellingdon",
+    "J.Carros"
+   ]
+  },
+  "Novorizontino": {
+   "tid": 20006,
+   "pairs": [
+    {
+     "real": "Hector Bianchi Rodrigues",
+     "num": 35,
+     "pos": "MF",
+     "nat": "BRA",
+     "game": "Rodrigue",
+     "pid": 152859,
+     "jersey": 2,
+     "ovr": 66,
+     "sc": 0.941
+    },
+    {
+     "real": "Luiz Gabriel Magalhães de Freitas",
+     "num": 38,
+     "pos": "MF",
+     "nat": "BRA",
+     "game": "Gabrier",
+     "pid": 119195,
+     "jersey": 6,
+     "ovr": 74,
+     "sc": 0.857
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Lucas Pereira Ribeiro de Souza",
+     "GK",
+     "BRA"
+    ],
+    [
+     2,
+     "Madson",
+     "DF",
+     "BRA"
+    ],
+    [
+     4,
+     "Patrick",
+     "DF",
+     "BRA"
+    ],
+    [
+     5,
+     "Sander",
+     "DF",
+     "BRA"
+    ],
+    [
+     6,
+     "Luís Oyama",
+     "MF",
+     "BRA"
+    ],
+    [
+     8,
+     "Christian Ortiz",
+     "FW",
+     "ARG"
+    ],
+    [
+     9,
+     "Carlão",
+     "FW",
+     "BRA"
+    ],
+    [
+     11,
+     "Robson",
+     "FW",
+     "BRA"
+    ],
+    [
+     12,
+     "João Vitor Indalecio Scapin",
+     "GK",
+     "BRA"
+    ],
+    [
+     14,
+     "Eduardo Brock",
+     "DF",
+     "BRA"
+    ],
+    [
+     15,
+     "Luiz Otávio Maria",
+     "MF",
+     "BRA"
+    ],
+    [
+     16,
+     "Vinícius Paiva",
+     "FW",
+     "BRA"
+    ],
+    [
+     19,
+     "Diego Galo",
+     "MF",
+     "BRA"
+    ],
+    [
+     23,
+     "Jhones Kauê Almeida dos Santos",
+     "FW",
+     "BRA"
+    ],
+    [
+     24,
+     "Jhilmar Lora",
+     "DF",
+     "PER"
+    ],
+    [
+     28,
+     "Marlon",
+     "MF",
+     "BRA"
+    ],
+    [
+     30,
+     "Nicolas Careca",
+     "FW",
+     "BRA"
+    ],
+    [
+     31,
+     "César",
+     "GK",
+     "BRA"
+    ],
+    [
+     33,
+     "Renato Palm",
+     "DF",
+     "BRA"
+    ],
+    [
+     34,
+     "Edson Nogueira Uzelin Júnior",
+     "MF",
+     "BRA"
+    ],
+    [
+     36,
+     "Miguel Tavares Contiero",
+     "MF",
+     "BRA"
+    ],
+    [
+     37,
+     "Carlos Roberto Pereira Santos",
+     "MF",
+     "BRA"
+    ],
+    [
+     41,
+     "Francisco Reidiney Duarte Gomes",
+     "FW",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "Cleiton",
+    "Vanderran",
+    "Henriqua",
+    "J.Hultado",
+    "Fabino",
+    "Ramiro",
+    "Jon",
+    "Barbasa",
+    "Fernandez",
+    "E.Shasha",
+    "Mendez",
+    "Aliks",
+    "G.Marquez",
+    "Fabrícia",
+    "F.Cozta",
+    "Bruninio",
+    "Saint Ana",
+    "Kaweh",
+    "Vinicino",
+    "Mosqera",
+    "Vithino",
+    "Nito",
+    "Nevis",
+    "Lusão",
+    "Pita",
+    "Santoz",
+    "Palazios",
+    "Capishaba",
+    "Fernandis",
+    "Guilhermo",
+    "Praxetes"
+   ]
+  },
+  "PontePreta": {
+   "tid": 20289,
+   "pairs": [
+    {
+     "real": "Élvis",
+     "num": 10,
+     "pos": "MF",
+     "nat": "BRA",
+     "game": "Elvis",
+     "pid": 107419,
+     "jersey": 10,
+     "ovr": 59,
+     "sc": 1.0
+    },
+    {
+     "real": "Diogo Silva",
+     "num": 12,
+     "pos": "GK",
+     "nat": "BRA",
+     "game": "Silba",
+     "pid": 152354,
+     "jersey": 4,
+     "ovr": 63,
+     "sc": 0.8
+    }
+   ],
+   "unmatched": [
+    [
+     1,
+     "Guilherme Viana Sant'Ana",
+     "GK",
+     "BRA"
+    ],
+    [
+     5,
+     "Rodrigo Souza",
+     "MF",
+     "BRA"
+    ],
+    [
+     7,
+     "Diego Tavares",
+     "FW",
+     "BRA"
+    ],
+    [
+     8,
+     "André",
+     "MF",
+     "BRA"
+    ],
+    [
+     9,
+     "William Pottker",
+     "FW",
+     "BRA"
+    ],
+    [
+     14,
+     "Danilo Barcelos",
+     "DF",
+     "BRA"
+    ],
+    [
+     16,
+     "Léo Gomes",
+     "MF",
+     "BRA"
+    ],
+    [
+     17,
+     "Miguel Morais Silva Santos",
+     "MF",
+     "BRA"
+    ],
+    [
+     19,
+     "Jonathan Cafú",
+     "FW",
+     "BRA"
+    ],
+    [
+     20,
+     "Murilo Henrique Cavalcante",
+     "MF",
+     "BRA"
+    ],
+    [
+     22,
+     "Thalys Victor Martins Sena",
+     "DF",
+     "BRA"
+    ],
+    [
+     30,
+     "Vinicius Ferrari Andreoli",
+     "GK",
+     "BRA"
+    ],
+    [
+     33,
+     "David Braz",
+     "DF",
+     "BRA"
+    ],
+    [
+     35,
+     "Gustavo Telles",
+     "MF",
+     "BRA"
+    ],
+    [
+     38,
+     "Tárik",
+     "MF",
+     "BRA"
+    ],
+    [
+     44,
+     "Márcio Silva",
+     "DF",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "Wilian",
+    "Rokka",
+    "Casto",
+    "Rafael",
+    "Niccolodi",
+    "Ramin",
+    "Santo",
+    "Diasy",
+    "Dudu",
+    "Novaez",
+    "Sergino",
+    "Lopaz",
+    "Joilson",
+    "Portugal",
+    "Eddson",
+    "Gabrel",
+    "Lucien",
+    "Filip",
+    "Emerzon",
+    "Riveiro",
+    "Roca",
+    "Carlus",
+    "Rennato",
+    "Briton",
+    "Jey",
+    "Caskais",
+    "Ragis",
+    "Bela"
+   ]
+  },
+  "VilaNova": {
+   "tid": 20008,
+   "pairs": [
+    {
+     "real": "Helton Leite",
+     "num": 1,
+     "pos": "GK",
+     "nat": "BRA",
+     "game": "Welton",
+     "pid": 151396,
+     "jersey": 31,
+     "ovr": 55,
+     "sc": 0.833
+    },
+    {
+     "real": "Samuel Lucas",
+     "num": 14,
+     "pos": "DF",
+     "nat": "BRA",
+     "game": "Lucas",
+     "pid": 151387,
+     "jersey": 25,
+     "ovr": 61,
+     "sc": 1.0
+    },
+    {
+     "real": "Lucas Soares",
+     "num": 27,
+     "pos": "FW",
+     "nat": "BRA",
+     "game": "Luca",
+     "pid": 151388,
+     "jersey": 21,
+     "ovr": 62,
+     "sc": 0.889
+    }
+   ],
+   "unmatched": [
+    [
+     3,
+     "Tiago Pagnussat",
+     "DF",
+     "BRA"
+    ],
+    [
+     4,
+     "Douglas Mendes",
+     "DF",
+     "BRA"
+    ],
+    [
+     5,
+     "João Vieira",
+     "MF",
+     "BRA"
+    ],
+    [
+     6,
+     "Higor Luiz",
+     "DF",
+     "BRA"
+    ],
+    [
+     7,
+     "André Luis",
+     "FW",
+     "BRA"
+    ],
+    [
+     8,
+     "Willian Maranhão",
+     "MF",
+     "BRA"
+    ],
+    [
+     9,
+     "Lincoln",
+     "FW",
+     "BRA"
+    ],
+    [
+     10,
+     "Marquinhos Gabriel",
+     "MF",
+     "BRA"
+    ],
+    [
+     11,
+     "Ryan",
+     "FW",
+     "BRA"
+    ],
+    [
+     13,
+     "Willian Formiga",
+     "DF",
+     "BRA"
+    ],
+    [
+     15,
+     "Dudu",
+     "MF",
+     "BRA"
+    ],
+    [
+     16,
+     "Igor Cariús",
+     "DF",
+     "BRA"
+    ],
+    [
+     17,
+     "Everton Galdino",
+     "FW",
+     "BRA"
+    ],
+    [
+     18,
+     "Enzo",
+     "MF",
+     "BRA"
+    ],
+    [
+     20,
+     "Nathan Camargo",
+     "MF",
+     "BRA"
+    ],
+    [
+     21,
+     "Higor Meritão",
+     "MF",
+     "BRA"
+    ],
+    [
+     22,
+     "Hayner",
+     "DF",
+     "BRA"
+    ],
+    [
+     23,
+     "Jonathan Costa",
+     "DF",
+     "BRA"
+    ],
+    [
+     25,
+     "Miguel Delfino",
+     "MF",
+     "BRA"
+    ],
+    [
+     26,
+     "Luiz Eduardo",
+     "DF",
+     "BRA"
+    ],
+    [
+     28,
+     "Rian Lucas",
+     "FW",
+     "BRA"
+    ],
+    [
+     29,
+     "Dalberson",
+     "GK",
+     "BRA"
+    ],
+    [
+     30,
+     "Gabriel Átila",
+     "GK",
+     "BRA"
+    ],
+    [
+     31,
+     "Dodô",
+     "MF",
+     "BRA"
+    ],
+    [
+     32,
+     "Gabriel Delfino",
+     "DF",
+     "BRA"
+    ],
+    [
+     33,
+     "Bruno Xavier",
+     "FW",
+     "BRA"
+    ],
+    [
+     34,
+     "Alex Haren",
+     "DF",
+     "BRA"
+    ],
+    [
+     35,
+     "Breno",
+     "MF",
+     "BRA"
+    ],
+    [
+     39,
+     "João Pedro",
+     "FW",
+     "BRA"
+    ],
+    [
+     43,
+     "Lucas Paulino",
+     "DF",
+     "BRA"
+    ],
+    [
+     44,
+     "Carlos Eduardo",
+     "DF",
+     "BRA"
+    ]
+   ],
+   "extras": [
+    "Tadau",
+    "DJ",
+    "Messyas",
+    "Ribairo",
+    "Borell",
+    "Wellingdon",
+    "Junior",
+    "Rilder",
+    "Galhaldo",
+    "Lepa",
+    "Stenson",
+    "J.Vásques",
+    "Henriq",
+    "Gavia",
+    "Aroisio",
+    "Luston",
+    "Pedrin",
+    "Andrada",
+    "Gonçalvas",
+    "Mela",
+    "Marcan",
+    "Regis",
+    "Vitinio",
+    "Edson",
+    "Hugho",
+    "Lato",
+    "Reynalda",
+    "Rodreguez",
+    "Marillo",
+    "Barcelli",
+    "Deniel",
+    "D.Bras",
+    "Rodrigue",
+    "Titi",
+    "Ezequel",
+    "Caido"
+   ]
+  }
+ }
+}

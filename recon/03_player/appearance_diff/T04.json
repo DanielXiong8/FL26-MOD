@@ -1,0 +1,15 @@
+{
+  "test_id": "T04",
+  "pid": 175927,
+  "team": 20030,
+  "jersey": 73,
+  "field": "byte_1",
+  "old_value": 30,
+  "new_value": 32,
+  "baseline_bytes": "011e001300021700017f000000002a007f",
+  "modified_bytes": "0120001300021700017f000000002a007f",
+  "visible_change": null,
+  "change_type": null,
+  "confidence": null,
+  "note": ""
+}

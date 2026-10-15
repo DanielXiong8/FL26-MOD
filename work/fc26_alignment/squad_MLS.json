@@ -1,0 +1,4194 @@
+{
+ "Atlanta": [
+  [
+   1,
+   "Lucas Hoyos",
+   "GK",
+   "ARG"
+  ],
+  [
+   3,
+   "Elías Báez",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Enea Mihaj",
+   "DF",
+   "ALB"
+  ],
+  [
+   6,
+   "Júnior Alonso",
+   "DF",
+   "PRY"
+  ],
+  [
+   7,
+   "Steven Alzate",
+   "MF",
+   "COL"
+  ],
+  [
+   8,
+   "Tristan Muyumba",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Emmanuel Latte Lath",
+   "FW",
+   "CIV"
+  ],
+  [
+   10,
+   "Miguel Almirón",
+   "FW",
+   "PAR"
+  ],
+  [
+   11,
+   "Giuliano Galoppo",
+   "MF",
+   "ARG"
+  ],
+  [
+   14,
+   "Mauricio Amaro",
+   "MF",
+   "URU"
+  ],
+  [
+   16,
+   "Adrian Gill (soccer)",
+   "MF",
+   "USA"
+  ],
+  [
+   19,
+   "Sérgio Santos (footballer, born 1994)",
+   "FW",
+   "BRA"
+  ],
+  [
+   20,
+   "Luke Brennan (soccer, born 2005)",
+   "FW",
+   "USA"
+  ],
+  [
+   22,
+   "Fafà Picault",
+   "FW",
+   "HAI"
+  ],
+  [
+   23,
+   "Adyn Torres",
+   "MF",
+   "PUR"
+  ],
+  [
+   27,
+   "Paulo Díaz",
+   "DF",
+   "CHI"
+  ],
+  [
+   28,
+   "Will Reilly",
+   "MF",
+   "USA"
+  ],
+  [
+   30,
+   "Cayman Togashi",
+   "FW",
+   "JPN"
+  ],
+  [
+   35,
+   "Jay Fortune",
+   "MF",
+   "TRI"
+  ],
+  [
+   36,
+   "Breel Embolo",
+   "FW",
+   "SUI"
+  ],
+  [
+   40,
+   "Santiago Pita",
+   "MF",
+   "VEN"
+  ],
+  [
+   42,
+   "Jayden Hibbert",
+   "GK",
+   "JAM"
+  ]
+ ],
+ "Austin": [
+  [
+   1,
+   "Brad Stuver",
+   "GK",
+   "USA"
+  ],
+  [
+   2,
+   "Riley Thomas",
+   "DF",
+   "USA"
+  ],
+  [
+   3,
+   "Mikkel Desler",
+   "DF",
+   "DEN"
+  ],
+  [
+   4,
+   "Brendan Hines-Ike",
+   "DF",
+   "USA"
+  ],
+  [
+   5,
+   "Oleksandr Svatok",
+   "DF",
+   "UKR"
+  ],
+  [
+   6,
+   "Ilie Sánchez",
+   "MF",
+   "ESP"
+  ],
+  [
+   9,
+   "Brandon Vázquez",
+   "FW",
+   "USA"
+  ],
+  [
+   10,
+   "Myrto Uzuni",
+   "FW",
+   "ALB"
+  ],
+  [
+   11,
+   "Facundo Torres",
+   "FW",
+   "URU"
+  ],
+  [
+   12,
+   "Damian Las",
+   "GK",
+   "USA"
+  ],
+  [
+   14,
+   "Besard Šabović",
+   "MF",
+   "SWE"
+  ],
+  [
+   15,
+   "Jon Bell",
+   "DF",
+   "JAM"
+  ],
+  [
+   17,
+   "Jon Gallagher",
+   "DF",
+   "IRL"
+  ],
+  [
+   19,
+   "CJ Fodrey",
+   "FW",
+   "USA"
+  ],
+  [
+   20,
+   "Nicolás Dubersarsky",
+   "MF",
+   "ARG"
+  ],
+  [
+   21,
+   "Christian Ramirez (soccer, born 1991)",
+   "FW",
+   "USA"
+  ],
+  [
+   22,
+   "Chris Applewhite",
+   "DF",
+   "USA"
+  ],
+  [
+   23,
+   "Žan Kolmanič",
+   "DF",
+   "SVN"
+  ],
+  [
+   24,
+   "Jorge Alastuey",
+   "MF",
+   "ESP"
+  ],
+  [
+   29,
+   "Guilherme Biro (footballer, born 2000)",
+   "DF",
+   "BRA"
+  ],
+  [
+   30,
+   "Joseph Rosales",
+   "DF",
+   "HON"
+  ],
+  [
+   32,
+   "Micah Burton",
+   "MF",
+   "USA"
+  ],
+  [
+   35,
+   "Mateja Đorđević",
+   "DF",
+   "SRB"
+  ],
+  [
+   38,
+   "Ervin Torres",
+   "MF",
+   "USA"
+  ]
+ ],
+ "Charlotte": [
+  [
+   1,
+   "Kristijan Kahlina",
+   "GK",
+   "CRO"
+  ],
+  [
+   3,
+   "Tim Ream",
+   "DF",
+   "USA"
+  ],
+  [
+   4,
+   "Andrew Privett",
+   "DF",
+   "USA"
+  ],
+  [
+   7,
+   "Archie Goodwin (soccer)",
+   "FW",
+   "AUS"
+  ],
+  [
+   8,
+   "Ashley Westwood (footballer, born 1990)",
+   "MF",
+   "ENG"
+  ],
+  [
+   9,
+   "Idan Toklomati",
+   "FW",
+   "ISR"
+  ],
+  [
+   10,
+   "Allan Saint-Maximin",
+   "FW",
+   "FRA"
+  ],
+  [
+   11,
+   "Liel Abada",
+   "FW",
+   "ISR"
+  ],
+  [
+   13,
+   "Brandt Bronico",
+   "MF",
+   "USA"
+  ],
+  [
+   14,
+   "Nathan Byrne",
+   "DF",
+   "ENG"
+  ],
+  [
+   15,
+   "Harry Toffolo",
+   "DF",
+   "ENG"
+  ],
+  [
+   16,
+   "Pep Biel",
+   "MF",
+   "ESP"
+  ],
+  [
+   17,
+   "Luca de la Torre",
+   "MF",
+   "USA"
+  ],
+  [
+   19,
+   "Nikola Petković (footballer, born 2003)",
+   "MF",
+   "SRB"
+  ],
+  [
+   20,
+   "Baye Coulibaly",
+   "MF",
+   "MLI"
+  ],
+  [
+   21,
+   "Tyler Miller",
+   "GK",
+   "USA"
+  ],
+  [
+   22,
+   "Henry Kessler (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   23,
+   "David Schnegg",
+   "DF",
+   "AUT"
+  ],
+  [
+   24,
+   "Mikah Thomas",
+   "DF",
+   "USA"
+  ],
+  [
+   25,
+   "Tyger Smalls",
+   "FW",
+   "ENG"
+  ],
+  [
+   26,
+   "Chituru Odunze",
+   "GK",
+   "USA"
+  ],
+  [
+   27,
+   "Nimfasha Berchimas",
+   "FW",
+   "USA"
+  ],
+  [
+   28,
+   "Djibril Diani",
+   "MF",
+   "FRA"
+  ],
+  [
+   34,
+   "Andrew Johnson",
+   "DF",
+   "VIN"
+  ],
+  [
+   35,
+   "Will Cleary",
+   "DF",
+   "USA"
+  ],
+  [
+   37,
+   "Rodolfo Aloko",
+   "FW",
+   "BEN"
+  ],
+  [
+   39,
+   "Jack Neeley",
+   "DF",
+   "USA"
+  ],
+  [
+   41,
+   "Brian Romero",
+   "FW",
+   "USA"
+  ],
+  [
+   42,
+   "Isaac Walker",
+   "GK",
+   "USA"
+  ],
+  [
+   44,
+   "Morrison Agyemang",
+   "DF",
+   "GHA"
+  ]
+ ],
+ "Chicago": [
+  [
+   1,
+   "Chris Brady (soccer)",
+   "GK",
+   "USA"
+  ],
+  [
+   2,
+   "Leonardo Barroso",
+   "DF",
+   "POR"
+  ],
+  [
+   3,
+   "Jack Elliott (footballer)",
+   "DF",
+   "ENG"
+  ],
+  [
+   4,
+   "Mbekezeli Mbokazi",
+   "DF",
+   "RSA"
+  ],
+  [
+   5,
+   "Sam Rogers (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   6,
+   "Anton Salétros",
+   "MF",
+   "SWE"
+  ],
+  [
+   7,
+   "Maren Haile-Selassie",
+   "MF",
+   "SUI"
+  ],
+  [
+   9,
+   "Robert Lewandowski",
+   "FW",
+   "POL"
+  ],
+  [
+   10,
+   "André Franco",
+   "MF",
+   "POR"
+  ],
+  [
+   11,
+   "Philip Zinckernagel",
+   "FW",
+   "DEN"
+  ],
+  [
+   12,
+   "Puso Dithejane",
+   "FW",
+   "RSA"
+  ],
+  [
+   14,
+   "Viktor Radojević",
+   "DF",
+   "SRB"
+  ],
+  [
+   15,
+   "Andrew Gutman",
+   "DF",
+   "USA"
+  ],
+  [
+   17,
+   "Robin Lod",
+   "MF",
+   "FIN"
+  ],
+  [
+   18,
+   "Johan Gomez",
+   "FW",
+   "USA"
+  ],
+  [
+   19,
+   "Jonathan Bamba",
+   "FW",
+   "CIV"
+  ],
+  [
+   21,
+   "Andreas Hanche-Olsen",
+   "DF",
+   "NOR"
+  ],
+  [
+   22,
+   "Mauricio Pineda (soccer, born 1997)",
+   "MF",
+   "USA"
+  ],
+  [
+   23,
+   "Anzor Mekvabishvili",
+   "MF",
+   "GEO"
+  ],
+  [
+   24,
+   "Jonathan Dean",
+   "DF",
+   "USA"
+  ],
+  [
+   25,
+   "Jeffrey Gal",
+   "GK",
+   "USA"
+  ],
+  [
+   26,
+   "Omari Glasgow",
+   "FW",
+   "GUY"
+  ],
+  [
+   27,
+   "Dylan Borso",
+   "MF",
+   "USA"
+  ],
+  [
+   28,
+   "Dean Boltz",
+   "FW",
+   "USA"
+  ],
+  [
+   29,
+   "David Poreba",
+   "MF",
+   "USA"
+  ],
+  [
+   32,
+   "Noah Allen",
+   "DF",
+   "GRE"
+  ],
+  [
+   35,
+   "Sergio Oregel",
+   "MF",
+   "USA"
+  ],
+  [
+   37,
+   "Robert Turdean",
+   "MF",
+   "USA"
+  ],
+  [
+   38,
+   "Christopher Cupps",
+   "DF",
+   "USA"
+  ],
+  [
+   42,
+   "Djé D'Avilla",
+   "MF",
+   "CIV"
+  ],
+  [
+   44,
+   "Josh Cohen (soccer)",
+   "GK",
+   "USA"
+  ]
+ ],
+ "Colorado": [
+  [
+   1,
+   "Zack Steffen",
+   "GK",
+   "USA"
+  ],
+  [
+   2,
+   "Keegan Rosenberry",
+   "DF",
+   "USA"
+  ],
+  [
+   4,
+   "Reggie Cannon",
+   "DF",
+   "USA"
+  ],
+  [
+   5,
+   "Loïc Williams",
+   "DF",
+   "ESP"
+  ],
+  [
+   6,
+   "Rob Holding",
+   "DF",
+   "ENG"
+  ],
+  [
+   7,
+   "Morgan Whittaker",
+   "FW",
+   "ENG"
+  ],
+  [
+   8,
+   "Hamzat Ojediran",
+   "MF",
+   "NGR"
+  ],
+  [
+   9,
+   "Sayed Abu Farchi",
+   "FW",
+   "ISR"
+  ],
+  [
+   10,
+   "Paxten Aaronson",
+   "MF",
+   "USA"
+  ],
+  [
+   11,
+   "Ibrahim Sadiq",
+   "FW",
+   "GHA"
+  ],
+  [
+   12,
+   "Josh Atencio",
+   "MF",
+   "USA"
+  ],
+  [
+   13,
+   "Wayne Frederick (footballer)",
+   "MF",
+   "TRI"
+  ],
+  [
+   15,
+   "Ali Fadal",
+   "MF",
+   "GHA"
+  ],
+  [
+   16,
+   "Alex Harris (American soccer player)",
+   "FW",
+   "USA"
+  ],
+  [
+   18,
+   "Bryce Jamison",
+   "FW",
+   "USA"
+  ],
+  [
+   21,
+   "Theodore Ku-DiPietro",
+   "MF",
+   "USA"
+  ],
+  [
+   24,
+   "Noah Cobb",
+   "DF",
+   "USA"
+  ],
+  [
+   26,
+   "Mamadou Billo Diop",
+   "FW",
+   "SEN"
+  ],
+  [
+   27,
+   "Kimani Stewart-Baynes",
+   "FW",
+   "CAN"
+  ],
+  [
+   29,
+   "Miguel Navarro (footballer)",
+   "DF",
+   "VEN"
+  ],
+  [
+   31,
+   "Adam Beaudry",
+   "GK",
+   "USA"
+  ],
+  [
+   32,
+   "Donavan Phillip",
+   "FW",
+   "LCA"
+  ],
+  [
+   33,
+   "Kosi Thompson",
+   "DF",
+   "CAN"
+  ],
+  [
+   41,
+   "Nicolas Defreitas-Hansen",
+   "GK",
+   "USA"
+  ]
+ ],
+ "Columbus": [
+  [
+   1,
+   "Nicholas Hagen",
+   "GK",
+   "GUA"
+  ],
+  [
+   2,
+   "Andrés Herrera (footballer)",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Eric Bailly",
+   "DF",
+   "CIV"
+  ],
+  [
+   4,
+   "Rudy Camacho",
+   "DF",
+   "FRA"
+  ],
+  [
+   7,
+   "Dylan Chambost",
+   "MF",
+   "FRA"
+  ],
+  [
+   8,
+   "Santiago Rodríguez (footballer, born 2000)",
+   "FW",
+   "URU"
+  ],
+  [
+   9,
+   "Wessam Abou Ali",
+   "FW",
+   "PLE"
+  ],
+  [
+   10,
+   "Brais Méndez",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Brooks Lennon",
+   "DF",
+   "USA"
+  ],
+  [
+   12,
+   "Cesar Ruvalcaba",
+   "DF",
+   "USA"
+  ],
+  [
+   14,
+   "Amar Sejdić",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Taha Habroune",
+   "FW",
+   "USA"
+  ],
+  [
+   17,
+   "Sekou Tidiany Bangoura",
+   "MF",
+   "GUI"
+  ],
+  [
+   18,
+   "Malte Amundsen",
+   "DF",
+   "DEN"
+  ],
+  [
+   19,
+   "Jamal Thiaré",
+   "FW",
+   "SEN"
+  ],
+  [
+   20,
+   "André Gomes",
+   "MF",
+   "POR"
+  ],
+  [
+   21,
+   "Anass Zaroury",
+   "MF",
+   "MAR"
+  ],
+  [
+   22,
+   "Tristan Brown",
+   "MF",
+   "USA"
+  ],
+  [
+   23,
+   "Mohamed Farsi",
+   "DF",
+   "ALG"
+  ],
+  [
+   24,
+   "Evan Bush",
+   "GK",
+   "USA"
+  ],
+  [
+   25,
+   "Sean Zawadzki",
+   "DF",
+   "USA"
+  ],
+  [
+   26,
+   "Lautaro Giaccone",
+   "MF",
+   "ARG"
+  ],
+  [
+   28,
+   "Patrick Schulte",
+   "GK",
+   "USA"
+  ],
+  [
+   29,
+   "Cole Mrowka",
+   "MF",
+   "PHI"
+  ],
+  [
+   30,
+   "Hugo Picard",
+   "MF",
+   "FRA"
+  ],
+  [
+   31,
+   "Steven Moreira",
+   "DF",
+   "CPV"
+  ],
+  [
+   33,
+   "Gonzalo Tapia",
+   "FW",
+   "CHI"
+  ],
+  [
+   41,
+   "Stanislav Lapkes",
+   "GK",
+   "BLR"
+  ],
+  [
+   45,
+   "Owen Presthus",
+   "DF",
+   "USA"
+  ]
+ ],
+ "DC": [
+  [
+   1,
+   "Sean Johnson (soccer)",
+   "GK",
+   "USA"
+  ],
+  [
+   2,
+   "Kimito Nono",
+   "DF",
+   "JPN"
+  ],
+  [
+   3,
+   "Lucas Bartlett",
+   "DF",
+   "USA"
+  ],
+  [
+   4,
+   "Matti Peltola",
+   "MF",
+   "FIN"
+  ],
+  [
+   5,
+   "Silvan Hefti",
+   "DF",
+   "SUI"
+  ],
+  [
+   6,
+   "Keisuke Kurokawa",
+   "DF",
+   "JPN"
+  ],
+  [
+   7,
+   "João Peglow",
+   "FW",
+   "BRA"
+  ],
+  [
+   8,
+   "Jared Stroud",
+   "FW",
+   "USA"
+  ],
+  [
+   9,
+   "Tai Baribo",
+   "FW",
+   "ISR"
+  ],
+  [
+   11,
+   "Louis Munteanu",
+   "FW",
+   "ROU"
+  ],
+  [
+   12,
+   "Conner Antley",
+   "DF",
+   "USA"
+  ],
+  [
+   13,
+   "Sean Nealis",
+   "DF",
+   "USA"
+  ],
+  [
+   14,
+   "Gabriel Segal (soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   15,
+   "Kye Rowles",
+   "DF",
+   "AUS"
+  ],
+  [
+   16,
+   "Garrison Tubbs",
+   "DF",
+   "USA"
+  ],
+  [
+   18,
+   "Richie Aman",
+   "FW",
+   "USA"
+  ],
+  [
+   19,
+   "Hakim Karamoko",
+   "FW",
+   "USA"
+  ],
+  [
+   20,
+   "Grant Leveille",
+   "GK",
+   "HAI"
+  ],
+  [
+   21,
+   "Andre Dozzell",
+   "MF",
+   "ENG"
+  ],
+  [
+   22,
+   "Nathan Ordaz",
+   "FW",
+   "SLV"
+  ],
+  [
+   23,
+   "Brandon Servania",
+   "MF",
+   "USA"
+  ],
+  [
+   24,
+   "Jordan Farr",
+   "GK",
+   "USA"
+  ],
+  [
+   25,
+   "Jackson Hopkins",
+   "MF",
+   "USA"
+  ],
+  [
+   26,
+   "Alex Bono",
+   "GK",
+   "USA"
+  ],
+  [
+   27,
+   "Nikola Markovic (soccer)",
+   "DF",
+   "CAN"
+  ],
+  [
+   32,
+   "Oscar Avilez",
+   "FW",
+   "USA"
+  ],
+  [
+   40,
+   "Kamil Castillo",
+   "MF",
+   "DOM"
+  ]
+ ],
+ "Cincinnati": [
+  [
+   2,
+   "Alvas Powell",
+   "DF",
+   "JAM"
+  ],
+  [
+   3,
+   "Gilberto Flores (footballer, born 2003)",
+   "DF",
+   "PAR"
+  ],
+  [
+   4,
+   "Nick Hagglund",
+   "DF",
+   "USA"
+  ],
+  [
+   5,
+   "Obinna Nwobodo",
+   "MF",
+   "NGR"
+  ],
+  [
+   6,
+   "Julián Malatini",
+   "DF",
+   "ARG"
+  ],
+  [
+   9,
+   "Kévin Denkey",
+   "FW",
+   "TOG"
+  ],
+  [
+   10,
+   "Evander (footballer)",
+   "MF",
+   "BRA"
+  ],
+  [
+   11,
+   "Samuel Gidi",
+   "MF",
+   "SVK"
+  ],
+  [
+   12,
+   "Miles Robinson (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   13,
+   "Evan Louro",
+   "GK",
+   "USA"
+  ],
+  [
+   14,
+   "Kristian Fletcher",
+   "FW",
+   "USA"
+  ],
+  [
+   15,
+   "Teenage Hadebe",
+   "DF",
+   "ZIM"
+  ],
+  [
+   16,
+   "Tom Barlow (American soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   17,
+   "Kenji Mboma Dem",
+   "FW",
+   "FRA"
+  ],
+  [
+   18,
+   "Roman Celentano",
+   "GK",
+   "USA"
+  ],
+  [
+   19,
+   "Ștefan Chirilă",
+   "FW",
+   "ROU"
+  ],
+  [
+   20,
+   "Pavel Bucha",
+   "MF",
+   "CZE"
+  ],
+  [
+   22,
+   "Gerardo Valenzuela",
+   "MF",
+   "USA"
+  ],
+  [
+   23,
+   "David Douděra",
+   "MF",
+   "CZE"
+  ],
+  [
+   24,
+   "Kyle Smith (soccer, born 1992)",
+   "DF",
+   "USA"
+  ],
+  [
+   25,
+   "Paul Walters (soccer)",
+   "GK",
+   "USA"
+  ],
+  [
+   27,
+   "Brian Anunga",
+   "MF",
+   "CMR"
+  ],
+  [
+   29,
+   "Bryan Ramírez",
+   "FW",
+   "ECU"
+  ],
+  [
+   30,
+   "Ademar Chávez",
+   "MF",
+   "MEX"
+  ],
+  [
+   37,
+   "Stiven Jimenez",
+   "MF",
+   "USA"
+  ],
+  [
+   38,
+   "Brian Schaefer",
+   "DF",
+   "USA"
+  ]
+ ],
+ "Dallas": [
+  [
+   3,
+   "Osaze Urhoghide",
+   "DF",
+   "ENG"
+  ],
+  [
+   5,
+   "Lalas Abubakar",
+   "DF",
+   "GHA"
+  ],
+  [
+   6,
+   "Ran Binyamin",
+   "MF",
+   "ISR"
+  ],
+  [
+   7,
+   "Daniel Job",
+   "FW",
+   "NGR"
+  ],
+  [
+   8,
+   "Patrickson Delgado",
+   "MF",
+   "ECU"
+  ],
+  [
+   9,
+   "Petar Musa",
+   "FW",
+   "CRO"
+  ],
+  [
+   10,
+   "Santiago Moreno (footballer)",
+   "FW",
+   "COL"
+  ],
+  [
+   11,
+   "Anderson Julio",
+   "FW",
+   "ECU"
+  ],
+  [
+   12,
+   "Christian Cappis",
+   "MF",
+   "USA"
+  ],
+  [
+   14,
+   "Herman Johansson",
+   "DF",
+   "SWE"
+  ],
+  [
+   15,
+   "Ricky Louis",
+   "FW",
+   "HAI"
+  ],
+  [
+   16,
+   "Nicholas Simmonds",
+   "FW",
+   "JAM"
+  ],
+  [
+   17,
+   "Ramiro (footballer, born 1993)",
+   "MF",
+   "BRA"
+  ],
+  [
+   18,
+   "Shaq Moore",
+   "DF",
+   "USA"
+  ],
+  [
+   20,
+   "Jaidyn Contreras",
+   "FW",
+   "USA"
+  ],
+  [
+   21,
+   "Joaquín Valiente",
+   "MF",
+   "URU"
+  ],
+  [
+   22,
+   "Álvaro Augusto",
+   "DF",
+   "BRA"
+  ],
+  [
+   23,
+   "Logan Farrington",
+   "FW",
+   "USA"
+  ],
+  [
+   24,
+   "Josh Torquato",
+   "DF",
+   "USA"
+  ],
+  [
+   25,
+   "Sebastien Ibeagha",
+   "DF",
+   "USA"
+  ],
+  [
+   26,
+   "Slade Starnes",
+   "DF",
+   "USA"
+  ],
+  [
+   27,
+   "Caleb Swann",
+   "MF",
+   "USA"
+  ],
+  [
+   28,
+   "Samuel Sarver",
+   "FW",
+   "USA"
+  ],
+  [
+   29,
+   "Enzo Newman",
+   "DF",
+   "USA"
+  ],
+  [
+   30,
+   "Michael Collodi",
+   "GK",
+   "USA"
+  ],
+  [
+   31,
+   "Benji Flowers",
+   "FW",
+   "MEX"
+  ],
+  [
+   32,
+   "Nolan Norris",
+   "DF",
+   "USA"
+  ],
+  [
+   33,
+   "Clay Holstad",
+   "MF",
+   "USA"
+  ],
+  [
+   34,
+   "Kaka Scabin",
+   "DF",
+   "BRA"
+  ],
+  [
+   36,
+   "Daniel Baran",
+   "FW",
+   "POL"
+  ],
+  [
+   40,
+   "Jonathan Sirois",
+   "GK",
+   "CAN"
+  ],
+  [
+   42,
+   "Daniel (footballer, born 1994)",
+   "GK",
+   "BRA"
+  ]
+ ],
+ "Houston": [
+  [
+   1,
+   "Jimmy Maurer",
+   "GK",
+   "USA"
+  ],
+  [
+   3,
+   "Antônio Carlos (footballer, born 1993)",
+   "DF",
+   "BRA"
+  ],
+  [
+   4,
+   "Marcelo Saracchi",
+   "DF",
+   "URU"
+  ],
+  [
+   5,
+   "Lucas Halter",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Artur (footballer, born 1996)",
+   "MF",
+   "BRA"
+  ],
+  [
+   9,
+   "Lyle Foster",
+   "FW",
+   "RSA"
+  ],
+  [
+   11,
+   "Lawrence Ennali",
+   "MF",
+   "GER"
+  ],
+  [
+   13,
+   "Sam Vines",
+   "DF",
+   "USA"
+  ],
+  [
+   14,
+   "Duane Holmes",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Héctor Herrera",
+   "MF",
+   "MEX"
+  ],
+  [
+   17,
+   "Nick Markanich",
+   "FW",
+   "USA"
+  ],
+  [
+   18,
+   "Diadie Samassékou",
+   "MF",
+   "MLI"
+  ],
+  [
+   19,
+   "Mateusz Bogusz",
+   "MF",
+   "POL"
+  ],
+  [
+   20,
+   "Guilherme (footballer, born 1995)",
+   "FW",
+   "BRA"
+  ],
+  [
+   21,
+   "Franco Negri",
+   "DF",
+   "ARG"
+  ],
+  [
+   22,
+   "Matthew Arana",
+   "MF",
+   "MEX"
+  ],
+  [
+   23,
+   "Duncan McGuire (soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   24,
+   "Ibrahim Aliyu (footballer)",
+   "MF",
+   "NGA"
+  ],
+  [
+   26,
+   "Blake Gillingham",
+   "GK",
+   "USA"
+  ],
+  [
+   27,
+   "Reese Miller",
+   "DF",
+   "USA"
+  ],
+  [
+   30,
+   "Agustín Bouzat",
+   "MF",
+   "ARG"
+  ],
+  [
+   31,
+   "Jonathan Bond",
+   "GK",
+   "ENG"
+  ],
+  [
+   34,
+   "Agustin Resch",
+   "DF",
+   "ARG"
+  ],
+  [
+   35,
+   "Logan Erb",
+   "GK",
+   "USA"
+  ],
+  [
+   36,
+   "Felipe Andrade",
+   "DF",
+   "BRA"
+  ],
+  [
+   37,
+   "Gilberto Rivera",
+   "MF",
+   "USA"
+  ]
+ ],
+ "Miami": [
+  [
+   2,
+   "Gonzalo Luján",
+   "DF",
+   "ARG"
+  ],
+  [
+   3,
+   "Sergio Reguilón",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "Facundo Mura",
+   "DF",
+   "ARG"
+  ],
+  [
+   5,
+   "Casemiro",
+   "MF",
+   "BRA"
+  ],
+  [
+   6,
+   "Tomás Avilés",
+   "DF",
+   "ARG"
+  ],
+  [
+   7,
+   "Rodrigo De Paul",
+   "MF",
+   "ARG"
+  ],
+  [
+   8,
+   "Telasco Segovia",
+   "MF",
+   "VEN"
+  ],
+  [
+   9,
+   "Luis Suárez (Uruguayan footballer)",
+   "FW",
+   "URU"
+  ],
+  [
+   10,
+   "Lionel Messi",
+   "FW",
+   "ARG"
+  ],
+  [
+   11,
+   "Riquelme Fillipi",
+   "FW",
+   "BRA"
+  ],
+  [
+   13,
+   "Luis Barraza",
+   "GK",
+   "USA"
+  ],
+  [
+   17,
+   "Ian Fray",
+   "DF",
+   "JAM"
+  ],
+  [
+   19,
+   "Germán Berterame",
+   "FW",
+   "MEX"
+  ],
+  [
+   20,
+   "Santiago Morales (soccer)",
+   "MF",
+   "USA"
+  ],
+  [
+   21,
+   "Tadeo Allende",
+   "FW",
+   "ARG"
+  ],
+  [
+   22,
+   "David Ayala (footballer, born 2002)",
+   "MF",
+   "ARG"
+  ],
+  [
+   24,
+   "Mateo Silvetti",
+   "FW",
+   "ARG"
+  ],
+  [
+   26,
+   "Tyler Hall (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   32,
+   "Noah Allen",
+   "DF",
+   "GRE"
+  ],
+  [
+   34,
+   "Rocco Ríos Novo",
+   "GK",
+   "ARG"
+  ],
+  [
+   37,
+   "Maximiliano Falcón",
+   "DF",
+   "URU"
+  ],
+  [
+   41,
+   "David Ruiz (footballer, born 2004)",
+   "MF",
+   "HON"
+  ],
+  [
+   42,
+   "Yannick Bright",
+   "MF",
+   "ITA"
+  ]
+ ],
+ "Galaxy": [
+  [
+   1,
+   "Novak Mićović",
+   "GK",
+   "SRB"
+  ],
+  [
+   2,
+   "Lucas Calegari",
+   "DF",
+   "BRA"
+  ],
+  [
+   3,
+   "Julián Aude",
+   "DF",
+   "ARG"
+  ],
+  [
+   4,
+   "Maya Yoshida",
+   "DF",
+   "JPN"
+  ],
+  [
+   5,
+   "Jakob Glesnes",
+   "DF",
+   "NOR"
+  ],
+  [
+   6,
+   "Sergi Roberto",
+   "DF",
+   "ESP"
+  ],
+  [
+   7,
+   "Kyōgo Furuhashi",
+   "FW",
+   "JPN"
+  ],
+  [
+   8,
+   "Lucas Sanabria (Uruguayan footballer)",
+   "MF",
+   "URU"
+  ],
+  [
+   10,
+   "Riqui Puig",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Hirving Lozano",
+   "FW",
+   "MEX"
+  ],
+  [
+   12,
+   "JT Marcinkowski",
+   "GK",
+   "USA"
+  ],
+  [
+   14,
+   "John Nelson (soccer, born 1998)",
+   "DF",
+   "USA"
+  ],
+  [
+   15,
+   "Justin Haak",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Isaiah Parente",
+   "MF",
+   "USA"
+  ],
+  [
+   17,
+   "Pablo Ruiz (footballer, born 1998)",
+   "MF",
+   "ARG"
+  ],
+  [
+   18,
+   "Marco Reus",
+   "FW",
+   "GER"
+  ],
+  [
+   20,
+   "Chris Rindov",
+   "DF",
+   "USA"
+  ],
+  [
+   21,
+   "Robert Taylor (footballer, born 1994)",
+   "FW",
+   "FIN"
+  ],
+  [
+   22,
+   "Elijah Wynder",
+   "MF",
+   "USA"
+  ],
+  [
+   24,
+   "Ruben Ramos Jr",
+   "FW",
+   "USA"
+  ],
+  [
+   25,
+   "Carlos Emiro Garcés",
+   "DF",
+   "COL"
+  ],
+  [
+   26,
+   "Harbor Miller",
+   "DF",
+   "USA"
+  ],
+  [
+   27,
+   "Erik Thommy",
+   "MF",
+   "GER"
+  ],
+  [
+   28,
+   "Joseph Paintsil",
+   "FW",
+   "GHA"
+  ],
+  [
+   30,
+   "Gino Vivi",
+   "MF",
+   "CRC"
+  ],
+  [
+   31,
+   "Brady Scott",
+   "GK",
+   "USA"
+  ]
+ ],
+ "LAFC": [
+  [
+   1,
+   "Hugo Lloris",
+   "GK",
+   "FRA"
+  ],
+  [
+   4,
+   "Eddie Segura",
+   "DF",
+   "COL"
+  ],
+  [
+   5,
+   "Ryan Porteous",
+   "DF",
+   "SCO"
+  ],
+  [
+   6,
+   "Igor Jesus (footballer, born 2003)",
+   "MF",
+   "BRA"
+  ],
+  [
+   7,
+   "Son Heung-min",
+   "FW",
+   "KOR"
+  ],
+  [
+   8,
+   "Mark Delgado",
+   "MF",
+   "USA"
+  ],
+  [
+   9,
+   "Armindo Sieb",
+   "FW",
+   "GER"
+  ],
+  [
+   11,
+   "Timothy Tillman",
+   "MF",
+   "USA"
+  ],
+  [
+   12,
+   "Thomas Hasal",
+   "GK",
+   "CAN"
+  ],
+  [
+   14,
+   "Sergi Palencia",
+   "DF",
+   "ESP"
+  ],
+  [
+   17,
+   "Jeremy Ebobisse",
+   "FW",
+   "USA"
+  ],
+  [
+   18,
+   "Jacob Shaffelburg",
+   "FW",
+   "CAN"
+  ],
+  [
+   19,
+   "Tyler Boyd (soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   20,
+   "Sergio Vázquez",
+   "MF",
+   "ECU"
+  ],
+  [
+   21,
+   "Ryan Raposo",
+   "MF",
+   "CAN"
+  ],
+  [
+   22,
+   "Jude Terry (soccer)",
+   "MF",
+   "USA"
+  ],
+  [
+   23,
+   "Yevhen Cheberko",
+   "DF",
+   "UKR"
+  ],
+  [
+   24,
+   "Ryan Hollingshead",
+   "DF",
+   "USA"
+  ],
+  [
+   29,
+   "Artem Smolyakov",
+   "DF",
+   "UKR"
+  ],
+  [
+   31,
+   "Cabral Carter",
+   "GK",
+   "USA"
+  ],
+  [
+   33,
+   "Aaron Long (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   44,
+   "Christian Díaz",
+   "DF",
+   "USA"
+  ],
+  [
+   45,
+   "Kenny Nielsen",
+   "DF",
+   "USA"
+  ]
+ ],
+ "Nashville": [
+  [
+   1,
+   "Joe Willis (American soccer)",
+   "GK",
+   "USA"
+  ],
+  [
+   2,
+   "Daniel Lovitz",
+   "DF",
+   "USA"
+  ],
+  [
+   3,
+   "Maxwell Woledzi",
+   "DF",
+   "GHA"
+  ],
+  [
+   4,
+   "Jeisson Palacios",
+   "DF",
+   "COL"
+  ],
+  [
+   5,
+   "Jack Maher (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   6,
+   "Bryan Acosta",
+   "MF",
+   "HON"
+  ],
+  [
+   7,
+   "Cristian Espinoza",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Patrick Yazbek",
+   "MF",
+   "AUS"
+  ],
+  [
+   9,
+   "Sam Surridge",
+   "FW",
+   "ENG"
+  ],
+  [
+   10,
+   "Hany Mukhtar",
+   "MF",
+   "GER"
+  ],
+  [
+   11,
+   "Elias Saad",
+   "FW",
+   "TUN"
+  ],
+  [
+   12,
+   "Charles-Emile Brunet",
+   "MF",
+   "CAN"
+  ],
+  [
+   13,
+   "Xavier Valdez",
+   "GK",
+   "DOM"
+  ],
+  [
+   14,
+   "Shak Mohammed",
+   "MF",
+   "GHA"
+  ],
+  [
+   15,
+   "Zidane Yáñez",
+   "FW",
+   "CHI"
+  ],
+  [
+   16,
+   "Matthew Corcoran",
+   "MF",
+   "USA"
+  ],
+  [
+   18,
+   "Isaiah LeFlore",
+   "DF",
+   "USA"
+  ],
+  [
+   19,
+   "Alex Muyl",
+   "MF",
+   "USA"
+  ],
+  [
+   20,
+   "Edvard Tagseth",
+   "MF",
+   "NOR"
+  ],
+  [
+   21,
+   "Thomas Williams (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   22,
+   "Josh Bauer (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   23,
+   "Jordan Knight (soccer)",
+   "DF",
+   "CAN"
+  ],
+  [
+   26,
+   "Famara Camara",
+   "MF",
+   "SEN"
+  ],
+  [
+   27,
+   "Reed Baker-Whiting",
+   "DF",
+   "USA"
+  ],
+  [
+   31,
+   "Andy Najar",
+   "DF",
+   "HON"
+  ],
+  [
+   33,
+   "Chris Applewhite",
+   "DF",
+   "USA"
+  ],
+  [
+   35,
+   "Malachi Molina",
+   "DF",
+   "JAM"
+  ],
+  [
+   37,
+   "Ahmed Qasem",
+   "MF",
+   "IRQ"
+  ],
+  [
+   41,
+   "Warren Madrigal",
+   "FW",
+   "CRI"
+  ]
+ ],
+ "NewEngland": [
+  [
+   2,
+   "Mamadou Fofana (footballer, born 1998)",
+   "DF",
+   "MLI"
+  ],
+  [
+   4,
+   "Tanner Beason",
+   "DF",
+   "USA"
+  ],
+  [
+   5,
+   "Keegan Hughes",
+   "DF",
+   "USA"
+  ],
+  [
+   6,
+   "Tylon Smith",
+   "DF",
+   "RSA"
+  ],
+  [
+   7,
+   "Griffin Yow",
+   "FW",
+   "USA"
+  ],
+  [
+   8,
+   "Matt Polster",
+   "MF",
+   "USA"
+  ],
+  [
+   9,
+   "Leonardo Campana",
+   "FW",
+   "ECU"
+  ],
+  [
+   10,
+   "Carles Gil",
+   "MF",
+   "ESP"
+  ],
+  [
+   11,
+   "Jack Harrison (footballer, born 1996)",
+   "FW",
+   "ENG"
+  ],
+  [
+   12,
+   "Ilay Feingold",
+   "DF",
+   "ISR"
+  ],
+  [
+   14,
+   "Jackson Yueill",
+   "MF",
+   "USA"
+  ],
+  [
+   15,
+   "Cody Baker",
+   "DF",
+   "USA"
+  ],
+  [
+   16,
+   "Dániel Gazdag",
+   "FW",
+   "HUN"
+  ],
+  [
+   17,
+   "Marcos Zambrano",
+   "FW",
+   "USA"
+  ],
+  [
+   18,
+   "Allan Oyirwoth",
+   "MF",
+   "UGA"
+  ],
+  [
+   19,
+   "Damario McIntosh",
+   "DF",
+   "USA"
+  ],
+  [
+   21,
+   "Brooklyn Raines",
+   "MF",
+   "USA"
+  ],
+  [
+   22,
+   "Ethan Kohler",
+   "DF",
+   "USA"
+  ],
+  [
+   23,
+   "Will Sands",
+   "DF",
+   "USA"
+  ],
+  [
+   25,
+   "Peyton Miller",
+   "DF",
+   "USA"
+  ],
+  [
+   27,
+   "Wilson Harris (soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   30,
+   "Matt Turner (soccer)",
+   "GK",
+   "USA"
+  ],
+  [
+   32,
+   "Malcolm Fry",
+   "FW",
+   "USA"
+  ],
+  [
+   33,
+   "Donovan Parisian",
+   "GK",
+   "USA"
+  ],
+  [
+   35,
+   "Cristiano Oliveira",
+   "MF",
+   "USA"
+  ],
+  [
+   38,
+   "Eric Klein",
+   "MF",
+   "USA"
+  ],
+  [
+   41,
+   "Luca Langoni",
+   "FW",
+   "ARG"
+  ],
+  [
+   43,
+   "Santiago Suarez",
+   "DF",
+   "USA"
+  ]
+ ],
+ "NYRB": [
+  [
+   1,
+   "AJ Marcucci",
+   "GK",
+   "USA"
+  ],
+  [
+   2,
+   "Justin Che",
+   "DF",
+   "USA"
+  ],
+  [
+   3,
+   "Jahkeele Marshall-Rutty",
+   "DF",
+   "CAN"
+  ],
+  [
+   5,
+   "Omar Valencia",
+   "DF",
+   "PAN"
+  ],
+  [
+   6,
+   "Robert Voloder",
+   "DF",
+   "GER"
+  ],
+  [
+   7,
+   "Cade Cowell",
+   "FW",
+   "USA"
+  ],
+  [
+   8,
+   "David Ruiz (footballer, born 2004)",
+   "MF",
+   "HON"
+  ],
+  [
+   9,
+   "Wiktor Bogacz",
+   "FW",
+   "POL"
+  ],
+  [
+   10,
+   "Emil Forsberg",
+   "MF",
+   "SWE"
+  ],
+  [
+   11,
+   "Jorge Ruvalcaba",
+   "FW",
+   "MEX"
+  ],
+  [
+   12,
+   "Dylan Nealis",
+   "DF",
+   "USA"
+  ],
+  [
+   13,
+   "Eric Maxim Choupo-Moting",
+   "FW",
+   "CMR"
+  ],
+  [
+   14,
+   "Julián Bazán",
+   "DF",
+   "COL"
+  ],
+  [
+   14,
+   "Marcelo Morales",
+   "DF",
+   "CHI"
+  ],
+  [
+   15,
+   "Adri Mehmeti",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Julian Hall (soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   17,
+   "Cameron Harper (soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   20,
+   "Juan José Mina",
+   "DF",
+   "COL"
+  ],
+  [
+   21,
+   "Aidan Stokes",
+   "GK",
+   "USA"
+  ],
+  [
+   26,
+   "Tim Parker (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   33,
+   "Roald Mitchell",
+   "FW",
+   "TRI"
+  ],
+  [
+   34,
+   "Ethan Horvath",
+   "GK",
+   "USA"
+  ],
+  [
+   37,
+   "Mohammed Sofo",
+   "MF",
+   "GHA"
+  ],
+  [
+   39,
+   "Nehuén Benedetti",
+   "MF",
+   "ARG"
+  ]
+ ],
+ "Orlando": [
+  [
+   3,
+   "Adrián Marín (footballer, born 1997)",
+   "DF",
+   "ESP"
+  ],
+  [
+   4,
+   "David Brekalo",
+   "DF",
+   "SVN"
+  ],
+  [
+   5,
+   "Luis Otávio (footballer, born 2007)",
+   "MF",
+   "BRA"
+  ],
+  [
+   6,
+   "Robin Jansson",
+   "DF",
+   "SWE"
+  ],
+  [
+   7,
+   "Antoine Griezmann",
+   "FW",
+   "FRA"
+  ],
+  [
+   8,
+   "Braian Ojeda",
+   "MF",
+   "PRY"
+  ],
+  [
+   9,
+   "Daryl Dike",
+   "FW",
+   "USA"
+  ],
+  [
+   10,
+   "Martín Ojeda",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Tiago (footballer, born 2005)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Javier Otero",
+   "GK",
+   "VEN"
+  ],
+  [
+   14,
+   "Tyrese Spicer",
+   "FW",
+   "TRI"
+  ],
+  [
+   16,
+   "Wilder Cartagena",
+   "MF",
+   "PER"
+  ],
+  [
+   19,
+   "Zakaria Taifi",
+   "DF",
+   "USA"
+  ],
+  [
+   20,
+   "Eduard Atuesta",
+   "MF",
+   "COL"
+  ],
+  [
+   21,
+   "Nolan Miller",
+   "DF",
+   "USA"
+  ],
+  [
+   22,
+   "Justin Ellis (soccer)",
+   "FW",
+   "USA"
+  ],
+  [
+   23,
+   "Harvey Sarajian",
+   "FW",
+   "USA"
+  ],
+  [
+   24,
+   "Griffin Dorsey",
+   "DF",
+   "USA"
+  ],
+  [
+   25,
+   "Colin Guske",
+   "MF",
+   "USA"
+  ],
+  [
+   27,
+   "Vinícius Nogueira",
+   "DF",
+   "BRA"
+  ],
+  [
+   33,
+   "Clovis Archange",
+   "DF",
+   "CAN"
+  ],
+  [
+   34,
+   "Yutaro Tsukada",
+   "FW",
+   "JPN"
+  ],
+  [
+   35,
+   "Joran Gerbet",
+   "MF",
+   "FRA"
+  ],
+  [
+   38,
+   "Issah Haruna",
+   "MF",
+   "GHA"
+  ],
+  [
+   40,
+   "Tristan Himes",
+   "GK",
+   "USA"
+  ],
+  [
+   44,
+   "Bernardo Rhein",
+   "DF",
+   "BRA"
+  ]
+ ],
+ "Portland": [
+  [
+   2,
+   "Joel Waterman",
+   "DF",
+   "CAN"
+  ],
+  [
+   4,
+   "Kamal Miller",
+   "DF",
+   "CAN"
+  ],
+  [
+   5,
+   "Brandon Bye",
+   "DF",
+   "USA"
+  ],
+  [
+   6,
+   "Alex Bonetig",
+   "DF",
+   "AUS"
+  ],
+  [
+   7,
+   "Ariel Lassiter",
+   "FW",
+   "CRC"
+  ],
+  [
+   10,
+   "David Da Costa (footballer, born 2001)",
+   "MF",
+   "POR"
+  ],
+  [
+   11,
+   "Antony (footballer, born 2001)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Ronald Hernández",
+   "DF",
+   "VEN"
+  ],
+  [
+   14,
+   "Vincent Janssen",
+   "FW",
+   "NED"
+  ],
+  [
+   15,
+   "Eric Miller (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   16,
+   "Sawyer Jura",
+   "DF",
+   "USA"
+  ],
+  [
+   17,
+   "Cole Bassett",
+   "MF",
+   "USA"
+  ],
+  [
+   18,
+   "Zac McGraw",
+   "DF",
+   "CAN"
+  ],
+  [
+   20,
+   "Finn Surman",
+   "DF",
+   "NZL"
+  ],
+  [
+   21,
+   "Diego Chará",
+   "MF",
+   "COL"
+  ],
+  [
+   22,
+   "Omir Fernandez",
+   "MF",
+   "USA"
+  ],
+  [
+   23,
+   "Ian Smith",
+   "DF",
+   "USA"
+  ],
+  [
+   25,
+   "Trey Muse",
+   "GK",
+   "USA"
+  ],
+  [
+   26,
+   "Hunter Sulte",
+   "GK",
+   "USA"
+  ],
+  [
+   27,
+   "Jimer Fory",
+   "DF",
+   "COL"
+  ],
+  [
+   28,
+   "Alexander Aravena",
+   "FW",
+   "CHI"
+  ],
+  [
+   29,
+   "Juan David Mosquera",
+   "DF",
+   "COL"
+  ],
+  [
+   30,
+   "José Caicedo",
+   "MF",
+   "COL"
+  ],
+  [
+   41,
+   "James Pantemis",
+   "GK",
+   "CAN"
+  ]
+ ],
+ "SanDiego": [
+  [
+   1,
+   "CJ dos Santos",
+   "GK",
+   "CPV"
+  ],
+  [
+   2,
+   "Willy Kumado",
+   "DF",
+   "GHA"
+  ],
+  [
+   3,
+   "Dagur Dan Þórhallsson",
+   "DF",
+   "ISL"
+  ],
+  [
+   5,
+   "Kieran Sargeant",
+   "DF",
+   "USA"
+  ],
+  [
+   6,
+   "Jeppe Tverskov",
+   "MF",
+   "DEN"
+  ],
+  [
+   7,
+   "Marcus Ingvartsen",
+   "FW",
+   "DEN"
+  ],
+  [
+   8,
+   "Onni Valakari",
+   "MF",
+   "FIN"
+  ],
+  [
+   10,
+   "Anders Dreyer",
+   "FW",
+   "DEN"
+  ],
+  [
+   11,
+   "Hirving Lozano",
+   "FW",
+   "MEX"
+  ],
+  [
+   12,
+   "Gabriel Pirani",
+   "MF",
+   "BRA"
+  ],
+  [
+   13,
+   "Pablo Sisniega",
+   "GK",
+   "MEX"
+  ],
+  [
+   14,
+   "Bryan Zamblé",
+   "FW",
+   "CIV"
+  ],
+  [
+   15,
+   "Pedro Soma",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Marcus Alstrup",
+   "GK",
+   "DEN"
+  ],
+  [
+   17,
+   "Osvald Søe",
+   "DF",
+   "DEN"
+  ],
+  [
+   18,
+   "Duran Ferree",
+   "GK",
+   "USA"
+  ],
+  [
+   19,
+   "David Vazquez (soccer, born 2006)",
+   "MF",
+   "USA"
+  ],
+  [
+   20,
+   "Aníbal Godoy",
+   "MF",
+   "PAN"
+  ],
+  [
+   22,
+   "Wilson Eisner",
+   "DF",
+   "USA"
+  ],
+  [
+   23,
+   "Sam Vines",
+   "DF",
+   "USA"
+  ],
+  [
+   24,
+   "Emmanuel Boateng (footballer, born 1994)",
+   "MF",
+   "GHA"
+  ],
+  [
+   25,
+   "Ian Pilcher",
+   "DF",
+   "USA"
+  ],
+  [
+   26,
+   "Manu Duah",
+   "DF",
+   "GHA"
+  ],
+  [
+   29,
+   "Anisse Saidi",
+   "FW",
+   "TUN"
+  ],
+  [
+   32,
+   "Ian Murphy (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   33,
+   "Oscar Verhoeven",
+   "DF",
+   "USA"
+  ]
+ ],
+ "SanJose": [
+  [
+   1,
+   "Angus Gunn",
+   "GK",
+   "SCO"
+  ],
+  [
+   2,
+   "Jamar Ricketts",
+   "DF",
+   "USA"
+  ],
+  [
+   3,
+   "Paul Marie",
+   "DF",
+   "FRA"
+  ],
+  [
+   4,
+   "Dave Romney",
+   "DF",
+   "USA"
+  ],
+  [
+   5,
+   "Daniel Munie",
+   "DF",
+   "USA"
+  ],
+  [
+   6,
+   "Ian Harkes",
+   "MF",
+   "USA"
+  ],
+  [
+   7,
+   "Ousseni Bouda",
+   "FW",
+   "BFA"
+  ],
+  [
+   9,
+   "Luka Jovanović",
+   "FW",
+   "AUS"
+  ],
+  [
+   10,
+   "Niko Tsakiris",
+   "MF",
+   "USA"
+  ],
+  [
+   11,
+   "Timo Werner",
+   "FW",
+   "GER"
+  ],
+  [
+   14,
+   "Ronaldo Vieira (footballer, born 1998)",
+   "MF",
+   "GNB"
+  ],
+  [
+   15,
+   "Cruz Medina",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Jack Skahan",
+   "MF",
+   "USA"
+  ],
+  [
+   17,
+   "Jack Jasinski",
+   "MF",
+   "USA"
+  ],
+  [
+   18,
+   "Reid Roberts",
+   "DF",
+   "USA"
+  ],
+  [
+   19,
+   "Preston Judd",
+   "FW",
+   "USA"
+  ],
+  [
+   20,
+   "Nick Fernandez",
+   "MF",
+   "USA"
+  ],
+  [
+   21,
+   "Noel Buck",
+   "MF",
+   "ENG"
+  ],
+  [
+   22,
+   "Nate Crockford",
+   "GK",
+   "USA"
+  ],
+  [
+   23,
+   "Eduard Löwen",
+   "MF",
+   "GER"
+  ],
+  [
+   24,
+   "DeJuan Jones",
+   "DF",
+   "USA"
+  ],
+  [
+   25,
+   "Max Floriani",
+   "DF",
+   "USA"
+  ],
+  [
+   28,
+   "Benji Kikanović",
+   "DF",
+   "USA"
+  ],
+  [
+   29,
+   "Kaedren Spivey",
+   "MF",
+   "USA"
+  ],
+  [
+   31,
+   "Francesco Montali",
+   "GK",
+   "USA"
+  ],
+  [
+   32,
+   "Nonso Adimabua",
+   "FW",
+   "NGA"
+  ],
+  [
+   34,
+   "Beau Leroux",
+   "MF",
+   "USA"
+  ],
+  [
+   35,
+   "Rohan Rajagopal",
+   "MF",
+   "USA"
+  ],
+  [
+   36,
+   "Earl Edwards Jr.",
+   "GK",
+   "USA"
+  ],
+  [
+   38,
+   "Edwyn Mendoza",
+   "MF",
+   "USA"
+  ],
+  [
+   40,
+   "Jonathan González (footballer, born 1999)",
+   "MF",
+   "MEX"
+  ]
+ ],
+ "Seattle": [
+  [
+   4,
+   "Ryan Sailor",
+   "DF",
+   "USA"
+  ],
+  [
+   5,
+   "Nouhou Tolo",
+   "DF",
+   "CMR"
+  ],
+  [
+   7,
+   "Cristian Roldan",
+   "MF",
+   "USA"
+  ],
+  [
+   8,
+   "Caden Clark",
+   "MF",
+   "USA"
+  ],
+  [
+   9,
+   "Dejan Joveljić",
+   "FW",
+   "SER"
+  ],
+  [
+   10,
+   "Pedro de la Vega",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Albert Rusnák (footballer, born 1994)",
+   "MF",
+   "SVK"
+  ],
+  [
+   13,
+   "Jordan Morris",
+   "FW",
+   "USA"
+  ],
+  [
+   14,
+   "Paul Rothrock",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Alex Roldán",
+   "DF",
+   "SLV"
+  ],
+  [
+   17,
+   "Paul Arriola",
+   "MF",
+   "USA"
+  ],
+  [
+   19,
+   "Danny Musovski",
+   "FW",
+   "MKD"
+  ],
+  [
+   20,
+   "Kim Kee-hee",
+   "DF",
+   "KOR"
+  ],
+  [
+   24,
+   "Stefan Frei",
+   "GK",
+   "SUI"
+  ],
+  [
+   25,
+   "Jackson Ragen",
+   "DF",
+   "USA"
+  ],
+  [
+   26,
+   "Andrew Thomas (soccer, born 1998)",
+   "GK",
+   "USA"
+  ],
+  [
+   27,
+   "Jesús Ferreira",
+   "FW",
+   "USA"
+  ],
+  [
+   28,
+   "Yeimar Gómez",
+   "DF",
+   "COL"
+  ],
+  [
+   31,
+   "Hassani Dotson",
+   "MF",
+   "USA"
+  ],
+  [
+   33,
+   "Cody Baker",
+   "DF",
+   "USA"
+  ],
+  [
+   35,
+   "Antino Lopez",
+   "DF",
+   "USA"
+  ],
+  [
+   36,
+   "Yu Tsukanome",
+   "FW",
+   "JPN"
+  ],
+  [
+   37,
+   "Snyder Brunell",
+   "MF",
+   "USA"
+  ],
+  [
+   39,
+   "Stuart Hawkins",
+   "DF",
+   "USA"
+  ],
+  [
+   44,
+   "Nikola Petković (footballer, born 2003)",
+   "MF",
+   "SRB"
+  ],
+  [
+   45,
+   "Peter Kingston (soccer)",
+   "MF",
+   "USA"
+  ]
+ ],
+ "KansasCity": [
+  [
+   1,
+   "John Pulskamp",
+   "GK",
+   "USA"
+  ],
+  [
+   2,
+   "Ian James (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   3,
+   "Moisés Mosquera",
+   "DF",
+   "COL"
+  ],
+  [
+   4,
+   "Lasse Berg Johnsen",
+   "MF",
+   "NOR"
+  ],
+  [
+   5,
+   "Or Blorian",
+   "DF",
+   "ISR"
+  ],
+  [
+   7,
+   "Capita (footballer)",
+   "FW",
+   "ANG"
+  ],
+  [
+   8,
+   "Jake Davis (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   11,
+   "André Luiz (footballer, born 2002)",
+   "FW",
+   "BRA"
+  ],
+  [
+   12,
+   "Jack Kortkamp",
+   "GK",
+   "USA"
+  ],
+  [
+   13,
+   "Justin Reynolds (soccer)",
+   "DF",
+   "USA"
+  ],
+  [
+   14,
+   "Calvin Harris (footballer)",
+   "FW",
+   "ENG"
+  ],
+  [
+   15,
+   "Jansen Miller",
+   "DF",
+   "USA"
+  ],
+  [
+   16,
+   "Jacob Bartlett",
+   "MF",
+   "USA"
+  ],
+  [
+   17,
+   "Stephen Afrifa",
+   "FW",
+   "CAN"
+  ],
+  [
+   18,
+   "Emir Karić",
+   "DF",
+   "BIH"
+  ],
+  [
+   19,
+   "Taylor Calheira",
+   "FW",
+   "USA"
+  ],
+  [
+   20,
+   "Kwaku Agyabeng",
+   "MF",
+   "GHA"
+  ],
+  [
+   22,
+   "Zorhan Bassong",
+   "DF",
+   "CAN"
+  ],
+  [
+   23,
+   "Ethan Bartlow",
+   "DF",
+   "USA"
+  ],
+  [
+   24,
+   "Ruben Ramos Jr",
+   "MF",
+   "USA"
+  ],
+  [
+   28,
+   "Wyatt Meyer",
+   "DF",
+   "USA"
+  ],
+  [
+   29,
+   "Seymour Reid (footballer)",
+   "FW",
+   "JAM"
+  ],
+  [
+   30,
+   "Stefan Cleveland",
+   "GK",
+   "USA"
+  ],
+  [
+   33,
+   "Owen Wolff",
+   "MF",
+   "USA"
+  ],
+  [
+   36,
+   "Ryan Schewe",
+   "GK",
+   "USA"
+  ]
+ ],
+ "StLouis": [
+  [
+   1,
+   "Roman Bürki",
+   "GK",
+   "SUI"
+  ],
+  [
+   3,
+   "Tahir Reid-Brown",
+   "DF",
+   "USA"
+  ],
+  [
+   4,
+   "Mamadou Mbacke",
+   "DF",
+   "SEN"
+  ],
+  [
+   5,
+   "Lukas MacNaughton",
+   "DF",
+   "CAN"
+  ],
+  [
+   7,
+   "Tomáš Ostrák",
+   "MF",
+   "CZE"
+  ],
+  [
+   8,
+   "Chris Durkin",
+   "MF",
+   "USA"
+  ],
+  [
+   9,
+   "Rafael Navarro (footballer)",
+   "FW",
+   "BRA"
+  ],
+  [
+   11,
+   "Simon Becher",
+   "FW",
+   "USA"
+  ],
+  [
+   12,
+   "Célio Pompeu",
+   "MF",
+   "BRA"
+  ],
+  [
+   14,
+   "Tomas Totland",
+   "DF",
+   "NOR"
+  ],
+  [
+   15,
+   "Joshua Yaro",
+   "DF",
+   "GHA"
+  ],
+  [
+   18,
+   "Charles-Emile Brunet",
+   "MF",
+   "CAN"
+  ],
+  [
+   19,
+   "Carlo Holse",
+   "FW",
+   "DEN"
+  ],
+  [
+   20,
+   "Rafael Santos (footballer, born 5 February 1998)",
+   "DF",
+   "BRA"
+  ],
+  [
+   21,
+   "Dante Polvara",
+   "MF",
+   "USA"
+  ],
+  [
+   22,
+   "Kyle Hiebert",
+   "DF",
+   "CAN"
+  ],
+  [
+   23,
+   "Alexandru Mățan",
+   "MF",
+   "ROU"
+  ],
+  [
+   24,
+   "Daniel Edelman (soccer)",
+   "MF",
+   "USA"
+  ],
+  [
+   27,
+   "Fallou Fall",
+   "DF",
+   "SEN"
+  ],
+  [
+   28,
+   "Miguel Perez (soccer, born 2005)",
+   "MF",
+   "USA"
+  ],
+  [
+   29,
+   "Palmer Ault",
+   "FW",
+   "USA"
+  ],
+  [
+   31,
+   "Christian Olivares",
+   "GK",
+   "USA"
+  ],
+  [
+   32,
+   "Timo Baumgartl",
+   "DF",
+   "GER"
+  ],
+  [
+   33,
+   "Tyson Pearce",
+   "MF",
+   "USA"
+  ],
+  [
+   39,
+   "Ben Lundt",
+   "GK",
+   "GER"
+  ],
+  [
+   42,
+   "Damion Downs",
+   "FW",
+   "USA"
+  ]
+ ],
+ "Toronto": [
+  [
+   1,
+   "Luka Gavran",
+   "GK",
+   "CAN"
+  ],
+  [
+   3,
+   "Matheus Pereira (footballer, born 2000)",
+   "DF",
+   "BRA"
+  ],
+  [
+   6,
+   "Niklas Dorsch",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Theo Corbeanu",
+   "FW",
+   "CAN"
+  ],
+  [
+   8,
+   "Nelson Palacio",
+   "MF",
+   "COL"
+  ],
+  [
+   9,
+   "Josh Sargent",
+   "FW",
+   "USA"
+  ],
+  [
+   10,
+   "Djordje Mihailovic",
+   "MF",
+   "USA"
+  ],
+  [
+   11,
+   "Derrick Etienne Jr.",
+   "MF",
+   "HAI"
+  ],
+  [
+   12,
+   "Zane Monlouis",
+   "DF",
+   "ENG"
+  ],
+  [
+   13,
+   "Benjamín Kuscevic",
+   "DF",
+   "CHI"
+  ],
+  [
+   14,
+   "Alonso Coello (footballer)",
+   "MF",
+   "ESP"
+  ],
+  [
+   15,
+   "Nicksoen Gomis",
+   "DF",
+   "FRA"
+  ],
+  [
+   17,
+   "Emilio Aristizábal",
+   "FW",
+   "COL"
+  ],
+  [
+   19,
+   "Kobe Franklin",
+   "DF",
+   "CAN"
+  ],
+  [
+   20,
+   "Dániel Sallói",
+   "FW",
+   "HUN"
+  ],
+  [
+   21,
+   "Jonathan Osorio",
+   "MF",
+   "CAN"
+  ],
+  [
+   22,
+   "Richie Laryea",
+   "DF",
+   "CAN"
+  ],
+  [
+   23,
+   "William Yarbrough",
+   "GK",
+   "USA"
+  ],
+  [
+   25,
+   "Walker Zimmerman",
+   "DF",
+   "USA"
+  ],
+  [
+   27,
+   "Alejandro Piedrahita",
+   "FW",
+   "COL"
+  ],
+  [
+   38,
+   "Jackson Gilman",
+   "DF",
+   "USA"
+  ],
+  [
+   44,
+   "Raheem Edwards (soccer, born 1995)",
+   "DF",
+   "CAN"
+  ]
+ ],
+ "Montreal": [
+  [
+   1,
+   "Sebastian Breza",
+   "GK",
+   "CAN"
+  ],
+  [
+   2,
+   "Jalen Neal",
+   "DF",
+   "USA"
+  ],
+  [
+   3,
+   "Brayan Ceballos",
+   "DF",
+   "COL"
+  ],
+  [
+   4,
+   "Brayan Vera",
+   "DF",
+   "COL"
+  ],
+  [
+   5,
+   "Brandan Craig",
+   "DF",
+   "USA"
+  ],
+  [
+   6,
+   "Samuel Piette",
+   "MF",
+   "CAN"
+  ],
+  [
+   7,
+   "Daniel Pereira (footballer, born 2000)",
+   "MF",
+   "VEN"
+  ],
+  [
+   8,
+   "Matty Longstaff",
+   "MF",
+   "ENG"
+  ],
+  [
+   9,
+   "Prince Owusu (footballer, born January 1997)",
+   "FW",
+   "GHA"
+  ],
+  [
+   10,
+   "Alexis Sánchez",
+   "FW",
+   "CHI"
+  ],
+  [
+   13,
+   "Luca Petrasso",
+   "DF",
+   "CAN"
+  ],
+  [
+   14,
+   "Daniel Ríos (footballer, born 1995)",
+   "FW",
+   "MEX"
+  ],
+  [
+   15,
+   "Félix Samson",
+   "DF",
+   "CAN"
+  ],
+  [
+   16,
+   "Wikelman Carmona",
+   "MF",
+   "VEN"
+  ],
+  [
+   17,
+   "Dante Sealy",
+   "MF",
+   "TRI"
+  ],
+  [
+   18,
+   "Hennadiy Synchuk",
+   "MF",
+   "UKR"
+  ],
+  [
+   19,
+   "Bode Hidalgo",
+   "DF",
+   "USA"
+  ],
+  [
+   21,
+   "Fabian Herbers",
+   "MF",
+   "GER"
+  ],
+  [
+   22,
+   "Victor Loturi",
+   "MF",
+   "CAN"
+  ],
+  [
+   23,
+   "Noah Streit",
+   "FW",
+   "SUI"
+  ],
+  [
+   24,
+   "Efrain Morales",
+   "DF",
+   "BOL"
+  ],
+  [
+   25,
+   "Frankie Amaya",
+   "MF",
+   "USA"
+  ],
+  [
+   26,
+   "Ivan Losenko",
+   "MF",
+   "UKR"
+  ],
+  [
+   27,
+   "Dawid Bugaj",
+   "DF",
+   "POL"
+  ],
+  [
+   28,
+   "Viktor Radojević",
+   "DF",
+   "SRB"
+  ],
+  [
+   29,
+   "Olger Escobar",
+   "MF",
+   "GUA"
+  ],
+  [
+   31,
+   "Thomas Gillier",
+   "GK",
+   "CHI"
+  ],
+  [
+   33,
+   "Emil Gazdov",
+   "GK",
+   "CAN"
+  ],
+  [
+   35,
+   "Owen Graham-Roache",
+   "FW",
+   "CAN"
+  ],
+  [
+   36,
+   "Josh Nteziryayo",
+   "DF",
+   "CAN"
+  ],
+  [
+   39,
+   "Aleksandr Guboglo",
+   "DF",
+   "CAN"
+  ],
+  [
+   41,
+   "Samsy Keita",
+   "GK",
+   "CAN"
+  ]
+ ],
+ "NYCFC": [
+  [
+   2,
+   "Nico Cavallo",
+   "DF",
+   "USA"
+  ],
+  [
+   3,
+   "Matt Miazga",
+   "DF",
+   "USA"
+  ],
+  [
+   5,
+   "Kai Trewin",
+   "DF",
+   "AUS"
+  ],
+  [
+   6,
+   "James Sands",
+   "DF",
+   "USA"
+  ],
+  [
+   7,
+   "Nicolás Fernández (footballer, born 2000)",
+   "FW",
+   "ARG"
+  ],
+  [
+   8,
+   "Andres Perea",
+   "MF",
+   "USA"
+  ],
+  [
+   9,
+   "Bénie Traoré",
+   "FW",
+   "CIV"
+  ],
+  [
+   10,
+   "Maximiliano Moralez",
+   "MF",
+   "ARG"
+  ],
+  [
+   11,
+   "Talles Magno",
+   "FW",
+   "BRA"
+  ],
+  [
+   13,
+   "Thiago Martins (footballer, born 1995)",
+   "DF",
+   "BRA"
+  ],
+  [
+   15,
+   "Kevin Pierre",
+   "MF",
+   "USA"
+  ],
+  [
+   16,
+   "Alonso Martínez (footballer)",
+   "FW",
+   "CRC"
+  ],
+  [
+   17,
+   "Hannes Wolf (footballer)",
+   "MF",
+   "AUT"
+  ],
+  [
+   18,
+   "Greg Ranjitsingh",
+   "GK",
+   "TRI"
+  ],
+  [
+   20,
+   "Luighi",
+   "FW",
+   "BRA"
+  ],
+  [
+   21,
+   "Aiden O'Neill",
+   "MF",
+   "AUS"
+  ],
+  [
+   22,
+   "Kevin O'Toole (soccer)",
+   "DF",
+   "IRL"
+  ],
+  [
+   23,
+   "Max Murray",
+   "DF",
+   "USA"
+  ],
+  [
+   24,
+   "Tayvon Gray",
+   "DF",
+   "JAM"
+  ],
+  [
+   26,
+   "Agustín Ojeda (footballer, born 2004)",
+   "FW",
+   "ARG"
+  ],
+  [
+   27,
+   "Cooper Flax",
+   "MF",
+   "USA"
+  ],
+  [
+   29,
+   "Máximo Carrizo",
+   "MF",
+   "USA"
+  ],
+  [
+   30,
+   "Tomás Romero (footballer)",
+   "GK",
+   "SLV"
+  ],
+  [
+   31,
+   "Mac Learned",
+   "GK",
+   "USA"
+  ],
+  [
+   32,
+   "Jonathan Shore",
+   "MF",
+   "USA"
+  ],
+  [
+   34,
+   "Raul Gustavo",
+   "DF",
+   "BRA"
+  ],
+  [
+   38,
+   "Drew Baiera",
+   "DF",
+   "USA"
+  ],
+  [
+   45,
+   "Kamran Acito",
+   "DF",
+   "USA"
+  ]
+ ]
+}

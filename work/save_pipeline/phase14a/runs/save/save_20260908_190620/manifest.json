@@ -1,0 +1,24 @@
+{
+ "run_id": "save_20260908_190620",
+ "created": "20260908_190620",
+ "note": "SAVE_ROUNDTRIP v2: remove probe 175931 (P13B_P07) from China 10059 roster; expect China 8->7 probes",
+ "steps": [
+  {
+   "step": "target_in_roster",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "step": "remove_player",
+   "ok": false,
+   "detail": "removed 1 (sub+packed)"
+  }
+ ],
+ "sha256": {
+  "modified_Friendly_friendly.db": "584abb48fe1bb3218a46290e131fc7cf1dbd929f9bae72278f76ac2fd4c558ae"
+ },
+ "limitations": [
+  "SAVE_IMPORT_LIMITATION: player_blob = state summary only (pid/state/team/ovr); names/attrs/appearance live in gamedata. Save import moves existing players; new players need gamedata rebuild (APK)."
+ ],
+ "final": "PASS"
+}

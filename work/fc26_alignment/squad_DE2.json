@@ -1,0 +1,2866 @@
+{
+ "Hertha": [
+  [
+   2,
+   "Julian Eitschberger",
+   "DF",
+   "GER"
+  ],
+  [
+   7,
+   "Josip Brekalo",
+   "FW",
+   "CRO"
+  ],
+  [
+   8,
+   "Kevin Sessa",
+   "MF",
+   "GER"
+  ],
+  [
+   13,
+   "Konstantin Heide",
+   "GK",
+   "GER"
+  ],
+  [
+   17,
+   "Sebastian Grønning",
+   "FW",
+   "DEN"
+  ],
+  [
+   18,
+   "Luca Schuler (footballer)",
+   "FW",
+   "GER"
+  ],
+  [
+   21,
+   "Boris Mamuzah Lum",
+   "MF",
+   "GER"
+  ],
+  [
+   22,
+   "Mads Valentin",
+   "DF",
+   "DEN"
+  ],
+  [
+   24,
+   "Jón Dagur Þorsteinsson",
+   "FW",
+   "ISL"
+  ],
+  [
+   26,
+   "Niklas Hildebrandt",
+   "FW",
+   "GER"
+  ],
+  [
+   27,
+   "Niklas Kolbe",
+   "DF",
+   "GER"
+  ],
+  [
+   28,
+   "Jelani Ndi",
+   "FW",
+   "GER"
+  ],
+  [
+   29,
+   "Jerome Diallo",
+   "DF",
+   "GER"
+  ],
+  [
+   30,
+   "Paul Seguin",
+   "MF",
+   "GER"
+  ],
+  [
+   31,
+   "Márton Dárdai",
+   "DF",
+   "HUN"
+  ],
+  [
+   33,
+   "Soufian Gouram",
+   "MF",
+   "EST"
+  ],
+  [
+   34,
+   "Mayson Grothe",
+   "DF",
+   "GER"
+  ],
+  [
+   35,
+   "Marius Gersbeck",
+   "GK",
+   "GER"
+  ],
+  [
+   36,
+   "Kian Todorović",
+   "MF",
+   "TUR"
+  ],
+  [
+   41,
+   "Pascal Klemens",
+   "DF",
+   "GER"
+  ],
+  [
+   42,
+   "Deyovaisio Zeefuik",
+   "DF",
+   "SUR"
+  ],
+  [
+   43,
+   "Tim Goller",
+   "GK",
+   "GER"
+  ],
+  [
+   44,
+   "Linus Gechter",
+   "DF",
+   "GER"
+  ]
+ ],
+ "Bielefeld": [
+  [
+   1,
+   "Jonas Kersken",
+   "GK",
+   "GER"
+  ],
+  [
+   2,
+   "Felix Hagmann",
+   "DF",
+   "GER"
+  ],
+  [
+   3,
+   "Joel Felix (footballer)",
+   "DF",
+   "DNK"
+  ],
+  [
+   5,
+   "Maximilian Bauer (footballer, born 2000)",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Marvin Mehlem",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Henri Koudossou",
+   "DF",
+   "GER"
+  ],
+  [
+   8,
+   "Sam Schreck",
+   "MF",
+   "GER"
+  ],
+  [
+   10,
+   "Jannik Rochelt",
+   "MF",
+   "GER"
+  ],
+  [
+   11,
+   "Joel Grodowski",
+   "FW",
+   "GER"
+  ],
+  [
+   13,
+   "Lukas Kunze",
+   "MF",
+   "GER"
+  ],
+  [
+   14,
+   "Thaddäus-Monju Momuluh",
+   "FW",
+   "GER"
+  ],
+  [
+   17,
+   "Arne Sicker",
+   "DF",
+   "GER"
+  ],
+  [
+   18,
+   "Leo Oppermann",
+   "GK",
+   "GER"
+  ],
+  [
+   19,
+   "Maximilian Großer",
+   "DF",
+   "GER"
+  ],
+  [
+   21,
+   "Stefano Russo (footballer, born 2000)",
+   "MF",
+   "GER"
+  ],
+  [
+   23,
+   "Leon Schneider",
+   "DF",
+   "GER"
+  ],
+  [
+   27,
+   "Benjamin Boakye",
+   "MF",
+   "GER"
+  ],
+  [
+   28,
+   "Roberts Uldriķis",
+   "FW",
+   "LVA"
+  ],
+  [
+   29,
+   "Tim Handwerker",
+   "DF",
+   "GER"
+  ],
+  [
+   30,
+   "Isaiah Young",
+   "FW",
+   "USA"
+  ],
+  [
+   31,
+   "Leon Jensen",
+   "MF",
+   "GER"
+  ],
+  [
+   38,
+   "Marius Wörl",
+   "MF",
+   "GER"
+  ],
+  [
+   42,
+   "Till Wegener",
+   "MF",
+   "GER"
+  ],
+  [
+   43,
+   "Daniel Richter",
+   "MF",
+   "GER"
+  ],
+  [
+   44,
+   "Eyyüb Yasar",
+   "MF",
+   "TUR"
+  ]
+ ],
+ "Bochum": [
+  [
+   1,
+   "Timo Horn",
+   "GK",
+   "GER"
+  ],
+  [
+   2,
+   "Sean Klaiber",
+   "DF",
+   "SUR"
+  ],
+  [
+   3,
+   "Philipp Strompf",
+   "DF",
+   "GER"
+  ],
+  [
+   4,
+   "Yiğit Karademir",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Karol Mets",
+   "DF",
+   "EST"
+  ],
+  [
+   6,
+   "Enis Çokaj",
+   "MF",
+   "ALB"
+  ],
+  [
+   7,
+   "Christian Rasmussen (footballer)",
+   "FW",
+   "DEN"
+  ],
+  [
+   8,
+   "Jean-Manuel Mbom",
+   "MF",
+   "GER"
+  ],
+  [
+   10,
+   "Berkan Taz",
+   "FW",
+   "GER"
+  ],
+  [
+   13,
+   "Oliver Olsen",
+   "DF",
+   "DEN"
+  ],
+  [
+   15,
+   "Michael Steinwender",
+   "DF",
+   "AUT"
+  ],
+  [
+   16,
+   "Tino Casali",
+   "GK",
+   "AUT"
+  ],
+  [
+   17,
+   "Gerrit Holtmann",
+   "FW",
+   "PHI"
+  ],
+  [
+   19,
+   "Daniel Hanslik",
+   "FW",
+   "GER"
+  ],
+  [
+   23,
+   "Kōji Miyoshi",
+   "MF",
+   "JPN"
+  ],
+  [
+   24,
+   "Mats Pannewig",
+   "MF",
+   "GER"
+  ],
+  [
+   27,
+   "Babis Drakas",
+   "FW",
+   "GER"
+  ],
+  [
+   29,
+   "Mansour Ouro-Tagba",
+   "FW",
+   "TOG"
+  ],
+  [
+   31,
+   "Leon Sawas",
+   "DF",
+   "GER"
+  ],
+  [
+   32,
+   "Maximilian Wittek",
+   "DF",
+   "GER"
+  ],
+  [
+   33,
+   "Philipp Hofmann",
+   "FW",
+   "GER"
+  ],
+  [
+   34,
+   "Tom Meyer",
+   "MF",
+   "GER"
+  ],
+  [
+   36,
+   "Luis Pick",
+   "FW",
+   "GER"
+  ],
+  [
+   37,
+   "Alessandro Crimaldi",
+   "MF",
+   "ITA"
+  ],
+  [
+   38,
+   "Hugo Rölleke",
+   "GK",
+   "GER"
+  ],
+  [
+   39,
+   "Lasse Isbruch",
+   "MF",
+   "GER"
+  ]
+ ],
+ "Braunschweig": [
+  [
+   4,
+   "Andi Hoti",
+   "DF",
+   "KVX"
+  ],
+  [
+   5,
+   "Frederik Jäkel",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Florian Flick",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Yann Sturm",
+   "FW",
+   "GER"
+  ],
+  [
+   8,
+   "Mehmet-Can Aydın",
+   "MF",
+   "TUR"
+  ],
+  [
+   9,
+   "Maximilian Entrup",
+   "FW",
+   "AUT"
+  ],
+  [
+   10,
+   "Samuele Di Benedetto",
+   "MF",
+   "GER"
+  ],
+  [
+   15,
+   "Max Marie",
+   "MF",
+   "GER"
+  ],
+  [
+   17,
+   "Aaron Opoku",
+   "MF",
+   "GER"
+  ],
+  [
+   19,
+   "Arlet Junior Zé",
+   "FW",
+   "SUI"
+  ],
+  [
+   20,
+   "Lino Tempelmann",
+   "MF",
+   "GER"
+  ],
+  [
+   21,
+   "Kevin Ehlers",
+   "DF",
+   "GER"
+  ],
+  [
+   22,
+   "Fabio Di Michele Sanchez",
+   "DF",
+   "GER"
+  ],
+  [
+   23,
+   "Isidoros Koutsidis",
+   "DF",
+   "GRE"
+  ],
+  [
+   24,
+   "Sidi Sané",
+   "FW",
+   "GER"
+  ],
+  [
+   25,
+   "Sanoussy Ba",
+   "DF",
+   "GER"
+  ],
+  [
+   26,
+   "Tristan Wagner",
+   "MF",
+   "GER"
+  ],
+  [
+   29,
+   "Lukas Frenkert",
+   "DF",
+   "GER"
+  ],
+  [
+   30,
+   "Robin Heußer",
+   "MF",
+   "GER"
+  ],
+  [
+   32,
+   "Benjamin Uphoff",
+   "GK",
+   "GER"
+  ],
+  [
+   33,
+   "Nick Bodon",
+   "GK",
+   "GER"
+  ],
+  [
+   37,
+   "Sidney Raebiger",
+   "MF",
+   "GER"
+  ],
+  [
+   43,
+   "Damjan Kovacevic",
+   "DF",
+   "AUT"
+  ]
+ ],
+ "Darmstadt": [
+  [
+   3,
+   "Florian Kleinhansl",
+   "DF",
+   "GER"
+  ],
+  [
+   4,
+   "Grayson Dettoni",
+   "DF",
+   "USA"
+  ],
+  [
+   5,
+   "Marco Richter",
+   "MF",
+   "GER"
+  ],
+  [
+   6,
+   "Patric Pfeiffer",
+   "DF",
+   "GHA"
+  ],
+  [
+   7,
+   "Noah Weißhaupt",
+   "FW",
+   "GER"
+  ],
+  [
+   8,
+   "Luca Marseiler",
+   "FW",
+   "GER"
+  ],
+  [
+   9,
+   "Lee Ho-jae (footballer)",
+   "FW",
+   "KOR"
+  ],
+  [
+   10,
+   "Nicolas Verkooijen",
+   "MF",
+   "BEL"
+  ],
+  [
+   11,
+   "Ibrahim El Kadiri",
+   "FW",
+   "MAR"
+  ],
+  [
+   14,
+   "Meldin Drešković",
+   "DF",
+   "MNE"
+  ],
+  [
+   15,
+   "Fabian Nürnberger",
+   "MF",
+   "BUL"
+  ],
+  [
+   16,
+   "Hiroki Akiyama",
+   "MF",
+   "JPN"
+  ],
+  [
+   17,
+   "Kai Klefisch",
+   "MF",
+   "GER"
+  ],
+  [
+   18,
+   "Raoul Petretta",
+   "DF",
+   "ITA"
+  ],
+  [
+   19,
+   "Fynn Lakenmacher",
+   "FW",
+   "GER"
+  ],
+  [
+   20,
+   "Aleksandar Vukotić",
+   "DF",
+   "SRB"
+  ],
+  [
+   21,
+   "Merveille Papela",
+   "MF",
+   "GER"
+  ],
+  [
+   22,
+   "Lars Kehl",
+   "FW",
+   "GER"
+  ],
+  [
+   23,
+   "Carlo Sickinger",
+   "MF",
+   "GER"
+  ],
+  [
+   24,
+   "Benedikt Börner",
+   "GK",
+   "GER"
+  ],
+  [
+   25,
+   "William Mikelbrencis",
+   "DF",
+   "FRA"
+  ],
+  [
+   26,
+   "Matthias Bader",
+   "DF",
+   "GER"
+  ],
+  [
+   28,
+   "Christopher Lannert",
+   "DF",
+   "GER"
+  ],
+  [
+   30,
+   "Alexander Brunst",
+   "GK",
+   "GER"
+  ],
+  [
+   41,
+   "Lance Duijvestijn",
+   "DF",
+   "NED"
+  ],
+  [
+   44,
+   "Yosuke Furukawa",
+   "FW",
+   "JAP"
+  ],
+  [
+   45,
+   "Max Pfister",
+   "DF",
+   "GER"
+  ]
+ ],
+ "Dresden": [
+  [
+   1,
+   "Tim Schreiber",
+   "GK",
+   "GER"
+  ],
+  [
+   4,
+   "Kenneth Schmidt",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Nicolai Rapp",
+   "DF",
+   "GER"
+  ],
+  [
+   8,
+   "Luca Herrmann",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Vincent Vermeij",
+   "FW",
+   "NED"
+  ],
+  [
+   10,
+   "Jakob Lemmer",
+   "MF",
+   "GER"
+  ],
+  [
+   11,
+   "Kaan İnanoğlu",
+   "FW",
+   "TUR"
+  ],
+  [
+   14,
+   "Brooklyn Ezeh",
+   "DF",
+   "GER"
+  ],
+  [
+   16,
+   "Nils Fröling",
+   "FW",
+   "SWE"
+  ],
+  [
+   17,
+   "Ahmet Muhamedbegović",
+   "DF",
+   "AUT"
+  ],
+  [
+   18,
+   "Robert Wagner (footballer)",
+   "MF",
+   "GER"
+  ],
+  [
+   19,
+   "Alexander Rossipal",
+   "DF",
+   "GER"
+  ],
+  [
+   20,
+   "Ben Bobzien",
+   "FW",
+   "GER"
+  ],
+  [
+   21,
+   "Tobias Raschl",
+   "MF",
+   "GER"
+  ],
+  [
+   22,
+   "Lennart Grill",
+   "GK",
+   "GER"
+  ],
+  [
+   23,
+   "Lars Bünning",
+   "DF",
+   "GER"
+  ],
+  [
+   27,
+   "Niklas Hauptmann",
+   "MF",
+   "GER"
+  ],
+  [
+   29,
+   "Lukas Boeder",
+   "DF",
+   "GER"
+  ],
+  [
+   32,
+   "Jonas Sterner",
+   "DF",
+   "GER"
+  ],
+  [
+   33,
+   "Christoph Daferner",
+   "FW",
+   "GER"
+  ],
+  [
+   37,
+   "Daniel Mesenhöler",
+   "GK",
+   "GER"
+  ],
+  [
+   39,
+   "Thomas Keller (footballer)",
+   "DF",
+   "GER"
+  ],
+  [
+   40,
+   "Elias Bethke",
+   "GK",
+   "GER"
+  ],
+  [
+   42,
+   "Friedrich Müller",
+   "DF",
+   "GER"
+  ],
+  [
+   44,
+   "Simon Straudi",
+   "DF",
+   "ITA"
+  ]
+ ],
+ "Furth": [
+  [
+   2,
+   "Lukas Reich",
+   "DF",
+   "GER"
+  ],
+  [
+   5,
+   "Maxim Dal",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Sacha Bansé",
+   "MF",
+   "BFA"
+  ],
+  [
+   7,
+   "Dennis Srbeny",
+   "FW",
+   "GER"
+  ],
+  [
+   8,
+   "Shinta Appelkamp",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Jordan Pefok",
+   "FW",
+   "USA"
+  ],
+  [
+   10,
+   "Ole Pohlmann",
+   "MF",
+   "GER"
+  ],
+  [
+   11,
+   "Aaron Keller (footballer)",
+   "MF",
+   "SUI"
+  ],
+  [
+   13,
+   "Paul Will",
+   "MF",
+   "GER"
+  ],
+  [
+   18,
+   "Omar Megeed",
+   "MF",
+   "EGY"
+  ],
+  [
+   19,
+   "Benjamin Zank",
+   "FW",
+   "GER"
+  ],
+  [
+   22,
+   "Jannis Heuer",
+   "DF",
+   "GER"
+  ],
+  [
+   23,
+   "Jannik Dehm",
+   "DF",
+   "GER"
+  ],
+  [
+   27,
+   "Luca Itter",
+   "DF",
+   "GER"
+  ],
+  [
+   28,
+   "Doni Arifi",
+   "MF",
+   "FIN"
+  ],
+  [
+   30,
+   "Felix Klaus",
+   "MF",
+   "GER"
+  ],
+  [
+   36,
+   "Philipp Müller",
+   "MF",
+   "GER"
+  ],
+  [
+   37,
+   "Faton Ademi",
+   "MF",
+   "KOS"
+  ],
+  [
+   39,
+   "Christian Ortag",
+   "GK",
+   "GER"
+  ],
+  [
+   42,
+   "Omar Sillah",
+   "FW",
+   "GER"
+  ],
+  [
+   43,
+   "Silas Prüfrock",
+   "GK",
+   "GER"
+  ],
+  [
+   44,
+   "Mehmet Avlayici",
+   "MF",
+   "GER"
+  ]
+ ],
+ "Hannover": [
+  [
+   1,
+   "Pascal Loretz",
+   "GK",
+   "SUI"
+  ],
+  [
+   3,
+   "Boris Tomiak",
+   "DF",
+   "GER"
+  ],
+  [
+   4,
+   "Jean Hugonet",
+   "DF",
+   "FRA"
+  ],
+  [
+   5,
+   "Virgil Ghiță",
+   "DF",
+   "ROU"
+  ],
+  [
+   7,
+   "Mustapha Bundu",
+   "FW",
+   "SLE"
+  ],
+  [
+   8,
+   "Waniss Taïbi",
+   "MF",
+   "FRA"
+  ],
+  [
+   9,
+   "Benjamin Källman",
+   "FW",
+   "FIN"
+  ],
+  [
+   10,
+   "Marcel Hartel",
+   "MF",
+   "GER"
+  ],
+  [
+   11,
+   "Benedikt Pichler",
+   "FW",
+   "AUT"
+  ],
+  [
+   13,
+   "Franz Roggow",
+   "MF",
+   "GER"
+  ],
+  [
+   14,
+   "Husseyn Chakroun",
+   "MF",
+   "LBN"
+  ],
+  [
+   16,
+   "Karl Steinmann",
+   "DF",
+   "GER"
+  ],
+  [
+   17,
+   "Bastian Allgeier",
+   "DF",
+   "GER"
+  ],
+  [
+   20,
+   "Ime Okon",
+   "DF",
+   "RSA"
+  ],
+  [
+   21,
+   "Mwisho Mhango",
+   "MF",
+   "MWI"
+  ],
+  [
+   22,
+   "Noah Engelbreth",
+   "MF",
+   "GER"
+  ],
+  [
+   23,
+   "Stefán Teitur Þórðarson",
+   "MF",
+   "ISL"
+  ],
+  [
+   24,
+   "Yunus Ünal",
+   "MF",
+   "GER"
+  ],
+  [
+   25,
+   "Lars Gindorf",
+   "MF",
+   "GER"
+  ],
+  [
+   26,
+   "Tom Hobrecht",
+   "FW",
+   "GER"
+  ],
+  [
+   27,
+   "Hayate Matsuda",
+   "DF",
+   "JPN"
+  ],
+  [
+   28,
+   "Taycan Etçibaşı",
+   "FW",
+   "GER"
+  ],
+  [
+   29,
+   "Kolja Oudenne",
+   "MF",
+   "SWE"
+  ],
+  [
+   30,
+   "Leo Weinkauf",
+   "GK",
+   "GER"
+  ],
+  [
+   33,
+   "Maurice Neubauer",
+   "DF",
+   "GER"
+  ],
+  [
+   35,
+   "Joschua Siewert",
+   "DF",
+   "GER"
+  ],
+  [
+   37,
+   "Alexander Vogel",
+   "MF",
+   "GER"
+  ],
+  [
+   39,
+   "Taycan Kurt",
+   "FW",
+   "TUR"
+  ],
+  [
+   40,
+   "Jonas Schwanke",
+   "GK",
+   "GER"
+  ],
+  [
+   44,
+   "Emir Sahiti",
+   "MF",
+   "KOS"
+  ]
+ ],
+ "Heidenheim": [
+  [
+   1,
+   "Frank Feller (footballer)",
+   "GK",
+   "GER"
+  ],
+  [
+   3,
+   "Jan Schöppner",
+   "MF",
+   "GER"
+  ],
+  [
+   4,
+   "Tim Siersleben",
+   "DF",
+   "GER"
+  ],
+  [
+   8,
+   "Paul Hennrich",
+   "MF",
+   "GER"
+  ],
+  [
+   10,
+   "Christian Conteh",
+   "MF",
+   "GER"
+  ],
+  [
+   11,
+   "Budu Zivzivadze",
+   "FW",
+   "GEO"
+  ],
+  [
+   14,
+   "Maximilian Breunig",
+   "FW",
+   "GER"
+  ],
+  [
+   16,
+   "Julian Niehues",
+   "MF",
+   "GER"
+  ],
+  [
+   17,
+   "Mathias Honsak",
+   "MF",
+   "AUT"
+  ],
+  [
+   19,
+   "Jonas Föhrenbach",
+   "DF",
+   "GER"
+  ],
+  [
+   20,
+   "Luca Kerber",
+   "MF",
+   "GER"
+  ],
+  [
+   22,
+   "Oualid Mhamdi",
+   "DF",
+   "MAR"
+  ],
+  [
+   23,
+   "Leart Paqarada",
+   "DF",
+   "KOS"
+  ],
+  [
+   24,
+   "Marcel Costly",
+   "FW",
+   "GER"
+  ],
+  [
+   27,
+   "Michael Heule",
+   "DF",
+   "SUI"
+  ],
+  [
+   28,
+   "Adam Kölle",
+   "DF",
+   "GER"
+  ],
+  [
+   29,
+   "Mikkel Kaufmann",
+   "FW",
+   "DEN"
+  ],
+  [
+   31,
+   "Sirlord Conteh",
+   "MF",
+   "GER"
+  ],
+  [
+   33,
+   "Thomas Dähne",
+   "GK",
+   "GER"
+  ],
+  [
+   34,
+   "Paul Tschernuth",
+   "GK",
+   "AUT"
+  ],
+  [
+   38,
+   "Yannik Wagner",
+   "FW",
+   "GER"
+  ],
+  [
+   40,
+   "Felix Mark",
+   "GK",
+   "GER"
+  ],
+  [
+   41,
+   "Marko Zrilić",
+   "MF",
+   "CRO"
+  ]
+ ],
+ "Kaiserslautern": [
+  [
+   1,
+   "Julian Krahl",
+   "GK",
+   "GER"
+  ],
+  [
+   2,
+   "Simon Asta",
+   "DF",
+   "GER"
+  ],
+  [
+   4,
+   "Maxwell Gyamfi",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Fabian Kunze",
+   "MF",
+   "GER"
+  ],
+  [
+   8,
+   "Semih Şahin",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Ivan Prtajin",
+   "FW",
+   "CRO"
+  ],
+  [
+   14,
+   "Jacob Rasmussen",
+   "DF",
+   "DEN"
+  ],
+  [
+   15,
+   "Naatan Skyttä",
+   "MF",
+   "FIN"
+  ],
+  [
+   20,
+   "Mërgim Berisha",
+   "FW",
+   "GER"
+  ],
+  [
+   22,
+   "Mika Haas",
+   "DF",
+   "GER"
+  ],
+  [
+   26,
+   "Paul Joly",
+   "DF",
+   "FRA"
+  ],
+  [
+   33,
+   "Jan Elvedi",
+   "DF",
+   "SUI"
+  ],
+  [
+   34,
+   "Yannick Onohiol",
+   "GK",
+   "GER"
+  ],
+  [
+   37,
+   "Leon Robinson (footballer)",
+   "MF",
+   "GER"
+  ],
+  [
+   39,
+   "Thierry Tazemeta",
+   "FW",
+   "AUT"
+  ],
+  [
+   40,
+   "Enis Kamga",
+   "GK",
+   "GER"
+  ],
+  [
+   41,
+   "David Schramm",
+   "MF",
+   "GER"
+  ],
+  [
+   42,
+   "Erik Müller",
+   "MF",
+   "GER"
+  ],
+  [
+   43,
+   "Owen Gibs",
+   "MF",
+   "GER"
+  ],
+  [
+   44,
+   "Dion Hofmeister",
+   "MF",
+   "GER"
+  ]
+ ],
+ "Karlsruhe": [
+  [
+   1,
+   "Hans Christian Bernat",
+   "GK",
+   "DEN"
+  ],
+  [
+   2,
+   "Sebastian Jung",
+   "DF",
+   "GER"
+  ],
+  [
+   4,
+   "Héliton",
+   "DF",
+   "BRA"
+  ],
+  [
+   5,
+   "Kwon Hyeok-kyu",
+   "DF",
+   "KOR"
+  ],
+  [
+   6,
+   "Santeri Väänänen",
+   "MF",
+   "FIN"
+  ],
+  [
+   7,
+   "Kevin Wiethaup",
+   "MF",
+   "GER"
+  ],
+  [
+   10,
+   "Marvin Wanitzek",
+   "MF",
+   "GER"
+  ],
+  [
+   11,
+   "Noel Eichinger",
+   "FW",
+   "GER"
+  ],
+  [
+   13,
+   "Shiō Fukuda",
+   "FW",
+   "JPN"
+  ],
+  [
+   15,
+   "Paul Scholl",
+   "DF",
+   "GER"
+  ],
+  [
+   17,
+   "Eymen Laghrissi",
+   "FW",
+   "GER"
+  ],
+  [
+   18,
+   "Ferdinand Gebert",
+   "GK",
+   "GER"
+  ],
+  [
+   22,
+   "Christoph Kobald",
+   "DF",
+   "AUT"
+  ],
+  [
+   23,
+   "Tim Civeja",
+   "MF",
+   "ALB"
+  ],
+  [
+   24,
+   "Sandro Trémoulet",
+   "DF",
+   "MAD"
+  ],
+  [
+   25,
+   "Lilian Egloff",
+   "MF",
+   "GER"
+  ],
+  [
+   26,
+   "Danyal Zor",
+   "MF",
+   "GER"
+  ],
+  [
+   27,
+   "John Davis Meyer",
+   "FW",
+   "GER"
+  ],
+  [
+   28,
+   "Marcel Franke",
+   "DF",
+   "GER"
+  ],
+  [
+   30,
+   "Robin Himmelmann",
+   "GK",
+   "GER"
+  ],
+  [
+   33,
+   "Viktor Bergh",
+   "DF",
+   "SWE"
+  ],
+  [
+   36,
+   "Rafael Pinto Pedrosa",
+   "DF",
+   "GER"
+  ],
+  [
+   37,
+   "Jason Ponente-Ramirez",
+   "FW",
+   "ITA"
+  ]
+ ],
+ "Kiel": [
+  [
+   1,
+   "Timon Weiner",
+   "GK",
+   "GER"
+  ],
+  [
+   1,
+   "Tyler Doğan",
+   "GK",
+   "TUR"
+  ],
+  [
+   2,
+   "Frederik Roslyng",
+   "DF",
+   "DEN"
+  ],
+  [
+   2,
+   "Henrik Arnold",
+   "DF",
+   "GER"
+  ],
+  [
+   3,
+   "Leon Parduzi",
+   "DF",
+   "KOS"
+  ],
+  [
+   4,
+   "Caspar Medlin",
+   "DF",
+   "GER"
+  ],
+  [
+   4,
+   "Sebastian Schonlau",
+   "DF",
+   "GER"
+  ],
+  [
+   5,
+   "Noah Madsen",
+   "DF",
+   "DEN"
+  ],
+  [
+   6,
+   "Ikem Ugoh",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Lenny Borges",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Steven Skrzybski",
+   "MF",
+   "GER"
+  ],
+  [
+   8,
+   "Finn Wirlmann",
+   "DF",
+   "GER"
+  ],
+  [
+   8,
+   "Guillermo Balzi",
+   "MF",
+   "ARG"
+  ],
+  [
+   9,
+   "Etienne Sohn",
+   "FW",
+   "GER"
+  ],
+  [
+   9,
+   "Giorgi Kvilitaia",
+   "FW",
+   "GEO"
+  ],
+  [
+   10,
+   "Jonas Therkelsen",
+   "MF",
+   "NOR"
+  ],
+  [
+   11,
+   "Gyan de Regt",
+   "FW",
+   "NED"
+  ],
+  [
+   11,
+   "Jorden Winter",
+   "FW",
+   "GER"
+  ],
+  [
+   12,
+   "Henrie Müller-Kalthoff",
+   "GK",
+   "GER"
+  ],
+  [
+   13,
+   "Ivan Nekić",
+   "DF",
+   "CRO"
+  ],
+  [
+   13,
+   "Oskar von Esebeck",
+   "FW",
+   "GER"
+  ],
+  [
+   14,
+   "Cenğizhan Koç",
+   "MF",
+   "GER"
+  ],
+  [
+   15,
+   "Kasper Davidsen",
+   "MF",
+   "DEN"
+  ],
+  [
+   15,
+   "Tim Ottlinger",
+   "DF",
+   "GER"
+  ],
+  [
+   16,
+   "Andu Kelati",
+   "MF",
+   "GER"
+  ],
+  [
+   16,
+   "Tim Spieckermann",
+   "DF",
+   "GER"
+  ],
+  [
+   17,
+   "Faride Alidou",
+   "FW",
+   "GER"
+  ],
+  [
+   17,
+   "Veit Lückner",
+   "DF",
+   "GER"
+  ],
+  [
+   18,
+   "Ali Abdulla",
+   "MF",
+   "GER"
+  ],
+  [
+   19,
+   "Laurynas Kulikas",
+   "FW",
+   "GER"
+  ],
+  [
+   19,
+   "Phil Harres",
+   "FW",
+   "GER"
+  ],
+  [
+   20,
+   "Adrián Kaprálik",
+   "FW",
+   "SVK"
+  ],
+  [
+   20,
+   "Islam Matene",
+   "FW",
+   "ALG"
+  ],
+  [
+   21,
+   "Kjell Knaak",
+   "FW",
+   "GER"
+  ],
+  [
+   22,
+   "Moritz Reimers",
+   "FW",
+   "GER"
+  ],
+  [
+   22,
+   "Mätthi Meyer",
+   "FW",
+   "GER"
+  ],
+  [
+   23,
+   "Enes Rüzgar",
+   "FW",
+   "TUR"
+  ],
+  [
+   23,
+   "Lasse Rosenboom",
+   "DF",
+   "GER"
+  ],
+  [
+   24,
+   "Malte Petersen",
+   "DF",
+   "GER"
+  ],
+  [
+   26,
+   "David Zec",
+   "DF",
+   "SVN"
+  ],
+  [
+   26,
+   "Lasse Soldanski",
+   "MF",
+   "GER"
+  ],
+  [
+   27,
+   "Ikem Ugoh",
+   "MF",
+   "GER"
+  ],
+  [
+   28,
+   "Jonas Meffert",
+   "MF",
+   "GER"
+  ],
+  [
+   29,
+   "Gustav Karimi",
+   "MF",
+   "SWE"
+  ],
+  [
+   30,
+   "Lio Rothenhagen",
+   "GK",
+   "GER"
+  ],
+  [
+   30,
+   "Tayar Tasdelen",
+   "MF",
+   "GER"
+  ],
+  [
+   31,
+   "Felix Boelter",
+   "DF",
+   "GER"
+  ],
+  [
+   31,
+   "Marcel Engelhardt",
+   "GK",
+   "GER"
+  ],
+  [
+   32,
+   "Hamza Muqaj",
+   "MF",
+   "KOS"
+  ],
+  [
+   40,
+   "Leon Parduzi",
+   "DF",
+   "KOS"
+  ],
+  [
+   41,
+   "Lio Rothenhagen",
+   "GK",
+   "GER"
+  ]
+ ],
+ "Magdeburg": [
+  [
+   1,
+   "Dominik Reimann",
+   "GK",
+   "GER"
+  ],
+  [
+   1,
+   "Tom Schlitter",
+   "GK",
+   "GER"
+  ],
+  [
+   3,
+   "Anselmo García MacNulty",
+   "DF",
+   "IRL"
+  ],
+  [
+   3,
+   "Eldin Džogović",
+   "DF",
+   "LUX"
+  ],
+  [
+   4,
+   "Eldin Džogović",
+   "DF",
+   "LUX"
+  ],
+  [
+   4,
+   "Rick Lemke",
+   "DF",
+   "GER"
+  ],
+  [
+   5,
+   "Batuhan Deliboyraz",
+   "DF",
+   "TUR"
+  ],
+  [
+   5,
+   "Tobias Müller (footballer, born 1994)",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Paul Jaeckel",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Timo Birk",
+   "MF",
+   "GER"
+  ],
+  [
+   7,
+   "Elisio Widmann",
+   "FW",
+   "GER"
+  ],
+  [
+   7,
+   "Herbert Bockhorn",
+   "DF",
+   "UGA"
+  ],
+  [
+   8,
+   "Emmanuel Iyoha",
+   "FW",
+   "GER"
+  ],
+  [
+   8,
+   "Mathis Froberg",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Luc Elsner",
+   "FW",
+   "GER"
+  ],
+  [
+   10,
+   "Moritz Kwarteng",
+   "MF",
+   "GER"
+  ],
+  [
+   10,
+   "Stefan Korsch",
+   "FW",
+   "GER"
+  ],
+  [
+   11,
+   "Luis Trus",
+   "FW",
+   "GER"
+  ],
+  [
+   14,
+   "Tony Reitz",
+   "MF",
+   "GER"
+  ],
+  [
+   15,
+   "Daniel Heber",
+   "DF",
+   "GER"
+  ],
+  [
+   17,
+   "Alexander Nollenberger",
+   "FW",
+   "GER"
+  ],
+  [
+   17,
+   "Jeremie Niklaus",
+   "DF",
+   "GER"
+  ],
+  [
+   19,
+   "Lubambo Musonda",
+   "DF",
+   "ZAM"
+  ],
+  [
+   20,
+   "Kevin Manthey",
+   "MF",
+   "GER"
+  ],
+  [
+   20,
+   "Nick Meier",
+   "MF",
+   "GER"
+  ],
+  [
+   21,
+   "Falko Michel",
+   "MF",
+   "GER"
+  ],
+  [
+   21,
+   "Gennaro Mewes",
+   "DF",
+   "GER"
+  ],
+  [
+   22,
+   "Mateusz Żukowski",
+   "FW",
+   "POL"
+  ],
+  [
+   22,
+   "Philipp Flemming",
+   "GK",
+   "GER"
+  ],
+  [
+   23,
+   "Barış Atik",
+   "FW",
+   "TUR"
+  ],
+  [
+   23,
+   "Steven Probst",
+   "DF",
+   "GER"
+  ],
+  [
+   24,
+   "Tarek Chahed",
+   "DF",
+   "GER"
+  ],
+  [
+   25,
+   "Mihailo Trkulja",
+   "DF",
+   "BIH"
+  ],
+  [
+   26,
+   "Torben Müsel",
+   "MF",
+   "GER"
+  ],
+  [
+   28,
+   "Marcel Zajusch",
+   "DF",
+   "POL"
+  ],
+  [
+   28,
+   "Pierre Nadjombe",
+   "DF",
+   "TGO"
+  ],
+  [
+   29,
+   "Cornelius Bräunling",
+   "FW",
+   "GER"
+  ],
+  [
+   29,
+   "Richmond Tachie",
+   "MF",
+   "GER"
+  ],
+  [
+   30,
+   "Noah Kruth",
+   "GK",
+   "GER"
+  ],
+  [
+   33,
+   "Leon Mergner",
+   "MF",
+   "GER"
+  ],
+  [
+   34,
+   "Leander Beimborn",
+   "DF",
+   "GER"
+  ],
+  [
+   34,
+   "Tarek Chahed",
+   "DF",
+   "GER"
+  ],
+  [
+   35,
+   "Magnus Baars",
+   "MF",
+   "GER"
+  ],
+  [
+   37,
+   "Kevin Manthey",
+   "MF",
+   "GER"
+  ],
+  [
+   38,
+   "Luka Hyryläinen",
+   "MF",
+   "FIN"
+  ],
+  [
+   39,
+   "Armin Sivic",
+   "FW",
+   "GER"
+  ],
+  [
+   40,
+   "Robert Kampa",
+   "GK",
+   "GER"
+  ]
+ ],
+ "Nurnberg": [
+  [
+   1,
+   "Jan Reichert",
+   "GK",
+   "GER"
+  ],
+  [
+   4,
+   "Alexis Kalogeropoulos",
+   "DF",
+   "GRE"
+  ],
+  [
+   5,
+   "Styopa Mkrtchyan",
+   "DF",
+   "ARM"
+  ],
+  [
+   6,
+   "Adam Markhiyev",
+   "MF",
+   "FIN"
+  ],
+  [
+   7,
+   "Rayan Ghrieb",
+   "FW",
+   "FRA"
+  ],
+  [
+   9,
+   "Sigurd Hauso Haugen",
+   "FW",
+   "NOR"
+  ],
+  [
+   10,
+   "Julian Justvan",
+   "MF",
+   "GER"
+  ],
+  [
+   13,
+   "Robin Lisewski",
+   "GK",
+   "POL"
+  ],
+  [
+   14,
+   "Andrea Ceresoli",
+   "DF",
+   "ITA"
+  ],
+  [
+   16,
+   "Marko Soldić",
+   "MF",
+   "GER"
+  ],
+  [
+   18,
+   "Rafael Lubach",
+   "MF",
+   "GER"
+  ],
+  [
+   19,
+   "Piet Scobel",
+   "FW",
+   "GER"
+  ],
+  [
+   20,
+   "Fynn Otto",
+   "DF",
+   "GER"
+  ],
+  [
+   21,
+   "Giannis Masouras",
+   "DF",
+   "GRE"
+  ],
+  [
+   22,
+   "Finn Ole Becker",
+   "MF",
+   "GER"
+  ],
+  [
+   23,
+   "Mohamed Ali Zoma",
+   "FW",
+   "ITA"
+  ],
+  [
+   26,
+   "Christian Mathenia",
+   "GK",
+   "GER"
+  ],
+  [
+   28,
+   "Can Moustfa",
+   "FW",
+   "SYR"
+  ],
+  [
+   32,
+   "Tim Janisch",
+   "DF",
+   "GER"
+  ],
+  [
+   35,
+   "Marc Kornwachs Barjuan",
+   "MF",
+   "GER"
+  ],
+  [
+   36,
+   "Kristian Mandić",
+   "DF",
+   "CRO"
+  ],
+  [
+   38,
+   "Winners Osawe",
+   "MF",
+   "GER"
+  ],
+  [
+   39,
+   "Adriano Grimaldi",
+   "FW",
+   "GER"
+  ],
+  [
+   41,
+   "Eric Porstner",
+   "DF",
+   "GER"
+  ],
+  [
+   43,
+   "Tobias Heß",
+   "DF",
+   "GER"
+  ]
+ ],
+ "StPauli": [
+  [
+   1,
+   "Ben Voll",
+   "GK",
+   "GER"
+  ],
+  [
+   1,
+   "Niklas Petzsch",
+   "GK",
+   "GER"
+  ],
+  [
+   2,
+   "Luca Günther",
+   "DF",
+   "GER"
+  ],
+  [
+   2,
+   "Rony Jansson",
+   "DF",
+   "FIN"
+  ],
+  [
+   4,
+   "David Nemeth",
+   "DF",
+   "AUT"
+  ],
+  [
+   4,
+   "Jannik Westphal",
+   "DF",
+   "GER"
+  ],
+  [
+   5,
+   "Gísli Þórðarson",
+   "MF",
+   "ISL"
+  ],
+  [
+   5,
+   "Joris Bente",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Joel Addo",
+   "DF",
+   "GER"
+  ],
+  [
+   6,
+   "Marcus Mathisen",
+   "DF",
+   "DEN"
+  ],
+  [
+   7,
+   "Haron Sabah",
+   "FW",
+   "GER"
+  ],
+  [
+   7,
+   "Romeo Aigbekaen",
+   "FW",
+   "GER"
+  ],
+  [
+   7,
+   "Youssoupha Niang",
+   "FW",
+   "GER"
+  ],
+  [
+   8,
+   "Eric Smith (Swedish footballer)",
+   "MF",
+   "SWE"
+  ],
+  [
+   8,
+   "Mats Herrmann",
+   "MF",
+   "GER"
+  ],
+  [
+   9,
+   "Abdoulie Ceesay",
+   "FW",
+   "GAM"
+  ],
+  [
+   9,
+   "Noah Palapies",
+   "FW",
+   "GER"
+  ],
+  [
+   10,
+   "Branimir Hrgota",
+   "FW",
+   "SWE"
+  ],
+  [
+   10,
+   "Noah Gumpert",
+   "MF",
+   "GER"
+  ],
+  [
+   11,
+   "Arkadiusz Pyrka",
+   "DF",
+   "POL"
+  ],
+  [
+   14,
+   "Erik Ahlstrand",
+   "MF",
+   "SWE"
+  ],
+  [
+   14,
+   "Sisco Ngambia Dzonga",
+   "DF",
+   "GER"
+  ],
+  [
+   15,
+   "Fynn Braun",
+   "DF",
+   "GER"
+  ],
+  [
+   15,
+   "Tomoya Ando",
+   "DF",
+   "JPN"
+  ],
+  [
+   16,
+   "Joel Chima Fujita",
+   "MF",
+   "JPN"
+  ],
+  [
+   17,
+   "Mamadou Djalo",
+   "FW",
+   "GNB"
+  ],
+  [
+   17,
+   "Scott Banks",
+   "MF",
+   "SCO"
+  ],
+  [
+   18,
+   "Rawley St. John",
+   "MF",
+   "AUS"
+  ],
+  [
+   18,
+   "Taichi Hara",
+   "FW",
+   "JPN"
+  ],
+  [
+   19,
+   "Jack Wardius",
+   "FW",
+   "GER"
+  ],
+  [
+   19,
+   "Martijn Kaars",
+   "FW",
+   "NED"
+  ],
+  [
+   20,
+   "Mathias Rasmussen",
+   "MF",
+   "NOR"
+  ],
+  [
+   20,
+   "Wissou Kaba",
+   "FW",
+   "GER"
+  ],
+  [
+   21,
+   "Kenan Aydin",
+   "DF",
+   "GER"
+  ],
+  [
+   21,
+   "Lars Ritzka",
+   "DF",
+   "GER"
+  ],
+  [
+   22,
+   "Abdul Alassani",
+   "MF",
+   "GER"
+  ],
+  [
+   22,
+   "Sam Klein (soccer)",
+   "MF",
+   "AUS"
+  ],
+  [
+   23,
+   "Ammon Moser",
+   "DF",
+   "GER"
+  ],
+  [
+   23,
+   "Louis Oppie",
+   "DF",
+   "GER"
+  ],
+  [
+   24,
+   "Connor Metcalfe",
+   "MF",
+   "AUS"
+  ],
+  [
+   24,
+   "Hendrik Wurr",
+   "DF",
+   "GER"
+  ],
+  [
+   25,
+   "Adam Dźwigała",
+   "DF",
+   "POL"
+  ],
+  [
+   26,
+   "Ricky-Jade Jones",
+   "FW",
+   "ENG"
+  ],
+  [
+   27,
+   "Hugo Weber",
+   "MF",
+   "GER"
+  ],
+  [
+   28,
+   "Mathias Pereira Lage",
+   "MF",
+   "POR"
+  ],
+  [
+   29,
+   "Lucas Schulze",
+   "MF",
+   "GER"
+  ],
+  [
+   30,
+   "Nikky Goguadze",
+   "FW",
+   "NED"
+  ],
+  [
+   30,
+   "Simon Spari",
+   "GK",
+   "AUT"
+  ],
+  [
+   32,
+   "Anton Lange",
+   "DF",
+   "GER"
+  ],
+  [
+   33,
+   "Dimitar Mitov",
+   "GK",
+   "BUL"
+  ],
+  [
+   34,
+   "Jannik Robatsch",
+   "DF",
+   "AUT"
+  ],
+  [
+   40,
+   "Theo Moerchen",
+   "GK",
+   "GER"
+  ],
+  [
+   42,
+   "Marwin Schmitz",
+   "MF",
+   "GER"
+  ],
+  [
+   44,
+   "Nick Schmidt",
+   "MF",
+   "JPN"
+  ]
+ ],
+ "Wolfsburg": [
+  [
+   1,
+   "Timon Wellenreuther",
+   "GK",
+   "GER"
+  ],
+  [
+   2,
+   "Kilian Fischer",
+   "DF",
+   "GER"
+  ],
+  [
+   5,
+   "Vinícius Souza",
+   "MF",
+   "BRA"
+  ],
+  [
+   6,
+   "Hauke Wahl",
+   "DF",
+   "GER"
+  ],
+  [
+   7,
+   "Kento Shiogai",
+   "FW",
+   "JPN"
+  ],
+  [
+   8,
+   "Bence Dárdai",
+   "MF",
+   "HUN"
+  ],
+  [
+   10,
+   "Fraser Hornby",
+   "FW",
+   "SCO"
+  ],
+  [
+   11,
+   "Fabian Reese",
+   "FW",
+   "GER"
+  ],
+  [
+   12,
+   "Pavao Pervan",
+   "GK",
+   "AUT"
+  ],
+  [
+   13,
+   "Rogério (footballer, born 1998)",
+   "DF",
+   "BRA"
+  ],
+  [
+   14,
+   "Pharell Hensel",
+   "MF",
+   "GER"
+  ],
+  [
+   17,
+   "Alexander Bernhardsson",
+   "FW",
+   "SWE"
+  ],
+  [
+   18,
+   "Jonas Adjetey",
+   "DF",
+   "GHA"
+  ],
+  [
+   19,
+   "Robert Glatzel",
+   "FW",
+   "GER"
+  ],
+  [
+   20,
+   "Muhammed Damar",
+   "MF",
+   "GER"
+  ],
+  [
+   21,
+   "Joakim Mæhle",
+   "DF",
+   "DEN"
+  ],
+  [
+   22,
+   "Mathys Angély",
+   "DF",
+   "FRA"
+  ],
+  [
+   23,
+   "Alessio Besio",
+   "FW",
+   "SUI"
+  ],
+  [
+   25,
+   "Aaron Zehnter",
+   "DF",
+   "GER"
+  ],
+  [
+   26,
+   "Saël Kumbedi",
+   "DF",
+   "FRA"
+  ],
+  [
+   30,
+   "Jakub Zieliński",
+   "GK",
+   "POL"
+  ],
+  [
+   31,
+   "Yannick Gerhardt",
+   "MF",
+   "GER"
+  ],
+  [
+   32,
+   "Mattias Svanberg",
+   "MF",
+   "SWE"
+  ],
+  [
+   33,
+   "Cleiton (footballer, born 2003)",
+   "DF",
+   "BRA"
+  ],
+  [
+   36,
+   "Aster Vranckx",
+   "MF",
+   "BEL"
+  ],
+  [
+   37,
+   "Elvis Rexhbeçaj",
+   "MF",
+   "KOS"
+  ],
+  [
+   42,
+   "Bruno Katz",
+   "FW",
+   "FIN"
+  ],
+  [
+   43,
+   "Trevor Benedict",
+   "FW",
+   "GER"
+  ]
+ ]
+}

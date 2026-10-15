@@ -1,0 +1,502 @@
+--------- beginning of main
+09-08 00:07:56.418 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 32889
+09-08 00:07:56.571  8530 11218 D JavaheapMonitor: Java heap used=6M max=256M, proc: com.xiaomi.mirror
+09-08 00:07:56.571  8530 11218 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:07:56.584  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 00:07:56.589  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 00:07:56.589  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 10ms
+--------- beginning of system
+09-08 00:07:56.589  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 00:07:56.589  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 00:07:56.589  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 00:07:56.773  3728  4279 D AurogonBandwidthController: skinTemperature:31.721
+09-08 00:07:56.839  3728  7099 D GreezeManager: add uid = 10318 adj
+09-08 00:07:56.840  3728  7099 D GreezeManager: freezeBinder pid=22940 block=true state=-11
+09-08 00:07:56.840 25151 25607 D JavaheapMonitor: Java heap used=47M max=512M, proc: com.miui.voiceassist
+09-08 00:07:56.840 25151 25607 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:07:56.846  3728  7099 D GreezeManager: freezeBinder pid=6857 block=true state=-11
+09-08 00:07:56.861  3728  7099 D GreezeManager: FZ uid = 10318 reason =check binder success !
+09-08 00:07:56.862  3728  7099 D ActionExecute: frozen uid = 10318 reason=check binder
+09-08 00:07:56.863  3728  7099 D ActionExecute: setPkgData uid = 10318 time=0
+09-08 00:07:56.863  3728  7099 D ExternalInterface: setUidState, uid = 10318 allow = false
+09-08 00:07:56.863  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:07:56.863  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:07:56.863  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:07:56.879  3728  8490 D GreezeManager: THAW uid = 10318 pid = [ 6857 22940 ]  reason : Check Binder caller : 1
+09-08 00:07:56.879  3728  8490 D ExternalInterface: setUidState, uid = 10318 allow = true
+09-08 00:07:56.879  3728  8490 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:07:56.879  3728  8490 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:07:56.879  3728  8490 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:07:56.880  3728  7099 D ActionExecute: setPkgData uid = 10318 time=3000
+09-08 00:07:57.216 14565 14933 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.miui.powerkeeper
+09-08 00:07:57.216 14565 14933 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:07:57.292  3728  4279 D AurogonBandwidthController: skinTemperature:31.689
+09-08 00:07:57.294 25887 26077 I dist:vtcamera:PhoneTemperatureReader: onEvent: null
+09-08 00:07:57.296 25887 26483 I dist:vtcamera:PhoneTemperatureReader: read-temp:31689
+09-08 00:07:57.297 25887 26483 D dist:vtcamera:PhoneTemperatureNotifier: tempV=31689, highTemperature state=false
+09-08 00:07:57.298  3728  4279 D AurogonBandwidthController: skinTemperature:31.689
+09-08 00:07:57.299 23674 23740 D hyper_gallery_app: <rt-app-11-app_gallery::data_sync::utils::temperature_monitor:193>: current temp: 31689
+09-08 00:07:57.619  7967  8362 D JavaheapMonitor: Java heap used=16M max=256M, proc: com.android.phone
+09-08 00:07:57.619  7967  8362 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:07:58.159  3728  8490 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=176407323, flags=0x1, tag="NetworkStats", ws=null, uid=1000, pid=3728
+09-08 00:07:58.201  3728  8490 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=176407323 [NetworkStats], flags=0x0
+09-08 00:07:58.701  8083 32246 V BluetoothServiceJni: android/app/jni/com_android_bluetooth_btservice_AdapterService.cpp:1828 readEnergyInfoNative: 
+09-08 00:07:58.702  8083  8266 V btm_ble_cont_energy: system/stack/btm/btm_ble_cont_energy.cc:91 BTM_BleGetEnergyInfo: BTM_BleGetEnergyInfo
+09-08 00:07:58.702  8083  8266 V devctl  : system/stack/btm/btm_devctl.cc:365 BTM_VendorSpecificCommand: BTM: Opcode: 0xFD59, ParamLen: 0.
+09-08 00:07:58.702  8083  8266 D bt_shim_hci: system/main/shim/hci_layer.cc:233 transmit_command: Sending command LE_ENERGY_INFO(0xfd59)
+09-08 00:07:58.703  1989  2409 D vendor.qti.bluetooth@1.0-ibs_handler: SerialClockVote: vote for UART CLK ON
+09-08 00:07:58.705  1989  2409 D vendor.qti.bluetooth@1.0-wake_lock: Acquire wakelock is acquired 
+09-08 00:07:58.705  1989  2409 I vendor.qti.bluetooth@1.0-ibs_handler: DeviceWakeUp: Writing IBS_WAKE_IND
+09-08 00:07:58.709  1989  8288 I vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Received IBS_WAKE_ACK: 0xFC
+09-08 00:07:58.709  1989  8288 I vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Signal wack_cond_
+09-08 00:07:58.710  1989  2409 D vendor.qti.bluetooth@1.0-ibs_handler: DeviceWakeUp: Unblocked from waiting for FC, pthread_cond_timedwait ret = 0
+09-08 00:07:58.711  1989  8288 I vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Received IBS_WAKE_IND: 0xFD
+09-08 00:07:58.711  1989  8288 I vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Writing IBS_WAKE_ACK
+09-08 00:07:58.715  8083  8271 D bt_shim_hci: system/main/shim/hci_layer.cc:183 OnTransmitPacketCommandComplete: Received cmd complete for LE_ENERGY_INFO(0xfd59)
+09-08 00:07:58.716  8083  8266 V btm_ble_cont_energy: system/stack/btm/btm_ble_cont_energy.cc:64 btm_ble_cont_energy_cmpl_cback: energy_info status=0,tx_t=352, rx_t=5971, ener_used=9258011, idle_t=352760
+09-08 00:07:58.716  8083  8266 I bluetooth: system/bta/le_audio/client.cc:1786 IsInStreaming: audio_sender_state_: IDLE, audio_receiver_state_: IDLE
+09-08 00:07:58.716  8083  8266 D bt_bta_dm: system/bta/dm/bta_dm_act.cc:1547 bta_dm_obtain_system_context: active_acl_num 0 sniff_acl_num 0 le_acl_num 0 le_adv_num 1 le_scan_duty 0 inquiry false sco false a2dp false le_audio false ctrl_state 0x1000
+09-08 00:07:58.716  8083  8266 V bt_btif_dm: system/btif/src/btif_dm.cc:2909 bta_energy_info_cb: energy_info_cb-Status:0,state=4096,tx_t=352, rx_t=5971, idle_time=352760,used=9258011
+09-08 00:07:58.717  8083  8321 V bt_btif : system/btif/src/bluetooth.cc:1743 operator(): HAL bt_hal_cbacks->energy_info_cb
+09-08 00:07:58.717  8083  8321 V BluetoothAdapterService: energyInfoCallback() status = 0 txTime = 352 rxTime = 5971 idleTime = 352760 energyUsed = 9258011 ctrlState = 0x00001000 traffic = []
+09-08 00:07:58.718  3728  4251 D BatteryStatsImpl: setBluetoothActivityInfoReport info.setIdleTimeMillis(): 132392368
+09-08 00:07:58.718  3728  4251 D BatteryStatsImpl: setBluetoothActivityInfoReport info.setRxTimeMillis(): 12319748
+09-08 00:07:58.718  3728  4251 D BatteryStatsImpl: setBluetoothActivityInfoReport info.setTxTimeMillis(): 3261784
+09-08 00:07:58.719  3728  4251 D BatteryStatsImpl: updateBluetoothStateLocked !mOnBatteryInternal || mIgnoreNextExternalStats return info: BluetoothActivityEnergyInfo{ mTimestamp=1282470914 mBluetoothStackState=4096 mControllerTxTimeMs=3261784 mControllerRxTimeMs=12319748 mControllerIdleTimeMs=132392368 mControllerEnergyUsed=4119595503 mUidTraffic=[] }
+09-08 00:07:58.746  3728  7023 I MiuiNetworkPolicy: updateUidState uid = 10245, uidState = 19
+09-08 00:07:58.755  1989  8288 I vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Received IBS_SLEEP_IND: 0xFE
+09-08 00:07:58.775  3728  4279 D AurogonBandwidthController: skinTemperature:31.689
+09-08 00:07:58.960  1989  8291 I vendor.qti.bluetooth@1.0-ibs_handler: DeviceSleep: TX Awake, Sending SLEEP_IND
+09-08 00:07:58.961  1989  8291 D vendor.qti.bluetooth@1.0-ibs_handler: SerialClockVote: vote for UART CLK OFF
+09-08 00:07:59.052 11672 12429 D JavaheapMonitor: Java heap used=11M max=512M, proc: com.android.providers.media.module
+09-08 00:07:59.052 11672 12429 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:07:59.111  1989  8274 D vendor.qti.bluetooth@1.0-wake_lock: Release wakelock is released 
+09-08 00:07:59.479 12481 31286 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.xiaomi.metoknlp
+09-08 00:07:59.479 12481 31286 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:07:59.573 25887 26831 D JavaheapMonitor: Java heap used=3M max=256M, proc: com.xiaomi.vtcamera
+09-08 00:07:59.573 25887 26831 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:07:59.941 11889 31290 D JavaheapMonitor: Java heap used=12M max=256M, proc: com.qualcomm.qti.services.systemhelper:systemhelper_service
+09-08 00:07:59.941 11889 31290 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:00.681  3728  9096 D SLM-SRV-SLAService: checktemp temperature = 31689 temperature_average = 31754 isPerformanceMode = false thermal_enable_slm = true
+09-08 00:08:00.778  3728  4279 D AurogonBandwidthController: skinTemperature:31.689
+09-08 00:08:00.779  7762  7915 D JavaheapMonitor: Java heap used=7M max=256M, proc: com.android.networkstack.process
+09-08 00:08:00.780  7762  7915 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:00.911 14576 14931 D JavaheapMonitor: Java heap used=5M max=256M, proc: com.xiaomi.joyose
+09-08 00:08:00.911 14576 14931 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:01.023  3728  8490 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=41761351, flags=0x1, tag="RILJ_ACK_WL", ws=null, uid=1001, pid=7967
+09-08 00:08:01.064  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 0
+09-08 00:08:01.064  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 00:08:01.073  3728  8490 D GreezeManager: THAW uid = 10319 pid = [ 21484 25392 ]  reason : PACKET caller : 1000
+09-08 00:08:01.073  3728  7097 D GreezeCallback: thawedByOther uid=10319 pid=21484
+09-08 00:08:01.073  3728  8490 D ExternalInterface: setUidState, uid = 10319 allow = true
+09-08 00:08:01.073  3728  7099 D ActionExecute: setPkgData uid = 10319 time=8000
+09-08 00:08:01.075  3728  8490 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=117583510, flags=0x1, tag="MSF:WakeLock:Alarm", ws=null, uid=10319, pid=25392
+09-08 00:08:01.076  3728  8485 D FileUtils: Rounded bytes from 11661635584 to 16000000000
+09-08 00:08:01.077  3728  8485 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=117583510 [MSF:WakeLock:Alarm], flags=0x0
+09-08 00:08:01.077  3728  8490 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=117583510, flags=0x1, tag="MSF:WakeLock:Alarm", ws=null, uid=10319, pid=25392
+09-08 00:08:01.134  7408  8426 D JavaheapMonitor: Java heap used=23M max=512M, proc: com.miui.home
+09-08 00:08:01.134  7408  8426 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:01.225  3728  8490 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=41761351 [RILJ_ACK_WL], flags=0x0
+09-08 00:08:01.423 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 32701
+09-08 00:08:01.579  3728  8490 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=117583510 [MSF:WakeLock:Alarm], flags=0x0
+09-08 00:08:01.599  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 00:08:01.604  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 00:08:01.604  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 11ms
+09-08 00:08:01.604  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 00:08:01.605  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 00:08:01.605  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 00:08:01.883  3728  7099 D GreezeManager: add uid = 10318 adj
+09-08 00:08:01.883  3728  7099 D GreezeManager: freezeBinder pid=22940 block=true state=-11
+09-08 00:08:01.890  3728  7099 D GreezeManager: freezeBinder pid=6857 block=true state=-11
+09-08 00:08:01.904  3728  7099 D GreezeManager: FZ uid = 10318 reason =check binder success !
+09-08 00:08:01.905  3728  7099 D ActionExecute: frozen uid = 10318 reason=check binder
+09-08 00:08:01.906  3728  7099 D ActionExecute: setPkgData uid = 10318 time=0
+09-08 00:08:01.906  3728  7099 D ExternalInterface: setUidState, uid = 10318 allow = false
+09-08 00:08:01.906  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:01.906  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:01.906  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:01.920  3728  8490 D GreezeManager: THAW uid = 10318 pid = [ 6857 22940 ]  reason : Check Binder caller : 1
+09-08 00:08:01.920  3728  8490 D ExternalInterface: setUidState, uid = 10318 allow = true
+09-08 00:08:01.920  3728  8490 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:01.921  3728  8490 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:01.921  3728  8490 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:01.921  3728  7099 D ActionExecute: setPkgData uid = 10318 time=3000
+09-08 00:08:02.085  2972  2972 I adbd    : in ShellService: logcat -d -t 400
+09-08 00:08:02.288  2972  2972 I adbd    : in ShellService: ps -A 2>/dev/null
+09-08 00:08:02.310 12490 31322 D JavaheapMonitor: Java heap used=3M max=256M, proc: com.xiaomi.location.fused
+09-08 00:08:02.310 12490 31322 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:02.591  7662 11302 D JavaheapMonitor: Java heap used=24M max=256M, proc: .dataservices
+09-08 00:08:02.591  7662 11302 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:02.784  3728  4279 D AurogonBandwidthController: skinTemperature:31.689
+09-08 00:08:03.831 11087 18233 D JavaheapMonitor: Java heap used=4M max=512M, proc: com.miui.voiceassist:core
+09-08 00:08:03.833 11087 18233 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:03.958 14610 25107 D JavaheapMonitor: Java heap used=6M max=256M, proc: com.xiaomi.mi_connect_service
+09-08 00:08:03.960 14610 25107 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:04.064  7452 11258 D JavaheapMonitor: Java heap used=3M max=256M, proc: com.miui.miwallpaper
+09-08 00:08:04.064  7452 11258 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:04.075 29666 31388 D JavaheapMonitor: Java heap used=4M max=256M, proc: com.xiaomi.xmsf:services
+09-08 00:08:04.075 29666 31388 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:04.511  3728  7120 D HyperStabilitySdkService: checkDmabufStatus done, exceedLimitsList:[], totalDmabufSize:0
+09-08 00:08:04.785  3728  4279 D AurogonBandwidthController: skinTemperature:31.689
+09-08 00:08:05.036 11976 31351 D JavaheapMonitor: Java heap used=4M max=256M, proc: com.tencent.soter.soterserver
+09-08 00:08:05.036 11976 31351 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:05.895 18901 19499 D JavaheapMonitor: Java heap used=5M max=256M, proc: com.xiaomi.simactivate.service
+09-08 00:08:05.896 18901 19499 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:06.047  7687 11299 D JavaheapMonitor: Java heap used=9M max=256M, proc: .cacertservice
+09-08 00:08:06.047  7687 11299 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:06.430 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 32697
+09-08 00:08:06.617  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 00:08:06.622  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 00:08:06.622  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 12ms
+09-08 00:08:06.622  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 00:08:06.623  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 00:08:06.623  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 00:08:06.787  3728  4279 D AurogonBandwidthController: skinTemperature:31.689
+09-08 00:08:06.924  3728  7099 D GreezeManager: add uid = 10318 adj
+09-08 00:08:06.925  3728  7099 D GreezeManager: freezeBinder pid=22940 block=true state=-11
+09-08 00:08:06.934  3728  7099 D GreezeManager: freezeBinder pid=6857 block=true state=-11
+09-08 00:08:06.934  8061  8380 D JavaheapMonitor: Java heap used=151M max=256M, proc: com.android.systemui
+09-08 00:08:06.934  8061  8380 V JavaheapMonitor: Check java heap usage finished! Next check delay: 60000
+09-08 00:08:06.947  3728  7099 D GreezeManager: FZ uid = 10318 reason =check binder success !
+09-08 00:08:06.948  3728  7099 D ActionExecute: frozen uid = 10318 reason=check binder
+09-08 00:08:06.949  3728  7099 D ActionExecute: setPkgData uid = 10318 time=0
+09-08 00:08:06.949  3728  7099 D ExternalInterface: setUidState, uid = 10318 allow = false
+09-08 00:08:06.949  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:06.949  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:06.949  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:06.963  3728  8485 D GreezeManager: THAW uid = 10318 pid = [ 6857 22940 ]  reason : Check Binder caller : 1
+09-08 00:08:06.963  3728  8485 D ExternalInterface: setUidState, uid = 10318 allow = true
+09-08 00:08:06.963  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:06.963  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:06.963  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:06.964  3728  7099 D ActionExecute: setPkgData uid = 10318 time=3000
+09-08 00:08:07.150  5973  6210 D JavaheapMonitor: Java heap used=16M max=256M, proc: com.miui.securitycenter.remote
+09-08 00:08:07.150  5973  6210 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:07.295 25887 26077 I dist:vtcamera:PhoneTemperatureReader: onEvent: null
+09-08 00:08:07.294  3728  4279 D AurogonBandwidthController: skinTemperature:31.675
+09-08 00:08:07.298  3728  4279 D AurogonBandwidthController: skinTemperature:31.675
+09-08 00:08:07.299 23674 23740 D hyper_gallery_app: <rt-app-11-app_gallery::data_sync::utils::temperature_monitor:193>: current temp: 31675
+09-08 00:08:07.300 25887 26483 I dist:vtcamera:PhoneTemperatureReader: read-temp:31675
+09-08 00:08:07.300 25887 26483 D dist:vtcamera:PhoneTemperatureNotifier: tempV=31675, highTemperature state=false
+09-08 00:08:07.730  7967  8362 D JavaheapMonitor: Java heap used=16M max=256M, proc: com.android.phone
+09-08 00:08:07.730  7967  8362 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:08.790  3728  4279 D AurogonBandwidthController: skinTemperature:31.675
+09-08 00:08:08.995 11873  3333 D JavaheapMonitor: Java heap used=3M max=256M, proc: system
+09-08 00:08:08.995 11873  3333 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:10.694  3728  9096 D SLM-SRV-SLAService: checktemp temperature = 31675 temperature_average = 31738 isPerformanceMode = false thermal_enable_slm = true
+09-08 00:08:10.791  3728  4279 D AurogonBandwidthController: skinTemperature:31.675
+09-08 00:08:10.982 22967 23737 D JavaheapMonitor: Java heap used=9M max=256M, proc: com.xiaomi.xmsf
+09-08 00:08:10.982 22967 23737 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:11.088  3728  7099 D GreezeManager: FZ uid = 10319 reason =from system success !
+09-08 00:08:11.090  3728  7099 D ActionExecute: frozen uid = 10319 reason=from system
+09-08 00:08:11.090  3728  7099 D ActionExecute: setPkgData uid = 10319 time=0
+09-08 00:08:11.090  3728  7099 D ExternalInterface: setUidState, uid = 10319 allow = false
+09-08 00:08:11.091  3728  7099 D ActionExecute: setPkgData uid = 10319 time=3000
+09-08 00:08:11.368  7709 11223 D JavaheapMonitor: Java heap used=6M max=256M, proc: com.qti.phone
+09-08 00:08:11.369  7709 11223 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:11.374 25887 26831 D JavaheapMonitor: Java heap used=3M max=256M, proc: com.xiaomi.vtcamera
+09-08 00:08:11.374 25887 26831 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:11.436 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 32579
+09-08 00:08:11.580  3728  8485 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=41761351, flags=0x1, tag="RILJ_ACK_WL", ws=null, uid=1001, pid=7967
+09-08 00:08:11.610  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 4
+09-08 00:08:11.610  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 00:08:11.629  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 00:08:11.634  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 00:08:11.634  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 8ms
+09-08 00:08:11.634  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 00:08:11.634  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 00:08:11.634  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 00:08:11.652 12481 31286 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.xiaomi.metoknlp
+09-08 00:08:11.652 12481 31286 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:11.783  3728  8485 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=41761351 [RILJ_ACK_WL], flags=0x0
+09-08 00:08:11.966  3728  7099 D GreezeManager: add uid = 10318 adj
+09-08 00:08:11.967  3728  7099 D GreezeManager: freezeBinder pid=22940 block=true state=-11
+09-08 00:08:11.974  3728  7099 D GreezeManager: freezeBinder pid=6857 block=true state=-11
+09-08 00:08:11.987  3728  7099 D GreezeManager: FZ uid = 10318 reason =check binder success !
+09-08 00:08:11.988  3728  7099 D ActionExecute: frozen uid = 10318 reason=check binder
+09-08 00:08:11.989  3728  7099 D ActionExecute: setPkgData uid = 10318 time=0
+09-08 00:08:11.989  3728  7099 D ExternalInterface: setUidState, uid = 10318 allow = false
+09-08 00:08:11.989  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:11.989  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:11.989  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:12.003  3728  8485 D GreezeManager: THAW uid = 10318 pid = [ 6857 22940 ]  reason : Check Binder caller : 1
+09-08 00:08:12.004  3728  8485 D ExternalInterface: setUidState, uid = 10318 allow = true
+09-08 00:08:12.004  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:12.004  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:12.004  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:12.004  3728  7099 D ActionExecute: setPkgData uid = 10318 time=3000
+09-08 00:08:12.584  7850 11303 D JavaheapMonitor: Java heap used=20M max=256M, proc: com.xiaomi.hypercomm
+09-08 00:08:12.584  7850 11303 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:12.794  3728  4279 D AurogonBandwidthController: skinTemperature:31.675
+09-08 00:08:12.894 19192 20390 D JavaheapMonitor: Java heap used=4M max=256M, proc: com.miui.analytics
+09-08 00:08:12.894 19192 20390 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:13.759 11938 31111 D JavaheapMonitor: Java heap used=4M max=256M, proc: com.xiaomi.xmsfkeeper
+09-08 00:08:13.759 11938 31111 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:14.795  3728  4279 D AurogonBandwidthController: skinTemperature:31.675
+09-08 00:08:15.674  2498  4562 D JavaheapMonitor: Java heap used=22M max=256M, proc: com.android.quicksearchbox
+09-08 00:08:15.674  2498  4562 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:15.919 12105 13362 D JavaheapMonitor: Java heap used=24M max=256M, proc: com.miui.personalassistant
+09-08 00:08:15.920 12105 13362 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:16.395  7946 11306 D JavaheapMonitor: Java heap used=9M max=256M, proc: .qtidataservices
+09-08 00:08:16.395  7946 11306 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:16.442 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 32477
+09-08 00:08:16.644  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 00:08:16.649  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 00:08:16.649  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 11ms
+09-08 00:08:16.649  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 00:08:16.650  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 00:08:16.650  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 00:08:16.798  3728  4279 D AurogonBandwidthController: skinTemperature:31.675
+09-08 00:08:16.864 14565 14933 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.miui.powerkeeper
+09-08 00:08:16.864 14565 14933 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:16.895 11810 31307 D JavaheapMonitor: Java heap used=16M max=256M, proc: com.android.nfc
+09-08 00:08:16.896 11810 31307 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:17.007  3728  7099 D GreezeManager: add uid = 10318 adj
+09-08 00:08:17.008  3728  7099 D GreezeManager: freezeBinder pid=22940 block=true state=-11
+09-08 00:08:17.014  3728  7099 D GreezeManager: freezeBinder pid=6857 block=true state=-11
+09-08 00:08:17.030  3728  7099 D GreezeManager: FZ uid = 10318 reason =check binder success !
+09-08 00:08:17.031  3728  7099 D ActionExecute: frozen uid = 10318 reason=check binder
+09-08 00:08:17.031  3728  7099 D ActionExecute: setPkgData uid = 10318 time=0
+09-08 00:08:17.031  3728  7099 D ExternalInterface: setUidState, uid = 10318 allow = false
+09-08 00:08:17.031  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:17.031  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:17.031  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:17.053  3728  8485 D GreezeManager: THAW uid = 10318 pid = [ 6857 22940 ]  reason : Check Binder caller : 1
+09-08 00:08:17.053  3728  8485 D ExternalInterface: setUidState, uid = 10318 allow = true
+09-08 00:08:17.053  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:17.053  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:17.053  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:17.054  3728  7099 D ActionExecute: setPkgData uid = 10318 time=3000
+09-08 00:08:17.219 16916 27261 D JavaheapMonitor: Java heap used=12M max=256M, proc: com.xiaomi.bluetooth
+09-08 00:08:17.220 16916 27261 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:17.296 25887 26077 I dist:vtcamera:PhoneTemperatureReader: onEvent: null
+09-08 00:08:17.296  3728  4279 D AurogonBandwidthController: skinTemperature:31.654
+09-08 00:08:17.297  3728  4279 D AurogonBandwidthController: skinTemperature:31.654
+09-08 00:08:17.298 25887 26483 I dist:vtcamera:PhoneTemperatureReader: read-temp:31654
+09-08 00:08:17.298 25887 26483 D dist:vtcamera:PhoneTemperatureNotifier: tempV=31654, highTemperature state=false
+09-08 00:08:17.300 23674 23740 D hyper_gallery_app: <rt-app-11-app_gallery::data_sync::utils::temperature_monitor:193>: current temp: 31654
+09-08 00:08:17.343  2586  3708 D qcrilNrd: SUB[1][xiaomi_qcril_qmi_nas.cpp:6243] xiaomi_qcril_qmi_nas_is_cmcc_network: function entry ------------->
+09-08 00:08:17.343  2585  3371 D qcrilNrd: SUB[0][xiaomi_qcril_qmi_nas.cpp:6243] xiaomi_qcril_qmi_nas_is_cmcc_network: function entry ------------->
+09-08 00:08:17.343  2585  3371 I qcrilNrd: SUB[0][xiaomi_qcril_qmi_nas.cpp:6271] xiaomi_qcril_qmi_nas_is_cmcc_network: mcc : 460, mnc: 11
+09-08 00:08:17.343  2586  3708 I qcrilNrd: SUB[1][xiaomi_qcril_qmi_nas.cpp:6271] xiaomi_qcril_qmi_nas_is_cmcc_network: mcc : 460, mnc: 00
+09-08 00:08:17.343  2585  3371 D qcrilNrd: SUB[0][xiaomi_qcril_qmi_nas.cpp:6272] xiaomi_qcril_qmi_nas_is_cmcc_network: function exit, ret = 0 <-------------
+09-08 00:08:17.343  2586  3708 D qcrilNrd: SUB[1][xiaomi_qcril_qmi_nas.cpp:6272] xiaomi_qcril_qmi_nas_is_cmcc_network: function exit, ret = 1 <-------------
+09-08 00:08:17.343  2586  3708 D qcrilNrd: SUB[1][xiaomi_qcril_qmi_nas.cpp:6203] xiaomi_qcril_qmi_nas_is_cmcc_card: function entry ------------->
+09-08 00:08:17.343  2586  3708 I qcrilNrd: SUB[1][xiaomi_qcril_qmi_nas.cpp:6228] xiaomi_qcril_qmi_nas_is_cmcc_card: card mcc : 460, card mnc: 07
+09-08 00:08:17.343  2586  3708 D qcrilNrd: SUB[1][xiaomi_qcril_qmi_nas.cpp:6229] xiaomi_qcril_qmi_nas_is_cmcc_card: function exit, ret = 1 <-------------
+09-08 00:08:17.506  3728  8485 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=41761351, flags=0x1, tag="RILJ_ACK_WL", ws=null, uid=1001, pid=7967
+09-08 00:08:17.538  7850  8016 D HyperComm_TelephonyMonitor: onDataActivity[1], direction = 0
+09-08 00:08:17.538  7850  8016 I SceneObserver: notify event: EVENT_DATA_ACTIVITY_CHANGED
+09-08 00:08:17.709  3728  8485 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=41761351 [RILJ_ACK_WL], flags=0x0
+09-08 00:08:18.195  3728  4170 D HANGTASK: IOCTL_HANG_MON_Kick IOCTL,cmd= 2147774474, lParam=120. 
+09-08 00:08:18.237  5973  6210 D JavaheapMonitor: Java heap used=16M max=256M, proc: com.miui.securitycenter.remote
+09-08 00:08:18.237  5973  6210 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:18.621  7825 11260 D JavaheapMonitor: Java heap used=17M max=256M, proc: org.codeaurora.ims
+09-08 00:08:18.622  7825 11260 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:18.800  3728  4279 D AurogonBandwidthController: skinTemperature:31.654
+09-08 00:08:19.190 14565 22492 D powerkeeper.dfsobserve: board ready to handle temperature change
+09-08 00:08:19.190 14565  7199 D powerkeeper.dfscpucol: handleTemperatureChange: temp=31654
+09-08 00:08:19.294  3728  7308 I NetworkBoostStatusManager: handle: 107
+09-08 00:08:19.295 11336 23792 D JavaheapMonitor: Java heap used=13M max=256M, proc: com.miui.wmsvc
+09-08 00:08:19.295 11336 23792 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:20.579 23341 23404 D JavaheapMonitor: Java heap used=6M max=256M, proc: com.google.android.gms
+09-08 00:08:20.579 23341 23404 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:20.707  3728  9096 D SLM-SRV-SLAService: checktemp temperature = 31654 temperature_average = 31726 isPerformanceMode = false thermal_enable_slm = true
+09-08 00:08:20.803  3728  4279 D AurogonBandwidthController: skinTemperature:31.654
+09-08 00:08:21.448 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 32464
+09-08 00:08:21.659  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 00:08:21.664  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 00:08:21.664  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 10ms
+09-08 00:08:21.664  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 00:08:21.664  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 00:08:21.664  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 00:08:22.056  3728  7099 D GreezeManager: add uid = 10318 adj
+09-08 00:08:22.057  3728  7099 D GreezeManager: freezeBinder pid=22940 block=true state=-11
+09-08 00:08:22.063  3728  7099 D GreezeManager: freezeBinder pid=6857 block=true state=-11
+09-08 00:08:22.078  3728  7099 D GreezeManager: FZ uid = 10318 reason =check binder success !
+09-08 00:08:22.079  3728  7099 D ActionExecute: frozen uid = 10318 reason=check binder
+09-08 00:08:22.079  3728  7099 D ActionExecute: setPkgData uid = 10318 time=0
+09-08 00:08:22.079  3728  7099 D ExternalInterface: setUidState, uid = 10318 allow = false
+09-08 00:08:22.080  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:22.080  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:22.080  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:22.094  3728  8485 D GreezeManager: THAW uid = 10318 pid = [ 6857 22940 ]  reason : Check Binder caller : 1
+09-08 00:08:22.094  3728  8485 D ExternalInterface: setUidState, uid = 10318 allow = true
+09-08 00:08:22.095  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:22.095  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:22.095  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:22.095  3728  7099 D ActionExecute: setPkgData uid = 10318 time=3000
+09-08 00:08:22.804  3728  4279 D AurogonBandwidthController: skinTemperature:31.654
+09-08 00:08:23.066 29666 31388 D JavaheapMonitor: Java heap used=4M max=256M, proc: com.xiaomi.xmsf:services
+09-08 00:08:23.066 29666 31388 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:23.120 13819 23817 D JavaheapMonitor: Java heap used=17M max=256M, proc: com.lbe.security.miui
+09-08 00:08:23.120 13819 23817 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:23.230  8083  8261 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.android.bluetooth
+09-08 00:08:23.230  8083  8261 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:23.761 12691 23261 D JavaheapMonitor: Java heap used=35M max=512M, proc: com.xiaomi.aicr:cognitionService
+09-08 00:08:23.761 12691 23261 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:24.150 32646   912 D JavaheapMonitor: Java heap used=4M max=512M, proc: com.xiaomi.aicr:coreService
+09-08 00:08:24.150 32646   912 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:24.206  7967  8362 D JavaheapMonitor: Java heap used=17M max=256M, proc: com.android.phone
+09-08 00:08:24.207  7967  8362 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:24.307 11994  1455 D JavaheapMonitor: Java heap used=19M max=256M, proc: com.qualcomm.location
+09-08 00:08:24.308 11994  1455 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:24.806  3728  4279 D AurogonBandwidthController: skinTemperature:31.654
+09-08 00:08:24.874 11788 12477 D JavaheapMonitor: Java heap used=11M max=256M, proc: com.miui.daemon
+09-08 00:08:24.874 11788 12477 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:24.875 11087 18233 D JavaheapMonitor: Java heap used=4M max=512M, proc: com.miui.voiceassist:core
+09-08 00:08:24.875 11087 18233 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:25.597 11829 31287 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.xiaomi.touchservice
+09-08 00:08:25.597 11829 31287 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:25.622  7662 11302 D JavaheapMonitor: Java heap used=24M max=256M, proc: .dataservices
+09-08 00:08:25.622  7662 11302 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:25.922 14610 25107 D JavaheapMonitor: Java heap used=6M max=256M, proc: com.xiaomi.mi_connect_service
+09-08 00:08:25.922 14610 25107 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:26.454 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 32400
+09-08 00:08:26.673  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 00:08:26.678  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 00:08:26.678  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 9ms
+09-08 00:08:26.678  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 00:08:26.679  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 00:08:26.679  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 00:08:26.808  3728  4279 D AurogonBandwidthController: skinTemperature:31.654
+09-08 00:08:27.023 14565 14933 D JavaheapMonitor: Java heap used=10M max=256M, proc: com.miui.powerkeeper
+09-08 00:08:27.023 14565 14933 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:27.098  3728  7099 D GreezeManager: add uid = 10318 adj
+09-08 00:08:27.098  3728  7099 D GreezeManager: freezeBinder pid=22940 block=true state=-11
+09-08 00:08:27.105  3728  7099 D GreezeManager: freezeBinder pid=6857 block=true state=-11
+09-08 00:08:27.120  3728  7099 D GreezeManager: FZ uid = 10318 reason =check binder success !
+09-08 00:08:27.120  3728  7099 D ActionExecute: frozen uid = 10318 reason=check binder
+09-08 00:08:27.121  3728  7099 D ActionExecute: setPkgData uid = 10318 time=0
+09-08 00:08:27.121  3728  7099 D ExternalInterface: setUidState, uid = 10318 allow = false
+09-08 00:08:27.121  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:27.121  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:27.121  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:27.136  3728  8485 D GreezeManager: THAW uid = 10318 pid = [ 6857 22940 ]  reason : Check Binder caller : 1
+09-08 00:08:27.136  3728  8485 D ExternalInterface: setUidState, uid = 10318 allow = true
+09-08 00:08:27.137  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:27.137  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:27.137  3728  8485 D MiSensorServiceImpl: PowerKeeperSensor  uid:10318 info.numActiveClients():0  info.isActive:0
+09-08 00:08:27.137  3728  7099 D ActionExecute: setPkgData uid = 10318 time=3000
+09-08 00:08:27.150 24000 24401 D JavaheapMonitor: Java heap used=13M max=256M, proc: com.android.permissioncontroller
+09-08 00:08:27.151 24000 24401 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:27.296  3728  4279 D AurogonBandwidthController: skinTemperature:31.616
+09-08 00:08:27.297  3728  4279 D AurogonBandwidthController: skinTemperature:31.616
+09-08 00:08:27.297 25887 26077 I dist:vtcamera:PhoneTemperatureReader: onEvent: null
+09-08 00:08:27.298 25887 26483 I dist:vtcamera:PhoneTemperatureReader: read-temp:31616
+09-08 00:08:27.298 25887 26483 D dist:vtcamera:PhoneTemperatureNotifier: tempV=31616, highTemperature state=false
+09-08 00:08:27.302 23674 23740 D hyper_gallery_app: <rt-app-11-app_gallery::data_sync::utils::temperature_monitor:193>: current temp: 31616
+09-08 00:08:28.117 12490 31322 D JavaheapMonitor: Java heap used=3M max=256M, proc: com.xiaomi.location.fused
+09-08 00:08:28.117 12490 31322 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:28.150  7920 11214 D JavaheapMonitor: Java heap used=11M max=256M, proc: vendor.qti.frameworks.utils
+09-08 00:08:28.150  7920 11214 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:28.198 19192 20390 D JavaheapMonitor: Java heap used=4M max=256M, proc: com.miui.analytics
+09-08 00:08:28.198 19192 20390 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:28.809  3728  4279 D AurogonBandwidthController: skinTemperature:31.616
+09-08 00:08:29.122  5973  6210 D JavaheapMonitor: Java heap used=16M max=256M, proc: com.miui.securitycenter.remote
+09-08 00:08:29.122  5973  6210 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:29.475 11460 30666 D JavaheapMonitor: Java heap used=7M max=256M, proc: com.miui.securitycenter
+09-08 00:08:29.476 11460 30666 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:29.722 16957  1833 D JavaheapMonitor: Java heap used=5M max=256M, proc: com.miui.tsmclient:daemon
+09-08 00:08:29.722 16957  1833 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:30.116 23932 24219 D JavaheapMonitor: Java heap used=8M max=256M, proc: android.ext.services
+09-08 00:08:30.116 23932 24219 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:30.716  3728  9096 D SLM-SRV-SLAService: checktemp temperature = 31616 temperature_average = 31680 isPerformanceMode = false thermal_enable_slm = true
+09-08 00:08:30.812  3728  4279 D AurogonBandwidthController: skinTemperature:31.616
+09-08 00:08:31.459 10037 10094 D QLM-Service: check_headroom_zone: Timer EVT, Temp: 32395
+09-08 00:08:31.688  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-08 00:08:31.693  3728  7099 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-08 00:08:31.693  3728  7099 D InetDiagMessage: Destroyed live tcp sockets for uids={10327} in 9ms
+09-08 00:08:31.694  3728  7099 D ActionExecute: frozen uid = 10327 reason=check binder
+09-08 00:08:31.694  3728  7099 D ExternalInterface: setUidState, uid = 10327 allow = false
+09-08 00:08:31.694  3728  7099 D MiSensorServiceImpl: PowerKeeperSensor stop iUid:10327 but app has Controlled
+09-08 00:08:31.925 24476 24536 D JavaheapMonitor: Java heap used=7M max=256M, proc: com.google.android.gms.persistent
+09-08 00:08:31.925 24476 24536 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:32.034  3728  7099 D ActionExecute: setPkgData uid = 10318 time=8000
+09-08 00:08:32.043  3728  8485 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=176407323, flags=0x1, tag="NetworkStats", ws=null, uid=1000, pid=3728
+09-08 00:08:32.047  3728  8490 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=13669750, flags=0x1, tag="MicroMsg.PlatformCommC2JavaCallBack", ws=null, uid=10318, pid=22940
+09-08 00:08:32.047  3728  8490 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:32.054  3728  8569 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=13669750 [MicroMsg.PlatformCommC2JavaCallBack], flags=0x0
+09-08 00:08:32.060  3728  8490 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=172338716, flags=0x1, tag="MicroMsg.PlatformCommC2JavaCallBack", ws=null, uid=10318, pid=22940
+09-08 00:08:32.061  3728  8490 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:32.064 22940 21859 I mars::stn: [longlink_connect_monitor.cc:560, OnHeartbeatAlarmSet]:longlink_progress on_heartbeat_set, time: 1282504261, time interval:580000
+09-08 00:08:32.079  3728  8485 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=176407323 [NetworkStats], flags=0x0
+09-08 00:08:32.133  6857  7403 V AudioManager: direct return isWiredHeadsetOn from audioservice/audiodeviceinventory, get directly to avoid waiting too long.
+09-08 00:08:32.134  6857  6986 I AudioManager: In isBluetoothScoOn() calling application: com.tencent.mm
+09-08 00:08:32.134  3728  8485 D AS.BtHelper: isBluetoothScoOn() mBluetoothHeadset is null: falsemBluetoothHeadsetDevice is null: true
+09-08 00:08:32.134  3728  8485 V AS.AudioDeviceBroker: isBluetoothScoOn return false when sco/ble device is not connect.
+09-08 00:08:32.135  3728  8485 D AS.AudioService: mSupportFakeHfpApp{com.ss.android.ugc.aweme=0, com.microsoft.teams=0, com.tencent.wework=0, com.baidu.BaiduMap=0, com.systec.umeeting=0, com.cisco.webex.meetings=0, com.tencent.mobileqq=0, com.skype.raider=0, com.instagram.android=0, com.ss.android.lark.kami=0, com.zhiliaoapp.musically=0, com.skype.rover=0, com.smile.gifmaker=0, com.ss.android.lark.saxmsa667=0, com.tencent.wemeet.app=0, com.mediatek.engineermode=0, com.ss.android.ugc.aweme.lite=0, com.alibaba.android.rimet=0, com.autonavi.minimap=0, com.whatsapp=0, com.immomo.momo=0, com.facebook.katana=0, com.taobao.idlefish=0, com.tencent.lolm=0, com.tencent.mf.uam=0, com.xingin.xhs=0, com.cisco.wx2.android=0, com.tencent.tmgp.sgame=0, com.tencent.tmgp.pubgmhd=0, com.ss.android.lark=0, im.yixin=0} packageName com.tencent.mm appVersion 3160 mSupportFakeHfpApp.get(packageName) null
+09-08 00:08:32.135  3728  8485 V AS.AudioDeviceBroker: requestedCommunicationDevice: null mode owner pid: 0 crc: null
+09-08 00:08:32.135  6857  6986 V AudioManager: direct return isBluetoothA2dpOn from audioservice/audiodeviceinventory, get directly to avoid waiting too long.
+09-08 00:08:32.135  6857  6986 I AudioManager: In isSpeakerphoneOn() calling application: com.tencent.mm
+09-08 00:08:32.135  3728  8485 D AS.BtHelper: isBluetoothScoOn() mBluetoothHeadset is null: falsemBluetoothHeadsetDevice is null: true
+09-08 00:08:32.135  3728  8485 V AS.AudioDeviceBroker: requestedCommunicationDevice: null mode owner pid: 0 crc: null
+09-08 00:08:32.149  3728  7573 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=238809105, flags=0x1, tag="MicroMsg.MMAutoAuth", ws=null, uid=10318, pid=22940
+09-08 00:08:32.149  3728  7573 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:32.151  3728  7573 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=13669750, flags=0x1, tag="MicroMsg.PlatformCommC2JavaCallBack", ws=null, uid=10318, pid=22940
+09-08 00:08:32.151  3728  7573 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:32.152  3728  7573 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=13669750 [MicroMsg.PlatformCommC2JavaCallBack], flags=0x0
+09-08 00:08:32.153  3728  7573 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=94226295, flags=0x1, tag="MicroMsg.PlatformCommC2JavaCallBack", ws=null, uid=10318, pid=22940
+09-08 00:08:32.153  3728  7573 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:32.236 22940 22954 I tencent.mm:push: This is sticky GC, maxfree is 33554432 minfree is 8388608
+09-08 00:08:32.651  3728  8485 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=238809105 [MicroMsg.MMAutoAuth], flags=0x0
+09-08 00:08:32.691  3728  8485 D GreezeManager: THAW uid = 10319 pid = [ 21484 25392 ]  reason : PACKET caller : 1000
+09-08 00:08:32.691  3728  7097 D GreezeCallback: thawedByOther uid=10319 pid=21484
+09-08 00:08:32.692  3728  8485 D ExternalInterface: setUidState, uid = 10319 allow = true
+09-08 00:08:32.692  3728  7099 D ActionExecute: setPkgData uid = 10319 time=8000
+09-08 00:08:32.696  3728  8569 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=117583510, flags=0x1, tag="MSF:WakeLock:Alarm", ws=null, uid=10319, pid=25392
+09-08 00:08:32.699  3728  8485 D FileUtils: Rounded bytes from 11661635584 to 16000000000
+09-08 00:08:32.700  3728  8485 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=117583510 [MSF:WakeLock:Alarm], flags=0x0
+09-08 00:08:32.703  3728  7023 I MiuiNetworkPolicy: updateUidState uid = 10319, uidState = 10
+09-08 00:08:32.704  3728  8485 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=117583510, flags=0x1, tag="MSF:WakeLock:Alarm", ws=null, uid=10319, pid=25392
+09-08 00:08:32.705  3728  3923 D GnssSsruImpl: onLocationPermissionsChanged provider:passive packageName:com.tencent.mobileqq
+09-08 00:08:32.705  3728  3923 D GnssSsruImpl: onLocationPermissionsChanged provider:network packageName:com.tencent.mobileqq
+09-08 00:08:32.709  3728  7023 I MiuiNetworkPolicy: updateUidState uid = 10319, uidState = 10
+09-08 00:08:32.785  7687 11299 D JavaheapMonitor: Java heap used=9M max=256M, proc: .cacertservice
+09-08 00:08:32.785  7687 11299 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:32.814  3728  4279 D AurogonBandwidthController: skinTemperature:31.616
+09-08 00:08:33.064  3728  8569 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=82814132, flags=0x1, tag="MicroMsg:ReentrantGuard", ws=null, uid=10318, pid=22940
+09-08 00:08:33.064  3728  8569 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:33.066  3728  7573 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=172338716 [MicroMsg.PlatformCommC2JavaCallBack], flags=0x0
+09-08 00:08:33.068  3728  7573 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=172338716, flags=0x1, tag="MicroMsg.PlatformCommC2JavaCallBack", ws=null, uid=10318, pid=22940
+09-08 00:08:33.068  3728  7573 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:33.069  3728  7573 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=82814132 [MicroMsg:ReentrantGuard], flags=0x0
+09-08 00:08:33.120  3728  7573 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=172338716 [MicroMsg.PlatformCommC2JavaCallBack], flags=0x0
+09-08 00:08:33.155  3728  7573 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=91236573, flags=0x1, tag="MicroMsg:ReentrantGuard", ws=null, uid=10318, pid=22940
+09-08 00:08:33.155  3728  7573 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:33.158  3728  7573 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=94226295 [MicroMsg.PlatformCommC2JavaCallBack], flags=0x0
+09-08 00:08:33.159  3728  7573 D PowerManagerService: [xiaomi_power]acquireWakeLockInternal: lock=94226295, flags=0x1, tag="MicroMsg.PlatformCommC2JavaCallBack", ws=null, uid=10318, pid=22940
+09-08 00:08:33.160  3728  7573 D Aurogon :  packageName = com.tencent.mm isAllowWakeUpList 
+09-08 00:08:33.161  3728  8569 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=91236573 [MicroMsg:ReentrantGuard], flags=0x0
+09-08 00:08:33.208  3728  8569 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=117583510 [MSF:WakeLock:Alarm], flags=0x0
+09-08 00:08:33.211  3728  8569 D PowerManagerService: [xiaomi_power]releaseWakeLockInternal: lock=94226295 [MicroMsg.PlatformCommC2JavaCallBack], flags=0x0
+09-08 00:08:33.596 16916 27261 D JavaheapMonitor: Java heap used=12M max=256M, proc: com.xiaomi.bluetooth
+09-08 00:08:33.596 16916 27261 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:33.710 12691 12691 D WM-DelayedWorkTracker: Scheduling work f42ca7c5-0dbe-48dd-8bf4-0ec7fb1f642b
+09-08 00:08:33.710 12691 12691 D WM-GreedyScheduler: Starting tracking for f42ca7c5-0dbe-48dd-8bf4-0ec7fb1f642b
+09-08 00:08:33.711 12691 12691 D WM-DelayedWorkTracker: Scheduling work c980b6bd-c227-4aa5-8faf-c0ede97386ae
+09-08 00:08:33.711 12691 12691 D WM-GreedyScheduler: Starting tracking for c980b6bd-c227-4aa5-8faf-c0ede97386ae
+09-08 00:08:33.712 12691 13660 D WM-WorkConstraintsTrack: NetworkRequestConstraintController register shared callback
+09-08 00:08:33.715  3728  3923 D GnssSsruImpl: onLocationPermissionsChanged provider:passive packageName:com.tencent.mobileqq
+09-08 00:08:33.716  3728  3923 D GnssSsruImpl: onLocationPermissionsChanged provider:network packageName:com.tencent.mobileqq
+09-08 00:08:33.718  3728  8490 D ConnectivityService: requestNetwork for uid/pid:10127/12691 activeRequest: null callbackRequest: 50633 [NetworkRequest [ REQUEST id=50634, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 10127 RequestorUid: 10127 RequestorPkg: com.xiaomi.aicr UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647 isUidTracked: false declaredMethods: AVAIL|LOST|NC|BLK
+09-08 00:08:33.721 12691 16057 D WM-WorkConstraintsTrack: NetworkRequestConstraintController onCapabilitiesChanged callback
+09-08 00:08:33.721 12691 16057 D WM-WorkConstraintsTrack: Not dispatching constraint state yet: isBlocked=null, capabilitiesInitialized=true
+09-08 00:08:33.721 12691 16057 D WM-WorkConstraintsTrack: NetworkRequestConstraintController onBlockedStatusChanged callback false
+09-08 00:08:33.724 12691 13659 D WM-GreedyScheduler: Constraints met: Scheduling work ID WorkGenerationalId(workSpecId=f42ca7c5-0dbe-48dd-8bf4-0ec7fb1f642b, generation=0)
+09-08 00:08:33.724 12691 13659 D WM-GreedyScheduler: Constraints met: Scheduling work ID WorkGenerationalId(workSpecId=c980b6bd-c227-4aa5-8faf-c0ede97386ae, generation=0)
+09-08 00:08:33.725  3728  7026 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=50634, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 10127 RequestorUid: 10127 RequestorPkg: com.xiaomi.aicr UnderlyingNetworks: Null] ]
+09-08 00:08:33.725  3728  7026 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=50634, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 10127 RequestorUid: 10127 RequestorPkg: com.xiaomi.aicr UnderlyingNetworks: Null] ]
+09-08 00:08:33.726  3728  7026 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=50634, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 10127 RequestorUid: 10127 RequestorPkg: com.xiaomi.aicr UnderlyingNetworks: Null] ]
+09-08 00:08:33.726  3728  7026 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ REQUEST id=50634, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 10127 RequestorUid: 10127 RequestorPkg: com.xiaomi.aicr UnderlyingNetworks: Null] ]
+09-08 00:08:33.726  3728  7039 D ConnectivityService: NetReassign [50634 : null → 267] [c 0] [a 2] [i 5]
+09-08 00:08:33.726 12691 13659 W WM-Processor: Didn't find WorkSpec for id WorkGenerationalId(workSpecId=f42ca7c5-0dbe-48dd-8bf4-0ec7fb1f642b, generation=0)
+09-08 00:08:33.726 12691 12691 D WM-GreedyScheduler: Stopping tracking for WorkGenerationalId(workSpecId=f42ca7c5-0dbe-48dd-8bf4-0ec7fb1f642b, generation=0)
+09-08 00:08:33.727 12691 13659 W WM-Processor: Didn't find WorkSpec for id WorkGenerationalId(workSpecId=c980b6bd-c227-4aa5-8faf-c0ede97386ae, generation=0)
+09-08 00:08:33.727 12691 12691 D WM-GreedyScheduler: Stopping tracking for WorkGenerationalId(workSpecId=c980b6bd-c227-4aa5-8faf-c0ede97386ae, generation=0)
+09-08 00:08:33.728 12691 13659 D WM-GreedyScheduler: Cancelling work ID f42ca7c5-0dbe-48dd-8bf4-0ec7fb1f642b
+09-08 00:08:33.731 12691 13659 D WM-GreedyScheduler: Cancelling work ID c980b6bd-c227-4aa5-8faf-c0ede97386ae
+09-08 00:08:33.733 12691 13659 D WM-WorkConstraintsTrack: NetworkRequestConstraintController unregister shared callback
+09-08 00:08:33.825 11873  3333 D JavaheapMonitor: Java heap used=3M max=256M, proc: system
+09-08 00:08:33.825 11873  3333 V JavaheapMonitor: Check java heap usage finished! Next check delay: 300000
+09-08 00:08:33.945  2972  2972 I adbd    : in ShellService: logcat -d -t 500

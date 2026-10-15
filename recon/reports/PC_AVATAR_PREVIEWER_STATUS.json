@@ -1,0 +1,197 @@
+{
+  "project": "FL26_AvatarPreviewer",
+  "updated": "2026-09-05T21:40:00+08:00",
+  "projectRoot": "D:/FL26_Mod",
+  "migration": {
+    "audited": "2026-09-05",
+    "auditReport": "recon/reports/PATH_MIGRATION_AUDIT.md",
+    "contentIntegrity": "PASS (4/4 SHA256 match: base.apk, pristine_resigned.apk, avatar.unity3d, gamedata.unity3d)",
+    "legacyPathResidue": "212 files contain C:/FL26_Mod references; only 4 active files fixed (PreviewerBootstrap.cs, SETUP.md, README.md, this file); historical reports/scripts intentionally untouched",
+    "projectVersionTxt": "restored to 2020.3.49f1 after being polluted to 2020.3.9f1c1 by a wrong-version batchmode launch on 2026-09-03 22:48 (see audit section 6)",
+    "pathPolicy": "no hardcoded drive paths in runtime code; FL26_PROJECT_ROOT env var override + auto-discovery of ancestor dir containing build/avatar.unity3d"
+  },
+  "unityVersion": "2020.3.49f1",
+  "renderPipeline": "Built-in (no URP/HDRP)",
+  "entryPoint": "Assets/Scripts/Runtime/PreviewerBootstrap.cs (RuntimeInitializeOnLoadMethod, no scene asset needed)",
+  "verifiedFacts": {
+    "gameUnityVersion": "2020.3.49f1 (confirmed from APK lib version)",
+    "avatarBundleIsRealFL26": true,
+    "faceUvFeatures": "multi-tile (new2: 103 tiles, range [-8.28,11.98]) + Repeat wrap + shader-managed remap",
+    "pythonRendererInconsistent": "confirmed failed; do not revive",
+    "validTransitionalResult": "D:/FL26_Mod/face_benchmark/runs/test01/candidates/c4/front.png",
+    "frozenWork": "v5c not revisited; face pipeline v1 not redesigned"
+  },
+  "checklist": {
+    "STEP9_ENGINE_READY": "GREEN",
+    "STEP9_ASSET_LOAD_READY": "GREEN",
+    "STEP9_RENDER_READY": "GREEN",
+    "STEP9_UV_READY": "GREEN",
+    "STEP9_SHADER_READY": "GREEN",
+    "STEP9_CANDIDATE_READY": "GREEN",
+    "PC_PREVIEW_VALID": "GREEN"
+  },
+  "checklistNotes": {
+    "STEP9_ENGINE_READY": "Unity 2020.3.49f1 (revision 18249dd5551b) installed at D:/Unity/Editor-2020.3.49f1 + Android Build Support module; license active; project compiles and runs in batchmode (-buildTarget Android).",
+    "STEP9_ASSET_LOAD_READY": "6/6 face_EastAsia_new1..new6 prefabs load and instantiate from extracted/avatar_clean.unity3d (script-free UnityPy rewrite of the original; original build/avatar.unity3d untouched, SHA256 verified). Original bundle cannot load in a clean editor because it embeds 442 game MonoBehaviours - root cause documented, not a version mismatch.",
+    "STEP9_RENDER_READY": "Real game geometry + original textures render via edit-mode static bake (SMR bone matrices are zero outside Play mode). 13 screenshots captured: 6 faces front + new1 45L/45R/side + c4 4 views (runs/preview/batch_*.png).",
+    "STEP9_UV_READY": "GREEN - frontal + 45L views confirm continuous UV mapping, correct feature alignment (eyes/brows/lips at anatomically correct positions), zero shattering/black bars/seams.",
+    "STEP9_SHADER_READY": "deps_*.txt for all 6 faces show native shaders (Legacy Shaders/Bumped Specular, SL Legacy Shaders/Diffuse, eye material) loaded with ZERO InternalErrorShader fallback. Visual pass used ForceUnlit diagnostic channel; native shader lighting response to be confirmed on frontal re-check.",
+    "STEP9_CANDIDATE_READY": "c4 baked.png (face_benchmark/runs/test01/candidates/c4/baked.png) loaded via LoadImage and applied to _MainTex without error.",
+    "PC_PREVIEW_VALID": "GREEN - user verdict 2026-09-05: \"基本截图可以看出来像马健涛了，这一步可以收尾了\". PC renders the allchina v5c mod faces (mod texture assignment replicated per FaceMaterialSupplier). Device comparison: mod game running on device 95e2d9a (CHN vs CAM), device_screen.png archived. Step 9 CLOSED."
+  },
+  "integrityBaselines": {
+    "D:/FL26_Mod/build/avatar.unity3d": {
+      "sha256": "41567C9AC5B3A71116776CB566CBB49774BEEEB6C4BD3471E619F7734F22D5B7",
+      "note": "baseline recorded 2026-09-03 (on C: drive); re-verified on D: 2026-09-05 after C->D migration - MATCH; original untouched"
+    },
+    "D:/FL26_Mod/build/gamedata.unity3d": {
+      "sha256": "12438AB78124BB026FF81055DDAFB1C8DA97EF0DDCC436188E881359FB38A235",
+      "note": "baseline recorded 2026-09-03 (on C: drive); re-verified on D: 2026-09-05 after C->D migration - MATCH; original untouched"
+    },
+    "D:/FL26_Mod/build/pristine_resigned.apk": {
+      "sha256": "2C4F3048E2238D0622C42A2E838945E996861F54035C49196BDFB49118878723",
+      "note": "baseline recorded 2026-09-03 (on C: drive); re-verified on D: 2026-09-05 after C->D migration - MATCH; original untouched"
+    },
+    "D:/FL26_Mod/working/base.apk": {
+      "sha256": "8D567E06D93D30924741D2A4F439D1E81E062D9AEB8F203FCE64E7437A0C6C3B",
+      "note": "pristine working copy; Gate 2A baseline 2026-08-31; re-verified on D: 2026-09-05 - MATCH"
+    }
+  },
+  "staticChecks": {
+    "manifestJsonParseable": true,
+    "dependencyMapsJsonParseable": true,
+    "csharpBraceBalance": true,
+    "csharpNoHighVersionOrURPApi": true,
+    "projectVersionTxtPresent": true,
+    "projectVersionTxtContent": "2020.3.49f1 (restored 2026-09-05)",
+    "noHardcodedDrivePathsInRuntimeCode": true,
+    "projectSettingsAssetIntentionallyAbsent": "Unity regenerates defaults on first open",
+    "originalAssetsUnmodified": true
+  },
+  "perAvatarDependencies": {
+    "note": "Final per-avatar dependency records are auto-generated at runtime into runs/preview/deps_face_EastAsia_new*.txt. Until Editor run completes, per-avatar completeness is BLOCKED, not assumed.",
+    "knownNow": {
+      "face_EastAsia_new1": {
+        "mesh": "yes(700v)",
+        "texture": "face_eastAsia_new1 512x512",
+        "material": "unknown",
+        "shader": "unknown",
+        "smrBones": "unknown",
+        "status": "PARTIAL"
+      },
+      "face_EastAsia_new2": {
+        "mesh": "yes(700v,103 UV tiles)",
+        "texture": "face_eastAsia_new2 512x512",
+        "material": "unknown",
+        "shader": "unknown",
+        "smrBones": "unknown",
+        "status": "PARTIAL"
+      },
+      "face_EastAsia_new3": {
+        "mesh": "yes(700v)",
+        "texture": "face_eastAsia_new3 512x512",
+        "material": "unknown",
+        "shader": "unknown",
+        "smrBones": "unknown",
+        "status": "PARTIAL"
+      },
+      "face_EastAsia_new4": {
+        "mesh": "yes(698v)",
+        "texture": "face_eastAsia_new4 512x512",
+        "material": "unknown",
+        "shader": "unknown",
+        "smrBones": "unknown",
+        "status": "PARTIAL"
+      },
+      "face_EastAsia_new5": {
+        "mesh": "yes(700v)",
+        "texture": "face_eastAsia_new5 512x512",
+        "material": "unknown",
+        "shader": "unknown",
+        "smrBones": "unknown",
+        "status": "PARTIAL"
+      },
+      "face_EastAsia_new6": {
+        "mesh": "yes(700v)",
+        "texture": "face_eastAsia_new6 512x512",
+        "material": "unknown",
+        "shader": "unknown",
+        "smrBones": "unknown",
+        "status": "PARTIAL"
+      },
+      "wu_l_wei_liu_d_heads": {
+        "status": "BLOCKED",
+        "reason": "actual head GameObject names for these players not yet enumerated from bundle; will read from runs/preview/asset_enumeration.txt after first Editor run"
+      }
+    }
+  },
+  "step9FirstRealRun": {
+    "date": "2026-09-05",
+    "method": "batchmode edit-mode driver Assets/Scripts/Editor/Step9BatchRunner.cs (reflection over PreviewerBootstrap; no Play mode, avoids domain-reload hang)",
+    "bundleUsed": "tools/FL26_AvatarPreviewer/extracted/avatar_clean.unity3d (generated by make_clean_bundle.py: remove 475 script objects, clear header script_types, types-table surgery 59->25, rebuild container/preload ranges)",
+    "results": {
+      "bundleLoaded": true,
+      "facesLoaded": "6/6 (new1 via LoadAllAssets fallback - its asset range contains 1 MonoBehaviour+1 MonoScript removed by the rewrite)",
+      "depsDumps": 6,
+      "assetEnumeration": "553 Mesh / 754 Texture2D / 554 GameObject / 438 Material / 23 Shader",
+      "shaderFallbackCount": 0,
+      "c4Applied": true,
+      "screenshots": 13
+    },
+    "rootCausesFound": [
+      "original bundle load failure = embedded game MonoBehaviours + header script_types + types table, NOT engine version",
+      "empty screenshots = head prefabs ship INACTIVE (game activates at runtime) + SkinnedMeshRenderer bone matrices stay zero in edit mode (fixed: SetActive(true) + static bake onto rootBone transform)"
+    ],
+    "orientationFixed": "2026-09-05 run50: static mesh re-based via lastRel + world premultiply Euler(0,180,0)*Euler(-90,0,0)*Euler(0,-90,0) + local post Euler(90,0,0) -> frontal upright face (grid search over 8 rotations, rot_D_wY180.png won). 13 standard captures regenerated.",
+    "frontalFindings": {
+      "native_new2": "green iris eyes, eyebrows, lips, skin shading all correct; UV continuous; no shattering/seams",
+      "native_45L": "profile silhouette natural (nose bridge, brow, jaw); no artifacts",
+      "c4_applied": "texture loads and applies; face shows warm photo-baked skin + thick brows (Ma Jianntao photo); eye region shows yellow blocks = known c4 bake eye-anchoring limitation in face pipeline, NOT a renderer issue"
+    },
+    "mjtModOnPC": {
+      "date": "2026-09-05",
+      "goal": "SEE the allchina v5c Ma Jiantao mod faces on PC (previously visible only on device)",
+      "method": "make_clean_bundle.py parameterized; ran on build/avatar_ea3_v5.unity3d (the exact bundle packed into dist/fl26_allchina_v5.apk) -> extracted/avatar_mjt.unity3d; bundleCandidates now prefer avatar_mjt",
+      "photos": "Ma Jiantao source photos located at D:/FL26_Mod/face_benchmark/inputs/test01_front.jpg, test02_front.jpg, test03_front.jpg (test01 = c4 candidate source)",
+      "textureEvidence": "mod bundle face_southAsia_new1 (the _MainTex all 6 eastAsia face materials reference) contains the Ma Jiantao photo-baked face (thick brows, warm skin, closed-eye photo) - dumped to extracted/mjt_tex/",
+      "result": "5/6 faces (new2-new6) render the Ma Jiantao mod face on PC correctly; new1 renders empty - its MICA-injected mesh has stale mesh.bounds (injection moved vertices without recomputing bounds) which misplaces AutoFrame; not a previewer defect",
+      "knownResiduals": [
+        "eye mesh uses original eye_darkgreen texture (mod never replaced eye textures - same as on device)",
+        "eye protrusion (v5c known residual)",
+        "new1 empty render due to stale injected-mesh bounds"
+      ]
+    },
+    "orbitCaptureFinal": {
+      "date": "2026-09-05 run74-76",
+      "breakthrough": "360 panorama diagnostic proved the head renders at renderer.bounds center and revealed the correct face direction; all captures switched to ORBIT cameras (position+LookAt around head center), independent of SetFixedView/pivot",
+      "fixes": [
+        "mesh.bounds recomputed from actual vertices after MICA injection (stale bounds fix)",
+        "180 roll around view axis with head-center-preserving position shift (photo-baked meshes come out upside-down in base orientation)",
+        "face side validated at orbit dirDeg=0"
+      ],
+      "finalResults": "16/16 captures with content: 6 faces x (front+back), 4 c4 views. Face side upright, UV continuous, native shaders, c4 applied."
+    },
+    "finalModRenderState": {
+      "date": "2026-09-05 run77-80",
+      "breakthrough": "PC renders the ALLCHINA v5c mod faces correctly: 6/6 faces with mod textures assigned (replicating the game runtime FaceMaterialSupplier behavior)",
+      "rootCauseOfGenericFaces": "the bundle material only carries a generic DEFAULT texture (face_southAsia_new1); the game assigns face_eastasia_new{fam} at runtime based on player appearance — the preview now replicates this assignment",
+      "v5cContentFindings": {
+        "new5/new6": "full ea3 photo-bake texture swap (best looking on device too)",
+        "new2/3/4": "per-triangle remap DEGENERATE: textures are smooth gradients + seam (the frozen midline-seam issue) — renders faithfully show this",
+        "new1": "MICA-injected geometry + ea3 bake; renders (wide-open eye mesh = known eye protrusion residual)",
+        "eyes": "eye mesh keeps native eye_darkgreen texture — mod never replaced eye textures (same on device)"
+      },
+      "c4NoseEyes": "c4 baked.png eye-anchoring limitation (face pipeline known issue); c4 was never used on device — v5c used the ea3 bake",
+      "deviceComparison": "device connected, mod game running (CHN vs CAM match); device_screen.png captured; in-game faces match the PC renders (same textures/geometry)"
+    }
+  },
+  "step9Closure": {
+    "closedAt": "2026-09-05",
+    "verdict": "User accepted PC renders of the Ma Jiantao mod faces (16/16 captures, 6/6 faces, orbit capture system)",
+    "toolsBuilt": [
+      "make_clean_bundle.py (script-free bundle rewrite, parameterized src/dst)",
+      "Step9BatchRunner.cs (edit-mode orbit-capture verification driver)",
+      "AssignModFaceTexture (runtime FaceMaterialSupplier replication)"
+    ]
+  }
+}

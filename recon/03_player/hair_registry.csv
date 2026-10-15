@@ -1,0 +1,4 @@
+hair_id,mesh_or_style,visual,source,notes
+0, buzz_cut,寸头(基线 Ralla),device_T05_baseline,默认值
+1, long_hair,长发,device_T05,盲测值也生效→枚举比数据中出现的更宽
+127, medium_hair,中等发量,device_T06,数据中最常见非0值(5092条)

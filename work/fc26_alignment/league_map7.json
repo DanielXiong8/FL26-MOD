@@ -1,0 +1,100 @@
+{
+ "Championship": {
+  "Birmingham": [
+   "Birmingham City F.C.",
+   20312
+  ],
+  "Blackburn": [
+   "Blackburn Rovers F.C.",
+   20310
+  ],
+  "Bolton": [
+   "Bolton Wanderers F.C.",
+   20403
+  ],
+  "BristolCity": [
+   "Bristol City F.C.",
+   20328
+  ],
+  "Burnley": [
+   "Burnley F.C.",
+   20043
+  ],
+  "Cardiff": [
+   "Cardiff City F.C.",
+   20318
+  ],
+  "Charlton": [
+   "Charlton Athletic F.C.",
+   null
+  ],
+  "Derby": [
+   "Derby County F.C.",
+   20049
+  ],
+  "Lincoln": [
+   "Lincoln City F.C.",
+   null
+  ],
+  "Middlesbrough": [
+   "Middlesbrough F.C.",
+   20326
+  ],
+  "Millwall": [
+   "Millwall F.C.",
+   null
+  ],
+  "Norwich": [
+   "Norwich City F.C.",
+   20045
+  ],
+  "Portsmouth": [
+   "Portsmouth F.C.",
+   20399
+  ],
+  "Preston": [
+   "Preston North End F.C.",
+   20323
+  ],
+  "QPR": [
+   "Queens Park Rangers F.C.",
+   20315
+  ],
+  "SheffieldUtd": [
+   "Sheffield United F.C.",
+   20314
+  ],
+  "Southampton": [
+   "Southampton F.C.",
+   20040
+  ],
+  "Stoke": [
+   "Stoke City F.C.",
+   20319
+  ],
+  "Swansea": [
+   "Swansea City A.F.C.",
+   20327
+  ],
+  "Watford": [
+   "Watford F.C.",
+   20044
+  ],
+  "WestBrom": [
+   "West Bromwich Albion F.C.",
+   20048
+  ],
+  "WestHam": [
+   "West Ham United F.C.",
+   20032
+  ],
+  "Wolves": [
+   "Wolverhampton Wanderers F.C.",
+   20033
+  ],
+  "Wrexham": [
+   "Wrexham A.F.C.",
+   40082
+  ]
+ }
+}
