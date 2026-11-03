@@ -1,0 +1,7316 @@
+{
+ "injects": [
+  {
+   "club": "ManCity",
+   "team_id": 20026,
+   "name": "Vitor Reis",
+   "jersey": 22,
+   "pos": "DF",
+   "ovr": 81,
+   "birth": null,
+   "nat": "Brazil",
+   "src": "PL"
+  },
+  {
+   "club": "ManCity",
+   "team_id": 20026,
+   "name": "Ayyoub Bouaddi",
+   "jersey": 32,
+   "pos": "MF",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Morocco",
+   "src": "PL"
+  },
+  {
+   "club": "ManCity",
+   "team_id": 20026,
+   "name": "Ryan McAidoo",
+   "jersey": 56,
+   "pos": "FW",
+   "ovr": 73,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "ManCity",
+   "team_id": 20026,
+   "name": "Kaden Braithwaite",
+   "jersey": 61,
+   "pos": "DF",
+   "ovr": 73,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "ManCity",
+   "team_id": 20026,
+   "name": "Floyd Samba",
+   "jersey": 75,
+   "pos": "MF",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Germany",
+   "src": "PL"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Harvey Elliott",
+   "jersey": 19,
+   "pos": "MF",
+   "ovr": 78,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Ármin Pécsi",
+   "jersey": 41,
+   "pos": "GK",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Hungary",
+   "src": "PL"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Calvin Ramsay",
+   "jersey": 47,
+   "pos": "DF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Scotland",
+   "src": "PL"
+  },
+  {
+   "club": "Liverpool",
+   "team_id": 20027,
+   "name": "Ifeanyi Ndukwe",
+   "jersey": 83,
+   "pos": "DF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Austria",
+   "src": "PL"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Danny Welbeck",
+   "jersey": 18,
+   "pos": "FW",
+   "ovr": 77,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Emmanuel Emegha",
+   "jersey": 22,
+   "pos": "FW",
+   "ovr": 77,
+   "birth": null,
+   "nat": "Netherlands",
+   "src": "PL"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Pep Chavarría",
+   "jersey": 16,
+   "pos": "DF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Spain",
+   "src": "PL"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Aarón Anselmino",
+   "jersey": 30,
+   "pos": "DF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Argentina",
+   "src": "PL"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Reggie Watson",
+   "jersey": 31,
+   "pos": "MF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Mahdi Nicoll-Jazuli",
+   "jersey": 32,
+   "pos": "MF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Chelsea",
+   "team_id": 20028,
+   "name": "Olutayo Subuloye",
+   "jersey": 37,
+   "pos": "DF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Tottenham",
+   "team_id": 20029,
+   "name": "Tosin Adarabioyo",
+   "jersey": 4,
+   "pos": "DF",
+   "ovr": 78,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Tottenham",
+   "team_id": 20029,
+   "name": "Sandro Tonali",
+   "jersey": 16,
+   "pos": "MF",
+   "ovr": 78,
+   "birth": null,
+   "nat": "Italy",
+   "src": "PL"
+  },
+  {
+   "club": "Tottenham",
+   "team_id": 20029,
+   "name": "Omar Marmoush",
+   "jersey": 12,
+   "pos": "FW",
+   "ovr": 78,
+   "birth": null,
+   "nat": "Egypt",
+   "src": "PL"
+  },
+  {
+   "club": "Tottenham",
+   "team_id": 20029,
+   "name": "Luca Williams-Barnett",
+   "jersey": 68,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Tottenham",
+   "team_id": 20029,
+   "name": "Kōta Takai",
+   "jersey": 25,
+   "pos": "DF",
+   "ovr": 78,
+   "birth": null,
+   "nat": "Japan",
+   "src": "PL"
+  },
+  {
+   "club": "Tottenham",
+   "team_id": 20029,
+   "name": "Mikey Moore",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "name": "Mikel Merino",
+   "jersey": 9,
+   "pos": "MF",
+   "ovr": 84,
+   "birth": null,
+   "nat": "Spain",
+   "src": "PL"
+  },
+  {
+   "club": "Arsenal",
+   "team_id": 20030,
+   "name": "Bruno Guimarães",
+   "jersey": 39,
+   "pos": "MF",
+   "ovr": 76,
+   "birth": null,
+   "nat": "Brazil",
+   "src": "PL"
+  },
+  {
+   "club": "ManUnited",
+   "team_id": 20031,
+   "name": "Carlos Baleba",
+   "jersey": 20,
+   "pos": "MF",
+   "ovr": 78,
+   "birth": null,
+   "nat": "Cameroon",
+   "src": "PL"
+  },
+  {
+   "club": "ManUnited",
+   "team_id": 20031,
+   "name": "Shea Lacey",
+   "jersey": 21,
+   "pos": "FW",
+   "ovr": 70,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "ManUnited",
+   "team_id": 20031,
+   "name": "Jack Fletcher",
+   "jersey": 38,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "ManUnited",
+   "team_id": 20031,
+   "name": "Harry Amass",
+   "jersey": 41,
+   "pos": "DF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "ManUnited",
+   "team_id": 20031,
+   "name": "Dermot Mee",
+   "jersey": 45,
+   "pos": "GK",
+   "ovr": 70,
+   "birth": null,
+   "nat": "NIR",
+   "src": "PL"
+  },
+  {
+   "club": "WestHam",
+   "team_id": 20032,
+   "name": "El Hadji Malick Diouf",
+   "jersey": 12,
+   "pos": "DF",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "PL"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Ibrahim Osman",
+   "jersey": 15,
+   "pos": "MF",
+   "ovr": 76,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Evan Ferguson",
+   "jersey": 28,
+   "pos": "FW",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Republic of Ireland",
+   "src": "PL"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Maxim De Cuyper",
+   "jersey": 29,
+   "pos": "DF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Belgium",
+   "src": "PL"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Michael Svoboda",
+   "jersey": 12,
+   "pos": "DF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Austria",
+   "src": "PL"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Malick Yalcouyé",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Ivory Coast",
+   "src": "PL"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Zadok Yohanna",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Nigeria",
+   "src": "PL"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Femi Azeez",
+   "jersey": 39,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Nigeria",
+   "src": "PL"
+  },
+  {
+   "club": "Brighton",
+   "team_id": 20035,
+   "name": "Luka Vušković",
+   "jersey": 44,
+   "pos": "DF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Croatia",
+   "src": "PL"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "name": "Jaidon Anthony",
+   "jersey": 15,
+   "pos": "FW",
+   "ovr": 74,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "name": "Gustavo Nunes",
+   "jersey": 39,
+   "pos": "FW",
+   "ovr": 66,
+   "birth": null,
+   "nat": "Brazil",
+   "src": "PL"
+  },
+  {
+   "club": "Brentford",
+   "team_id": 20036,
+   "name": "Jannik Schuster",
+   "jersey": 44,
+   "pos": "DF",
+   "ovr": 66,
+   "birth": null,
+   "nat": "Austria",
+   "src": "PL"
+  },
+  {
+   "club": "Newcastle",
+   "team_id": 20037,
+   "name": "Nico González",
+   "jersey": 10,
+   "pos": "MF",
+   "ovr": 79,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Newcastle",
+   "team_id": 20037,
+   "name": "Sean Steur",
+   "jersey": 14,
+   "pos": "MF",
+   "ovr": 79,
+   "birth": null,
+   "nat": "Netherlands",
+   "src": "PL"
+  },
+  {
+   "club": "Newcastle",
+   "team_id": 20037,
+   "name": "Matias Fernandez-Pardo",
+   "jersey": 13,
+   "pos": "FW",
+   "ovr": 79,
+   "birth": null,
+   "nat": "Belgium",
+   "src": "PL"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "Nicolas Jackson",
+   "jersey": 11,
+   "pos": "FW",
+   "ovr": 77,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "PL"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "Matteo Ruggeri",
+   "jersey": 13,
+   "pos": "DF",
+   "ovr": 77,
+   "birth": null,
+   "nat": "Italy",
+   "src": "PL"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "Ibrahim Mbaye",
+   "jersey": 19,
+   "pos": "FW",
+   "ovr": 77,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "PL"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "Ian Maatsen",
+   "jersey": 22,
+   "pos": "DF",
+   "ovr": 77,
+   "birth": null,
+   "nat": "Netherlands",
+   "src": "PL"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "Leon Goretzka",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Germany",
+   "src": "PL"
+  },
+  {
+   "club": "AstonVilla",
+   "team_id": 20039,
+   "name": "George Hemmings",
+   "jersey": 53,
+   "pos": "MF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Everton",
+   "team_id": 20041,
+   "name": "Charly Alcaraz",
+   "jersey": 24,
+   "pos": "MF",
+   "ovr": 76,
+   "birth": null,
+   "nat": "Argentina",
+   "src": "PL"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "Tyler Adams",
+   "jersey": 14,
+   "pos": "MF",
+   "ovr": 75,
+   "birth": null,
+   "nat": "United States",
+   "src": "PL"
+  },
+  {
+   "club": "Bournemouth",
+   "team_id": 20046,
+   "name": "Juanlu Sánchez",
+   "jersey": 24,
+   "pos": "DF",
+   "ovr": 75,
+   "birth": null,
+   "nat": "Spain",
+   "src": "PL"
+  },
+  {
+   "club": "PSG",
+   "team_id": 20051,
+   "name": "Quentin Ndjantou",
+   "jersey": 47,
+   "pos": "FW",
+   "ovr": 77,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Lyon",
+   "team_id": 20053,
+   "name": "Lassine Diarra",
+   "jersey": 50,
+   "pos": "GK",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Mali",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Lyon",
+   "team_id": 20053,
+   "name": "Mohamed Ouédraogo",
+   "jersey": 76,
+   "pos": "DF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Burkina Faso",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Lyon",
+   "team_id": 20053,
+   "name": "Noham Kamara",
+   "jersey": 85,
+   "pos": "DF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Lyon",
+   "team_id": 20053,
+   "name": "Noah Nartey",
+   "jersey": 99,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Denmark",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Marseille",
+   "team_id": 20055,
+   "name": "Keyliane Abdallah",
+   "jersey": 48,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Marseille",
+   "team_id": 20055,
+   "name": "Amine Harit",
+   "jersey": 77,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Morocco",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Nice",
+   "team_id": 20057,
+   "name": "Mohamed Amoura",
+   "jersey": 12,
+   "pos": "FW",
+   "ovr": 70,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Nice",
+   "team_id": 20057,
+   "name": "Niels Nkounkou",
+   "jersey": 27,
+   "pos": "DF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Nice",
+   "team_id": 20057,
+   "name": "Alidu Seidu",
+   "jersey": 36,
+   "pos": "DF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Nice",
+   "team_id": 20057,
+   "name": "Martin Ponsot",
+   "jersey": 60,
+   "pos": "GK",
+   "ovr": 62,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Nice",
+   "team_id": 20057,
+   "name": "Teddy Boulhendi",
+   "jersey": 77,
+   "pos": "GK",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Algeria",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Nice",
+   "team_id": 20057,
+   "name": "Hamza Koutoune",
+   "jersey": 84,
+   "pos": "DF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Morocco",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Nice",
+   "team_id": 20057,
+   "name": "Everton Pereira",
+   "jersey": 87,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Monaco",
+   "team_id": 20058,
+   "name": "Mathys Detourbet",
+   "jersey": 21,
+   "pos": "FW",
+   "ovr": 72,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Monaco",
+   "team_id": 20058,
+   "name": "Anis Soubeir",
+   "jersey": 46,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Morocco",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Monaco",
+   "team_id": 20058,
+   "name": "Safouane Benzahra",
+   "jersey": 47,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Morocco",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Monaco",
+   "team_id": 20058,
+   "name": "Ilane Touré",
+   "jersey": 49,
+   "pos": "DF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Monaco",
+   "team_id": 20058,
+   "name": "Sadibou Sané",
+   "jersey": 72,
+   "pos": "DF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Rennes",
+   "team_id": 20060,
+   "name": "Charlie Cresswell",
+   "jersey": 4,
+   "pos": "DF",
+   "ovr": 73,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Rennes",
+   "team_id": 20060,
+   "name": "Boulaye Dia",
+   "jersey": 22,
+   "pos": "FW",
+   "ovr": 73,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Rennes",
+   "team_id": 20060,
+   "name": "Kilian Belazzoug",
+   "jersey": 60,
+   "pos": "GK",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Algeria",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Rennes",
+   "team_id": 20060,
+   "name": "Issa Soumaré",
+   "jersey": 90,
+   "pos": "FW",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Strasbourg",
+   "team_id": 20061,
+   "name": "Gessime Yassine",
+   "jersey": 80,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Morocco",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Lorient",
+   "team_id": 20067,
+   "name": "Nosa Edward Obaretin",
+   "jersey": 55,
+   "pos": "DF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Italy",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Lorient",
+   "team_id": 20067,
+   "name": "Noah Mbamba",
+   "jersey": 72,
+   "pos": "MF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "DR Congo",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Lens",
+   "team_id": 20070,
+   "name": "Ilan Jourdren",
+   "jersey": 60,
+   "pos": "GK",
+   "ovr": 64,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Toulouse",
+   "team_id": 20075,
+   "name": "Aymen Amaaouch",
+   "jersey": 49,
+   "pos": "MF",
+   "ovr": 63,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Toulouse",
+   "team_id": 20075,
+   "name": "Mathys Niflore",
+   "jersey": 60,
+   "pos": "GK",
+   "ovr": 63,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Toulouse",
+   "team_id": 20075,
+   "name": "Ismaïl Diallo",
+   "jersey": 94,
+   "pos": "DF",
+   "ovr": 63,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Juventus",
+   "team_id": 20076,
+   "name": "Pierre Kalulu",
+   "jersey": 15,
+   "pos": "DF",
+   "ovr": 78,
+   "birth": null,
+   "nat": "France",
+   "src": "SerieA"
+  },
+  {
+   "club": "Napoli",
+   "team_id": 20077,
+   "name": "Noa Lang",
+   "jersey": 70,
+   "pos": "FW",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Netherlands",
+   "src": "SerieA"
+  },
+  {
+   "club": "Inter",
+   "team_id": 20078,
+   "name": "Ivan Provedel",
+   "jersey": 49,
+   "pos": "GK",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Inter",
+   "team_id": 20078,
+   "name": "Djed Spence",
+   "jersey": 99,
+   "pos": "DF",
+   "ovr": 73,
+   "birth": null,
+   "nat": "England",
+   "src": "SerieA"
+  },
+  {
+   "club": "Atalanta",
+   "team_id": 20079,
+   "name": "Lorenzo Bernasconi",
+   "jersey": 47,
+   "pos": "DF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Atalanta",
+   "team_id": 20079,
+   "name": "Gianluca Gaetano",
+   "jersey": 70,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Atalanta",
+   "team_id": 20079,
+   "name": "Eljif Elmas",
+   "jersey": 99,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "North Macedonia",
+   "src": "SerieA"
+  },
+  {
+   "club": "Milan",
+   "team_id": 20080,
+   "name": "Alphadjo Cisse",
+   "jersey": 70,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Milan",
+   "team_id": 20080,
+   "name": "Francesco Camarda",
+   "jersey": 73,
+   "pos": "FW",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Milan",
+   "team_id": 20080,
+   "name": "Yunus Musah",
+   "jersey": 80,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "United States",
+   "src": "SerieA"
+  },
+  {
+   "club": "Roma",
+   "team_id": 20081,
+   "name": "Antonio Arena",
+   "jersey": 68,
+   "pos": "FW",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Roma",
+   "team_id": 20081,
+   "name": "Giorgio De Marzi",
+   "jersey": 70,
+   "pos": "GK",
+   "ovr": 69,
+   "birth": null,
+   "nat": "United States",
+   "src": "SerieA"
+  },
+  {
+   "club": "Roma",
+   "team_id": 20081,
+   "name": "Emanuele Lulli",
+   "jersey": 77,
+   "pos": "DF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Roma",
+   "team_id": 20081,
+   "name": "Rodrigo Mora",
+   "jersey": 86,
+   "pos": "MF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Torino",
+   "team_id": 20082,
+   "name": "Lapo Siviero",
+   "jersey": 76,
+   "pos": "GK",
+   "ovr": 63,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Torino",
+   "team_id": 20082,
+   "name": "Alessio Cacciamani",
+   "jersey": 77,
+   "pos": "MF",
+   "ovr": 63,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Torino",
+   "team_id": 20082,
+   "name": "Andrea Luongo",
+   "jersey": 79,
+   "pos": "MF",
+   "ovr": 63,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lazio",
+   "team_id": 20083,
+   "name": "Alessio Furlanetto",
+   "jersey": 55,
+   "pos": "GK",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lazio",
+   "team_id": 20083,
+   "name": "Davide Renzetti",
+   "jersey": 59,
+   "pos": "GK",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lazio",
+   "team_id": 20083,
+   "name": "Federico Serra",
+   "jersey": 63,
+   "pos": "FW",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lazio",
+   "team_id": 20083,
+   "name": "Valerio Farcomeni",
+   "jersey": 71,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lazio",
+   "team_id": 20083,
+   "name": "Albert Guðmundsson",
+   "jersey": 80,
+   "pos": "FW",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Genoa",
+   "team_id": 20084,
+   "name": "Lorenzo Colombo",
+   "jersey": 29,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Genoa",
+   "team_id": 20084,
+   "name": "Samuel Wiafe",
+   "jersey": 71,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Genoa",
+   "team_id": 20084,
+   "name": "Lorenzo Venturino",
+   "jersey": 76,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Genoa",
+   "team_id": 20084,
+   "name": "Stephan El Shaarawy",
+   "jersey": 92,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Genoa",
+   "team_id": 20084,
+   "name": "Djibril Sow",
+   "jersey": 97,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Switzerland",
+   "src": "SerieA"
+  },
+  {
+   "club": "Genoa",
+   "team_id": 20084,
+   "name": "Franz Stolz",
+   "jersey": 99,
+   "pos": "GK",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Austria",
+   "src": "SerieA"
+  },
+  {
+   "club": "Bologna",
+   "team_id": 20085,
+   "name": "Matteo Darmian",
+   "jersey": 36,
+   "pos": "DF",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Bologna",
+   "team_id": 20085,
+   "name": "Ukko Happonen",
+   "jersey": 77,
+   "pos": "GK",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Finland",
+   "src": "SerieA"
+  },
+  {
+   "club": "Bologna",
+   "team_id": 20085,
+   "name": "Roberto Piccoli",
+   "jersey": 91,
+   "pos": "FW",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Sassuolo",
+   "team_id": 20086,
+   "name": "Simone Cinquegrano",
+   "jersey": 46,
+   "pos": "DF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Sassuolo",
+   "team_id": 20086,
+   "name": "Darryl Bakola",
+   "jersey": 50,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "France",
+   "src": "SerieA"
+  },
+  {
+   "club": "Sassuolo",
+   "team_id": 20086,
+   "name": "Ibrahim Sulemana",
+   "jersey": 55,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Sassuolo",
+   "team_id": 20086,
+   "name": "Nicholas Pierini",
+   "jersey": 77,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Sassuolo",
+   "team_id": 20086,
+   "name": "Sebastiano Esposito",
+   "jersey": 94,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Udinese",
+   "team_id": 20087,
+   "name": "Unai Gómez",
+   "jersey": 46,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "SPA",
+   "src": "SerieA"
+  },
+  {
+   "club": "Udinese",
+   "team_id": 20087,
+   "name": "Enzo Ebosse",
+   "jersey": 77,
+   "pos": "DF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Cameroon",
+   "src": "SerieA"
+  },
+  {
+   "club": "Udinese",
+   "team_id": 20087,
+   "name": "Lazar Jovanović",
+   "jersey": 91,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Cagliari",
+   "team_id": 20089,
+   "name": "Daniel Maldini",
+   "jersey": 70,
+   "pos": "FW",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Cagliari",
+   "team_id": 20089,
+   "name": "Yanis Massolin",
+   "jersey": 79,
+   "pos": "MF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "France",
+   "src": "SerieA"
+  },
+  {
+   "club": "Venezia",
+   "team_id": 20098,
+   "name": "Simone Panada",
+   "jersey": 55,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Venezia",
+   "team_id": 20098,
+   "name": "Kornel Lisman",
+   "jersey": 56,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Poland",
+   "src": "SerieA"
+  },
+  {
+   "club": "Venezia",
+   "team_id": 20098,
+   "name": "Pasquale Mazzocchi",
+   "jersey": 70,
+   "pos": "DF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Venezia",
+   "team_id": 20098,
+   "name": "Toni Fernández",
+   "jersey": 77,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Spain",
+   "src": "SerieA"
+  },
+  {
+   "club": "Venezia",
+   "team_id": 20098,
+   "name": "Ale Gomes",
+   "jersey": 95,
+   "pos": "DF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Spain",
+   "src": "SerieA"
+  },
+  {
+   "club": "Venezia",
+   "team_id": 20098,
+   "name": "Lorenzo Montipò",
+   "jersey": 96,
+   "pos": "GK",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Parma",
+   "team_id": 20100,
+   "name": "Abdou-Salam Konate",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "SerieA"
+  },
+  {
+   "club": "Parma",
+   "team_id": 20100,
+   "name": "Dominik Drobnič",
+   "jersey": 72,
+   "pos": "DF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Slovenia",
+   "src": "SerieA"
+  },
+  {
+   "club": "Parma",
+   "team_id": 20100,
+   "name": "Simone Lontani",
+   "jersey": 76,
+   "pos": "MF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Parma",
+   "team_id": 20100,
+   "name": "Giovanni Fabbian",
+   "jersey": 80,
+   "pos": "MF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Barcelona",
+   "team_id": 20101,
+   "name": "La Liga",
+   "jersey": 28,
+   "pos": "MF",
+   "ovr": 75,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Barcelona",
+   "team_id": 20101,
+   "name": "Jesse Bisiwu",
+   "jersey": 29,
+   "pos": "FW",
+   "ovr": 75,
+   "birth": null,
+   "nat": "Belgium",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Barcelona",
+   "team_id": 20101,
+   "name": "Hamza Abdelkarim",
+   "jersey": 30,
+   "pos": "FW",
+   "ovr": 75,
+   "birth": null,
+   "nat": "Egypt",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Valencia",
+   "team_id": 20104,
+   "name": "Kayne van Oevelen",
+   "jersey": 29,
+   "pos": "GK",
+   "ovr": 74,
+   "birth": null,
+   "nat": "Netherlands",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Getafe",
+   "team_id": 20105,
+   "name": "David Soria",
+   "jersey": 33,
+   "pos": "GK",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Getafe",
+   "team_id": 20105,
+   "name": "Christantus Uche",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Nigeria",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Sevilla",
+   "team_id": 20106,
+   "name": "Rafael Romero Morilla",
+   "jersey": 33,
+   "pos": "GK",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Espanyol",
+   "team_id": 20107,
+   "name": "Quilindschy Hartman",
+   "jersey": 20,
+   "pos": "DF",
+   "ovr": 74,
+   "birth": null,
+   "nat": "Netherlands",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Espanyol",
+   "team_id": 20107,
+   "name": "Bryan Zaragoza",
+   "jersey": 25,
+   "pos": "FW",
+   "ovr": 74,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Espanyol",
+   "team_id": 20107,
+   "name": "Vanja Drkušić",
+   "jersey": 27,
+   "pos": "DF",
+   "ovr": 74,
+   "birth": null,
+   "nat": "Slovenia",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Espanyol",
+   "team_id": 20107,
+   "name": "Gabriel Moscardo",
+   "jersey": 29,
+   "pos": "MF",
+   "ovr": 74,
+   "birth": null,
+   "nat": "Brazil",
+   "src": "LaLiga"
+  },
+  {
+   "club": "AthleticBilbao",
+   "team_id": 20108,
+   "name": "Christian Imga",
+   "jersey": 33,
+   "pos": "FW",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "AthleticBilbao",
+   "team_id": 20108,
+   "name": "Txus Vizcay",
+   "jersey": 34,
+   "pos": "FW",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "RealSociedad",
+   "team_id": 20109,
+   "name": "Unai Marrero",
+   "jersey": 26,
+   "pos": "GK",
+   "ovr": 74,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "RealSociedad",
+   "team_id": 20109,
+   "name": "Mamadou Sarr",
+   "jersey": 27,
+   "pos": "DF",
+   "ovr": 74,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Villarreal",
+   "team_id": 20113,
+   "name": "Renato Veiga",
+   "jersey": 34,
+   "pos": "DF",
+   "ovr": 75,
+   "birth": null,
+   "nat": "Portugal",
+   "src": "LaLiga"
+  },
+  {
+   "club": "RayoVallecano",
+   "team_id": 20121,
+   "name": "Mujaid Sadick",
+   "jersey": 26,
+   "pos": "DF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "RayoVallecano",
+   "team_id": 20121,
+   "name": "Emil Audero",
+   "jersey": 27,
+   "pos": "GK",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Indonesia",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Levante",
+   "team_id": 20123,
+   "name": "Dani Requena",
+   "jersey": 31,
+   "pos": "MF",
+   "ovr": 71,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Dortmund",
+   "team_id": 20127,
+   "name": "Luca Reggiani",
+   "jersey": 49,
+   "pos": "DF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Italy",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Leipzig",
+   "team_id": 20128,
+   "name": "Viggo Gebel",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 66,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Schalke",
+   "team_id": 20130,
+   "name": "Robin Gosens",
+   "jersey": 8,
+   "pos": "DF",
+   "ovr": 69,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Frankfurt",
+   "team_id": 20131,
+   "name": "Noah Atubolu",
+   "jersey": 1,
+   "pos": "GK",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Gladbach",
+   "team_id": 20132,
+   "name": "Josiah Kaled Uwakhonye",
+   "jersey": 35,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Gladbach",
+   "team_id": 20132,
+   "name": "Zento Uno",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Japan",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Gladbach",
+   "team_id": 20132,
+   "name": "Lion Schweers",
+   "jersey": 48,
+   "pos": "DF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Bremen",
+   "team_id": 20135,
+   "name": "Marco Friedl",
+   "jersey": 32,
+   "pos": "DF",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Koln",
+   "team_id": 20138,
+   "name": "Marvin Schwäbe",
+   "jersey": 1,
+   "pos": "GK",
+   "ovr": 72,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Koln",
+   "team_id": 20138,
+   "name": "David Fürst",
+   "jersey": 49,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Augsburg",
+   "team_id": 20139,
+   "name": "Tom Wisbereit",
+   "jersey": 48,
+   "pos": "GK",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Stuttgart",
+   "team_id": 20140,
+   "name": "Dan-Axel Zagadou",
+   "jersey": 23,
+   "pos": "DF",
+   "ovr": 72,
+   "birth": null,
+   "nat": "France",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Stuttgart",
+   "team_id": 20140,
+   "name": "Yanik Spalt",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Austria",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "UnionBerlin",
+   "team_id": 20144,
+   "name": "Linus Güther",
+   "jersey": 49,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Paderborn",
+   "team_id": 20147,
+   "name": "Sebastian Klaas",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Paderborn",
+   "team_id": 20147,
+   "name": "Clemens Lippmann",
+   "jersey": 35,
+   "pos": "DF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Paderborn",
+   "team_id": 20147,
+   "name": "Lasse Eickel",
+   "jersey": 36,
+   "pos": "FW",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Paderborn",
+   "team_id": 20147,
+   "name": "Gabriel Vidović",
+   "jersey": 40,
+   "pos": "FW",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Croatia",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Paderborn",
+   "team_id": 20147,
+   "name": "Timur Gayret",
+   "jersey": 44,
+   "pos": "MF",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Ernest Poku",
+   "jersey": 16,
+   "pos": "FW",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Fabio Miretti",
+   "jersey": 21,
+   "pos": "MF",
+   "ovr": 73,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Ümit Akdağ",
+   "jersey": 50,
+   "pos": "DF",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Romania",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Emirhan Topçu",
+   "jersey": 53,
+   "pos": "DF",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Yasin Özcan",
+   "jersey": 24,
+   "pos": "DF",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Azem Yortaç",
+   "jersey": 63,
+   "pos": "DF",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Ozan Sevim",
+   "jersey": 66,
+   "pos": "MF",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Sami Bircan",
+   "jersey": 70,
+   "pos": "FW",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Can Keleş",
+   "jersey": 77,
+   "pos": "FW",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Austria",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Doğan Alemdar",
+   "jersey": 80,
+   "pos": "GK",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Semih Kılıçsoy",
+   "jersey": 90,
+   "pos": "FW",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Besiktas",
+   "team_id": 20184,
+   "name": "Emir Yaşar",
+   "jersey": 96,
+   "pos": "GK",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Basaksehir",
+   "team_id": 20185,
+   "name": "Onur Ergün",
+   "jersey": 22,
+   "pos": "MF",
+   "ovr": 68,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Basaksehir",
+   "team_id": 20185,
+   "name": "Ivan Brnić",
+   "jersey": 77,
+   "pos": "FW",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Croatia",
+   "src": "Super"
+  },
+  {
+   "club": "Basaksehir",
+   "team_id": 20185,
+   "name": "Deniz Dilmen",
+   "jersey": 98,
+   "pos": "GK",
+   "ovr": 60,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "UEFA",
+   "jersey": 14,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "Ada Yüzgeç",
+   "jersey": 62,
+   "pos": "FW",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "Enes Büyük",
+   "jersey": 70,
+   "pos": "GK",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "Berat Luş",
+   "jersey": 73,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "Renato Nhaga",
+   "jersey": 74,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Guinea-Bissau",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "Aleksey Batrakov",
+   "jersey": 83,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Russia",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "Kazımcan Karataş",
+   "jersey": 88,
+   "pos": "DF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "North Macedonia",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "Arda Ünyay",
+   "jersey": 91,
+   "pos": "DF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Galatasaray",
+   "team_id": 20186,
+   "name": "Mario Lemina",
+   "jersey": 99,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Gabon",
+   "src": "Super"
+  },
+  {
+   "club": "Sunderland",
+   "team_id": 20311,
+   "name": "Chris Rigg",
+   "jersey": 16,
+   "pos": "MF",
+   "ovr": 72,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Sunderland",
+   "team_id": 20311,
+   "name": "Timur Tutyerov",
+   "jersey": 57,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Ukraine",
+   "src": "PL"
+  },
+  {
+   "club": "Frosinone",
+   "team_id": 20347,
+   "name": "Luis Hasa",
+   "jersey": 70,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Albania",
+   "src": "SerieA"
+  },
+  {
+   "club": "Frosinone",
+   "team_id": 20347,
+   "name": "Aleksa Terzić",
+   "jersey": 71,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Serbia",
+   "src": "SerieA"
+  },
+  {
+   "club": "Frosinone",
+   "team_id": 20347,
+   "name": "Patrizio Masini",
+   "jersey": 73,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Frosinone",
+   "team_id": 20347,
+   "name": "Omar Fayed",
+   "jersey": 74,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Frosinone",
+   "team_id": 20347,
+   "name": "Tomáš Bobček",
+   "jersey": 89,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Slovakia",
+   "src": "SerieA"
+  },
+  {
+   "club": "Frosinone",
+   "team_id": 20347,
+   "name": "Enzo Tchato",
+   "jersey": 90,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Cameroon",
+   "src": "SerieA"
+  },
+  {
+   "club": "Frosinone",
+   "team_id": 20347,
+   "name": "Sebastiano Desplanches",
+   "jersey": 91,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Como",
+   "team_id": 20349,
+   "name": "Willy Kambwala",
+   "jersey": 53,
+   "pos": "DF",
+   "ovr": 66,
+   "birth": null,
+   "nat": "DR Congo",
+   "src": "SerieA"
+  },
+  {
+   "club": "Como",
+   "team_id": 20349,
+   "name": "Trevoh Chalobah",
+   "jersey": 99,
+   "pos": "DF",
+   "ovr": 66,
+   "birth": null,
+   "nat": "England",
+   "src": "SerieA"
+  },
+  {
+   "club": "LeHavre",
+   "team_id": 20363,
+   "name": "Ahmed Touba",
+   "jersey": 15,
+   "pos": "DF",
+   "ovr": 67,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "LeHavre",
+   "team_id": 20363,
+   "name": "Elias Jelert",
+   "jersey": 16,
+   "pos": "DF",
+   "ovr": 67,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "LeHavre",
+   "team_id": 20363,
+   "name": "Arnaud Bodart",
+   "jersey": 18,
+   "pos": "GK",
+   "ovr": 67,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "LeHavre",
+   "team_id": 20363,
+   "name": "Rayan Fofana",
+   "jersey": 38,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "LeHavre",
+   "team_id": 20363,
+   "name": "Daren Mosengo",
+   "jersey": 78,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Fulham",
+   "team_id": 20367,
+   "name": "Jorge Cuenca",
+   "jersey": 12,
+   "pos": "DF",
+   "ovr": 76,
+   "birth": null,
+   "nat": "Spain",
+   "src": "PL"
+  },
+  {
+   "club": "Lecce",
+   "team_id": 20369,
+   "name": "Paco Esteban",
+   "jersey": 26,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lecce",
+   "team_id": 20369,
+   "name": "Elijah Scott",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lecce",
+   "team_id": 20369,
+   "name": "Plamen Penev",
+   "jersey": 31,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lecce",
+   "team_id": 20369,
+   "name": "Willem Geubbels",
+   "jersey": 69,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "France",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lecce",
+   "team_id": 20369,
+   "name": "Mohamed Kaba",
+   "jersey": 77,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Guinea",
+   "src": "SerieA"
+  },
+  {
+   "club": "Lecce",
+   "team_id": 20369,
+   "name": "Niko Kovač",
+   "jersey": 80,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Monza",
+   "team_id": 20370,
+   "name": "Jay Robinson",
+   "jersey": 46,
+   "pos": "MF",
+   "ovr": 61,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Monza",
+   "team_id": 20370,
+   "name": "Eddy Kouadio",
+   "jersey": 60,
+   "pos": "DF",
+   "ovr": 61,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Monza",
+   "team_id": 20370,
+   "name": "Kevin Martins",
+   "jersey": 70,
+   "pos": "FW",
+   "ovr": 61,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Monza",
+   "team_id": 20370,
+   "name": "Mathis Mout",
+   "jersey": 80,
+   "pos": "MF",
+   "ovr": 61,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Monza",
+   "team_id": 20370,
+   "name": "Michael Folorunsho",
+   "jersey": 90,
+   "pos": "MF",
+   "ovr": 61,
+   "birth": null,
+   "nat": "Italy",
+   "src": "SerieA"
+  },
+  {
+   "club": "Auxerre",
+   "team_id": 20372,
+   "name": "Rémy Labeau Lascary",
+   "jersey": 3,
+   "pos": "FW",
+   "ovr": 70,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Auxerre",
+   "team_id": 20372,
+   "name": "Arthur Piedfort",
+   "jersey": 46,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Belgium",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Auxerre",
+   "team_id": 20372,
+   "name": "Wei Xiangxin",
+   "jersey": 49,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "China PR",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Auxerre",
+   "team_id": 20372,
+   "name": "Aristide Zossou",
+   "jersey": 77,
+   "pos": "MF",
+   "ovr": 62,
+   "birth": null,
+   "nat": "Ivory Coast",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Elversberg",
+   "team_id": 20379,
+   "name": "Noel Futkeu",
+   "jersey": 27,
+   "pos": "FW",
+   "ovr": 67,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Elversberg",
+   "team_id": 20379,
+   "name": "Francis Onyeka",
+   "jersey": 40,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Bundesliga"
+  },
+  {
+   "club": "Deportivo",
+   "team_id": 20396,
+   "name": "Angeliño",
+   "jersey": 28,
+   "pos": "DF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Deportivo",
+   "team_id": 20396,
+   "name": "Mario Soriano",
+   "jersey": 29,
+   "pos": "MF",
+   "ovr": 70,
+   "birth": null,
+   "nat": "Spain",
+   "src": "LaLiga"
+  },
+  {
+   "club": "Ipswich",
+   "team_id": 20398,
+   "name": "Ed Sheeran",
+   "jersey": 16,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "Ipswich",
+   "team_id": 20398,
+   "name": "Bauer Media Audio UK",
+   "jersey": 17,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "England",
+   "src": "PL"
+  },
+  {
+   "club": "ParisFC",
+   "team_id": 20424,
+   "name": "Jonathan Ikoné",
+   "jersey": 93,
+   "pos": "FW",
+   "ovr": 62,
+   "birth": null,
+   "nat": "France",
+   "src": "Ligue1"
+  },
+  {
+   "club": "Hilal",
+   "team_id": 20436,
+   "name": "Al-Bulaihi",
+   "jersey": 14,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Hilal",
+   "team_id": 20436,
+   "name": "Neves",
+   "jersey": 15,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Hilal",
+   "team_id": 20436,
+   "name": "Patouillet",
+   "jersey": 20,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Hilal",
+   "team_id": 20436,
+   "name": "Dahal",
+   "jersey": 21,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Hilal",
+   "team_id": 20436,
+   "name": "Al-Sarnoukh",
+   "jersey": 25,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Hilal",
+   "team_id": 20436,
+   "name": "Al-Habashi",
+   "jersey": 26,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Hilal",
+   "team_id": 20436,
+   "name": "Al-Yami",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Hilal",
+   "team_id": 20436,
+   "name": "Al-Anazi",
+   "jersey": 31,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Matee",
+   "jersey": 22,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Bakhashwin",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Majrashi",
+   "jersey": 32,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Dams",
+   "jersey": 33,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Mallah",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Abu Al-Shamat",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Y. Madani",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "A. Abdoh",
+   "jersey": 37,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Al-Nakhli",
+   "jersey": 38,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Al-Jadani",
+   "jersey": 39,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ahli",
+   "team_id": 20515,
+   "name": "Kessié",
+   "jersey": 40,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Liu Ruofan",
+   "jersey": 29,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Yue Xin",
+   "jersey": 30,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "England",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Bao Shimeng",
+   "jersey": 31,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Liu Zhurun",
+   "jersey": 33,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Wen Junxiang",
+   "jersey": 35,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Lu Yongtao",
+   "jersey": 38,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Miguel Campos",
+   "jersey": 44,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Portugal",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Cui Juncheng",
+   "jersey": 46,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Kuai Jiwen",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Port",
+   "team_id": 20534,
+   "name": "Cao Zhezhe",
+   "jersey": 58,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Shenhua",
+   "team_id": 20543,
+   "name": "Wang Shilin",
+   "jersey": 49,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Nassr",
+   "team_id": 20545,
+   "name": "Al-Jaber",
+   "jersey": 13,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Nassr",
+   "team_id": 20545,
+   "name": "Qasheesh",
+   "jersey": 15,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Nassr",
+   "team_id": 20545,
+   "name": "Al-Ghamdi",
+   "jersey": 18,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Nassr",
+   "team_id": 20545,
+   "name": "Al-Najdi",
+   "jersey": 22,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Nassr",
+   "team_id": 20545,
+   "name": "Hazazi",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ittihad",
+   "team_id": 20546,
+   "name": "Al-Jadaani",
+   "jersey": 9,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ittihad",
+   "team_id": 20546,
+   "name": "Al-Absi",
+   "jersey": 14,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ittihad",
+   "team_id": 20546,
+   "name": "Kaabi",
+   "jersey": 18,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ittihad",
+   "team_id": 20546,
+   "name": "Barnawi",
+   "jersey": 24,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ittihad",
+   "team_id": 20546,
+   "name": "H. Al-Ghamdi",
+   "jersey": 25,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shandong",
+   "team_id": 20548,
+   "name": "Gao Zhunyi",
+   "jersey": 33,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Shandong",
+   "team_id": 20548,
+   "name": "Mei Shuaijun",
+   "jersey": 40,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Shandong",
+   "team_id": 20548,
+   "name": "Lu Junwei",
+   "jersey": 41,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Shandong",
+   "team_id": 20548,
+   "name": "Qi Qiancheng",
+   "jersey": 44,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Trabzonspor",
+   "team_id": 20606,
+   "name": "Sidny Lopes Cabral",
+   "jersey": 55,
+   "pos": "DF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Cape Verde",
+   "src": "Super"
+  },
+  {
+   "club": "Trabzonspor",
+   "team_id": 20606,
+   "name": "Melih Kabasakal",
+   "jersey": 57,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Trabzonspor",
+   "team_id": 20606,
+   "name": "Aral Şimşir",
+   "jersey": 58,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Trabzonspor",
+   "team_id": 20606,
+   "name": "Cihan Çanak",
+   "jersey": 61,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Trabzonspor",
+   "team_id": 20606,
+   "name": "Noah Saviolo",
+   "jersey": 70,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Portugal",
+   "src": "Super"
+  },
+  {
+   "club": "Trabzonspor",
+   "team_id": 20606,
+   "name": "Metehan Mimaroğlu",
+   "jersey": 77,
+   "pos": "MF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Trabzonspor",
+   "team_id": 20606,
+   "name": "Erol Can Çolak",
+   "jersey": 96,
+   "pos": "GK",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Fenerbahce",
+   "team_id": 20607,
+   "name": "Mattéo Guendouzi",
+   "jersey": 25,
+   "pos": "MF",
+   "ovr": 74,
+   "birth": null,
+   "nat": "France",
+   "src": "Super"
+  },
+  {
+   "club": "Fenerbahce",
+   "team_id": 20607,
+   "name": "Ognjen Mimović",
+   "jersey": 77,
+   "pos": "DF",
+   "ovr": 66,
+   "birth": null,
+   "nat": "Serbia",
+   "src": "Super"
+  },
+  {
+   "club": "Konyaspor",
+   "team_id": 20608,
+   "name": "Emir Gündoğdu",
+   "jersey": 65,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Konyaspor",
+   "team_id": 20608,
+   "name": "Rajmund Tóth",
+   "jersey": 66,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Hungary",
+   "src": "Super"
+  },
+  {
+   "club": "Konyaspor",
+   "team_id": 20608,
+   "name": "Jean-Luc Dompé",
+   "jersey": 91,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "France",
+   "src": "Super"
+  },
+  {
+   "club": "Konyaspor",
+   "team_id": 20608,
+   "name": "Enis Destan",
+   "jersey": 94,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Alanyaspor",
+   "team_id": 20609,
+   "name": "Şahin Dik",
+   "jersey": 28,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Alanyaspor",
+   "team_id": 20609,
+   "name": "Bilal Demirağ",
+   "jersey": 44,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Alanyaspor",
+   "team_id": 20609,
+   "name": "Baran Ali Gezek",
+   "jersey": 55,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Alanyaspor",
+   "team_id": 20609,
+   "name": "Yusuf Özdemir",
+   "jersey": 18,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Francis Nzaba",
+   "jersey": 15,
+   "pos": "DF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Congo",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Samet Karakoç",
+   "jersey": 19,
+   "pos": "DF",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Ahmet Sağat",
+   "jersey": 23,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Bachir Gueye",
+   "jersey": 24,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Jesper Ceesay",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Gambia",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Arif Kocaman",
+   "jersey": 43,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Doğukan Sinik",
+   "jersey": 2,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Hasan Ürkmez",
+   "jersey": 92,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Mevlüt Şimşek",
+   "jersey": 97,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Antalyaspor",
+   "team_id": 20610,
+   "name": "Ege İzmirli",
+   "jersey": 98,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Sivasspor",
+   "team_id": 20613,
+   "name": "Yiğit Baynazoğlu",
+   "jersey": 53,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Sivasspor",
+   "team_id": 20613,
+   "name": "Oğuzhan Aksoy",
+   "jersey": 66,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Sivasspor",
+   "team_id": 20613,
+   "name": "Yusuf Kefkir",
+   "jersey": 77,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Sivasspor",
+   "team_id": 20613,
+   "name": "Amilton",
+   "jersey": 89,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Sivasspor",
+   "team_id": 20613,
+   "name": "Savaş Ala",
+   "jersey": 92,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Sivasspor",
+   "team_id": 20613,
+   "name": "Yılmaz Cin",
+   "jersey": 99,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kasimpasa",
+   "team_id": 20614,
+   "name": "Ömer Bayram",
+   "jersey": 18,
+   "pos": "DF",
+   "ovr": 63,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kasimpasa",
+   "team_id": 20614,
+   "name": "Elson Mendes",
+   "jersey": 51,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Curacao",
+   "src": "Super"
+  },
+  {
+   "club": "Kasimpasa",
+   "team_id": 20614,
+   "name": "Ege Albayrak",
+   "jersey": 61,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kasimpasa",
+   "team_id": 20614,
+   "name": "Emirhan Boz",
+   "jersey": 66,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Gaziantep",
+   "team_id": 20617,
+   "name": "Ogün Özçiçek",
+   "jersey": 61,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Gaziantep",
+   "team_id": 20617,
+   "name": "Sabahattin Destici",
+   "jersey": 77,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Gaziantep",
+   "team_id": 20617,
+   "name": "Cemilhan Aslan",
+   "jersey": 81,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Gaziantep",
+   "team_id": 20617,
+   "name": "İbrahim Kağan Alkış",
+   "jersey": 95,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Gaziantep",
+   "team_id": 20617,
+   "name": "Fuat Bavuk",
+   "jersey": 97,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Yusuf Barası",
+   "jersey": 25,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Abdou Khadre Sy",
+   "jersey": 26,
+   "pos": "FW",
+   "ovr": 64,
+   "birth": null,
+   "nat": "Senegal",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Taşkın İlter",
+   "jersey": 28,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Horațiu Moldovan",
+   "jersey": 31,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Musa Eren Karakaş",
+   "jersey": 53,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Mete Kaan Demir",
+   "jersey": 70,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Konrad Michalak",
+   "jersey": 77,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Poland",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Christ Sadia",
+   "jersey": 84,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Ivory Coast",
+   "src": "Super"
+  },
+  {
+   "club": "Eyupspor",
+   "team_id": 20620,
+   "name": "Bilal Boutobba",
+   "jersey": 98,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "France",
+   "src": "Super"
+  },
+  {
+   "club": "Samsunspor",
+   "team_id": 20625,
+   "name": "Strahinja Eraković",
+   "jersey": 23,
+   "pos": "DF",
+   "ovr": 67,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Samsunspor",
+   "team_id": 20625,
+   "name": "Efe Berat Töruz",
+   "jersey": 48,
+   "pos": "DF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Samsunspor",
+   "team_id": 20625,
+   "name": "Bedirhan Çetin",
+   "jersey": 96,
+   "pos": "DF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kocaelispor",
+   "team_id": 20630,
+   "name": "Ege Bilim",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kocaelispor",
+   "team_id": 20630,
+   "name": "Onur Öztonga",
+   "jersey": 41,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kocaelispor",
+   "team_id": 20630,
+   "name": "Tayfur Bingöl",
+   "jersey": 75,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kocaelispor",
+   "team_id": 20630,
+   "name": "Serhat Öztaşdelen",
+   "jersey": 83,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kocaelispor",
+   "team_id": 20630,
+   "name": "Florian Ayé",
+   "jersey": 97,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "France",
+   "src": "Super"
+  },
+  {
+   "club": "Kocaelispor",
+   "team_id": 20630,
+   "name": "Talha Polat",
+   "jersey": 98,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Kocaelispor",
+   "team_id": 20630,
+   "name": "Rigoberto Rivas",
+   "jersey": 29,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Honduras",
+   "src": "Super"
+  },
+  {
+   "club": "Rizespor",
+   "team_id": 20631,
+   "name": "Ahmed Kutucu",
+   "jersey": 23,
+   "pos": "FW",
+   "ovr": 67,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Rizespor",
+   "team_id": 20631,
+   "name": "Gennaro Borrelli",
+   "jersey": 29,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Rizespor",
+   "team_id": 20631,
+   "name": "Iustin Doicaru",
+   "jersey": 53,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Romania",
+   "src": "Super"
+  },
+  {
+   "club": "Rizespor",
+   "team_id": 20631,
+   "name": "Can Bozdoğan",
+   "jersey": 70,
+   "pos": "MF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Germany",
+   "src": "Super"
+  },
+  {
+   "club": "Rizespor",
+   "team_id": 20631,
+   "name": "Mustafa Coşkun Tosun",
+   "jersey": 80,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Rizespor",
+   "team_id": 20631,
+   "name": "Yakup Ayan",
+   "jersey": 94,
+   "pos": "DF",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Rizespor",
+   "team_id": 20631,
+   "name": "Efe Doğan",
+   "jersey": 97,
+   "pos": "GK",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Rizespor",
+   "team_id": 20631,
+   "name": "Emrecan Bulut",
+   "jersey": 99,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Goztepe",
+   "team_id": 20633,
+   "name": "Tino Anjorin",
+   "jersey": 29,
+   "pos": "MF",
+   "ovr": 63,
+   "birth": null,
+   "nat": "England",
+   "src": "Super"
+  },
+  {
+   "club": "Erzurumspor",
+   "team_id": 20637,
+   "name": "Martín Rodríguez",
+   "jersey": 65,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Erzurumspor",
+   "team_id": 20637,
+   "name": "Nariman Akhundzade",
+   "jersey": 90,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "AZE",
+   "src": "Super"
+  },
+  {
+   "club": "Erzurumspor",
+   "team_id": 20637,
+   "name": "Mustafa Fettahoğlu",
+   "jersey": 99,
+   "pos": "FW",
+   "ovr": 59,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Victor Orakpo",
+   "jersey": 16,
+   "pos": "FW",
+   "ovr": 65,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Salih Uçan",
+   "jersey": 48,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Göktuğ Erdem",
+   "jersey": 52,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Ensar Çavuşoğlu",
+   "jersey": 53,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Berk Deniz Çukurcu",
+   "jersey": 61,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Abdurrahim Dursun",
+   "jersey": 77,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Rafael Luís",
+   "jersey": 83,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Portugal",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Metehan Baltacı",
+   "jersey": 90,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Genclerbirligi",
+   "team_id": 20639,
+   "name": "Ayaz Özcan",
+   "jersey": 99,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Turkey",
+   "src": "Super"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Hoedt",
+   "jersey": 16,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Subiani",
+   "jersey": 19,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Hamdallah",
+   "jersey": 20,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Sierro",
+   "jersey": 25,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Sibyani",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Majed A.",
+   "jersey": 28,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Sayyali",
+   "jersey": 30,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Sqoor",
+   "jersey": 32,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Qaysi",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Mutieb",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Jamaan",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "A. Daghar",
+   "jersey": 39,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Bishi",
+   "jersey": 41,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Khurayef",
+   "jersey": 42,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Osaimi",
+   "jersey": 45,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Al-Rajeh",
+   "jersey": 46,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Shabab",
+   "team_id": 20708,
+   "name": "Azaizeh",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Al-Alaeli",
+   "jersey": 14,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "M. Al-Qahtani",
+   "jersey": 15,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Zambrano",
+   "jersey": 21,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Biel",
+   "jersey": 22,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Sémbène",
+   "jersey": 24,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Al-Shaifan",
+   "jersey": 26,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Bahusayn",
+   "jersey": 28,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Al-Hazmi",
+   "jersey": 29,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "M. Waleed",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "K. Al-Qahtani",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Lajami",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Petkov",
+   "jersey": 37,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Taawoun",
+   "team_id": 20709,
+   "name": "Al-Rashidi",
+   "jersey": 38,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "H. Qassem",
+   "jersey": 13,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Baattiah",
+   "jersey": 14,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Al-Masoud",
+   "jersey": 16,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Al-Sharfa",
+   "jersey": 20,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Al-Hamad",
+   "jersey": 26,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Al-Shaqaq",
+   "jersey": 30,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "M. Refaat",
+   "jersey": 32,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Al-Suwailem",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Al-Abdulwahed",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Al-Tumbukti",
+   "jersey": 37,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fateh",
+   "team_id": 20711,
+   "name": "Al-Othman",
+   "jersey": 39,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "Hendry",
+   "jersey": 8,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "Medrán",
+   "jersey": 10,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "Al-Kadi",
+   "jersey": 16,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "Kouka",
+   "jersey": 21,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "A. Nabza",
+   "jersey": 25,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "Al-Otaibi",
+   "jersey": 26,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "Al-Dawaa",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "Al-Sebyani",
+   "jersey": 28,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Ettifaq",
+   "team_id": 20712,
+   "name": "Ba Al-Jawsh",
+   "jersey": 30,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "R. Kaabi",
+   "jersey": 19,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Benzia",
+   "jersey": 20,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Al-Jouei",
+   "jersey": 22,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Villanueva",
+   "jersey": 28,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Vrontis",
+   "jersey": 32,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Al-Rouqi",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Ganvoula",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Al-Dowaish",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Mosquera",
+   "jersey": 37,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Scka",
+   "jersey": 38,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "S. Dahal",
+   "jersey": 39,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Al-Rammah",
+   "jersey": 40,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "R. Enad",
+   "jersey": 45,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Al-Habib",
+   "jersey": 46,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Fayha",
+   "team_id": 20713,
+   "name": "Radif",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Tamim Al-Shuqayran",
+   "jersey": 2,
+   "pos": "DF",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Munif Doshi",
+   "jersey": 3,
+   "pos": "DF",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Bandar Al-Shamrani",
+   "jersey": 12,
+   "pos": "DF",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Hassan Al-Asmari",
+   "jersey": 14,
+   "pos": "DF",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Redouane Mennioui",
+   "jersey": 16,
+   "pos": "DF",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Morocco",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Abdullah Badghaish",
+   "jersey": 17,
+   "pos": "DF",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Meshari Al-Oufi",
+   "jersey": 18,
+   "pos": "MF",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Ayman Al-Balawi",
+   "jersey": 19,
+   "pos": "MF",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Hamoud Al-Shammari",
+   "jersey": 20,
+   "pos": "FW",
+   "ovr": 51,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Abdulaziz Mudabish",
+   "jersey": 28,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Ziyad Al-Refaei",
+   "jersey": 33,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Abdullah Al-Harbi",
+   "jersey": 40,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Mohammed Al-Khaibari",
+   "jersey": 74,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Claude Gnolou",
+   "jersey": 79,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "England",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Abdulrahman Sahhari",
+   "jersey": 87,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Raed",
+   "team_id": 20714,
+   "name": "Maher Al-Khowailed",
+   "jersey": 94,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "Saudi"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Abo Yabes",
+   "jersey": 15,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Taira",
+   "jersey": 17,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Y. Yaqoub",
+   "jersey": 20,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Al-Shammari",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Asiri",
+   "jersey": 31,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Al-Jizani",
+   "jersey": 33,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Al-Manhali",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Mubarki",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Abha",
+   "team_id": 20717,
+   "name": "Bello",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Mboge",
+   "jersey": 27,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Kourmpelis",
+   "jersey": 30,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Al Haydar",
+   "jersey": 32,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Al Zaynaldeen",
+   "jersey": 33,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Al-Khathami",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Al-Bakr",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Al-Khaibari",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Al-Haidari",
+   "jersey": 37,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Khaleej",
+   "team_id": 20721,
+   "name": "Barrow",
+   "jersey": 38,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "Sylla",
+   "jersey": 11,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "Al-Shubili",
+   "jersey": 16,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "Al-Asbahi",
+   "jersey": 18,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "Al-Harfi",
+   "jersey": 25,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "Al-Siyahi",
+   "jersey": 30,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "A. Al-Khaibari",
+   "jersey": 31,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "M. Tambakti",
+   "jersey": 34,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "Al-Feda",
+   "jersey": 35,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "Sali",
+   "jersey": 36,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "Riyadh",
+   "team_id": 20726,
+   "name": "S. Harun",
+   "jersey": 37,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "Saudi Arabia",
+   "src": "SaudiT"
+  },
+  {
+   "club": "PengCity",
+   "team_id": 40101,
+   "name": "Shen Huanming",
+   "jersey": 46,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "PengCity",
+   "team_id": 40101,
+   "name": "Yao Junyi",
+   "jersey": 54,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "PengCity",
+   "team_id": 40101,
+   "name": "Wang Yuheng",
+   "jersey": 56,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Chengdu",
+   "team_id": 40102,
+   "name": "Li Moyu",
+   "jersey": 48,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Chengdu",
+   "team_id": 40102,
+   "name": "Peng Haochen",
+   "jersey": 55,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Chengdu",
+   "team_id": 40102,
+   "name": "Liao Rongxiang",
+   "jersey": 26,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Chengdu",
+   "team_id": 40102,
+   "name": "Wang Ziteng",
+   "jersey": 59,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Dalian",
+   "team_id": 40104,
+   "name": "Cao Haiqing",
+   "jersey": 33,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Dalian",
+   "team_id": 40104,
+   "name": "Liao Jintao",
+   "jersey": 40,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Dalian",
+   "team_id": 40104,
+   "name": "Feng Jin",
+   "jersey": 44,
+   "pos": "FW",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Dalian",
+   "team_id": 40104,
+   "name": "Zeng Junhao",
+   "jersey": 56,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "WestCoast",
+   "team_id": 40107,
+   "name": "Qi Bingyu",
+   "jersey": 57,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "WestCoast",
+   "team_id": 40107,
+   "name": "Wang Ziquan",
+   "jersey": 60,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Hainiu",
+   "team_id": 40108,
+   "name": "Zheng Chuanhui",
+   "jersey": 47,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Hainiu",
+   "team_id": 40108,
+   "name": "Yi Xinyang",
+   "jersey": 52,
+   "pos": "DF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Hainiu",
+   "team_id": 40108,
+   "name": "Cui Jingyao",
+   "jersey": 53,
+   "pos": "MF",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  },
+  {
+   "club": "Hainiu",
+   "team_id": 40108,
+   "name": "Jiang Yuhan",
+   "jersey": 55,
+   "pos": "GK",
+   "ovr": 58,
+   "birth": null,
+   "nat": "China PR",
+   "src": "China"
+  }
+ ],
+ "renames": [
+  {
+   "pid": 106633,
+   "name": "Melih İbrahimoğlu",
+   "old": "Mücahit İbrahimoğlu",
+   "club": "Konyaspor",
+   "tid": 20608
+  }
+ ],
+ "transfers": [
+  {
+   "pid": 123617,
+   "src_team": 20183,
+   "src_name": "Claudio Echeverri",
+   "dst_club": "ManCity",
+   "new_team": 20026,
+   "jersey": 30,
+   "ovr": 71,
+   "real": "Claudio Echeverri"
+  },
+  {
+   "pid": 179395,
+   "src_team": 20327,
+   "src_name": "Jeremy Monga",
+   "dst_club": "ManCity",
+   "new_team": 20026,
+   "jersey": 40,
+   "ovr": 67,
+   "real": "Jeremy Monga"
+  },
+  {
+   "pid": 100334,
+   "src_team": 20314,
+   "src_name": "Kalvin Phillips",
+   "dst_club": "ManCity",
+   "new_team": 20026,
+   "jersey": 44,
+   "ovr": 72,
+   "real": "Kalvin Phillips"
+  },
+  {
+   "pid": 117386,
+   "src_team": 20026,
+   "src_name": "Savio",
+   "dst_club": "Tottenham",
+   "new_team": 20029,
+   "jersey": 17,
+   "ovr": 79,
+   "real": "Sávio"
+  },
+  {
+   "pid": 151631,
+   "src_team": 20006,
+   "src_name": "Matheus Fernandes",
+   "dst_club": "Tottenham",
+   "new_team": 20029,
+   "jersey": 18,
+   "ovr": 72,
+   "real": "Mateus Fernandes"
+  },
+  {
+   "pid": 176859,
+   "src_team": 30300,
+   "src_name": "Promise David",
+   "dst_club": "Brighton",
+   "new_team": 20035,
+   "jersey": 12,
+   "ovr": 76,
+   "real": "Promise David"
+  },
+  {
+   "pid": 114931,
+   "src_team": 20611,
+   "src_name": "Muhammed Kadıoğlu",
+   "dst_club": "Brighton",
+   "new_team": 20035,
+   "jersey": 24,
+   "ovr": 75,
+   "real": "Ferdi Kadıoğlu"
+  },
+  {
+   "pid": 119516,
+   "src_team": 20745,
+   "src_name": "Hákon Haraldsson",
+   "dst_club": "Lille",
+   "new_team": 20052,
+   "jersey": 10,
+   "ovr": 76,
+   "real": "Hákon Haraldsson"
+  },
+  {
+   "pid": 118927,
+   "src_team": 20141,
+   "src_name": "Tochukwu Nnadi",
+   "dst_club": "Marseille",
+   "new_team": 20055,
+   "jersey": 6,
+   "ovr": 74,
+   "real": "Tochukwu Nnadi"
+  },
+  {
+   "pid": 100559,
+   "src_team": 20553,
+   "src_name": "Takumi Minamino",
+   "dst_club": "Monaco",
+   "new_team": 20058,
+   "jersey": 18,
+   "ovr": 77,
+   "real": "Takumi Minamino"
+  },
+  {
+   "pid": 172536,
+   "src_team": 20335,
+   "src_name": "Paris Brunner",
+   "dst_club": "Monaco",
+   "new_team": 20058,
+   "jersey": 29,
+   "ovr": 62,
+   "real": "Paris Brunner"
+  },
+  {
+   "pid": 179757,
+   "src_team": 20374,
+   "src_name": "Jonathan Do Marcolino",
+   "dst_club": "Rennes",
+   "new_team": 20060,
+   "jersey": 65,
+   "ovr": 62,
+   "real": "Henrick Do Marcolino"
+  },
+  {
+   "pid": 117737,
+   "src_team": 20357,
+   "src_name": "Louis Mouton",
+   "dst_club": "Angers",
+   "new_team": 20063,
+   "jersey": 6,
+   "ovr": 73,
+   "real": "Louis Mouton"
+  },
+  {
+   "pid": 119799,
+   "src_team": 20061,
+   "src_name": "Mouhamed Diop",
+   "dst_club": "Troyes",
+   "new_team": 20071,
+   "jersey": 8,
+   "ovr": 66,
+   "real": "Mouhamed Diop"
+  },
+  {
+   "pid": 117842,
+   "src_team": 20609,
+   "src_name": "Zeki Çelik",
+   "dst_club": "Juventus",
+   "new_team": 20076,
+   "jersey": 2,
+   "ovr": 65,
+   "real": "Zeki Çelik"
+  },
+  {
+   "pid": 118937,
+   "src_team": 20131,
+   "src_name": "Rasmus Højlund",
+   "dst_club": "Napoli",
+   "new_team": 20077,
+   "jersey": 19,
+   "ovr": 74,
+   "real": "Rasmus Højlund"
+  },
+  {
+   "pid": 100722,
+   "src_team": 20133,
+   "src_name": "Piotr Zieliński",
+   "dst_club": "Inter",
+   "new_team": 20078,
+   "jersey": 7,
+   "ovr": 81,
+   "real": "Piotr Zieliński"
+  },
+  {
+   "pid": 102061,
+   "src_team": 20179,
+   "src_name": "Fedde Leysen",
+   "dst_club": "Sassuolo",
+   "new_team": 20086,
+   "jersey": 16,
+   "ovr": 74,
+   "real": "Fedde Leysen"
+  },
+  {
+   "pid": 111177,
+   "src_team": 20366,
+   "src_name": "Armand Laurienté",
+   "dst_club": "Sassuolo",
+   "new_team": 20086,
+   "jersey": 45,
+   "ovr": 76,
+   "real": "Armand Laurienté"
+  },
+  {
+   "pid": 141218,
+   "src_team": 30120,
+   "src_name": "Lennon Miller",
+   "dst_club": "Udinese",
+   "new_team": 20087,
+   "jersey": 38,
+   "ovr": 70,
+   "real": "Lennon Miller"
+  },
+  {
+   "pid": 110928,
+   "src_team": 20630,
+   "src_name": "Ridle Baku",
+   "dst_club": "Leipzig",
+   "new_team": 20128,
+   "jersey": 17,
+   "ovr": 75,
+   "real": "Ridle Baku"
+  },
+  {
+   "pid": 119061,
+   "src_team": 20572,
+   "src_name": "Malik Tillman",
+   "dst_club": "Leverkusen",
+   "new_team": 20129,
+   "jersey": 10,
+   "ovr": 78,
+   "real": "Malik Tillman"
+  },
+  {
+   "pid": 179431,
+   "src_team": 20033,
+   "src_name": "Hwang Hee-chan",
+   "dst_club": "Schalke",
+   "new_team": 20130,
+   "jersey": 7,
+   "ovr": 73,
+   "real": "Hwang Hee-chan"
+  },
+  {
+   "pid": 106478,
+   "src_team": 20632,
+   "src_name": "Moussa Sylla",
+   "dst_club": "Schalke",
+   "new_team": 20130,
+   "jersey": 9,
+   "ovr": 74,
+   "real": "Moussa Sylla"
+  },
+  {
+   "pid": 142713,
+   "src_team": 30179,
+   "src_name": "Ludovit Reis",
+   "dst_club": "Bremen",
+   "new_team": 20135,
+   "jersey": 15,
+   "ovr": 60,
+   "real": "Ludovit Reis"
+  },
+  {
+   "pid": 119461,
+   "src_team": 20149,
+   "src_name": "Dennis Seimen",
+   "dst_club": "Stuttgart",
+   "new_team": 20140,
+   "jersey": 41,
+   "ovr": 75,
+   "real": "Dennis Seimen"
+  },
+  {
+   "pid": 119119,
+   "src_team": 20448,
+   "src_name": "Nicolás Capaldo",
+   "dst_club": "Hamburg",
+   "new_team": 20141,
+   "jersey": 24,
+   "ovr": 77,
+   "real": "Nicolás Capaldo"
+  },
+  {
+   "pid": 125109,
+   "src_team": 20340,
+   "src_name": "Tom Rothe",
+   "dst_club": "UnionBerlin",
+   "new_team": 20144,
+   "jersey": 15,
+   "ovr": 74,
+   "real": "Tom Rothe"
+  },
+  {
+   "pid": 105116,
+   "src_team": 20340,
+   "src_name": "Sven Michel",
+   "dst_club": "Paderborn",
+   "new_team": 20147,
+   "jersey": 11,
+   "ovr": 70,
+   "real": "Sven Michel"
+  },
+  {
+   "pid": 178943,
+   "src_team": 20566,
+   "src_name": "Andreas Hanche-Olsen",
+   "dst_club": "Basaksehir",
+   "new_team": 20185,
+   "jersey": 70,
+   "ovr": 75,
+   "real": "Andreas Skov Olsen"
+  },
+  {
+   "pid": 176617,
+   "src_team": 20606,
+   "src_name": "Ahmet Doğan Yıldırım",
+   "dst_club": "Basaksehir",
+   "new_team": 20185,
+   "jersey": 91,
+   "ovr": 72,
+   "real": "Bertuğ Yıldırım"
+  },
+  {
+   "pid": 180969,
+   "src_team": 20137,
+   "src_name": "Berkay Yılmaz",
+   "dst_club": "Galatasaray",
+   "new_team": 20186,
+   "jersey": 60,
+   "ovr": 71,
+   "real": "Arda Yılmaz"
+  },
+  {
+   "pid": 151985,
+   "src_team": 20806,
+   "src_name": "Tiago Gabriel",
+   "dst_club": "Lecce",
+   "new_team": 20369,
+   "jersey": 44,
+   "ovr": 66,
+   "real": "Tiago Gabriel"
+  },
+  {
+   "pid": 103899,
+   "src_team": 20181,
+   "src_name": "Seko Fofana",
+   "dst_club": "Auxerre",
+   "new_team": 20372,
+   "jersey": 93,
+   "ovr": 73,
+   "real": "Sékou Fofana"
+  },
+  {
+   "pid": 122992,
+   "src_team": 20136,
+   "src_name": "Maximilian Rohr",
+   "dst_club": "Elversberg",
+   "new_team": 20379,
+   "jersey": 31,
+   "ovr": 68,
+   "real": "Maximilian Rohr"
+  },
+  {
+   "pid": 177332,
+   "src_team": 20006,
+   "src_name": "José María Herrera",
+   "dst_club": "Deportivo",
+   "new_team": 20396,
+   "jersey": 20,
+   "ovr": 76,
+   "real": "José María Giménez"
+  },
+  {
+   "pid": 150190,
+   "src_team": 20366,
+   "src_name": "Nhoa Sangui",
+   "dst_club": "ParisFC",
+   "new_team": 20424,
+   "jersey": 19,
+   "ovr": 64,
+   "real": "Nhoa Sangui"
+  },
+  {
+   "pid": 124442,
+   "src_team": 20355,
+   "src_name": "Rudy Matondo",
+   "dst_club": "ParisFC",
+   "new_team": 20424,
+   "jersey": 23,
+   "ovr": 69,
+   "real": "Rudy Matondo"
+  },
+  {
+   "pid": 145293,
+   "src_team": 30293,
+   "src_name": "Thibault De Smet",
+   "dst_club": "ParisFC",
+   "new_team": 20424,
+   "jersey": 28,
+   "ovr": 75,
+   "real": "Thibault De Smet"
+  },
+  {
+   "pid": 138591,
+   "src_team": 20229,
+   "src_name": "Mathias",
+   "dst_club": "Ahli",
+   "new_team": 20515,
+   "jersey": 0,
+   "ovr": 68,
+   "real": "Mathias"
+  },
+  {
+   "pid": 113417,
+   "src_team": 153,
+   "src_name": "Zhang",
+   "dst_club": "Shenhua",
+   "new_team": 20543,
+   "jersey": 48,
+   "ovr": 65,
+   "real": "Zhang Bin"
+  },
+  {
+   "pid": 118421,
+   "src_team": 20765,
+   "src_name": "Rios",
+   "dst_club": "Ittihad",
+   "new_team": 20546,
+   "jersey": 0,
+   "ovr": 54,
+   "real": "Ríos"
+  },
+  {
+   "pid": 122197,
+   "src_team": 30442,
+   "src_name": "Al Haji",
+   "dst_club": "Ittihad",
+   "new_team": 20546,
+   "jersey": 0,
+   "ovr": 52,
+   "real": "Haji"
+  },
+  {
+   "pid": 172653,
+   "src_team": 20180,
+   "src_name": "C.Da Costa",
+   "dst_club": "Antalyaspor",
+   "new_team": 20610,
+   "jersey": 9,
+   "ovr": 68,
+   "real": "Nuno da Costa"
+  },
+  {
+   "pid": 107593,
+   "src_team": 20611,
+   "src_name": "Robin Yalçın",
+   "dst_club": "Antalyaspor",
+   "new_team": 20610,
+   "jersey": 18,
+   "ovr": 64,
+   "real": "Samet Yalçın"
+  },
+  {
+   "pid": 111195,
+   "src_team": 20090,
+   "src_name": "Ebrima Ceesay",
+   "dst_club": "Sivasspor",
+   "new_team": 20613,
+   "jersey": 30,
+   "ovr": 63,
+   "real": "Ebrima Ceesay"
+  },
+  {
+   "pid": 115225,
+   "src_team": 20611,
+   "src_name": "Muhammed Emin Sarıkaya",
+   "dst_club": "Kasimpasa",
+   "new_team": 20614,
+   "jersey": 99,
+   "ovr": 59,
+   "real": "Muhammed Emin Bektaş"
+  },
+  {
+   "pid": 180831,
+   "src_team": 20640,
+   "src_name": "Ali Eren Yalçın",
+   "dst_club": "Gaziantep",
+   "new_team": 20617,
+   "jersey": 46,
+   "ovr": 58,
+   "real": "Ali Osman Kalın"
+  },
+  {
+   "pid": 181045,
+   "src_team": 20076,
+   "src_name": "Kenan Yıldız",
+   "dst_club": "Kocaelispor",
+   "new_team": 20630,
+   "jersey": 89,
+   "ovr": 78,
+   "real": "Bedirhan Yıldız"
+  },
+  {
+   "pid": 176590,
+   "src_team": 20186,
+   "src_name": "Jankat Yılmaz",
+   "dst_club": "Rizespor",
+   "new_team": 20631,
+   "jersey": 47,
+   "ovr": 78,
+   "real": "Emirhan Yılmaz"
+  },
+  {
+   "pid": 145367,
+   "src_team": 30287,
+   "src_name": "Lawrence Agyekum",
+   "dst_club": "Erzurumspor",
+   "new_team": 20637,
+   "jersey": 77,
+   "ovr": 62,
+   "real": "Lawrence Agyekum"
+  },
+  {
+   "pid": 176598,
+   "src_team": 20607,
+   "src_name": "İrfan Can Kahveci",
+   "dst_club": "Genclerbirligi",
+   "new_team": 20639,
+   "jersey": 70,
+   "ovr": 74,
+   "real": "İrfan Can Eğribayat"
+  },
+  {
+   "pid": 150583,
+   "src_team": 20667,
+   "src_name": "Carlos",
+   "dst_club": "Shabab",
+   "new_team": 20708,
+   "jersey": 0,
+   "ovr": 50,
+   "real": "Carlos"
+  },
+  {
+   "pid": 177177,
+   "src_team": 20001,
+   "src_name": "Vitão",
+   "dst_club": "Taawoun",
+   "new_team": 20709,
+   "jersey": 0,
+   "ovr": 68,
+   "real": "Vitão"
+  },
+  {
+   "pid": 119345,
+   "src_team": 20723,
+   "src_name": "Al Hawsawi",
+   "dst_club": "Taawoun",
+   "new_team": 20709,
+   "jersey": 0,
+   "ovr": 65,
+   "real": "Hawsawi"
+  },
+  {
+   "pid": 177255,
+   "src_team": 20278,
+   "src_name": "Wesley",
+   "dst_club": "Fateh",
+   "new_team": 20711,
+   "jersey": 0,
+   "ovr": 70,
+   "real": "Wesley"
+  },
+  {
+   "pid": 124721,
+   "src_team": 20526,
+   "src_name": "Salem",
+   "dst_club": "Khaleej",
+   "new_team": 20721,
+   "jersey": 0,
+   "ovr": 67,
+   "real": "Al-Salem"
+  },
+  {
+   "pid": 113041,
+   "src_team": 20516,
+   "src_name": "Mubarak",
+   "dst_club": "Khaleej",
+   "new_team": 20721,
+   "jersey": 0,
+   "ovr": 64,
+   "real": "Al Mubarak"
+  }
+ ],
+ "removes": [
+  {
+   "team": 20028,
+   "pid": 150014,
+   "name": "Gui"
+  },
+  {
+   "team": 20028,
+   "pid": 150096,
+   "name": "Sari"
+  },
+  {
+   "team": 20029,
+   "pid": 107583,
+   "name": "Dragsin"
+  },
+  {
+   "team": 20029,
+   "pid": 173192,
+   "name": "Bergval"
+  },
+  {
+   "team": 20029,
+   "pid": 106742,
+   "name": "Bisouma"
+  },
+  {
+   "team": 20029,
+   "pid": 119571,
+   "name": "Spense"
+  },
+  {
+   "team": 20053,
+   "pid": 140552,
+   "name": "Paul Akouokou"
+  },
+  {
+   "team": 20053,
+   "pid": 152735,
+   "name": "Melvyn Otobo"
+  },
+  {
+   "team": 20055,
+   "pid": 147336,
+   "name": "E.Nwanery"
+  },
+  {
+   "team": 20057,
+   "pid": 104722,
+   "name": "Kévin Anin"
+  },
+  {
+   "team": 20057,
+   "pid": 103274,
+   "name": "Ndombere"
+  },
+  {
+   "team": 20057,
+   "pid": 117724,
+   "name": "Gouveya"
+  },
+  {
+   "team": 20057,
+   "pid": 103947,
+   "name": "Abdee"
+  },
+  {
+   "team": 20057,
+   "pid": 122948,
+   "name": "Cyo"
+  },
+  {
+   "team": 20058,
+   "pid": 173326,
+   "name": "A.Bambba"
+  },
+  {
+   "team": 20058,
+   "pid": 118930,
+   "name": "Lienald"
+  },
+  {
+   "team": 20058,
+   "pid": 133143,
+   "name": "K.Ouatara"
+  },
+  {
+   "team": 20058,
+   "pid": 100351,
+   "name": "Poggba"
+  },
+  {
+   "team": 20075,
+   "pid": 172567,
+   "name": "Methali"
+  },
+  {
+   "team": 20082,
+   "pid": 119756,
+   "name": "Sazonof"
+  },
+  {
+   "team": 20083,
+   "pid": 123500,
+   "name": "Mardiny"
+  },
+  {
+   "team": 20083,
+   "pid": 111237,
+   "name": "Gihot"
+  },
+  {
+   "team": 20083,
+   "pid": 104086,
+   "name": "Patrick"
+  },
+  {
+   "team": 20084,
+   "pid": 119075,
+   "name": "Ekuvan"
+  },
+  {
+   "team": 20084,
+   "pid": 111209,
+   "name": "Onana"
+  },
+  {
+   "team": 20085,
+   "pid": 147526,
+   "name": "E.Herrand"
+  },
+  {
+   "team": 20086,
+   "pid": 111183,
+   "name": "Valukievich"
+  },
+  {
+   "team": 20086,
+   "pid": 174103,
+   "name": "P.Fallpa"
+  },
+  {
+   "team": 20086,
+   "pid": 125017,
+   "name": "Romegna"
+  },
+  {
+   "team": 20086,
+   "pid": 123510,
+   "name": "Idsez"
+  },
+  {
+   "team": 20087,
+   "pid": 172612,
+   "name": "A.Camarra"
+  },
+  {
+   "team": 20098,
+   "pid": 150226,
+   "name": "Dombia"
+  },
+  {
+   "team": 20098,
+   "pid": 147487,
+   "name": "C.Conte"
+  },
+  {
+   "team": 20098,
+   "pid": 104053,
+   "name": "Plizary"
+  },
+  {
+   "team": 20098,
+   "pid": 123511,
+   "name": "Lera"
+  },
+  {
+   "team": 20130,
+   "pid": 108731,
+   "name": "Anton Donkor"
+  },
+  {
+   "team": 20132,
+   "pid": 119049,
+   "name": "Reits"
+  },
+  {
+   "team": 20147,
+   "pid": 181012,
+   "name": "Lenny Hennig"
+  },
+  {
+   "team": 20147,
+   "pid": 181014,
+   "name": "Jan Peters"
+  },
+  {
+   "team": 20147,
+   "pid": 181017,
+   "name": "Maximilian Hippe"
+  },
+  {
+   "team": 20147,
+   "pid": 181021,
+   "name": "Shkrep Stublla"
+  },
+  {
+   "team": 20147,
+   "pid": 181023,
+   "name": "Neo Lima Stacziwa"
+  },
+  {
+   "team": 20184,
+   "pid": 115064,
+   "name": "Svenzson"
+  },
+  {
+   "team": 20184,
+   "pid": 103638,
+   "name": "Undel"
+  },
+  {
+   "team": 20184,
+   "pid": 102128,
+   "name": "N.Uisar"
+  },
+  {
+   "team": 20184,
+   "pid": 111082,
+   "name": "Toure"
+  },
+  {
+   "team": 20184,
+   "pid": 107554,
+   "name": "Aslani"
+  },
+  {
+   "team": 20184,
+   "pid": 104372,
+   "name": "G.Paulisda"
+  },
+  {
+   "team": 20184,
+   "pid": 113568,
+   "name": "On"
+  },
+  {
+   "team": 20184,
+   "pid": 123836,
+   "name": "Jata"
+  },
+  {
+   "team": 20184,
+   "pid": 102134,
+   "name": "Ersan"
+  },
+  {
+   "team": 20184,
+   "pid": 101408,
+   "name": "Svenzson"
+  },
+  {
+   "team": 20185,
+   "pid": 117769,
+   "name": "Bal"
+  },
+  {
+   "team": 20185,
+   "pid": 114957,
+   "name": "Barut"
+  },
+  {
+   "team": 20185,
+   "pid": 122078,
+   "name": "B.Ozdemil"
+  },
+  {
+   "team": 20186,
+   "pid": 151205,
+   "name": "Gurpuse"
+  },
+  {
+   "team": 20186,
+   "pid": 125160,
+   "name": "Baltası"
+  },
+  {
+   "team": 20186,
+   "pid": 115039,
+   "name": "Sen"
+  },
+  {
+   "team": 20186,
+   "pid": 108597,
+   "name": "Kutuku"
+  },
+  {
+   "team": 20186,
+   "pid": 122907,
+   "name": "Aspriya"
+  },
+  {
+   "team": 20186,
+   "pid": 114947,
+   "name": "Bashuyi"
+  },
+  {
+   "team": 20186,
+   "pid": 115144,
+   "name": "Boy"
+  },
+  {
+   "team": 20347,
+   "pid": 108871,
+   "name": "S.Kalay"
+  },
+  {
+   "team": 20347,
+   "pid": 108861,
+   "name": "Szyminski"
+  },
+  {
+   "team": 20347,
+   "pid": 150478,
+   "name": "Zaknich"
+  },
+  {
+   "team": 20347,
+   "pid": 107625,
+   "name": "Masiangro"
+  },
+  {
+   "team": 20347,
+   "pid": 125615,
+   "name": "Zili"
+  },
+  {
+   "team": 20363,
+   "pid": 174117,
+   "name": "Jekquat"
+  },
+  {
+   "team": 20369,
+   "pid": 150239,
+   "name": "Samoja"
+  },
+  {
+   "team": 20369,
+   "pid": 172649,
+   "name": "Camada"
+  },
+  {
+   "team": 20369,
+   "pid": 151988,
+   "name": "Valga"
+  },
+  {
+   "team": 20369,
+   "pid": 181167,
+   "name": "Christian Lupo"
+  },
+  {
+   "team": 20369,
+   "pid": 150245,
+   "name": "Marchwińska"
+  },
+  {
+   "team": 20370,
+   "pid": 109276,
+   "name": "Ravanery"
+  },
+  {
+   "team": 20370,
+   "pid": 104076,
+   "name": "Izso"
+  },
+  {
+   "team": 20370,
+   "pid": 104031,
+   "name": "Sernsy"
+  },
+  {
+   "team": 20372,
+   "pid": 150346,
+   "name": "Couliba"
+  },
+  {
+   "team": 20372,
+   "pid": 100173,
+   "name": "Sieralto"
+  },
+  {
+   "team": 20372,
+   "pid": 118845,
+   "name": "DePersin"
+  },
+  {
+   "team": 20379,
+   "pid": 151067,
+   "name": "Mahmood"
+  },
+  {
+   "team": 20396,
+   "pid": 151462,
+   "name": "Porter"
+  },
+  {
+   "team": 20436,
+   "pid": 175109,
+   "name": "Rayan Al-Dossary"
+  },
+  {
+   "team": 20436,
+   "pid": 178039,
+   "name": "Saad Al-Mutairi"
+  },
+  {
+   "team": 20436,
+   "pid": 119477,
+   "name": "Al Llami"
+  },
+  {
+   "team": 20436,
+   "pid": 110639,
+   "name": "Al-Dausary"
+  },
+  {
+   "team": 20436,
+   "pid": 109304,
+   "name": "Pabro Mari"
+  },
+  {
+   "team": 20436,
+   "pid": 106705,
+   "name": "Dalwin"
+  },
+  {
+   "team": 20515,
+   "pid": 151408,
+   "name": "Hamid"
+  },
+  {
+   "team": 20515,
+   "pid": 150278,
+   "name": "Matheus Gonçalves"
+  },
+  {
+   "team": 20515,
+   "pid": 178049,
+   "name": "Faisal Fallatah"
+  },
+  {
+   "team": 20515,
+   "pid": 178044,
+   "name": "Meshal Al-Mutairi"
+  },
+  {
+   "team": 20515,
+   "pid": 178046,
+   "name": "Abdullah Radif"
+  },
+  {
+   "team": 20515,
+   "pid": 122434,
+   "name": "M.Aburshamat"
+  },
+  {
+   "team": 20515,
+   "pid": 118918,
+   "name": "Al-Sanby"
+  },
+  {
+   "team": 20515,
+   "pid": 118916,
+   "name": "Otaif"
+  },
+  {
+   "team": 20515,
+   "pid": 178051,
+   "name": "Saad Balobaid"
+  },
+  {
+   "team": 20515,
+   "pid": 178045,
+   "name": "Saeed Baattiah"
+  },
+  {
+   "team": 20534,
+   "pid": 174383,
+   "name": "Wang Yiwei"
+  },
+  {
+   "team": 20534,
+   "pid": 178696,
+   "name": "Ren Zihao"
+  },
+  {
+   "team": 20534,
+   "pid": 178698,
+   "name": "Fan Weiyang"
+  },
+  {
+   "team": 20534,
+   "pid": 178700,
+   "name": "Fan Yangyang"
+  },
+  {
+   "team": 20534,
+   "pid": 113428,
+   "name": "Han Yang"
+  },
+  {
+   "team": 20545,
+   "pid": 150682,
+   "name": "Amon"
+  },
+  {
+   "team": 20546,
+   "pid": 150931,
+   "name": "Mohammed Fallatah"
+  },
+  {
+   "team": 20546,
+   "pid": 150928,
+   "name": "Muhannad Al-Shanqeeti"
+  },
+  {
+   "team": 20546,
+   "pid": 122079,
+   "name": "A.Al Ghandy"
+  },
+  {
+   "team": 20546,
+   "pid": 160628,
+   "name": "S.Kelović"
+  },
+  {
+   "team": 20546,
+   "pid": 113679,
+   "name": "Shanqety"
+  },
+  {
+   "team": 20548,
+   "pid": 178755,
+   "name": "Deng Zhiwen"
+  },
+  {
+   "team": 20548,
+   "pid": 178756,
+   "name": "Hu Hangming"
+  },
+  {
+   "team": 20606,
+   "pid": 144572,
+   "name": "M.Lovic"
+  },
+  {
+   "team": 20606,
+   "pid": 150386,
+   "name": "Yilder"
+  },
+  {
+   "team": 20606,
+   "pid": 119923,
+   "name": "Aslan"
+  },
+  {
+   "team": 20606,
+   "pid": 114917,
+   "name": "Terpe"
+  },
+  {
+   "team": 20608,
+   "pid": 153253,
+   "name": "Bostin"
+  },
+  {
+   "team": 20608,
+   "pid": 145370,
+   "name": "K.Oraigbe"
+  },
+  {
+   "team": 20609,
+   "pid": 151918,
+   "name": "Ron"
+  },
+  {
+   "team": 20610,
+   "pid": 152704,
+   "name": "Ingenza"
+  },
+  {
+   "team": 20610,
+   "pid": 152699,
+   "name": "Arison"
+  },
+  {
+   "team": 20610,
+   "pid": 152705,
+   "name": "Ekelon"
+  },
+  {
+   "team": 20610,
+   "pid": 147495,
+   "name": "S.Barret"
+  },
+  {
+   "team": 20610,
+   "pid": 115461,
+   "name": "Milosevic"
+  },
+  {
+   "team": 20610,
+   "pid": 103412,
+   "name": "Djenipo"
+  },
+  {
+   "team": 20610,
+   "pid": 114915,
+   "name": "Omur"
+  },
+  {
+   "team": 20610,
+   "pid": 145451,
+   "name": "N.Storn"
+  },
+  {
+   "team": 20610,
+   "pid": 152697,
+   "name": "Pirit"
+  },
+  {
+   "team": 20610,
+   "pid": 115034,
+   "name": "Raki"
+  },
+  {
+   "team": 20613,
+   "pid": 115094,
+   "name": "Camala"
+  },
+  {
+   "team": 20613,
+   "pid": 115095,
+   "name": "Ekdar"
+  },
+  {
+   "team": 20613,
+   "pid": 108143,
+   "name": "Prichard"
+  },
+  {
+   "team": 20613,
+   "pid": 152207,
+   "name": "Nikoleć"
+  },
+  {
+   "team": 20614,
+   "pid": 152700,
+   "name": "Ramazan Özkanlı"
+  },
+  {
+   "team": 20614,
+   "pid": 100824,
+   "name": "Geye"
+  },
+  {
+   "team": 20614,
+   "pid": 125494,
+   "name": "Frimpeng"
+  },
+  {
+   "team": 20614,
+   "pid": 151569,
+   "name": "Sadik"
+  },
+  {
+   "team": 20617,
+   "pid": 152931,
+   "name": "Arda Şengül"
+  },
+  {
+   "team": 20617,
+   "pid": 115622,
+   "name": "Emircan Gürlük"
+  },
+  {
+   "team": 20617,
+   "pid": 119454,
+   "name": "Ylber Ramadani"
+  },
+  {
+   "team": 20617,
+   "pid": 115165,
+   "name": "Gökhan Sazdağı"
+  },
+  {
+   "team": 20620,
+   "pid": 115245,
+   "name": "Alda"
+  },
+  {
+   "team": 20620,
+   "pid": 106502,
+   "name": "Sambisa"
+  },
+  {
+   "team": 20620,
+   "pid": 124055,
+   "name": "Bahadıra"
+  },
+  {
+   "team": 20620,
+   "pid": 124404,
+   "name": "Köyla"
+  },
+  {
+   "team": 20620,
+   "pid": 115236,
+   "name": "Yeril"
+  },
+  {
+   "team": 20620,
+   "pid": 124408,
+   "name": "Şacan"
+  },
+  {
+   "team": 20620,
+   "pid": 115237,
+   "name": "Erdosan"
+  },
+  {
+   "team": 20625,
+   "pid": 115347,
+   "name": "Llavru"
+  },
+  {
+   "team": 20630,
+   "pid": 180795,
+   "name": "Isa Dayakli"
+  },
+  {
+   "team": 20630,
+   "pid": 180796,
+   "name": "Phellipe"
+  },
+  {
+   "team": 20630,
+   "pid": 180799,
+   "name": "Kubilay Sönmez"
+  },
+  {
+   "team": 20630,
+   "pid": 180805,
+   "name": "Özcan Şahan"
+  },
+  {
+   "team": 20630,
+   "pid": 180807,
+   "name": "Batuhan Yavuz"
+  },
+  {
+   "team": 20631,
+   "pid": 115488,
+   "name": "Carapo"
+  },
+  {
+   "team": 20631,
+   "pid": 124054,
+   "name": "August"
+  },
+  {
+   "team": 20631,
+   "pid": 152558,
+   "name": "Ozbikir"
+  },
+  {
+   "team": 20631,
+   "pid": 145403,
+   "name": "A.Mebute"
+  },
+  {
+   "team": 20631,
+   "pid": 115466,
+   "name": "Pehrivan"
+  },
+  {
+   "team": 20631,
+   "pid": 125228,
+   "name": "Zaqiri"
+  },
+  {
+   "team": 20631,
+   "pid": 125230,
+   "name": "Minchav"
+  },
+  {
+   "team": 20637,
+   "pid": 180847,
+   "name": "Ertuğrul Taşkıran"
+  },
+  {
+   "team": 20637,
+   "pid": 180849,
+   "name": "Amar Gërxhaliu"
+  },
+  {
+   "team": 20639,
+   "pid": 115612,
+   "name": "Mimarogru"
+  },
+  {
+   "team": 20639,
+   "pid": 124303,
+   "name": "Çağıren"
+  },
+  {
+   "team": 20639,
+   "pid": 115182,
+   "name": "Hanosek"
+  },
+  {
+   "team": 20639,
+   "pid": 103715,
+   "name": "Nyanng"
+  },
+  {
+   "team": 20639,
+   "pid": 115101,
+   "name": "Yatebary"
+  },
+  {
+   "team": 20639,
+   "pid": 115255,
+   "name": "Ozdemil"
+  },
+  {
+   "team": 20639,
+   "pid": 115450,
+   "name": "Narepa"
+  },
+  {
+   "team": 20639,
+   "pid": 152503,
+   "name": "Gürpüzs"
+  },
+  {
+   "team": 20708,
+   "pid": 178062,
+   "name": "Abdulrahman Al-Aboud"
+  },
+  {
+   "team": 20708,
+   "pid": 113683,
+   "name": "Kamala"
+  },
+  {
+   "team": 20708,
+   "pid": 178057,
+   "name": "Mory Diaw"
+  },
+  {
+   "team": 20708,
+   "pid": 178059,
+   "name": "Roger Martínez"
+  },
+  {
+   "team": 20708,
+   "pid": 151580,
+   "name": "Oweis"
+  },
+  {
+   "team": 20708,
+   "pid": 178058,
+   "name": "Awad Al-Nashri"
+  },
+  {
+   "team": 20708,
+   "pid": 119441,
+   "name": "Al-Sayaly"
+  },
+  {
+   "team": 20708,
+   "pid": 110640,
+   "name": "Al-Boreahy"
+  },
+  {
+   "team": 20708,
+   "pid": 175140,
+   "name": "Dhari Al-Anazi"
+  },
+  {
+   "team": 20708,
+   "pid": 173438,
+   "name": "Tin Jedvaj"
+  },
+  {
+   "team": 20708,
+   "pid": 102064,
+   "name": "Hordy"
+  },
+  {
+   "team": 20708,
+   "pid": 122011,
+   "name": "C.Junior"
+  },
+  {
+   "team": 20708,
+   "pid": 103311,
+   "name": "Daniel Podence"
+  },
+  {
+   "team": 20708,
+   "pid": 178061,
+   "name": "Thomas Partey"
+  },
+  {
+   "team": 20709,
+   "pid": 178082,
+   "name": "Mohammed Al-Aqel"
+  },
+  {
+   "team": 20709,
+   "pid": 178078,
+   "name": "Nasser Al-Hulayel"
+  },
+  {
+   "team": 20709,
+   "pid": 178085,
+   "name": "Bassem Al-Arini"
+  },
+  {
+   "team": 20709,
+   "pid": 178089,
+   "name": "Abdullah Al-Jadaani"
+  },
+  {
+   "team": 20709,
+   "pid": 178094,
+   "name": "Mohammed Al-Saadi"
+  },
+  {
+   "team": 20709,
+   "pid": 178091,
+   "name": "Anas Al-Ghamdi"
+  },
+  {
+   "team": 20709,
+   "pid": 178092,
+   "name": "Abdulrahman Al-Ghamdi"
+  },
+  {
+   "team": 20709,
+   "pid": 124167,
+   "name": "Ibrahim Mahnashi"
+  },
+  {
+   "team": 20709,
+   "pid": 142251,
+   "name": "C.Zanblano"
+  },
+  {
+   "team": 20709,
+   "pid": 178086,
+   "name": "Rakan Al-Tulayhi"
+  },
+  {
+   "team": 20709,
+   "pid": 119628,
+   "name": "Viel"
+  },
+  {
+   "team": 20709,
+   "pid": 122200,
+   "name": "Atiyah"
+  },
+  {
+   "team": 20709,
+   "pid": 178088,
+   "name": "Adeeb Al-Hassan"
+  },
+  {
+   "team": 20711,
+   "pid": 178123,
+   "name": "Ibrahim Al-Aboud"
+  },
+  {
+   "team": 20711,
+   "pid": 113657,
+   "name": "Qashesh"
+  },
+  {
+   "team": 20711,
+   "pid": 175121,
+   "name": "F.Darsy"
+  },
+  {
+   "team": 20711,
+   "pid": 178118,
+   "name": "Robin Kelder"
+  },
+  {
+   "team": 20711,
+   "pid": 178120,
+   "name": "Abdulrahman Al-Khaibari"
+  },
+  {
+   "team": 20711,
+   "pid": 119956,
+   "name": "Al-Basisy"
+  },
+  {
+   "team": 20711,
+   "pid": 175132,
+   "name": "S.Al-Sharfer"
+  },
+  {
+   "team": 20711,
+   "pid": 175128,
+   "name": "O.Al-Otmen"
+  },
+  {
+   "team": 20711,
+   "pid": 178115,
+   "name": "Ali Al-Hassan"
+  },
+  {
+   "team": 20711,
+   "pid": 175129,
+   "name": "W.Delgedor"
+  },
+  {
+   "team": 20712,
+   "pid": 119348,
+   "name": "Al-Sibyany"
+  },
+  {
+   "team": 20712,
+   "pid": 178097,
+   "name": "Abdullah Al-Bishi"
+  },
+  {
+   "team": 20712,
+   "pid": 151523,
+   "name": "Baljos"
+  },
+  {
+   "team": 20712,
+   "pid": 178095,
+   "name": "Mishal Al-Alaeli"
+  },
+  {
+   "team": 20713,
+   "pid": 178137,
+   "name": "Ali Al-Hussain"
+  },
+  {
+   "team": 20713,
+   "pid": 111588,
+   "name": "Sharaxili"
+  },
+  {
+   "team": 20713,
+   "pid": 178147,
+   "name": "Sultan Al-Jabri"
+  },
+  {
+   "team": 20713,
+   "pid": 178148,
+   "name": "Albaraa Adawi"
+  },
+  {
+   "team": 20713,
+   "pid": 178150,
+   "name": "Osama Al-Thumairy"
+  },
+  {
+   "team": 20713,
+   "pid": 178152,
+   "name": "Ali Al Harshan"
+  },
+  {
+   "team": 20713,
+   "pid": 178153,
+   "name": "Fahad Al-Hubaishi"
+  },
+  {
+   "team": 20713,
+   "pid": 122246,
+   "name": "Al Samiry"
+  },
+  {
+   "team": 20713,
+   "pid": 122041,
+   "name": "Abdullah Al-Qahtani"
+  },
+  {
+   "team": 20713,
+   "pid": 109171,
+   "name": "Aliwi"
+  },
+  {
+   "team": 20713,
+   "pid": 124049,
+   "name": "Maïté"
+  },
+  {
+   "team": 20713,
+   "pid": 106536,
+   "name": "Ogita"
+  },
+  {
+   "team": 20713,
+   "pid": 104259,
+   "name": "Omar Colley"
+  },
+  {
+   "team": 20714,
+   "pid": 175206,
+   "name": "F.Abdulrasip"
+  },
+  {
+   "team": 20714,
+   "pid": 175210,
+   "name": "A.Al-Zahrany"
+  },
+  {
+   "team": 20717,
+   "pid": 175228,
+   "name": "F.Al-Jayzany"
+  },
+  {
+   "team": 20717,
+   "pid": 175229,
+   "name": "W.Asery"
+  },
+  {
+   "team": 20717,
+   "pid": 175224,
+   "name": "A.Al-Jadany"
+  },
+  {
+   "team": 20717,
+   "pid": 178131,
+   "name": "Mohammed Al-Dossari"
+  },
+  {
+   "team": 20717,
+   "pid": 178127,
+   "name": "Donovan Léon"
+  },
+  {
+   "team": 20717,
+   "pid": 178132,
+   "name": "Majed Dawran"
+  },
+  {
+   "team": 20717,
+   "pid": 178135,
+   "name": "Mohammed Al-Zaid"
+  },
+  {
+   "team": 20721,
+   "pid": 122254,
+   "name": "Al Hardary"
+  },
+  {
+   "team": 20721,
+   "pid": 178102,
+   "name": "Mohammed Al Ibrahim"
+  },
+  {
+   "team": 20721,
+   "pid": 178105,
+   "name": "Nawaf Al-Sadi"
+  },
+  {
+   "team": 20721,
+   "pid": 110652,
+   "name": "Ali Al-Shaafi"
+  },
+  {
+   "team": 20721,
+   "pid": 118810,
+   "name": "Al-Harmsr"
+  },
+  {
+   "team": 20721,
+   "pid": 178107,
+   "name": "Wilson Diogo Monteiro da Cruz"
+  },
+  {
+   "team": 20721,
+   "pid": 119296,
+   "name": "Kourberis"
+  },
+  {
+   "team": 20721,
+   "pid": 178106,
+   "name": "Miguel Crespo"
+  },
+  {
+   "team": 20721,
+   "pid": 107770,
+   "name": "Omar Mascarell"
+  },
+  {
+   "team": 20726,
+   "pid": 124089,
+   "name": "Al-Board"
+  },
+  {
+   "team": 20726,
+   "pid": 178072,
+   "name": "Awad Dahal"
+  },
+  {
+   "team": 20726,
+   "pid": 178065,
+   "name": "Sultan Al-Essa"
+  },
+  {
+   "team": 20726,
+   "pid": 178066,
+   "name": "Kader Keïta"
+  },
+  {
+   "team": 20726,
+   "pid": 178071,
+   "name": "Battal Al-Harthi"
+  },
+  {
+   "team": 20726,
+   "pid": 178069,
+   "name": "Hussain Al-Raqwani"
+  },
+  {
+   "team": 20726,
+   "pid": 178070,
+   "name": "Hussain Al-Shurafa"
+  },
+  {
+   "team": 20726,
+   "pid": 178073,
+   "name": "Abdulelah Al-Talea"
+  },
+  {
+   "team": 40101,
+   "pid": 174492,
+   "name": "Li N."
+  },
+  {
+   "team": 40102,
+   "pid": 178728,
+   "name": "Xu Zhenghang"
+  },
+  {
+   "team": 40102,
+   "pid": 178729,
+   "name": "Zhang Zili"
+  },
+  {
+   "team": 40104,
+   "pid": 178847,
+   "name": "Wang Zhenghao"
+  },
+  {
+   "team": 40104,
+   "pid": 178837,
+   "name": "Piao Zhixun"
+  },
+  {
+   "team": 40108,
+   "pid": 174604,
+   "name": "Mu P.F."
+  },
+  {
+   "team": 40108,
+   "pid": 114013,
+   "name": "Yedo"
+  }
+ ],
+ "skipped": [
+  {
+   "club": "ManCity",
+   "name": "Enzo Fernández",
+   "why": "src is national team"
+  },
+  {
+   "club": "ManCity",
+   "name": "Jack Grealish",
+   "why": "src page still lists (loan?)"
+  },
+  {
+   "club": "Arsenal",
+   "name": "Ethan Nwaneri",
+   "why": "src page still lists (loan?)"
+  },
+  {
+   "club": "WestHam",
+   "name": "Jean-Clair Todibo",
+   "why": "src page still lists (loan?)"
+  },
+  {
+   "club": "CrystalPalace",
+   "name": "Evann Guessand",
+   "why": "src page still lists (loan?)"
+  },
+  {
+   "club": "Milan",
+   "name": "Strahinja Pavlović",
+   "why": "src is national team"
+  },
+  {
+   "club": "Roma",
+   "name": "Donyell Malen",
+   "why": "src is national team"
+  },
+  {
+   "club": "Torino",
+   "name": "Ché Adams",
+   "why": "src is national team"
+  },
+  {
+   "club": "Udinese",
+   "name": "Maduka Okoye",
+   "why": "src is national team"
+  },
+  {
+   "club": "Galatasaray",
+   "name": "Uğurcan Çakır",
+   "why": "src is national team"
+  },
+  {
+   "club": "Como",
+   "name": "Robert Sánchez",
+   "why": "src page still lists (loan?)"
+  },
+  {
+   "club": "LeHavre",
+   "name": "Ayumu Seko",
+   "why": "src is national team"
+  },
+  {
+   "club": "Nassr",
+   "name": "Al-Hassan",
+   "why": "src is national team"
+  },
+  {
+   "club": "Shabab",
+   "name": "Camara",
+   "why": "src is national team"
+  },
+  {
+   "club": "Ettifaq",
+   "name": "P. Henrique",
+   "why": "src is national team"
+  },
+  {
+   "club": "Abha",
+   "name": "Al-Mousa",
+   "why": "src is national team"
+  }
+ ]
+}

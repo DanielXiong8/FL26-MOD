@@ -1,0 +1,4399 @@
+{
+ "FC Bayern Munich": {
+  "league": "Bundesliga",
+  "club": "BayernMunich",
+  "tid": 20126,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "Bayern Munich was founded in 1900 by eleven players, led by [[Franz John]].<ref name=\"fcbbook1stch\">{{Cite book |last=Schulze-Marmeling |first=Dietrich |title=Die Bayern. Die Geschichte des deutschen Rekordmeisters |publ"
+   },
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "Bayern Munich is one of the most widely supported football clubs in the world,<ref>{{cite web | url = https://fcbayern.com/en/club/international | title = FC Bayern is everywhere | website = FC Bayern Munich | access-dat"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "Bayern Munich was founded in 1900 by eleven players, led by [[Franz John]].<ref name=\"fcbbook1stch\">{{Cite book |last=Schulze-Marmeling |first=Dietrich |title=Die Bayern. Die Geschichte des deutschen Rekordmeisters |publ"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "Bayern Munich is one of the most widely supported football clubs in the world,<ref>{{cite web | url = https://fcbayern.com/en/club/international | title = FC Bayern is everywhere | website = FC Bayern Munich | access-dat"
+   },
+   {
+    "sec": "Early years (1900s–1960s)",
+    "dir": "out",
+    "line": "Bayern Munich was founded by members of a Munich gymnastics club (MTV 1879). When a congregation of members of MTV 1879 decided on 27 February 1900 that the footballers of the club would not be allowed to join the [[Germ"
+   },
+   {
+    "sec": "Early years (1900s–1960s)",
+    "dir": "in",
+    "line": "Bayern Munich was founded by members of a Munich gymnastics club (MTV 1879). When a congregation of members of MTV 1879 decided on 27 February 1900 that the footballers of the club would not be allowed to join the [[Germ"
+   },
+   {
+    "sec": "Early years (1900s–1960s)",
+    "dir": "in",
+    "line": "In the following years, the club won some local trophies, and, in 1910–11, Bayern joined the newly founded \"Kreisliga\", the first regional Bavarian league. The club won this league in its first year, but did not win it a"
+   },
+   {
+    "sec": "The golden years (1960s–1970s)",
+    "dir": "out",
+    "line": "During the following years, the team was unsuccessful domestically, but defended their European title by defeating [[Leeds United F.C.|Leeds United]] in the [[1975 European Cup final]], when Roth and Müller secured victo"
+   },
+   {
+    "sec": "The golden years (1960s–1970s)",
+    "dir": "in",
+    "line": "During the following years, the team was unsuccessful domestically, but defended their European title by defeating [[Leeds United F.C.|Leeds United]] in the [[1975 European Cup final]], when Roth and Müller secured victo"
+   },
+   {
+    "sec": "Supporters",
+    "dir": "out",
+    "line": "The club also has had a number of high-profile supporters, among them [[Pope Benedict XVI]],<ref>{{Cite news |date=18 July 2008 |title=Papal trivia: 10 things you didn't know about Pope Benedict XVI |work=news.com.au |ur"
+   },
+   {
+    "sec": "Supporters",
+    "dir": "in",
+    "line": "The club also has had a number of high-profile supporters, among them [[Pope Benedict XVI]],<ref>{{Cite news |date=18 July 2008 |title=Papal trivia: 10 things you didn't know about Pope Benedict XVI |work=news.com.au |ur"
+   },
+   {
+    "sec": "Organization and finance",
+    "dir": "out",
+    "line": "Professional football at Bayern is run by the spin-off organisation ''FC Bayern München AG''. ''AG'' is short for ''[[Aktiengesellschaft]]'', and Bayern is run like a [[joint stock company]], a company whose stock are no"
+   },
+   {
+    "sec": "Organization and finance",
+    "dir": "in",
+    "line": "Professional football at Bayern is run by the spin-off organisation ''FC Bayern München AG''. ''AG'' is short for ''[[Aktiengesellschaft]]'', and Bayern is run like a [[joint stock company]], a company whose stock are no"
+   },
+   {
+    "sec": "Organization and finance",
+    "dir": "in",
+    "line": "Adidas acquired its shares in 2002 for €77&nbsp;million. The money was designated to help finance the [[Allianz Arena]].<ref>{{Cite book |last=Schulze-Marmeling |first=Dietrich |title=Die Bayern. Die Geschichte des deuts"
+   },
+   {
+    "sec": "Bayern Munich II and Junior Team (FC Bayern Campus)",
+    "dir": "in",
+    "line": "{{Fs player|no=38|pos=GK|nat=GER|name=[[David Podar-Știube]]}}"
+   }
+  ]
+ },
+ "RB Leipzig": {
+  "league": "Bundesliga",
+  "club": "Leipzig",
+  "tid": 20128,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=18|nat=NGA|pos=FW|name=[[Suleman Sani]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=20|nat=GER|pos=MF|name=[[Rocco Reitz]]|other=[[Vice-captain (association football)|vice-captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=20|nat=GER|pos=MF|name=[[Rocco Reitz]]|other=[[Vice-captain (association football)|vice-captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=37|nat=GER|pos=MF|name=Benno Kaltefleiter}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=37|nat=GER|pos=MF|name=[[Benno Kaltefleiter]]}}"
+   }
+  ]
+ },
+ "FC Schalke 04": {
+  "league": "Bundesliga",
+  "club": "Schalke",
+  "tid": 20130,
+  "changes": [
+   {
+    "sec": "2020–present: Relegations and growing financial troubles",
+    "dir": "out",
+    "line": "The second half of the 2023–24 season started with a series of defeats. The difficult sportive situation was exacerbated by growing unrest within the club, attributed to the relationship between Wilmots, Geraerts, and th"
+   },
+   {
+    "sec": "2020–present: Relegations and growing financial troubles",
+    "dir": "in",
+    "line": "The second half of the 2023–24 season started with a series of defeats. The difficult sportive situation was exacerbated by growing unrest within the club, attributed to the relationship between Wilmots, Geraerts, and th"
+   },
+   {
+    "sec": "2020–present: Relegations and growing financial troubles",
+    "dir": "in",
+    "line": "At the beginning of the [[2025–26 2. Bundesliga|2025/26 season]], new sporting director Frank Baumann and the chief executive Matthias Tillman decided to appoint [[Miron Muslić]] as head coach.<ref>{{cite web|url=https:/"
+   },
+   {
+    "sec": "2020–present: Relegations and growing financial troubles",
+    "dir": "in",
+    "line": "Under [[Miron Muslić]] the team became known for their high intensity, tight defensive, ranking last place in the expected goals against statistic.<ref>{{Cite web |title=2. Bundesliga xG-Tabelle 2025/2026 – Expected-Goal"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=36|nat=GER|pos=GK|name=Johannes Siebeking}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=38|nat=GER|pos=MF|name=Luca Vozar}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=36|nat=GER|pos=GK|name=[[Johannes Siebeking]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=38|nat=GER|pos=MF|name=[[Luca Vozar]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=GK|name=Luca Podlech|other=at [[Aalesunds FK]] until 31 December 2026}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=GK|name=[[Luca Podlech]]|other=at [[Aalesunds FK]] until 31 December 2026}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=FW|name=Jakob Sachse|other=at [[FC Viktoria Köln|Viktoria Köln]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=FW|name=[[Jakob Sachse]]|other=at [[FC Viktoria Köln|Viktoria Köln]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Eintracht Frankfurt": {
+  "league": "Bundesliga",
+  "club": "Frankfurt",
+  "tid": 20131,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=23|nat=GER|pos=MF|name=[[Niko Iličević]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=39|nat=BIH|pos=GK|name=Amil Šiljević}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=39|nat=BIH|pos=GK|name=[[Amil Šiljević]]}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=MLI|pos=DF|name=Fousseny Doumbia|other=at [[FC Energie Cottbus|Energie Cottbus]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "out",
+    "line": "{{fs player|no=|nat=GER|pos=DF|name=Ouassim Karada|other=at [[FC Hansa Rostock|Hansa Rostock]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=MLI|pos=DF|name=[[Fousseny Doumbia]]|other=at [[FC Energie Cottbus|Energie Cottbus]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "in",
+    "line": "{{fs player|no=|nat=GER|pos=DF|name=[[Ouassim Karada]]|other=at [[FC Hansa Rostock|Hansa Rostock]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Rivalries and friendships",
+    "dir": "out",
+    "line": "The club's main rival is from across the [[Main (river)|Main]] river, the side [[Kickers Offenbach]]. The clubs played the [[1959 German football championship Final|1959 German championship final]], which Eintracht won.<"
+   },
+   {
+    "sec": "Rivalries and friendships",
+    "dir": "in",
+    "line": "The club's main rival is [[Kickers Offenbach]], whose home ground is located a few kilometers upstream along the [[Main (river)|Main]] river. The clubs played the [[1959 German football championship Final|1959 German cha"
+   },
+   {
+    "sec": "Rivalries and friendships",
+    "dir": "out",
+    "line": "The [[2011–12 2. Bundesliga|2011–12 season]] saw Eintracht play FSV in a league match for the first time in almost 50 years. The last league game between the two had been played on 27 January 1962, then in the [[Oberliga"
+   },
+   {
+    "sec": "Rivalries and friendships",
+    "dir": "in",
+    "line": "The [[2011–12 2. Bundesliga|2011–12 season]] saw Eintracht play FSV in a league match for the first time in almost 50 years. The last league game between the two had been played on 27 January 1962, then in the [[Oberliga"
+   }
+  ]
+ },
+ "Borussia Mönchengladbach": {
+  "league": "Bundesliga",
+  "club": "Gladbach",
+  "tid": 20132,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=9|nat=FRA|pos=MF|name=[[Franck Honorat]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=9|nat=FRA|pos=FW|name=[[Franck Honorat]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=19|nat=GER|pos=FW|name=[[Nicolas Kühn]]|other=on loan from [[Como 1907|Como]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=19|nat=GER|pos=FW|name=[[Nicolas Kühn]]|other=on loan from [[Como 1907|Como]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=25|nat=GER|pos=MF|name=[[Robin Hack]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=25|nat=GER|pos=FW|name=[[Robin Hack]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=35|nat=GER|pos=FW|name=[[Josiah Kaled Uwakhonye|Josiah Uwakhonye]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=38|nat=SWE|pos=MF|name=[[Hugo Bolin]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=38|nat=SWE|pos=FW|name=[[Hugo Bolin]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=48|nat=GER|pos=DF|name=[[Lion Schweers]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=CRO|pos=MF|name=Niko Horvat|other={{small|at [[SV Zulte Waregem|Zulte Waregem]] until 30 June 2027}}}}<ref name=\"Horvat\">{{cite news |title= NIKO HORVAT NIEUWSTE AANWINST VOOR ESSEVEE |url=https://www"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=MF|name=Niklas Swider|other={{small|at [[Viktoria Köln]] until 30 June 2027}}}}<ref name=\"Swider\">{{cite news |title=Niklas Swider signs extension and joins Viktoria Köln on loan |url=https://"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CRO|pos=MF|name=[[Niko Horvat]]|other={{small|at [[SV Zulte Waregem|Zulte Waregem]] until 30 June 2027}}}}<ref name=\"Horvat\">{{cite news |title= NIKO HORVAT NIEUWSTE AANWINST VOOR ESSEVEE |url=https:/"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=MF|name=[[Niklas Swider]]|other={{small|at [[Viktoria Köln]] until 30 June 2027}}}}<ref name=\"Swider\">{{cite news |title=Niklas Swider signs extension and joins Viktoria Köln on loan |url=http"
+   }
+  ]
+ },
+ "1. FSV Mainz 05": {
+  "league": "Bundesliga",
+  "club": "Mainz",
+  "tid": 20134,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=40|nat=GER|name=Maximilian Kinzig|pos=GK}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=40|nat=GER|name=[[Maximilian Kinzig]]|pos=GK}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|name=Daniel Gleiber|pos=MF|other={{small|at [[1. FC Saarbrücken]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|name=[[Daniel Gleiber]]|pos=MF|other={{small|at [[1. FC Saarbrücken]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "SV Werder Bremen": {
+  "league": "Bundesliga",
+  "club": "Bremen",
+  "tid": 20135,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=34|nat=TUR|pos=MF|name=Darwin Soylu}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=35|nat=GER|pos=DF|name=Luca Höcker}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=36|nat=GER|pos=DF|name=Mats Heitmann}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=34|nat=TUR|pos=MF|name=[[Darwin Soylu]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=35|nat=GER|pos=DF|name=[[Luca Höcker]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=36|nat=GER|pos=DF|name=[[Mats Heitmann]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=38|nat=GER|pos=FW|name=Paul Erevbenagie}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=38|nat=GER|pos=FW|name=[[Paul Erevbenagie]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=MF|name=Wesley Adeh|other={{small|at [[SC Preußen Münster|Preußen Münster]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=ARG|pos=DF|name=[[Julián Malatini]]|other={{small|at [[FC Cincinnati]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=MF|name=[[Wesley Adeh]]|other={{small|at [[SC Preußen Münster|Preußen Münster]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=22|nat=ARG|pos=DF|name=[[Julián Malatini]]|other={{small|at [[FC Cincinnati]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "1. FC Union Berlin": {
+  "league": "Bundesliga",
+  "club": "UnionBerlin",
+  "tid": 20144,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 3|pos=DF|nat=GER|name=Andrik Markgraf}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 3|pos=DF|nat=GER|name=[[Andrik Markgraf]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=32|pos=FW|nat=JAM|name= Mekhi Gray}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=32|pos=FW|nat=JAM|name=[[Mekhi Gray]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=38|pos=FW|nat=GER|name= Julien Friedrich}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=38|pos=FW|nat=GER|name=[[Julien Friedrich]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|pos=DF|nat=GER|name=Oluwaseun Ogbemudia|other=at [[SV Waldhof Mannheim|Waldhof Mannheim]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|pos=DF|nat=GER|name=Leon Prosche|other=at [[FC Erzgebirge Aue|Erzgebirge Aue]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|pos=DF|nat=GER|name=[[Oluwaseun Ogbemudia]]|other=at [[SV Waldhof Mannheim|Waldhof Mannheim]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|pos=DF|nat=GER|name=[[Leon Prosche]]|other=at [[FC Erzgebirge Aue|Erzgebirge Aue]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|pos=MF|nat=GER|name=Tim Blaszczak|other=at [[FSV 63 Luckenwalde]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|pos=MF|nat=GER|name=[[Tim Blaszczak]]|other=at [[FSV 63 Luckenwalde]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "SC Freiburg": {
+  "league": "Bundesliga",
+  "club": "Freiburg",
+  "tid": 20137,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=39|nat= SUI |name=Rouven Tarnutzer|pos=MF}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=39|nat= SUI |name=[[Rouven Tarnutzer]]|pos=MF}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=DF|name=Karl Steinmann|other={{small|at [[Hannover 96]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=DF|name=[[Karl Steinmann]]|other={{small|at [[Hannover 96]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "1. FC Köln": {
+  "league": "Bundesliga",
+  "club": "Koln",
+  "tid": 20138,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=34|nat=GER|pos=MF|name=Fayssal Harchaoui}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=34|nat=GER|pos=MF|name=[[Fayssal Harchaoui]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=44|nat=GER|pos=GK|name=Matthias Köbbing}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=44|nat=GER|pos=GK|name=[[Matthias Köbbing]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=49|nat=GER|pos=MF|name=David Fürst}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=49|nat=GER|pos=MF|name=[[David Fürst]]}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "out",
+    "line": "{{Fs player|nat=SVN|pos=FW|name=Jaka Čuber Potočnik|other={{small|at [[Rot-Weiss Essen]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "in",
+    "line": "{{Fs player|nat=SVN|pos=FW|name=[[Jaka Čuber Potočnik]]|other={{small|at [[Rot-Weiss Essen]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "FC Augsburg": {
+  "league": "Bundesliga",
+  "club": "Augsburg",
+  "tid": 20139,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=48|nat=GER|name=Tom Wisbereit|pos=GK}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=48|nat=GER|name=[[Tom Wisbereit]]|pos=GK}}"
+   }
+  ]
+ },
+ "VfB Stuttgart": {
+  "league": "Bundesliga",
+  "club": "Stuttgart",
+  "tid": 20140,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=39|nat=GER|pos=MF|name=Ertuğrul Yiğit}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=39|nat=GER|pos=MF|name=[[Ertuğrul Yiğit]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=47|nat=AUT|pos=MF|name=[[Yanik Spalt]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=GK|name=Florian Hellstern|other={{small|at [[SpVgg Greuther Fürth|Greuther Fürth]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=GK|name=[[Florian Hellstern]]|other={{small|at [[SpVgg Greuther Fürth|Greuther Fürth]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "Hamburger SV": {
+  "league": "Bundesliga",
+  "club": "Hamburg",
+  "tid": 20141,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 8|nat=POR|pos=MF|name=[[Fábio Vieira (footballer, born 2000)|Fábio Vieira]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=19|nat=GER|pos=FW|name=[[Otto Stange]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=19|nat=GER|pos=FW|name=[[Otto Stange]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=20|nat=POR|pos=MF|name=[[Fábio Vieira (footballer, born 2000)|Fábio Vieira]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=39|nat=GER|pos=DF|name=Joel Agyekum}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=40|nat=FIN|pos=GK|name=Elias Lahti}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=41|nat=GER|pos=GK|name=Fernando Dickes}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=43|nat=GER|pos=DF|name=Shafiq Nandja}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=39|nat=GER|pos=DF|name=[[Joel Agyekum]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=40|nat=FIN|pos=GK|name=[[Elias Lahti]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=41|nat=GER|pos=GK|name=[[Fernando Dickes]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=43|nat=GER|pos=DF|name=[[Shafiq Nandja]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=GK|name=Hannes Hermann|other={{small|at [[SSV Jahn Regensburg|Jahn Regensburg]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=GK|name=[[Hannes Hermann]]|other={{small|at [[SSV Jahn Regensburg|Jahn Regensburg]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "TSG 1899 Hoffenheim": {
+  "league": "Bundesliga",
+  "club": "Hoffenheim",
+  "tid": 20145,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=29|nat=GER|pos=DF|name=Natnael Abraha}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=29|nat=GER|pos=DF|name=[[Natnael Abraha]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=37|nat=GER|pos=GK|name=Luca Philipp}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=37|nat=GER|pos=GK|name=[[Luca Philipp]]}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "out",
+    "line": "{{fs player|no=|nat=NGA|pos=DF|name=Emmanuel Chukwu|other={{small|at [[SC Austria Lustenau|Austria Lustenau]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=DF|name=Kelven Frees|other={{small|at [[1. FC Kaiserslautern ]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "in",
+    "line": "{{fs player|no=|nat=NGA|pos=DF|name=[[Emmanuel Chukwu]]|other={{small|at [[SC Austria Lustenau|Austria Lustenau]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Players out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=DF|name=[[Kelven Frees]]|other={{small|at [[1. FC Kaiserslautern ]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "SC Paderborn 07": {
+  "league": "Bundesliga",
+  "club": "Paderborn",
+  "tid": 20147,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=29 |nat=GER |pos=DF |name=Clemens Lippmann}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=29 |nat=GER |pos=DF |name=[[Clemens Lippmann]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=31 |nat=GER |pos=GK |name=Florian Pruhs}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=32 |nat=GER |pos=FW |name=Lasse Eickel}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=31 |nat=GER |pos=GK |name=[[Florian Pruhs]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=32 |nat=GER |pos=FW |name=[[Lasse Eickel]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=44 |nat=GER |pos=MF |name=Timur Gayret}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=46 |nat=GER |pos=DF |name=Tristan Zobel}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=44 |nat=GER |pos=MF |name=[[Timur Gayret]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=46 |nat=GER |pos=DF |name=[[Tristan Zobel]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=DF|name=Kevin Krumme|other={{small|at [[SC Fortuna Köln|Fortuna Köln]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=DF|name=Martin Ens|other={{small|at [[MSV Duisburg]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=MF|name=Bennit Bröger|other={{small|at [[SC Fortuna Köln|Fortuna Köln]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=DF|name=[[Kevin Krumme]]|other={{small|at [[SC Fortuna Köln|Fortuna Köln]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=DF|name=[[Martin Ens]]|other={{small|at [[MSV Duisburg]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=MF|name=[[Bennit Bröger]]|other={{small|at [[SC Fortuna Köln|Fortuna Köln]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=FW|name=Georg Ermolaev|other={{small|at [[Alemannia Aachen]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=FW|name=[[Georg Ermolaev]]|other={{small|at [[Alemannia Aachen]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GER|pos=FW|name=Marco Wörner|other={{small|at [[SSV Jahn Regensburg|Jahn Regensburg]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=FW|name=[[Marco Wörner]]|other={{small|at [[SSV Jahn Regensburg|Jahn Regensburg]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "SC Paderborn II",
+    "dir": "out",
+    "line": "{{Fs player|no=-|nat=GER|pos=GK|name=Konstantin Sommer}}"
+   },
+   {
+    "sec": "SC Paderborn II",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GER|pos=GK|name=Konstantin Sommer}}"
+   }
+  ]
+ },
+ "SV 07 Elversberg": {
+  "league": "Bundesliga",
+  "club": "Elversberg",
+  "tid": 20379,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|pos=DF|no=4|nat=GER|name=Luis Seifert}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player|pos=DF|no=4|nat=GER|name=[[Luis Seifert]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|pos=MF|no=11|nat=GER|name=[[Jason Ceka|Jason Çeka]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|pos=GK|no=12|nat=GER|name=Elias Etringer}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|pos=GK|no=12|nat=GER|name=[[Elias Etringer]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|pos=DF|no=19|nat=GER|name=[[Lukas Pinckert]]|other=[[Captain (association football)|captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|pos=DF|no=19|nat=GER|name=[[Lukas Pinckert]]|other=[[Captain (association football)|captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|pos=MF|no=25|nat=BUL|name=[[Lukas Petkov]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|pos=FW|no=25|nat=BUL|name=[[Lukas Petkov]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{fs player|pos=MF|no=|nat=GER|name=[[Jason Ceka|Jason Çeka]]|other={{small|at [[SC Cambuur|Cambuur]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "Juventus FC": {
+  "league": "SerieA",
+  "club": "Juventus",
+  "tid": 20076,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "Founded as Sport-Club Juventus, the club established itself as a major force in Italian football during the 1930s and at international stage during mid-1970s.<ref name=UEFA-TURIN>{{Cite news|url=http://www.uefa.com/uefac"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "Founded as Sport-Club Juventus, the club established itself as a major force in Italian football during the 1930s and at international stage during mid-1970s.<ref name=UEFA-TURIN>{{Cite news|url=http://www.uefa.com/uefac"
+   }
+  ]
+ },
+ "SSC Napoli": {
+  "league": "SerieA",
+  "club": "Napoli",
+  "tid": 20077,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "By attendance, Napoli has the fourth-largest fan base in Italy,<ref name=\"tifo2\">{{cite news|date=September 2012|title=Il tifo calcistico in Italia&nbsp;– Settembre 2012|language=it|url=http://www.demos.it/a00756.php|acc"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "By attendance, Napoli has the fourth-largest fan base in Italy,<ref name=tifo>{{cite news|date=September 2012|title=Il tifo calcistico in Italia&nbsp;– Settembre 2012|language=it|url=http://www.demos.it/a00756.php|access"
+   },
+   {
+    "sec": "Origins",
+    "dir": "out",
+    "line": "Although the club was officially founded in 1926, Napoli traces its roots to the first relevant Neapolitan club, founded as ''Naples Foot-Ball & Cricket Club''<ref name=\":0\" group=\"note\">Some sources say the name was spe"
+   },
+   {
+    "sec": "Origins (1905-1922)",
+    "dir": "in",
+    "line": "Although the club was officially founded in 1926, Napoli traces its roots to the first relevant Neapolitan club, founded as ''Naples Foot-Ball & Cricket Club''<ref name=\":0\" group=\"note\">Some sources say the name was spe"
+   },
+   {
+    "sec": "Name change",
+    "dir": "out",
+    "line": "As the club changed their name to '''Società Sportiva Calcio Napoli''' on 25 June 1964<ref name=\"calcionap2\" /> they began to rise up again, gaining promotion in [[1964–65 Serie B|1964–65]]. Under the management of forme"
+   },
+   {
+    "sec": "Name change and success (1964-1984)",
+    "dir": "in",
+    "line": "As the club changed their name to '''Società Sportiva Calcio Napoli''' on 25 June 1964<ref name=\"calcionap2\" /> they began to rise up again, gaining promotion in [[1964–65 Serie B|1964–65]]. Under the management of forme"
+   },
+   {
+    "sec": "Resurgence",
+    "dir": "out",
+    "line": "The [[2005–06 Serie C1|following season]], they secured promotion to [[Serie B]] and De Laurentiis brought back the club's history, restoring its name to '''Società Sportiva Calcio Napoli''' in May 2006.<ref name=\"calcio"
+   },
+   {
+    "sec": "Resurgence (2005-2011)",
+    "dir": "in",
+    "line": "The [[2005–06 Serie C1|following season]], manager [[Edoardo Reja]] was hired. Under his leadership they secured promotion to [[Serie B]] and De Laurentiis brought back the club's history, restoring its name to '''Societ"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=12|nat=ITA|pos=GK|name=Claudio Pugliese}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=12|nat=ITA|pos=GK|name=[[Claudio Pugliese]]}}"
+   },
+   {
+    "sec": "Napoli Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=18|nat=ARG|pos=MF|name=[[Francisco Baridó]]}}"
+   },
+   {
+    "sec": "Napoli Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=36|nat=ARG|pos=FW|name=[[Milton Agustín Pereyra|Milton Pereyra]]}}"
+   },
+   {
+    "sec": "Napoli Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=38|nat=ITA|pos=MF|name=[[Andrea Chiummariello]]}}"
+   },
+   {
+    "sec": "Napoli Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=39|nat=UKR|pos=DF|name=[[Melnyk Mykyta Dmytrovych|Mykyta Melnyk]]}}"
+   },
+   {
+    "sec": "Napoli Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=40|nat=ITA|pos=DF|name=[[Claudio Lieto]]}}"
+   },
+   {
+    "sec": "Napoli Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=41|nat=ITA|pos=GK|name=[[David Antonio Spinelli|David Spinelli]]}}"
+   },
+   {
+    "sec": "Colours, badge and nicknames",
+    "dir": "out",
+    "line": "{{Commons|S.S.C. Napoli kits}}As Naples is a coastal city, the colours of the club have always been derived from the blue waters of the [[Gulf of Naples]].<ref>{{cite news|date=24 June 2007|title=Napoli Calcio|language=i"
+   },
+   {
+    "sec": "Colours, badge and nicknames",
+    "dir": "in",
+    "line": "{{Commons|S.S.C. Napoli kits}}As Naples is a coastal city, the colours of the club have always been derived from the blue waters of the [[Gulf of Naples]].<ref>{{cite news|date=24 June 2007|title=Napoli Calcio|language=i"
+   },
+   {
+    "sec": "Support",
+    "dir": "out",
+    "line": "Napoli is the fourth most supported football club in Italy with around 13% of Italian football fans supporting the club.<ref name=\"tifo\">{{cite news|url=http://www.demos.it/a00756.php|title=Il tifo calcistico in Italia&n"
+   },
+   {
+    "sec": "Support",
+    "dir": "in",
+    "line": "Napoli is the fourth most supported football club in Italy with around 13% of Italian football fans supporting the club.<ref name=tifo/> Like other top clubs in the country, Napoli's fanbase goes beyond the Italian borde"
+   }
+  ]
+ },
+ "Inter Milan": {
+  "league": "SerieA",
+  "club": "Inter",
+  "tid": 20078,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{updated|31 August 2026}}<ref name=\"rosa\">{{Cite web |title=Inter First Team |url=https://www.inter.it/en/teams |date=25 August 2026 |publisher=FC Internazionale Milano}}</ref>"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{updated|31 August 2026}}<ref name=\"rosa\">{{Cite web |title=Men First Team |url=https://www.inter.it/en/teams/first-team |date=31 October 2026 |publisher=FC Internazionale Milano}}</ref>"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=31|nat=GER|pos=DF|name=[[Yann Bisseck]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=31|nat=GER|pos=DF|name=[[Yann Aurel Bisseck|Yann Bisseck]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=94|nat=ITA|pos=FW|name=[[Francesco Pio Esposito]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=94|nat=ITA|pos=FW|name=[[Pio Esposito]]}}"
+   },
+   {
+    "sec": "Inter Milan U23 and Youth Sector",
+    "dir": "in",
+    "line": "{{Fs player|no=40|nat=ALB|pos=GK|name=[[Alain Taho]]}}"
+   },
+   {
+    "sec": "Inter Milan U23 and Youth Sector",
+    "dir": "in",
+    "line": "{{Fs player|no=45|nat=ITA|pos=DF|name=[[Francesco Stante]]}}"
+   },
+   {
+    "sec": "Inter Milan U23 and Youth Sector",
+    "dir": "in",
+    "line": "{{Fs player|no=51|nat=CRO|pos=DF|name=[[Leon Jakirović]]}}"
+   },
+   {
+    "sec": "Inter Milan U23 and Youth Sector",
+    "dir": "in",
+    "line": "{{Fs player|no=53|nat=ITA|pos=FW|name=[[Matteo Lavelli]]}}"
+   }
+  ]
+ },
+ "Atalanta BC": {
+  "league": "SerieA",
+  "club": "Atalanta",
+  "tid": 20079,
+  "changes": [
+   {
+    "sec": "Founding and establishment in Serie A (1907–1959)",
+    "dir": "out",
+    "line": "During the 1940s, Atalanta performed consistently in the top flight, though the national league was halted between 1943 and 1945 due to [[World War II]].<ref name=WW2spezia>{{cite web |url=https://www.goal.com/it/notizie"
+   },
+   {
+    "sec": "Founding and establishment in Serie A (1907–1959)",
+    "dir": "in",
+    "line": "During the 1940s, Atalanta performed consistently in the top flight, though the national league was halted between 1943 and 1945 due to [[World War II]].<ref name=WW2spezia>{{cite web |url=https://www.goal.com/it/notizie"
+   },
+   {
+    "sec": "Fluctuating performances (1994–2016)",
+    "dir": "out",
+    "line": "After several upper mid-table finishes and a narrowly missed UEFA cup qualification in 1993,<ref name=legahistory/>{{sfn|Losapio|2020|loc=section 449}} the club was relegated in 1994 after several investments to raise th"
+   },
+   {
+    "sec": "Fluctuating performances (1994–2016)",
+    "dir": "in",
+    "line": "After several upper mid-table finishes and a narrowly missed UEFA cup qualification in 1993,<ref name=legahistory/>{{sfn|Losapio|2020|loc=section 449}} the club was relegated in 1994 after several investments to raise th"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=40|nat=SRB|pos=DF|name=[[Relja Obrić]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=40|nat=SLO|pos=DF|name=[[Relja Obrić]]}}"
+   }
+  ]
+ },
+ "AC Milan": {
+  "league": "SerieA",
+  "club": "Milan",
+  "tid": 20080,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "'''{{Lang|it|Associazione Calcio Milan|italic=no}}''' ({{IPA|it|assotʃatˈtsjoːne ˈkaltʃo ˈmiːlan}}), commonly referred to as '''AC Milan''' or simply '''Milan''' ({{IPA|it|ˈmiːlan}}) mainly outside of Italy,<ref>[https:/"
+   },
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "Milan has spent its entire history in Serie A with the exception of the 1980–81 and 1982–83 seasons.<ref name=\"history\">{{cite web |title=History |url=http://www.acmilan.com/en/club/history |url-status=live |archive-url="
+   },
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "Milan is one of the [[List of football clubs by competitive honours won|most successful football clubs in the world]] in terms of total trophies won. Domestically, Milan has won 19 [[List of Italian football champions#Cl"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "'''{{Lang|it|Associazione Calcio Milan|italic=no}}''' ({{IPA|it|assotʃatˈtsjoːne ˈkaltʃo ˈmiːlan}}), commonly referred to as simply '''Milan''' ({{IPA|it|ˈmiːlan}}) in Italy or '''AC Milan''' outside of Italy,<ref>{{cite"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "Milan has spent its entire history in Serie A with the exception of the 1980–81 and 1982–83 seasons.<ref name=\"history\">{{cite web |title=History |url=http://www.acmilan.com/en/club/history |url-status=live |archive-url="
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "Milan is one of the [[List of football clubs by competitive honours won|most successful football clubs in the world]] in terms of total trophies won. Domestically, Milan has won 19 [[List of Italian football champions#Cl"
+   },
+   {
+    "sec": "Milan Futuro and Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=40|nat=ITA|pos=FW|name=[[Lorenzo Ossola]]}}"
+   },
+   {
+    "sec": "Milan Futuro and Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=41|nat=FRA|pos=GK|name=[[Léo-Paul Andre Jean Bouyer Thiel|Léo Paul Bouyer]]}}"
+   },
+   {
+    "sec": "Milan Futuro and Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=47|nat=ITA|pos=DF|name=[[Nirash Perera]]}}"
+   },
+   {
+    "sec": "Milan Futuro and Primavera",
+    "dir": "out",
+    "line": "{{Fs player|no=41|nat=FRA|pos=GK|name=[[Léo-Paul Andre Jean Bouyer Thiel|Léo Paul Bouyer]]}}"
+   },
+   {
+    "sec": "Milan Futuro and Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=48|nat=SEN|pos=DF|name=[[El Hadji Malick Cissé]]}}"
+   },
+   {
+    "sec": "Milan Futuro and Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=49|nat=ITA|pos=FW|name=[[Luca Menon]]}}"
+   },
+   {
+    "sec": "Milan Futuro and Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=55|nat=NED|pos=MF|name=[[Silvano Vos]]}}"
+   }
+  ]
+ },
+ "AS Roma": {
+  "league": "SerieA",
+  "club": "Roma",
+  "tid": 20081,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=22|nat=ESP|pos=DF|name=[[Mario Hermoso]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=22|nat=ESP|pos=DF|name=[[Mario Hermoso]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=32|nat=COL|pos=GK|name=[[Devis Vásquez]]}}"
+   },
+   {
+    "sec": "Other players under contract",
+    "dir": "out",
+    "line": "{{Fs player|no=32|nat=COL|pos=GK|name=[[Devis Vásquez]]}}"
+   },
+   {
+    "sec": "Roma Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=63|nat=ITA|pos=MF|name=[[Alessandro Di Nunzio]]}}"
+   },
+   {
+    "sec": "Roma Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=72|nat=ITA|pos=FW|name=Lorenzo Paratici|other=on loan from [[UC Sampdoria|Sampdoria]]}}"
+   },
+   {
+    "sec": "Roma Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=78|nat=GUI|pos=FW|name=Mandjou Camara}}"
+   }
+  ]
+ },
+ "Torino FC": {
+  "league": "SerieA",
+  "club": "Torino",
+  "tid": 20082,
+  "changes": [
+   {
+    "sec": "Supporters and rivalries",
+    "dir": "out",
+    "line": "The Argentines of [[Club Atlético River Plate|River Plate]] are historically twinned with Torino, since the time of the Superga disaster. In the period following the disaster, the Argentine club was very close to the Ita"
+   },
+   {
+    "sec": "Supporters and rivalries",
+    "dir": "in",
+    "line": "The Argentines of [[Club Atlético River Plate|River Plate]] are historically twinned with Torino, since the time of the [[Superga air disaster|Superga disaster]]. In the period following the disaster, the Argentine club "
+   }
+  ]
+ },
+ "SS Lazio": {
+  "league": "SerieA",
+  "club": "Lazio",
+  "tid": 20083,
+  "changes": [
+   {
+    "sec": "Supporters and rivalries",
+    "dir": "out",
+    "line": "Founded in 1987, ''Irriducibili Lazio'' was the club's biggest [[ultras]] group for over 30 years. Its members typically created traditional Italian ultra displays during the ''[[Derby della Capitale]]'' (Rome Derby),<re"
+   },
+   {
+    "sec": "Supporters and rivalries",
+    "dir": "in",
+    "line": "Founded in 1987, ''Irriducibili Lazio'' was the club's biggest [[ultras]] group for over 30 years. Its members typically created traditional Italian ultra displays during the ''[[Derby della Capitale]]'' (Rome Derby),<re"
+   },
+   {
+    "sec": "Far-right politics and ''Irriducibili'' ultras",
+    "dir": "out",
+    "line": "A marked shift occurred in 1972 with the formation of the ''Irriducibili'', a group that would become the dominant ultra faction within the Curva Nord, the section of Lazio's home ground, the Stadio Olimpico, where the m"
+   },
+   {
+    "sec": "Far-right politics and ''Irriducibili'' ultras",
+    "dir": "out",
+    "line": "During the 1990s, the ''Irriducibili'' were noted for violent behaviour on and off the terraces, and for the use of fascist salutes, racially abusive chants and antisemitic banners. Incidents attributed to sections of th"
+   },
+   {
+    "sec": "Far-right politics and ''Irriducibili'' ultras",
+    "dir": "out",
+    "line": "In the 2000s and 2010s, Lazio's supporter culture continued to attract controversy. On 3 February 2016, a Serie A match between Lazio and Napoli at the Stadio Olimpico was temporarily halted in the 68th minute after Lazi"
+   },
+   {
+    "sec": "Far-right politics and ''Irriducibili'' ultras",
+    "dir": "in",
+    "line": "A marked shift occurred in 1972 with the formation of the ''Irriducibili'', a group that would become the dominant ultra faction within the Curva Nord, the section of Lazio's home ground, the Stadio Olimpico, where the m"
+   },
+   {
+    "sec": "Far-right politics and ''Irriducibili'' ultras",
+    "dir": "in",
+    "line": "During the 1990s, the ''Irriducibili'' were noted for violent behaviour on and off the terraces, and for the use of fascist salutes, racially abusive chants and antisemitic banners. Incidents attributed to sections of th"
+   },
+   {
+    "sec": "Far-right politics and ''Irriducibili'' ultras",
+    "dir": "in",
+    "line": "In the 2000s and 2010s, Lazio's supporter culture continued to attract controversy. On 3 February 2016, a Serie A match between Lazio and Napoli at the Stadio Olimpico was temporarily halted in the 68th minute after Lazi"
+   }
+  ]
+ },
+ "Genoa CFC": {
+  "league": "SerieA",
+  "club": "Genoa",
+  "tid": 20084,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=74|nat=FRA|pos=DF|name=[[Mamedi Doucouré]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=85|nat=GNB|pos=DF|name=[[Marcelo Vaz]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=14|nat=LTU|pos=DF|name=[[Lukas Klišys]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=74|nat=FRA|pos=DF|name=[[Mamedi Doucouré]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=FRA|pos=MF|name=[[Gaël Lafont]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=75|nat=FRA|pos=MF|name=[[Gaël Lafont]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=85|nat=GNB|pos=DF|name=[[Marcelo Vaz]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "in",
+    "line": "{{Fs player|no=93|nat=LVA|pos=GK|name=[[Rendijs Mihelsons]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{fs player|no=|nat=LIT|pos=GK|name=[[Ernestas Lysionok]]|other=at [[Dolomiti Bellunesi]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{fs player|no=|nat=LIT|pos=GK|name=[[Ernestas Lysionok]]|other=at [[Dolomiti Bellunesi (football club)|Dolomiti Bellunesi]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=ITA|pos=DF|name=[[Gianluca Rossi]]|other=at [[Treviso FBC 1993|Treviso]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=ITA|pos=DF|name=[[Gianluca Rossi]]|other=at [[Treviso FBC|Treviso]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Bologna FC 1909": {
+  "league": "SerieA",
+  "club": "Bologna",
+  "tid": 20085,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=36|pos=DF|nat=ITA|name=[[Matteo Darmian]]}}"
+   }
+  ]
+ },
+ "US Sassuolo Calcio": {
+  "league": "SerieA",
+  "club": "Sassuolo",
+  "tid": 20086,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=ITA|pos=DF|name=[[Edoardo Pieragnolo]]}}"
+   },
+   {
+    "sec": "Other players under contract",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=ITA|pos=DF|name=[[Edoardo Pieragnolo]]}}"
+   }
+  ]
+ },
+ "ACF Fiorentina": {
+  "league": "SerieA",
+  "club": "Fiorentina",
+  "tid": 20091,
+  "changes": [
+   {
+    "sec": "Other players under contract",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=ITA|pos=FW|name=[[Jacopo Tarantino]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=ITA|pos=GK|name=[[Pietro Leonardelli]]|other=at [[Treviso FBC 1993|Treviso]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=ITA|pos=GK|name=[[Pietro Leonardelli]]|other=at [[Treviso FBC|Treviso]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Como 1907": {
+  "league": "SerieA",
+  "club": "Como",
+  "tid": 20349,
+  "changes": [
+   {
+    "sec": "Bankruptcy and brief promotion to Serie B",
+    "dir": "out",
+    "line": "The 21st century saw Como experience a brief revival. Promotion to Serie B in 2001 was marred by an appallingly violent incident in a game against Modena, resulting in captain Massimiliano Ferrigno being handed a three-y"
+   },
+   {
+    "sec": "Bankruptcy and brief promotion to Serie B",
+    "dir": "in",
+    "line": "The 21st century saw Como experience a brief revival. Promotion to Serie B in 2001 was marred by a violent incident following a game against [[Modena FC 2018|Modena]]: Como captain [[Massimiliano Ferrigno]] punched Moden"
+   },
+   {
+    "sec": "New ownership and return to Serie A",
+    "dir": "out",
+    "line": "In the [[2023–24 Serie B|2023–24 season]], the club had a good start in Serie B under Longo and rose to the top of the table, but on 13 November, the decision was made to sack head coach Moreno Longo and appoint Cesc Fàb"
+   },
+   {
+    "sec": "New ownership and return to Serie A",
+    "dir": "in",
+    "line": "In the [[2023–24 Serie B|2023–24 season]], the club had a good start in Serie B under Longo and rose to the top of the table, but on 13 November, the decision was made to sack head coach Moreno Longo and appoint Cesc Fàb"
+   },
+   {
+    "sec": "Stadiums",
+    "dir": "out",
+    "line": "The stadium is owned by the Municipality of Como and has a capacity of 13,602 spectators. Its construction, curated by [[Giovanni Greppi (architect)|Giovanni Greppi]], is one of the first examples of rationalist architec"
+   },
+   {
+    "sec": "Stadiums",
+    "dir": "in",
+    "line": "The stadium is owned by the Municipality of Como and has a capacity of 13,602 spectators. Its construction, curated by [[Giovanni Greppi (architect)|Giovanni Greppi]], is one of the first examples of rationalist architec"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "in",
+    "line": "{{fs player|no=49|nat=ITA|pos=MF|name=[[Riccardo Cassano (footballer)|Riccardo Cassano]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "out",
+    "line": "{{fs player|no=49|nat=ITA|pos=MF|name=[[Riccardo Cassano (footballer)|Riccardo Cassano]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "in",
+    "line": "{{fs player|no=54|nat=ITA|pos=MF|name=[[Matteo Papaccioli]]}}"
+   },
+   {
+    "sec": "Primavera",
+    "dir": "in",
+    "line": "{{fs player|no=58|nat=SWE|pos=FW|name=[[Zebedee Kennedy]]}}"
+   }
+  ]
+ },
+ "Parma Calcio 1913": {
+  "league": "SerieA",
+  "club": "Parma",
+  "tid": 20100,
+  "changes": [
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=ITA|pos=MF|name=[[Rachid Kouda]]|other=on loan to [[Mantova 1911|Mantova]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=BFA|pos=MF|name=[[Rachid Kouda]]|other=on loan to [[Mantova 1911|Mantova]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "AC Monza": {
+  "league": "SerieA",
+  "club": "Monza",
+  "tid": 20370,
+  "changes": [
+   {
+    "sec": "First-team squad",
+    "dir": "out",
+    "line": "{{Fs player|no=24|pos=DF|nat=ITA|name=[[Adam Bakoune]]}}"
+   },
+   {
+    "sec": "First-team squad",
+    "dir": "in",
+    "line": "{{Fs player|no=24|pos=DF|nat=MAR|name=[[Adam Bakoune]]}}"
+   }
+  ]
+ },
+ "Paris Saint-Germain FC": {
+  "league": "Ligue1",
+  "club": "PSG",
+  "tid": 20051,
+  "changes": [
+   {
+    "sec": "Rise to European dominance (2011–present)",
+    "dir": "out",
+    "line": "In 2011, [[Qatar Sports Investments]] (QSI) acquired a majority stake in PSG and subsequently became the club's sole owner. [[Nasser Al-Khelaifi]] became president, and the new ownership significantly increased investmen"
+   },
+   {
+    "sec": "Rise to European dominance (2011–present)",
+    "dir": "in",
+    "line": "In 2011, [[Qatar Sports Investments]] (QSI) acquired a majority stake in PSG and subsequently became the club's sole owner. [[Nasser Al-Khelaifi]] became president, and the new ownership significantly increased investmen"
+   },
+   {
+    "sec": "Rise to European dominance (2011–present)",
+    "dir": "out",
+    "line": "PSG then built a squad around superstars, signing [[Neymar]] from Barcelona and [[Kylian Mbappé]] from Monaco in 2017, before [[Lionel Messi]] joined the club in 2021. The trio helped PSG win further domestic trophies bu"
+   },
+   {
+    "sec": "Rise to European dominance (2011–present)",
+    "dir": "in",
+    "line": "PSG then built a squad around superstars, signing [[Neymar]] from Barcelona and [[Kylian Mbappé]] from Monaco in 2017, before [[Lionel Messi]] joined the club in 2021. The trio helped PSG win further domestic trophies bu"
+   },
+   {
+    "sec": "Rise to European dominance (2011–present)",
+    "dir": "out",
+    "line": "PSG retained the Champions League in 2026. After finishing 11th in the league phase, the club defeated Monaco in the knockout play-offs, [[Chelsea F.C.|Chelsea]] in the round of 16, [[Liverpool F.C.|Liverpool]] in the qu"
+   },
+   {
+    "sec": "Rise to European dominance (2011–present)",
+    "dir": "in",
+    "line": "PSG retained the Champions League in 2026. After finishing 11th in the league phase, the club defeated Monaco in the knockout play-offs, [[Chelsea F.C.|Chelsea]] in the round of 16, [[Liverpool F.C.|Liverpool]] in the qu"
+   },
+   {
+    "sec": "Records",
+    "dir": "out",
+    "line": "Influential figures in the history of PSG include the club's most decorated president [[Nasser Al-Khelaifi]],<ref name=\"PalmaresPresidents\">{{cite news |title=Les présidents du PSG |url=https://histoiredupsg.fr/les-presi"
+   },
+   {
+    "sec": "Records",
+    "dir": "in",
+    "line": "Influential figures in the history of PSG include the club's most decorated president [[Nasser Al-Khelaifi]],<ref name=\"PalmaresPresidents\">{{cite news |title=Les présidents du PSG |url=https://histoiredupsg.fr/les-presi"
+   },
+   {
+    "sec": "Paris derby",
+    "dir": "out",
+    "line": "The [[Paris derby]], also referred to as Derby de Paris, Derby de la Capitale, or Le Derby Parisien, is a [[Football rivalries in France|French football rivalry]] contested between PSG and [[Paris FC]] (PFC), the two lar"
+   },
+   {
+    "sec": "Paris derby",
+    "dir": "in",
+    "line": "The [[Paris derby]], also referred to as Derby de Paris, Derby de la Capitale, or Le Derby Parisien, is a [[Football rivalries in France|French football rivalry]] contested between PSG and [[Paris FC]] (PFC), the two lar"
+   },
+   {
+    "sec": "Paris derby",
+    "dir": "out",
+    "line": "The rivalry traces its roots to the early history of football in the French capital, where historic clubs like [[Racing Club de France Football]] and [[Red Star FC]] once competed. PSG emerged from efforts by the [[Frenc"
+   },
+   {
+    "sec": "Paris derby",
+    "dir": "out",
+    "line": "Following Paris FC's promotion to Ligue 1 in 2025, the Paris derby returned. The two clubs' home stadiums—PSG's [[Parc des Princes]] and PFC's [[Stade Jean-Bouin (Paris)|Stade Jean-Bouin]]—are separated by only a short d"
+   },
+   {
+    "sec": "Paris derby",
+    "dir": "in",
+    "line": "PSG was founded in 1970 through the merger of Paris FC and [[Stade Saint-Germain]], following an initiative to establish a major football club in the capital. After the two clubs split in 1972, PSG established itself as "
+   },
+   {
+    "sec": "Paris derby",
+    "dir": "in",
+    "line": "Following Paris FC's promotion, the derby returned to the top flight. PSG's [[Parc des Princes]] and Paris FC's [[Stade Jean-Bouin (Paris)|Stade Jean-Bouin]] are located close to one another in Paris's 16th arrondissemen"
+   },
+   {
+    "sec": "Paris derby",
+    "dir": "out",
+    "line": "Beyond the men's game, the Paris derby extends to [[women's football in France|women's football]], where [[Paris Saint-Germain FC (women)]] and [[Paris FC (women)]] also compete at the highest level, adding further depth"
+   },
+   {
+    "sec": "Paris derby",
+    "dir": "in",
+    "line": "The [[Paris derby (women)|rivalry also extends to women's football]], with [[Paris Saint-Germain FC (women)]] and [[Paris FC (women)]] competing at the highest level. Paris FC, formerly known as Juvisy, was a prominent f"
+   },
+   {
+    "sec": "Ownership and finances",
+    "dir": "out",
+    "line": "Paris Saint-Germain were initially [[List of fan-owned sports teams|fan-owned]], with around 20,000 members under a non-profit association governed by French law (Association PSG). The club was led by board members [[Guy"
+   },
+   {
+    "sec": "Ownership and finances",
+    "dir": "in",
+    "line": "Paris Saint-Germain were initially [[List of fan-owned sports teams|fan-owned]], with around 20,000 members under a non-profit association governed by French law (Association PSG). The club was led by board members [[Guy"
+   }
+  ]
+ },
+ "Lille OSC": {
+  "league": "Ligue1",
+  "club": "Lille",
+  "tid": 20052,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=2|nat=SUI|pos=DF|name=[[Loun Srdanovic]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=2|nat=SUI|pos=DF|name=[[Loun Srdanović]]}}"
+   }
+  ]
+ },
+ "OGC Nice": {
+  "league": "Ligue1",
+  "club": "Nice",
+  "tid": 20057,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "| nickname = ''Les Aiglons'' (The Eagles)<ref name=\"nickname\">{{Cite web|url=https://footnickname.wordpress.com/2020/06/27/137-ogc-nice-les-aiglons/|title=#137 – OGC Nice : les Aiglons|language=fr|date=27 June 2020|publi"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "| nickname = ''Les Aiglons'' (The Eaglets)<ref name=\"nickname\">{{Cite web|url=https://footnickname.wordpress.com/2020/06/27/137-ogc-nice-les-aiglons/|title=#137 – OGC Nice : les Aiglons|language=fr|date=27 June 2020|publ"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=9|nat=ALG|name=[[Mohamed Amoura]]|pos=FW|other={{small|on loan from [[VfL Wolfsburg|Wolfsburg]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=9|nat=ALG|name=[[Mohamed Amoura]]|pos=FW|other={{small|on loan from [[VfL Wolfsburg]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=36|nat=GHA|name=[[Alidu Seidu]]|pos=DF|other={{small|on loan from [[Stade Rennais F.C.|Rennes]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=36|nat=GHA|name=[[Alidu Seidu]]|pos=DF|other={{small|on loan from [[Stade Rennais FC|Rennes]]}}}}"
+   }
+  ]
+ },
+ "AS Monaco FC": {
+  "league": "Ligue1",
+  "club": "Monaco",
+  "tid": 20058,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "Despite not being a French club, Monaco are one of the most [[List of French football champions|successful clubs in French football]], having won eight league titles,<ref>{{cite web|title=AS Monaco FC history and facts|u"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "Despite not being a French club, Monaco are one of the most [[List of French football champions|successful clubs in French football]], having won eight league titles,<ref>{{cite web|title=AS Monaco FC history and facts|u"
+   },
+   {
+    "sec": "Relegation and takeover",
+    "dir": "out",
+    "line": "In December 2011, 66.67% of the club was sold to the [[Russian oligarch]] and billionaire [[Dmitry Rybolovlev]] (via a trust under his daughter [[Ekaterina Rybolovleva|Ekaterina]]'s name) while the club were bottom of Li"
+   },
+   {
+    "sec": "Relegation and takeover",
+    "dir": "in",
+    "line": "In December 2011, 66.67% of the club was sold to the [[Russian oligarch]] and billionaire [[Dmitry Rybolovlev]] (via a trust under his daughter [[Ekaterina Rybolovleva|Ekaterina]]'s name) while the club were bottom of Li"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=46|nat=MAR|pos=MF|name=Anis Soubeir}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=46|nat=MAR|pos=MF|name=[[Anis Soubeir]]}}"
+   }
+  ]
+ },
+ "Stade Rennais FC": {
+  "league": "Ligue1",
+  "club": "Rennes",
+  "tid": 20060,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=65|nat=FRA|pos=MF|name=[[Henrick Do Marcolino]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=65|nat=GAB|pos=MF|name=[[Henrick Do Marcolino]]}}"
+   }
+  ]
+ },
+ "RC Strasbourg Alsace": {
+  "league": "Ligue1",
+  "club": "Strasbourg",
+  "tid": 20061,
+  "changes": [
+   {
+    "sec": "''Fußballclub Neudorf''",
+    "dir": "out",
+    "line": "[[File:La Meinau en National.jpg|thumb|right|Strasbourg's home stadium since 1914, [[Stade de la Meinau]].]]In the early 1900s, the English export of soccer to foreign countries also reached the deepest parts of the [[Ge"
+   },
+   {
+    "sec": "''Fußballclub Neudorf''",
+    "dir": "in",
+    "line": "[[File:La Meinau en National.jpg|thumb|right|Strasbourg's home stadium since 1914, [[Stade de la Meinau]].]]In the early 1900s, the English export of football to foreign countries also reached the deepest parts of the [["
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=10|nat=USA|name=[[Giovanni Reyna]]|pos=MF}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=10|nat=USA|name=[[Gio Reyna]]|pos=MF}}"
+   }
+  ]
+ },
+ "Stade Brestois 29": {
+  "league": "Ligue1",
+  "club": "Brest",
+  "tid": 20065,
+  "changes": [
+   {
+    "sec": "Squad",
+    "dir": "out",
+    "line": "{{Fs player|no=9|nat=SEN|name=[[Pathé Mboup]]|pos=FW}}"
+   },
+   {
+    "sec": "Squad",
+    "dir": "in",
+    "line": "{{Fs player|no=12|nat=CIV|name=[[Luck Zogbé]]|pos=DF}}"
+   },
+   {
+    "sec": "Squad",
+    "dir": "out",
+    "line": "{{Fs player|no=20|nat=CIV|name=[[Luck Zogbé]]|pos=DF}}"
+   },
+   {
+    "sec": "Squad",
+    "dir": "out",
+    "line": "{{Fs player|no=70|nat=MTQ|name=[[Kenny Lala]]|pos=DF}}"
+   },
+   {
+    "sec": "Squad",
+    "dir": "in",
+    "line": "{{Fs player|no=77|nat=MTQ|name=[[Kenny Lala]]|pos=DF}}"
+   },
+   {
+    "sec": "Squad",
+    "dir": "in",
+    "line": "{{Fs player|no=99|nat=SEN|name=[[Pathé Mboup]]|pos=FW}}"
+   }
+  ]
+ },
+ "RC Lens": {
+  "league": "Ligue1",
+  "club": "Lens",
+  "tid": 20070,
+  "changes": [
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=FRA|pos=FW|name=[[Rayan Fofana]]|other=at [[Le Havre AC|Le Havre]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CIV|pos=FW|name=[[Rayan Fofana]]|other=at [[Le Havre AC|Le Havre]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Le Havre AC": {
+  "league": "Ligue1",
+  "club": "LeHavre",
+  "tid": 20363,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=20|nat=FRA|pos=DF|name=Djibril Ouziad}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=20|nat=FRA|pos=DF|name=[[Djibril Ouziad]]}}"
+   }
+  ]
+ },
+ "Paris FC": {
+  "league": "Ligue1",
+  "club": "ParisFC",
+  "tid": 20424,
+  "changes": [
+   {
+    "sec": "Denomination",
+    "dir": "out",
+    "line": "The identity of Paris FC has evolved significantly since its creation, shaped by mergers, political influence, and rebranding efforts to reinforce its association with the French capital. Initially formed in 1969 through"
+   },
+   {
+    "sec": "Denomination",
+    "dir": "in",
+    "line": "The identity of Paris FC has evolved significantly since its creation, shaped by mergers, political influence, and rebranding efforts to reinforce its association with the French capital. Initially formed in 1969 through"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{Fs player|no=37|nat=FRA|pos=FW|name=[[Mohamed Dao]]}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{Fs player|no=38|nat=FRA|pos=DF|name=[[Kilian Prouchet]]}}"
+   },
+   {
+    "sec": "Women's team",
+    "dir": "in",
+    "line": "The women's team of Paris FC was founded in 1971 as ''ES Juvisy-sur-Orge'' and declared officially as a section of the club in 2017. It currently plays in the first division, called [[Première Ligue]].<ref name=\"Paris FC"
+   }
+  ]
+ },
+ "Angers SCO": {
+  "league": "Ligue1",
+  "club": "Angers",
+  "tid": 20063,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=34|nat=FRA|name=Maël Gernigon|pos=DF}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=34|nat=FRA|name=[[Maël Gernigon]]|pos=DF}}"
+   }
+  ]
+ },
+ "FC Lorient": {
+  "league": "Ligue1",
+  "club": "Lorient",
+  "tid": 20067,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=42|pos=FW|nat=CIV|name=Mamadou Koné}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=42|pos=FW|nat=CIV|name=[[Mamadou Koné (footballer, born 2006)|Mamadou Koné]]}}"
+   }
+  ]
+ },
+ "West Ham United F.C.": {
+  "league": "PL",
+  "club": "WestHam",
+  "tid": 20032,
+  "changes": [
+   {
+    "sec": "Rivalries",
+    "dir": "out",
+    "line": "West Ham have strong rivalries with several other clubs. Most of these are with other London clubs, especially with [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in an East versus North London rivalry<ref name=\"localrival"
+   },
+   {
+    "sec": "Rivalries",
+    "dir": "in",
+    "line": "West Ham have strong rivalries with several other clubs. Most of these are with other London clubs, especially with [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in an East versus North London rivalry<ref name=\"localrival"
+   },
+   {
+    "sec": "Rivalries",
+    "dir": "out",
+    "line": "The oldest and fiercest [[Millwall F.C.–West Ham United F.C. rivalry|rivalry]] is with [[Millwall F.C.|Millwall]]. The two sides are local rivals, having both been founded by employees of local companies, with players li"
+   },
+   {
+    "sec": "Rivalries",
+    "dir": "in",
+    "line": "The oldest and fiercest [[Millwall F.C.–West Ham United F.C. rivalry|rivalry]] is with [[Millwall F.C.|Millwall]]. The two sides are local rivals, having both been founded by employees of local companies, with players li"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=5|nat=BRA|pos=DF|name=[[Morato (footballer, born 2001)|Morato]]|other=on loan from [[Nottingham Forest F.C.|Nottingham Forest]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=8|nat=ENG|pos=MF|name=[[James Ward-Prowse]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=12|nat=SEN|pos=DF|name=[[El Hadji Malick Diouf]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=18|nat=ESP|pos=DF|name=[[Adama Boiro]]|other=on loan from [[Athletic Bilbao]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=20|nat=ENG|pos=FW|name=[[Jarrod Bowen]]|other=[[Captain (association football)|captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=20|nat=ENG|pos=FW|name=[[Jarrod Bowen]]|other=[[Captain (association football)|captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=25|nat=FRA|pos=DF|name=[[Jean-Clair Todibo]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=35|nat=NOR|pos=FW|name=[[Edvin Austbø]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=42|nat=ENG|pos=DF|name=[[Kaelan Casey]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=25|nat=FRA|pos=DF|name=[[Jean-Clair Todibo]]|other=at [[RC Lens|Lens]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=42|nat=ENG|pos=DF|name=[[Kaelan Casey]]|other=at [[Stevenage F.C.|Stevenage]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "FC Barcelona": {
+  "league": "LaLiga",
+  "club": "Barcelona",
+  "tid": 20101,
+  "changes": [
+   {
+    "sec": "1978–2000: Núñez and stabilization",
+    "dir": "out",
+    "line": "Under Cruyff's guidance, Barcelona won four consecutive La Liga titles from 1991 to 1994. They beat [[U.C. Sampdoria|Sampdoria]] in both the 1989 [[1988–89 UEFA Cup Winners' Cup|UEFA Cup Winners' Cup]] final and the 1992"
+   },
+   {
+    "sec": "1978–2000: Núñez and stabilization",
+    "dir": "in",
+    "line": "Ten years after the inception of the youth programme, La Masia, its players began to graduate and play for their first team. Pep Guardiola, the future head coach of Barcelona, was one of the first graduates and would go "
+   },
+   {
+    "sec": "2008–2012: Guardiola era",
+    "dir": "out",
+    "line": "[[FC Barcelona B|Barcelona B]] youth manager [[Pep Guardiola]] took over Frank Rijkaard's duties at the conclusion of the season.<ref name=\"FC Barcelona\"/> Guardiola brought with him the now famous [[tiki-taka]] style of"
+   },
+   {
+    "sec": "2014–2020: Bartomeu era",
+    "dir": "out",
+    "line": "Barcelona won the treble in the [[2014–15 FC Barcelona season|2014–15 season]], winning La Liga, Copa del Rey and Champions League titles, and became the first European team to have won the treble twice.<ref name=\"second"
+   },
+   {
+    "sec": "2014–2020: Bartomeu era",
+    "dir": "in",
+    "line": "Barcelona won the treble in the [[2014–15 FC Barcelona season|2014–15 season]], winning La Liga, Copa del Rey and Champions League titles, and became the first European team to have won the treble twice.<ref name=\"second"
+   },
+   {
+    "sec": "Ownership and finances",
+    "dir": "out",
+    "line": "In 2010, ''[[Forbes]]'' evaluated Barcelona's worth to be around €752&nbsp;million (US$1&nbsp;billion), ranking them fourth after Manchester United, Real Madrid and Arsenal, based on figures from the 2008–09 season.<ref>"
+   },
+   {
+    "sec": "Ownership and finances",
+    "dir": "in",
+    "line": "In 2010, ''[[Forbes]]'' evaluated Barcelona's worth to be around €752&nbsp;million (US$1&nbsp;billion), ranking them fourth after Manchester United, Real Madrid and Arsenal, based on figures from the 2008–09 season.<ref>"
+   },
+   {
+    "sec": "Kit suppliers and shirt sponsors",
+    "dir": "out",
+    "line": "Although Spanish clubs first began displaying sponsor names on their shirts in 1981,<ref>{{cite web|url=https://www.teka.com/global/inspiration/history-of-teka-sponsorship-in-sports-football/|title=History of Teka sponso"
+   },
+   {
+    "sec": "Kit suppliers and shirt sponsors",
+    "dir": "in",
+    "line": "Although Spanish clubs first began displaying sponsor names on their shirts in 1981,<ref>{{cite web|url=https://www.teka.com/global/inspiration/history-of-teka-sponsorship-in-sports-football/|title=History of Teka sponso"
+   },
+   {
+    "sec": "Reserve team and Youth Academy",
+    "dir": "in",
+    "line": "{{Fs player|no=41|pos=DF|nat=ESP|name=[[Álex Campos]]}}"
+   }
+  ]
+ },
+ "Real Madrid CF": {
+  "league": "LaLiga",
+  "club": "RealMadrid",
+  "tid": 20102,
+  "changes": [
+   {
+    "sec": "''La Décima'' and Champions League dominance",
+    "dir": "out",
+    "line": "On 25 June 2013, [[Carlo Ancelotti]] succeeded Mourinho to become the manager of Real Madrid on a three-year deal, with Zinedine Zidane named as one of his assistants.<ref name=\"Ancelotti\">{{cite news |url=https://www.bb"
+   },
+   {
+    "sec": "''La Décima'' and Champions League dominance",
+    "dir": "in",
+    "line": "On 25 June 2013, [[Carlo Ancelotti]] succeeded Mourinho to become the manager of Real Madrid on a three-year deal, with Zinedine Zidane named as one of his assistants.<ref name=\"Ancelotti\">{{cite news |url=https://www.bb"
+   },
+   {
+    "sec": "Mbappé era and decline",
+    "dir": "out",
+    "line": "On 7 May 2026, just three days before the El Clásico, a fight broke out between Valverde and his teammate, Aurélien Tchouaméni. Following the fight, Valverde required stitches because he suffered a cut that needed to be "
+   },
+   {
+    "sec": "Mbappé era and decline",
+    "dir": "in",
+    "line": "On 7 May 2026, just three days before the El Clásico, a fight broke out between Valverde and his teammate, Aurélien Tchouaméni. Following the fight, Valverde required stitches because he suffered a cut that needed to be "
+   },
+   {
+    "sec": "El Viejo Clásico",
+    "dir": "out",
+    "line": "A further minor rivalry exists between Real Madrid and [[Athletic Bilbao]]. This is known as [[El Viejo Clásico]] (''the old classic''),<ref name=\"RTVE\">{{cite web|url=http://www.rtve.es/deportes/20130414/viejo-clasico-e"
+   },
+   {
+    "sec": "El Viejo Clásico",
+    "dir": "in",
+    "line": "A further minor rivalry exists between Real Madrid and [[Athletic Bilbao]]. This is known as [[El Viejo Clásico]] (''the old classic''),<ref name=\"RTVE\">{{cite web|url=http://www.rtve.es/deportes/20130414/viejo-clasico-e"
+   },
+   {
+    "sec": "Reserve and Academy teams",
+    "dir": "in",
+    "line": "{{Fs player|no=39|pos=GK|nat=UKR|name=[[Illia Voloshyn]]}}"
+   }
+  ]
+ },
+ "Málaga CF": {
+  "league": "LaLiga",
+  "club": "Malaga",
+  "tid": 20301,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "They won the [[2002 UEFA Intertoto Cup|UEFA Intertoto Cup]] in 2002 and qualified for the following season's [[2002–03 UEFA Cup|UEFA Cup]], reaching the quarter-final stages. They also qualified for the [[2012–13 UEFA Ch"
+   },
+   {
+    "sec": "Abdullah Al Thani era (2010–2020)",
+    "dir": "in",
+    "line": "In February 2020, a Spanish judge ruled that Abdullah Al Thani was to be excluded from management and control of Málaga, citing irregularities, and Jose Maria Muñoz became the court-appointed administrator of the club.<r"
+   }
+  ]
+ },
+ "Racing de Santander": {
+  "league": "LaLiga",
+  "club": "RacingSantander",
+  "tid": 20304,
+  "changes": [
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{fs player|no=26|nat=ESP|name=[[Álvaro Fernández Fernández|Álvaro Fernández]]|pos=DF}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{fs player|no=28|nat=ESP|name=[[Héctor Mejía Espinosa|Héctor Mejía]]|pos=DF}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{fs player|no=31|nat=ESP|name=[[Laro Gómez]]|pos=GK}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{Fs player|no=33|nat=ESP|name=[[Jorge Castellanos del Olmo|Jorge Castellanos]]|pos=FW}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "out",
+    "line": "{{Fs player|no=33|nat=ESP|name=[[Jorge Castellanos del Olmo|Jorge Castellanos]]|pos=FW}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "out",
+    "line": "{{fs player|no=38|nat=ESP|name=[[Hugo Pérez Sañudo|Hugo Pérez]]|pos=FW}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{fs player|no=38|nat=ESP|name=[[Hugo Pérez Sañudo|Hugo Pérez]]|pos=DF}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{Fs player|no=39|nat=ESP|name=[[Gabriel Jiménez Carpintero|Gaby Jiménez]]|pos=FW}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{Fs player|no=41|nat=ESP|name=[[Mario Solórzano Diestro|Mario Solórzano]]|pos=MF}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{fs player|no=42|nat=EQG|name=[[Junior Bita]]|pos=MF}}"
+   },
+   {
+    "sec": "Reserve team",
+    "dir": "in",
+    "line": "{{Fs player|no=43|nat=ESP|name=[[Alejandro Laso Molino|Alejandro Laso]]|pos=FW}}"
+   }
+  ]
+ },
+ "Beşiktaş J.K.": {
+  "league": "Super",
+  "club": "Besiktas",
+  "tid": 20184,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|no=10|nat=TR|pos=MF|name=[[Orkun Kökçü]]|other=[[Captain (association football)|captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player|no=10|nat=TUR|pos=MF|name=[[Orkun Kökçü]]|other=[[Captain (association football)|captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=12|pos=DF|nat=CIV|name=[[Emmanuel Agbadou]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=12|nat=CIV|pos=DF|name=[[Emmanuel Agbadou]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=33|nat=TUR|pos=DF|name=[[Rıdvan Yılmaz]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=33|nat=TUR|pos=DF|name=[[Rıdvan Yılmaz]]|other=[[Captain (association football)#Vice-captain|3rd captain]]}}"
+   },
+   {
+    "sec": "Administrative Staff",
+    "dir": "out",
+    "line": "'''Source:''' <ref name=\"BJK-Board\">{{cite web |title=Yönetim Kurulu |url=https://bjk.com.tr/tr/cms/yonetim/3/ |access-date=9 August 2025 |website=Beşiktaş JK |publisher=Beşiktaş Jimnastik Kulübü |language=tr}}</ref>"
+   },
+   {
+    "sec": "Administrative staff",
+    "dir": "in",
+    "line": "'''Source:''' <ref name=\"BJK-Board\">{{cite web |title=Yönetim Kurulu Görev Dağılımı Hakkında Bilgilendirme |url=https://bjk.com.tr/tr/haber/95275/yonetim-kurulu-gorev-dagilimi-hakkinda-bilgilendirme.html |access-date=12 "
+   }
+  ]
+ },
+ "İstanbul Başakşehir F.K.": {
+  "league": "Super",
+  "club": "Basaksehir",
+  "tid": 20185,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player|no=  |pos=GK|nat=TUR|name=Luca Stančić}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=  |pos=DF|nat=TUR|name=[[Efe Arda Koyuncu]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|no=  |pos=GK|nat=TUR|name=Luca Stančić}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{fs player|no=|pos=DF|nat=IRL|name=[[Festy Ebosele]]|other=at [[Erzurumspor F.K.|Erzurumspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Yağız Dilek|other=at [[Beyoğlu Yeni Çarşı S.F.|Beyoğlu Yeni Çarşı]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{fs player|no=|nat=IRL|pos=DF|name=[[Festy Ebosele]]|other=at [[Erzurumspor F.K.|Erzurumspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Onur İnan|other=at Kütahyaspor FSK until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Berkay Aydoğmuş|other=at [[Gebzespor|Güzide Gebzespor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=CIV|pos=MF|name=Abdoulaye Yoro|other=at [[Dundee United F.C.|Dundee United]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Burak Sefa Kavraz|other=at [[52 Orduspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Onur İnan|other=at Kütahyaspor FSK until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Yağız Dilek|other=at [[Beyoğlu Yeni Çarşı S.F.|Beyoğlu Yeni Çarşı]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CIV|pos=MF|name=Abdoulaye Yoro|other=at [[Dundee United F.C.|Dundee United]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Berkay Aydoğmuş|other=at [[Gebzespor|Güzide Gebzespor]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Galatasaray S.K. (football)": {
+  "league": "Super",
+  "club": "Galatasaray",
+  "tid": 20186,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=29|nat=ARG|pos=MF|name=[[Can Armando Güner|Armando Güner]]|other=}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=29|nat=ARG|pos=MF|name=[[Armando Güner]]|other=}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=88|nat=TUR|pos=DF|name=[[Kazımcan Karataş]]|other=}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=88|nat=MKD|pos=DF|name=[[Kazımcan Karataş]]|other=}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=POL|pos=DF|name=[[Przemysław Frankowski]]|other=<small>at {{flagicon|FRA}} [[FC Rennes|Rennes]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=POL|pos=MF|name=[[Przemysław Frankowski]]|other=<small>at {{flagicon|FRA}} [[FC Rennes|Rennes]] until 30 June 2027</small>}}"
+   }
+  ]
+ },
+ "Fenerbahçe S.K. (football)": {
+  "league": "Super",
+  "club": "Fenerbahce",
+  "tid": 20607,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "<section begin=\"squad\" />{{updated|10 September 2026}}<ref name=\"Current squad\">{{Cite web|title=FUTBOL A TAKIMI|url=https://www.fenerbahce.org/branslar/futbolatakimi/oyuncular#oyuncular|access-date=18 July 2019|archive-"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "<section begin=\"squad\" />{{updated|10 September 2026}}<ref name=\"Current squad\">{{Cite web|title=Football A Team|url=https://www.fenerbahce.org/branches/footballateam/athletes|access-date=13 October 2026}}</ref><ref>{{Ci"
+   },
+   {
+    "sec": "Academy players in senior squad",
+    "dir": "in",
+    "line": "{{fs player|no=83|pos=MF|nat=TUR|name=[[Yasir Boz]]}}"
+   },
+   {
+    "sec": "Academy players in senior squad",
+    "dir": "out",
+    "line": "{{fs player|no=83|pos=MF|nat=TUR|name=[[Yasir Boz]]}}"
+   },
+   {
+    "sec": "Academy players in senior squad",
+    "dir": "in",
+    "line": "{{fs player|no=99|pos=FW|nat=TUR|name=[[Çağrı Balta]]}}"
+   }
+  ]
+ },
+ "Kasımpaşa S.K.": {
+  "league": "Super",
+  "club": "Kasimpasa",
+  "tid": 20614,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=16|nat=ISL|pos=MF|name=[[Andri Fannar Baldursson]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|no=17|nat=GHA|pos=FW|name=[[Jesurun Rak-Sakyi]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=16|nat=ISL|pos=MF|name=[[Andri Baldursson]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player|no=17|nat=GHA|pos=FW|name=[[Jesurun Rak-Sakyi]]|other=on loan from [[Crystal Palace F.C.|Crystal Palace]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=18|nat=TUR|pos=DF|name=[[Ömer Bayram]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|no=22|nat=TUR|pos=DF|name=[[Kamil Ahmet Çörekçi]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player|no=22|nat=TUR|pos=DF|name=[[Kamil Çörekçi]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|no=29|nat=TUR|pos=DF|name=[[Taylan Aydın]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|no=32|nat=TUR|pos=GK|name=Ramazan Özkanlı}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=  |nat=TUR|pos=DF|name=[[Ömer Bayram]]}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name= Adnan Aktaş}} (at Aliağa FK until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name= Dağhan Erdoğan}} (at Erbaaspor until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=SEN|pos=FW|name= [[Pape Habib Guèye]]}} (at [[Esenler Erokspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=SVN|pos=FW|name= Kenan Kurtović}} (at [[NŠ Mura|Mura]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name= Yasin Eratilla}} (at [[Sakaryaspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{fs player|no=|nat=TUR|pos=GK|name=Ramazan Özkanlı|other=at Malatya Yeşilyurtspor until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Adnan Aktaş|other=at Aliağa FK until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{fs player|no=|nat=TUR|pos=DF|name=[[Taylan Aydın]]|other=at [[Ankara Demirspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{fs player|no=|nat=TUR|pos=DF|name=Berkay Muratoğlu|other=at 12 Bingölspor until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Dağhan Erdoğan|other=at Erbaaspor until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Burak Gültekin|other=at [[Pendikspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name= Erdem Çetinkaya}} (at Ankara Demirspor until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=CIV|pos=FW|name= Stann Élysée Dalo}} (at [[Sarıyer S.K.|Sarıyer]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name= Burak Gültekin}} (at [[Pendikspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name= [[Yusuf Barası]]}} (at [[Eyüpspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=[[Yusuf Barası]]|other=at [[Eyüpspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=[[Erdem Çetinkaya]]|other=at [[Ankara Demirspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CIV|pos=FW|name=Stann Élysée Dalo|other=at [[Sarıyer S.K.|Sarıyer]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Yasin Eratilla|other=at [[Sakaryaspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=SEN|pos=FW|name=[[Pape Habib Guèye]]|other=at [[Esenler Erokspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=SVN|pos=FW|name=Kenan Kurtović|other=at [[NŠ Mura|Mura]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Antalyaspor": {
+  "league": "Super",
+  "club": "Antalyaspor",
+  "tid": 20610,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 3|nat=SUR|pos=DF|name=[[Kenneth Paal]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=10|nat=CIV|pos=FW|name=[[Yohan Boli]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 9|nat=CPV|pos=FW|name=[[Nuno da Costa]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=18|nat=TUR|pos=MF|name=Samet Yalçın}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=26|nat=BEL|pos=FW|name=[[Nikola Storm]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=44|nat=ALG|pos=MF|name=Ismail Chehaima}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=35|nat=GAM|pos=MF|name=[[Jesper Ceesay]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=43|nat=TUR|pos=DF|name=[[Arif Kocaman]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=44|nat=ALG|pos=MF|name=Ismail Taïeb Chehaima}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=77|nat=GRE|pos=GK|name=Fotios Pseftis|other={{small|on loan from [[FC Lugano|Lugano]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=81|nat=TUR|pos=FW|name=Arda Altun}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|pos=MF|nat=BDI|name=Yannick Nkurunziza|other={{small|at [[Gençlik Gücü T.S.K.]] until 30 May 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|pos=DF|nat=TUR|name=Alp Ada Abay|other={{small|at [[Elazığspor]] until 30 May 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|pos=FW|nat=TUR|name=Taha Osman Özmert|other={{small|at [[52 Orduspor]] until 30 May 2027}}}}"
+   }
+  ]
+ },
+ "Kayserispor": {
+  "league": "Super",
+  "club": "Kayserispor",
+  "tid": 20616,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "''As of 7 September, 2026.''<ref name=\"Current squad\">{{in lang|tr}} {{cite web|title=Futbolcular |url=http://kayserispor.org.tr/futbolcular/|access-date=2 July 2022}}</ref>"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "''As of 30 October 2026.''<ref name=\"Current squad\">{{in lang|tr}} {{cite web|title=Futbolcular |url=http://kayserispor.org.tr/futbolcular/|access-date=2 July 2022}}</ref>"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=6|nat=TUR|pos=MF|name=[[Murat Cem Akpınar]]}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=6|nat=TUR|pos=MF|name=[[Murat Akpınar]]}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=12|nat=TUR|pos=GK|name=Hasan Kaan Yalçı}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=24|nat=TUR|pos=MF|name=Enes Melih Gökçek}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=26|nat=TUR|pos=DF|name=Enes Tulgay}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=30|nat=TUR|pos=MF|name=Aras Çelik}} <sup>U17 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=40|nat=TUR|pos=GK|name=Hasan Kaan Yalçı}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=45|nat=TUR|pos=MF|name=Aras Çelik}} <sup>U17 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=40|nat=TUR|pos=MF|name=Efe Arslan Düzgün}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=46|nat=TUR|pos=MF|name=Enes Melih Gökçek}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Efe Arslan Düzgün}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Enes Tulgay}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "out",
+    "line": "{{Fs player|no=44|nat=TUR|pos=DF|name=Ahmet Emin Cömert}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=91|nat=TUR|pos=MF|name=Ahmet Hüseyin Altun}} <sup>U17 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=39|nat=TUR|pos=GK|name=Doğan Batuhan Atasoy}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=34|nat=TUR|pos=MF|name=Tarik Baturalp Başkan }} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=45|nat=TUR|pos=MF|name=Eralp Çam}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "out",
+    "line": "{{Fs player|no=36|nat=TUR|pos=FW|name=Arda Kabukcı}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=33|nat=TUR|pos=DF|name=Görkem Gönen}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=24|nat=TUR|pos=DF|name=Mustafa Arda İçgül}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Necip Özer}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "out",
+    "line": "{{Fs player|no=73|nat=TUR|pos=FW|name=Mahmuthan Polat}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=42|nat=NED|pos=MF|name=Efe Mikail Kenan Kulaksız}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=37|nat=TUR|pos=DF|name=Kerem Oğuztürk}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=32|nat=TUR|pos=MF|name=Necip Özer}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=44|nat=TUR|pos=MF|name=Yusuf Göktuğ Özkılıç}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "out",
+    "line": "{{Fs player|no=43|nat=TUR|pos=MF|name=Muhammet Talha Yaşar}} <sup>U19 eligibility</sup>"
+   },
+   {
+    "sec": "Reserve and Academy players",
+    "dir": "in",
+    "line": "{{Fs player|no=13|nat=TUR|pos=MF|name=Muhammet Talha Yaşar}} <sup>U19 eligibility</sup>"
+   }
+  ]
+ },
+ "Gaziantep F.K.": {
+  "league": "Super",
+  "club": "Gaziantep",
+  "tid": 20617,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=21|nat=CIV|pos=DF|name=[[Abakar Sylla]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=21|nat=CIV|pos=DF|name=[[Abakar Sylla]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=30|nat=TUR|pos=DF|name=[[Nazım Sangaré]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=95|nat=TUR|pos=GK|name=İbrahim Kağan Alkış}}"
+   }
+  ]
+ },
+ "Konyaspor": {
+  "league": "Super",
+  "club": "Konyaspor",
+  "tid": 20608,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 8|pos=MF|nat=TUR|name=[[Marko Jevtović (footballer)|Marko Jevtović]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 8|pos=MF|nat=SER|name=[[Marko Jevtović (footballer)|Marko Jevtović]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=65|pos=GK|nat=TUR|name=Emir Gündoğdu}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=|pos=GK|nat=TUR|name=Emir Gündoğdu}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=KOR|pos=MF|name=[[Jo Jin-ho (footballer)|Jo Jin-ho]]}} (at [[Batman Petrolspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=[[Melih Bostan]]}} (at [[Ümraniyespor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=[[Tunahan Taşçı]]}} (at [[Ümraniyespor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Adem Eren Kabak}} (at Mardin 1969 Spor until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Esat Buğa}} (at [[Elazığspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Abdurrahman Üresin}} (at Güzide Gebze SK until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Utku Eriş|other={{small|at [[Kırklarelispor]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CIV|pos=DF|name=Eric Konaté|other={{small|at [[KF Laçi]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Abdurrahman Üresin|other={{small|at Güzide Gebze SK until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=GUI|pos=MF|name=Ibrahima Bah|other={{small|at [[FK Kukësi]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=[[Melih Bostan]]|other={{small|at [[Ümraniyespor]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Esat Buğa|other={{small|at [[Elazığspor]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CIV|pos=MF|name=Mohamed Fofana|other={{small|at [[FK Kukësi]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=CIV|pos=MF|name=Mohamed Fofana}} (at [[FK Kukësi]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=GUI|pos=MF|name=Ibrahima Bah}} (at [[FK Kukësi]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Eren Yağmur}} (at [[KF Laçi]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=CIV|pos=DF|name=Eric Konaté}} (at [[KF Laçi]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Kaan Akyazı}} (at [[İnegölspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Berke Özçelik}} (at Erciyes 38 FSK until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=KOR|pos=MF|name=[[Jo Jin-ho (footballer)|Jo Jin-ho]]|other={{small|at [[Batman Petrolspor]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Adem Eren Kabak|other={{small|at Mardin 1969 Spor until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Kaan Akyazı|other={{small|at [[İnegölspor]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Berke Özçelik|other={{small|at Erciyes 38 FSK until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=[[Tunahan Taşçı]]|other={{small|at [[Ümraniyespor]] until 30 June 2027}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Eren Yağmur|other={{small|at [[KF Laçi]] until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "Alanyaspor": {
+  "league": "Super",
+  "club": "Alanyaspor",
+  "tid": 20609,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=1|pos=GK|nat=TUR|name=Mahmut Can Kara}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=28|pos=FW|nat=TUR|name=Şahin Dik}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=44|pos=DF|nat=TUR|name=Bilal Demirağ}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=55|pos=MF|nat=TUR|name=[[Baran Gezek]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=55|pos=MF|nat=TUR|name=[[Baran Ali Gezek]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=  |pos=GK|nat=TUR|name=[[Yusuf Karagöz]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=  |pos=FW|nat=TUR|name=Şahin Dik}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=  |pos=GK|nat=TUR|name=Mahmut Can Kara}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=  |pos=DF|nat=TUR|name=Bilal Demirağ}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=  |pos=DF|nat=TUR|name=Nejdet Bilin}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=BRA|pos=DF|name=[[Bruno Viana]]}} (at [[Qingdao West Coast F.C.|Qingdao West Coast]] until 31 December 2026)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Osman Arslantaş}} (at [[Eskişehirspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=[[Buluthan Bulut]]}} (at [[Muğlaspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Eren Altıntaş|other=at Sebat SK until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Nejdet Bilin|other=at Alanya 1221 FSK until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=[[Buluthan Bulut]]|other=at [[Muğlaspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=BRA|pos=DF|name=[[Bruno Viana]]|other=at [[Qingdao West Coast F.C.|Qingdao West Coast]] until 31 December 2026}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Eren Altıntaş}} (at Sebat SK until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Yusuf Can Karademir}} (at Yalova FK 77 SK until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Emirhan Çavuş|other=at 12 Bingölspor until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Yusuf Can Karademir|other=at Yalova FK 77 SK until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Osman Arslantaş|other=at [[Eskişehirspor]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Çaykur Rizespor": {
+  "league": "Super",
+  "club": "Rizespor",
+  "tid": 20631,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 37 |pos=DF|nat=TUR|name=[[Muhammet Taha Şahin]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 37 |pos=DF|nat=TUR|name=[[Taha Şahin]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=    |pos=DF|nat=TUR|name=Habib Özbakır}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=    |pos=FW|nat=TUR|name=Muhammed Baltacı}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=GK|name=[[Erdem Canpolat]]}} (at [[Esenler Erokspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=BIH|pos=MF|name=[[Muhamed Buljubašić]]}} (at [[Esenler Erokspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=[[Anıl Yaşar]]}} (at [[Eyüpspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=GK|name=[[Erdem Canpolat]]|other=at [[Esenler Erokspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Furkan Orak|other=at [[Esenler Erokspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Eray Korkmaz|other=at Mardin 1969 Spor until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=[[Anıl Yaşar]]|other=at [[Eyüpspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Furkan Orak}} (at [[Esenler Erokspor]]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Eray Korkmaz}} (at Mardin 1969 Spor until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=SEN|pos=FW|name=Mame Mor Faye}} (at [[Esenler Erokspor]]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=BIH|pos=MF|name=[[Muhamed Buljubašić]]|other=at [[Esenler Erokspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Muhammed Baltacı|other=at [[Pazarspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=SEN|pos=FW|name=Mame Mor Faye|other=at [[Esenler Erokspor]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Samsunspor": {
+  "league": "Super",
+  "club": "Samsunspor",
+  "tid": 20625,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 7  |nat=TUR|pos=FW|name=[[Elayis Tavsan]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 7  |nat=TUR|pos=FW|name=[[Elayis Tavşan]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 48 |nat=TUR|pos=DF|name=Efe Berat Töruz}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=    |nat=TUR|pos=MF|name=Muhammet Talha Akyüz}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=GK|name=Franck Atoen|other=<small>at {{flagicon|FRA}} [[USL Dunkerque]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=SEN|pos=FW|name=[[Cherif Ndiaye]]|other=<small>at {{flagicon|GRE}} [[PAOK FC|PAOK]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=GK|name=Franck Atoen|other=<small>at {{flagicon|FRA}} [[USL Dunkerque]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=CGO|pos=MF|name=[[Antoine Makoumbou]]|other=<small>at {{flagicon|ITA}} [[UC Sampdoria|Sampdoria]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Emre Köroğlu|other=<small>at {{flagicon|TUR}} Zonguldakspor FK until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=SWE|pos=FW|name=[[Richie Omorowa]]|other=<small>at {{flagicon|SWE}} [[FC Utrecht|Utrecht]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=CIV|pos=MF|name=Cheick Tidiane Diabate|other=<small>at {{flagicon|CRO}} [[NK Rudeš]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CRO|pos=DF|name=[[Toni Borevković]]|other=<small>at {{flagicon|POR}} [[Vitória S.C.|Vitória de Guimarães]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CIV|pos=MF|name=Cheick Tidiane Diabate|other=<small>at {{flagicon|CRO}} [[NK Rudeš]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=CGO|pos=MF|name=[[Antoine Makoumbou]]|other=<small>at {{flagicon|ITA}} [[UC Sampdoria|Sampdoria]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Muhammet Özbaskıcı|other=<small>at {{flagicon|TUR}} [[Sakaryaspor]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=CRO|pos=DF|name=[[Toni Borevković]]|other=<small>at {{flagicon|POR}} [[Vitória S.C.|Vitória de Guimarães]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Emre Köroğlu|other=<small>at {{flagicon|TUR}} Zonguldakspor FK until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=SEN|pos=FW|name=[[Cherif Ndiaye]]|other=<small>at {{flagicon|GRE}} [[PAOK FC|PAOK]] until 30 June 2027</small>}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=SWE|pos=FW|name=[[Richie Omorowa]]|other=<small>at {{flagicon|SWE}} [[FC Utrecht|Utrecht]] until 30 June 2027</small>}}"
+   }
+  ]
+ },
+ "Göztepe S.K.": {
+  "league": "Super",
+  "club": "Goztepe",
+  "tid": 20633,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "| ground = [[Gürsel Aksel Stadium]]<ref name=TFF>{{cite web |title=GÖZTEPE A.Ş. |url=https://www.tff.org/Default.aspx?pageId=535&kulupID=3688 |website=TFF |language=tr |date=14 June 2025}}</ref>"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "| stadium = [[Gürsel Aksel Stadium]]<ref name=TFF>{{cite web |title=GÖZTEPE A.Ş. |url=https://www.tff.org/Default.aspx?pageId=535&kulupID=3688 |website=TFF |language=tr |date=14 June 2025}}</ref>"
+   },
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "| chairman = [[Rasmus Ankersen]]<ref name=TFF/>"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "| president = [[Rasmus Ankersen]]<ref name=TFF/>"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=18|pos=MF|nat=ENG|name=[[Tino Anjorin]]|other=<small>on loan from [[Torino FC|Torino]]</small>}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=27|pos=FW|nat=JOR|name=[[Ibrahim Sabra]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=  |pos=MF|nat=ENG|name=[[Tino Anjorin]]|other=<small>on loan from [[Torino FC|Torino]]</small>}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=  |pos=FW|nat=JOR|name=[[Ibrahim Sabra]]}}"
+   }
+  ]
+ },
+ "Eyüpspor": {
+  "league": "Super",
+  "club": "Eyupspor",
+  "tid": 20620,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 1 |pos=GK|nat=TUR|name=[[Emre Bilgin]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 3 |pos=DF|nat=TUR|name=Arda Yavuz}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 4 |pos=DF|nat=TUR|name=[[Anıl Yaşar]]|other={{small|on loan from [[Çaykur Rizespor]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 5 |pos=DF|nat=MAR|name=[[Jawad El Yamiq]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 7 |pos=DF|nat=TUR|name=[[Talha Ülvan]]|other=[[Captain (association football)|captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 8 |pos=MF|nat=CPV|name=[[David Costa (footballer, born 2004)|David Costa]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player|no= 9 |pos=FW|nat=TUR|name=[[Yusuf Barası]]|other={{small|on loan from [[Kasımpaşa S.K.|Kasımpaşa]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 10|pos=MF|nat=MAR|name=[[Abdelhamid Sabiri]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 11|pos=FW|nat=FRA|name=[[Lenny Pintor]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 15|pos=MF|nat=FRA|name=Charles-André Raux-Yao}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 18|pos=MF|nat=TUR|name=[[Hamza Akman]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 21|pos=DF|nat=ITA|name=[[Simone Giordano]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 29|pos=FW|nat=NGR|name=[[Ahmed Abdullahi (footballer)|Ahmed Abdullahi]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 31|pos=GK|nat=ROM|name=[[Horațiu Moldovan]]|other={{small|on loan from [[Atlético Madrid]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 33|pos=DF|nat=SCO|name=[[Zak Jules]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 1|pos=GK|nat=TUR|name=[[Emre Bilgin]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 3|pos=DF|nat=TUR|name=Arda Yavuz}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 4|pos=DF|nat=TUR|name=[[Seyfettin Anıl Yaşar|Anıl Yaşar]]|other={{small|on loan from [[Çaykur Rizespor]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 5|pos=DF|nat=MAR|name=[[Jawad El Yamiq]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 7|pos=DF|nat=TUR|name=[[Talha Ülvan]]|other=[[Captain (association football)|captain]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no= 8|pos=MF|nat=CPV|name=[[David Costa (footballer, born 2004)|David Costa]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player|no= 9|pos=FW|nat=TUR|name=[[Yusuf Barası]]|other={{small|on loan from [[Kasımpaşa S.K.|Kasımpaşa]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=10|pos=MF|nat=MAR|name=[[Abdelhamid Sabiri]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=11|pos=FW|nat=FRA|name=[[Lenny Pintor]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=15|pos=MF|nat=FRA|name=Charles-André Raux-Yao}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=18|pos=MF|nat=TUR|name=[[Hamza Akman]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=21|pos=DF|nat=ITA|name=[[Simone Giordano]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=25|pos=FW|nat=SEN|name=Abdou Khadre Sy}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=27|pos=DF|nat=TUR|name=Yiğit Demir}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 42|pos=DF|nat=TUR|name=Berhan Şatlı}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 44|pos=DF|nat=TUR|name=Ömer Ceyhan}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 70|pos=MF|nat=TUR|name=[[Mete Kaan Demir|Mete Demir]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 77|pos=MF|nat=POL|name=[[Konrad Michalak]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 84|pos=FW|nat=CIV|name=Christ Sadia}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 88|pos=MF|nat=CGO|name=[[Chandrel Massanga]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= 98|pos=FW|nat=FRA|name=[[Bilal Boutobba]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=   |pos=MF|nat=TUR|name=[[Taşkın İlter]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=   |pos=DF|nat=TUR|name=Yiğit Demir}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=   |pos=FW|nat=TUR|name=Musa Eren Karakaş}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=   |pos=GK|nat=TUR|name=Umut Keseci}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=   |pos=MF|nat=TUR|name=Erdem Çalık}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=   |pos=DF|nat=SEN|name=Diabel Ndoye}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=   |pos=FW|nat=SEN|name=Abdou Khadre Sy}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=28|pos=MF|nat=TUR|name=[[Taşkın İlter]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=29|pos=FW|nat=NGR|name=[[Ahmed Abdullahi (footballer)|Ahmed Abdullahi]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=31|pos=GK|nat=ROM|name=[[Horațiu Moldovan]]|other={{small|on loan from [[Atlético Madrid]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=33|pos=DF|nat=SCO|name=[[Zak Jules]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=42|pos=DF|nat=TUR|name=Berhan Şatlı}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=44|pos=DF|nat=TUR|name=Ömer Ceyhan}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=53|pos=FW|nat=TUR|name=Musa Eren Karakaş}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=70|pos=MF|nat=TUR|name=[[Mete Kaan Demir|Mete Demir]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=77|pos=MF|nat=POL|name=[[Konrad Michalak]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=84|pos=FW|nat=CIV|name=Christ Sadia}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=88|pos=MF|nat=CGO|name=[[Chandrel Massanga]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=98|pos=FW|nat=FRA|name=[[Bilal Boutobba]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=99|pos=GK|nat=TUR|name=Umut Keseci}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=  |pos=DF|nat=SEN|name=Diabel Ndoye}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|pos=MF|nat=TUR|name=Erdem Çalık|other=at Fatsa Belediyespor until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|pos=FW|nat=GHA|name=[[Prince Ampem]]|other=at [[Shanghai Port F.C.|Shanghai Port]] until 31 December 2026}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|pos=FW|nat=TUR|name=Berkay Kumlu|other=at Malatya Yeşilyurtspor until 30 June 2027}}"
+   }
+  ]
+ },
+ "Erzurumspor F.K.": {
+  "league": "Super",
+  "club": "Erzurumspor",
+  "tid": 20637,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player | no=21 | nat=TUR | pos=MF | name=Emirhan Acar}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player | no=65 | nat=CHI | pos=FW | name=[[Martín Rodríguez (Chilean footballer)|Martín Rodríguez]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player | no=65 | nat=CHI | pos=FW | name=[[Martín Rodríguez (footballer, born 1994)|Martín Rodríguez]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player | no=97 | nat=TUR | pos=FW | name=Kerem Erener}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player | no=   | nat=TUR | pos=GK | name=Şerefhan Sağlık}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player | no=   | nat=TUR | pos=DF | name=Emre Erdem}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player | no=   | nat=TUR | pos=MF | name=Emirhan Acar}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Ali Ülgen}} (at [[Bandırmaspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Furkan Özhan}} (at [[Vanspor F.K.|Vanspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Ali Ülgen|other=at [[Bandırmaspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Furkan Özhan|other=at [[Vanspor F.K.|Vanspor]] until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Mert Önal}} (at Sebat FK) until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=İlkan Sever}} (at [[Vanspor F.K.|Vanspor]] until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=Mert Önal|other=at Sebat FK until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=MF|name=İlkan Sever|other=at [[Vanspor F.K.|Vanspor]] until 30 June 2027}}"
+   }
+  ]
+ },
+ "Gençlerbirliği S.K.": {
+  "league": "Super",
+  "club": "Genclerbirligi",
+  "tid": 20639,
+  "changes": [
+   {
+    "sec": "?",
+    "dir": "out",
+    "line": "| ground         = [[Eryaman Stadium]]<ref name=TFF>[https://www.tff.org/Default.aspx?pageId=535&kulupID=3606 Club details] tff.org. Retrieved 3 March 2024.</ref>"
+   },
+   {
+    "sec": "?",
+    "dir": "in",
+    "line": "| stadium = [[Eryaman Stadium]]<ref name=TFF>[https://www.tff.org/Default.aspx?pageId=535&kulupID=3606 Club details] tff.org. Retrieved 3 March 2024.</ref>"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=42|nat=GUI|pos=MF|name=[[Ousmane Diabaté (footballer, born 2007)|Ousmane Diabaté]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=42|nat=GUI|pos=MF|name=[[Ousmane Diabaté (footballer, born 2007)|Ousmane Diabaté]]|other={{small|on loan from [[Newcastle United F.C.|Newcastle United]]}}}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= |nat=GER|pos=MF|name=Dilhan Demir}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no= |nat=TUR|pos=FW|name=Arda Akgül}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Fırat Tulgayoğlu|other={{small|at Bigaspor until 30 June 2027}}}}"
+   }
+  ]
+ },
+ "Kocaelispor": {
+  "league": "Super",
+  "club": "Kocaelispor",
+  "tid": 20630,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player | no= 18 | pos=MF | nat=TUR | name=Hulusi Destici}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{fs player | no= 83 | pos=GK | nat=TUR | name=Serhat Öztaşdelen}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player | no= 83 | pos=GK | nat=TUR | name=[[Serhat Öztaşdelen]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{fs player | no= 98 | pos=GK | nat=TUR | name=Talha Polat}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Bünyamin Dalkılıç}} (at Yalova FK 77 SK until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Muhammed Efe Küçük}} (at Yalova FK 77 SK until 30 June 2027)"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=DF|name=Muhammed Efe Küçük|other=at Yalova FK 77 SK until 30 June 2027}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=|nat=TUR|pos=FW|name=Bünyamin Dalkılıç|other=at Yalova FK 77 SK until 30 June 2027}}"
+   }
+  ]
+ },
+ "Al-Nassr FC": {
+  "league": "Saudi",
+  "club": "Nassr",
+  "tid": 20545,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=22|nat=KSA|name=Abdulhadi Al-Alwan|pos=GK|other={{small|on loan from [[Al Fateh SC|Al-Fateh]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=46|nat=TUN|name=Yassine Sallem|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=KSA|name=Abdulhadi Al-Alwan|pos=GK|other={{small|on loan from [[Al Fateh SC|Al-Fateh]]}}}}"
+   }
+  ]
+ },
+ "Al-Ahli Saudi FC": {
+  "league": "Saudi",
+  "club": "Ahli",
+  "tid": 20515,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=4|nat=FRA|name=[[Ibrahima Diaby]]|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=4|nat=GIN|name=[[Ibrahima Diaby]]|pos=MF}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=10|nat=FRA|name=[[Enzo Millot]]|pos=MF|other={{small|at [[Diriyah Club|Al-Diriyah]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=14|nat=KSA|name=[[Eid Al-Muwallad]]|pos=MF|other={{small|at [[Al Faisaly FC|Al-Faisaly]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=26|nat=KSA|name=[[Yaseen Al-Zubaidi]]|pos=MF|other={{small|at [[Al-Kholood Club|Al-Kholood]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=55|nat=KSA|name=Bader Kabli|pos=GK|other={{small|at [[Al-Ain FC (Saudi Arabia)|Al-Ain]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=10|nat=FRA|name=[[Enzo Millot]]|pos=MF|other={{small|at [[Diriyah Club|Al-Diriyah]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=14|nat=KSA|name=[[Eid Al-Muwallad]]|pos=MF|other={{small|at [[Al Faisaly FC|Al-Faisaly]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=26|nat=KSA|name=[[Yaseen Al-Zubaidi]]|pos=MF|other={{small|at [[Al-Kholood Club|Al-Kholood]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=55|nat=KSA|name=Bader Kabli|pos=GK|other={{small|at [[Al-Ain FC (Saudi Arabia)|Al-Ain]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=60|nat=KSA|name=[[Yazan Madani]]|pos=DF|other={{small|at [[Al-Kholood Club|Al-Kholood]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=77|nat=BRA|name=[[Ricardo Mathias]]|pos=FW|other={{small|at [[Al Shabab Club|Al-Shabab]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=88|nat=KSA|name=[[Abdulelah Al-Khaibari]]|pos=DF|other={{small|at [[Al Fateh SC|Al-Fateh]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=95|nat=KSA|name=[[Ayman Fallatah]]|pos=MF|other={{small|at [[Al Faisaly FC|Al-Faisaly]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=60|nat=KSA|name=[[Yazan Madani]]|pos=DF|other={{small|at [[Al-Kholood Club|Al-Kholood]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=77|nat=BRA|name=[[Ricardo Mathias]]|pos=FW|other={{small|at [[Al Shabab Club|Al-Shabab]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=88|nat=KSA|name=[[Abdulelah Al-Khaibari]]|pos=DF|other={{small|at [[Al Fateh SC|Al-Fateh]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=95|nat=KSA|name=[[Ayman Fallatah]]|pos=MF|other={{small|at [[Al Faisaly FC|Al-Faisaly]]}}}}"
+   }
+  ]
+ },
+ "Al Shabab Club": {
+  "league": "Saudi",
+  "club": "Shabab",
+  "tid": 20708,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=10|nat=BEL|name=[[Yannick Carrasco]]|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=10|nat=BEL|name=[[Yannick Carrasco]]|pos=MF|other={{small|[[captain (association football)|captain]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=63|nat=KSA|name=Abdullah Al-Jamaan|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=|nat=YEM|name=[[Adel Abbas (Yemeni footballer)|Adel Abbas]]|pos=MF}}"
+   }
+  ]
+ },
+ "Al-Riyadh SC": {
+  "league": "Saudi",
+  "club": "Riyadh",
+  "tid": 20726,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=3|nat=KSA|name=[[Yasser Al-Mousa]]|pos=DF|other={{small|on loan from [[Al Wehda FC|Al-Wehda]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=4|nat=KSA|name=Mohammed Al-Shammari|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=22|nat=ALG|name=[[Victor Lekhal]]|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=24|nat=KSA|name=[[Abdulelah Al-Talea]]|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=20|nat=KSA|name=Battal Al-Harthi|pos=FW}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=21|nat=KSA|name=[[Awad Dahal]]|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=22|nat=ALG|name=[[Victor Lekhal]]|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=23|nat=KSA|name=[[Hussain Qassem]]|pos=DF|other={{small|on loan from [[Al Fateh SC|Al-Fateh]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=24|nat=KSA|name=[[Abdulelah Al-Talea]]|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=|nat=KSA|name=Mohammed Al-Shammari|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=|nat=MAR|name=[[Ahmed Khatir]]|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Awad Dahal]]|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Hussain Qassem]]|pos=DF|other={{small|on loan from [[Al Fateh SC|Al-Fateh]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Yasser Al-Mousa]]|pos=DF|other={{small|on loan from [[Al Wehda FC|Al-Wehda]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Saud Zidan]]|pos=MF|other={{small|at [[Al-Jeel Club|Al-Jeel]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Khalil Al-Absi]]|pos=MF|other={{small|at [[Neom SC|Neom]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Abdulaziz Al-Ajian]]|pos=FW|other={{small|at [[Al-Shoulla FC|Al-Shoulla]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Khalil Al-Absi]]|pos=MF|other={{small|at [[[Neom SC|Neom]]}}}}"
+   }
+  ]
+ },
+ "Al-Ettifaq Club": {
+  "league": "Saudi",
+  "club": "Ettifaq",
+  "tid": 20712,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=5|nat=BRA|name=[[Pedro Henrique (footballer, born 1995)|Pedro Henrique]]|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=90|nat=KSA|name=[[Talal Haji]]|pos=FW|other={{small|on loan from [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=BRA|name=[[Pedro Henrique (footballer, born 1995)|Pedro Henrique]]|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=KSA|name=[[Talal Haji]]|pos=FW|other={{small|on loan from [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=SUD|name=[[Sultan Harun]]|pos=FW|other={{small|on loan from [[Al Qadsiah FC|Al-Qadsiah]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=99|nat=SUD|name=[[Sultan Harun]]|pos=FW|other={{small|on loan from [[Al Qadsiah FC|Al-Qadsiah]]}}}}"
+   }
+  ]
+ },
+ "Al-Khaleej FC": {
+  "league": "Saudi",
+  "club": "Khaleej",
+  "tid": 20721,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=9|nat=ARG|name=[[Mateo Benegas]]|pos=FW|other={{small|on loan from [[Ferro (Covilhã)|Ferro]]}}}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=25|nat=KSA|name=Hamed Al-Zahri|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Mohammed Al-Abdullah (Saudi footballer)|Mohammed Al-Abdullah]]|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=|nat=KSA|name=[[Abdullah Al Zaynaldeen]]|pos=MF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player |no=|nat=ARG|name=[[Mateo Benegas]]|pos=FW|other={{small|on loan from [[Ferro]]}}}}"
+   }
+  ]
+ },
+ "Al Fateh SC": {
+  "league": "Saudi",
+  "club": "Fateh",
+  "tid": 20711,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player|no=27|nat=SUD|name=Ali Alamine|pos=DF}}"
+   },
+   {
+    "sec": "Players",
+    "dir": "out",
+    "line": "{{Fs player|no=|nat=SUD|name=Ali Alamine|pos=DF}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "out",
+    "line": "{{Fs player|no=55|nat=KSA|name=[[Fawaz Al-Hamad]]|pos=DF|other={{small|at [[Al-Jeel Club|Al-Jeel]]}}}}"
+   },
+   {
+    "sec": "Out on loan",
+    "dir": "in",
+    "line": "{{Fs player|no=55|nat=KSA|name=[[Fawaz Al-Hamad]]|pos=DF|other={{small|at [[Al Jeel Club|Al-Jeel]]}}}}"
+   }
+  ]
+ },
+ "Abha Club": {
+  "league": "Saudi",
+  "club": "Abha",
+  "tid": 20717,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player |no=19|nat=KSA|name=[[Abdullah Al-Fahad]]|pos=DF}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player |no=19|nat=KSA|name=[[Abdullah Al-Fahad]]|pos=DF}}"
+   }
+  ]
+ },
+ "Al-Fayha Club": {
+  "league": "Saudi",
+  "club": "Fayha",
+  "tid": 20713,
+  "changes": [
+   {
+    "sec": "Players",
+    "dir": "in",
+    "line": "{{Fs player |no=8|nat=KSA|name=[[Abdulhadi Al-Harajin]]|pos=MF}}"
+   }
+  ]
+ },
+ "Shanghai Port F.C.": {
+  "league": "China",
+  "club": "Port",
+  "tid": 20534,
+  "changes": [
+   {
+    "sec": "First-team squad",
+    "dir": "out",
+    "line": "{{Fs player|no=53|nat=CHN|name=Li Zhiliang|pos=GK}}"
+   },
+   {
+    "sec": "First-team squad",
+    "dir": "in",
+    "line": "{{Fs player|no=53|nat=CHN|name=[[Li Zhiliang]]|pos=GK}}"
+   },
+   {
+    "sec": "First-team squad",
+    "dir": "out",
+    "line": "{{Fs player|no=53|nat=CHN|name=Li Zhiliang|pos=GK}}"
+   },
+   {
+    "sec": "First-team squad",
+    "dir": "in",
+    "line": "{{Fs player|no=53|nat=CHN|name=[[Li Zhiliang]]|pos=GK}}"
+   }
+  ]
+ },
+ "Shanghai Shenhua F.C.": {
+  "league": "China",
+  "club": "Shenhua",
+  "tid": 20543,
+  "changes": [
+   {
+    "sec": "First team squad",
+    "dir": "out",
+    "line": "{{Fs player|no=38|nat=CHN|name=Wu Qipeng|pos=MF}}"
+   },
+   {
+    "sec": "First team squad",
+    "dir": "in",
+    "line": "{{Fs player|no=38|nat=CHN|name=[[Wu Qipeng]]|pos=MF}}"
+   }
+  ]
+ },
+ "Shandong Taishan F.C.": {
+  "league": "China",
+  "club": "Shandong",
+  "tid": 20548,
+  "changes": [
+   {
+    "sec": "B-team squad",
+    "dir": "out",
+    "line": "{{Fs player|no=14|nat=CHN|name=Guo Xin|pos=MF}}"
+   },
+   {
+    "sec": "B-team squad",
+    "dir": "in",
+    "line": "{{Fs player|no=14|nat=CHN|name=[[Guo Xin]]|pos=MF}}"
+   }
+  ]
+ },
+ "Qingdao West Coast F.C.": {
+  "league": "China",
+  "club": "WestCoast",
+  "tid": 40107,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=4|nat=CHN|pos=DF|name=Elnizar Lohman}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=4|nat=CHN|pos=DF|name=[[Elnizar Lohman]]}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=31|nat=CHN|pos=MF|name=Alexander Xie}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=31|nat=CHN|pos=MF|name=[[Alexander Xie]]}}"
+   }
+  ]
+ },
+ "Chongqing Tonglianglong F.C.": {
+  "league": "China",
+  "club": "Chongqing",
+  "tid": 40105,
+  "changes": [
+   {
+    "sec": "Current squad",
+    "dir": "out",
+    "line": "{{Fs player|no=31|nat=CHN|name=Wu Zitong|pos=GK}}"
+   },
+   {
+    "sec": "Current squad",
+    "dir": "in",
+    "line": "{{Fs player|no=31|nat=CHN|name=[[Wu Zitong]]|pos=GK}}"
+   }
+  ]
+ },
+ "2026–27 Süper Lig": {
+  "league": "SuperLig",
+  "club": "*",
+  "tid": null,
+  "changes": [
+   {
+    "sec": "Stadiums and locations",
+    "dir": "out",
+    "line": "| 13,797<ref name=\"recep\">{{#invoke:cite|web|url=https://www.tff.org/Default.aspx?pageId=394&stadId=103|title=RECEP TAYYİP ERDOĞAN STADYUMU|language=tr|publisher=TFF|access-date=21 August 2026}}</ref>"
+   },
+   {
+    "sec": "Stadiums and locations",
+    "dir": "in",
+    "line": "| 4,274<ref name=\"esenyurt\">{{#invoke:cite|web|url=https://www.tff.org/Default.aspx?pageId=394&stadId=5372|title=ESENYURT NECMİ KADIOĞLU STADI|language=tr|publisher=TFF|access-date=12 October 2026}}</ref>"
+   },
+   {
+    "sec": "Stadiums and locations",
+    "dir": "in",
+    "line": "| 13,797<ref name=\"recep\">{{#invoke:cite|web|url=https://www.tff.org/Default.aspx?pageId=394&stadId=103|title=RECEP TAYYİP ERDOĞAN STADYUMU|language=tr|publisher=TFF|access-date=21 August 2026}}</ref>"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "in",
+    "line": "| {{flagicon|Poland}} [[Jakub Kałuziński]]<ref name=\"u23\" />"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "out",
+    "line": "| {{flagicon|Poland}} [[Jakub Kałuziński]]<ref name=\"u23\" /> <br> {{flagicon|Uzbekistan}} [[Abbosbek Fayzullaev]] <br>{{flagicon|Gambia}} [[Albert Gomez]]<br>{{flagicon|Georgia}} [[Saba Kharebashvili]]"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "in",
+    "line": "| {{flagicon|Benin}} [[Junior Olaitan]]<ref name=\"u23\">{{#invoke:cite|web|title=TFF, yeni yabancı kuralını açıkladı - 2026-2027 sezonunun yabancı oyuncu sistemi belli oldu |url=https://www.transfermarkt.com.tr/tff-yeni-y"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "out",
+    "line": "| {{flagicon|Benin}} [[Junior Olaitan]]<ref name=\"u23\">{{#invoke:cite|web|title=TFF, yeni yabancı kuralını açıkladı - 2026-2027 sezonunun yabancı oyuncu sistemi belli oldu |url=https://www.transfermarkt.com.tr/tff-yeni-y"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "in",
+    "line": "| {{flagicon|England}} [[Archie Brown (footballer)|Archie Brown]]<ref name=\"u23\" />"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "in",
+    "line": "| {{flagicon|Mali}} [[Dorgeles Nene]]<ref name=\"u23\" />"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "out",
+    "line": "| {{flagicon|England}} [[Archie Brown (footballer)|Archie Brown]]<ref name=\"u23\" /> <br>  {{flagicon|Mali}} [[Dorgeles Nene]]<ref name=\"u23\" /><br> {{flagicon|Ghana}} [[Kojo Peprah Oppong]]<br>{{flagicon|Serbia}} [[Ognje"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "in",
+    "line": "| {{flagicon|Cape Verde}} [[Wagner Pina]]<ref name=\"u23\" />"
+   },
+   {
+    "sec": "Foreign players",
+    "dir": "out",
+    "line": "| {{flagicon|Cape Verde}} [[Wagner Pina]]<ref name=\"u23\" /> <br> {{flagicon|Guinea-Bissau}} [[Franculino Djú]]<br>{{flagicon|Nigeria}} [[Chibuike Nwaiwu]]<br>{{flagicon|Portugal}} [[Noah Saviolo]]"
+   },
+   {
+    "sec": "Clean sheets",
+    "dir": "out",
+    "line": "! Rank !! Player !! Club(s) !! Clean <br /> sheets<ref name=\":0\">{{#invoke:cite|web|title=Süper Lig|url=https://www.fotmob.com/tr/leagues/71/stats/season/27244/players/clean_sheet|website=Fotmob}}</ref>"
+   },
+   {
+    "sec": "Clean sheets",
+    "dir": "in",
+    "line": "! Rank !! Player !! Club(s) !! Clean <br /> sheets<ref name=\":0\">{{#invoke:cite|web|title=Clean sheets – Süper Lig 2026/2027|url=https://www.fotmob.com/en-GB/leagues/71/stats/season/42167/players/clean_sheet/super-lig-tr"
+   }
+  ]
+ },
+ "2026 Chinese Super League": {
+  "league": "CSL",
+  "club": "*",
+  "tid": null,
+  "changes": [
+   {
+    "sec": "Managerial changes",
+    "dir": "in",
+    "line": "|6 October 2026<ref name=\"whts20261006\">{{cite web|url=https://www.ttplus.cn/publish/app/data/2026/10/06/655731/os_news.html|title=三镇官方宣布苏亚雷斯下课 邓卓翔“三进宫”|publisher=Titan Sports|date=6 October 2026|access-date=14 October 2"
+   },
+   {
+    "sec": "Managerial changes",
+    "dir": "in",
+    "line": "|6 October 2026<ref name=\"whts20261006\" />"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_BJG=Beijing Guoan had 5 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\">{{cite web|url=https://www.t"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_HEN=Henan had 6 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_QDH=Qingdao Hainiu had 7 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits; serious breach of the principle of fair play, causi"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_SDT=Shandong Taishan had 6 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_SHP=Shanghai Port had 5 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_SHS=Shanghai Shenhua had 10 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_TJT=Tianjin Jinmen Tiger had 10 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits; serious breach of the principle of fair play"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_WTT=Wuhan Three Towns had 5 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "out",
+    "line": "|hth_ZHJ=Zhejiang had 5 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_BJG=Beijing Guoan had 5 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\">{{cite web|url=https://www."
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_HEN=Henan had 6 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_QDH=Qingdao Hainiu had 7 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits; serious breach of the principle of fair play, caus"
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_SDT=Shandong Taishan had 6 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_SHP=Shanghai Port had 5 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_SHS=Shanghai Shenhua had 10 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_TJT=Tianjin Jinmen Tiger had 10 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits; serious breach of the principle of fair pla"
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_WTT=Wuhan Three Towns had 5 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   },
+   {
+    "sec": "League table",
+    "dir": "in",
+    "line": "|note_ZHJ=Zhejiang had 5 points deducted for violation of sports ethics and loss of sportsmanship, engaging in improper transactions to seek illegitimate benefits.<ref name=\"match-fixing\"/>"
+   }
+  ]
+ }
+}

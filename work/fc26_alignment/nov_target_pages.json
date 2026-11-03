@@ -1,0 +1,777 @@
+{
+ "FC Bayern Munich": {
+  "league": "Bundesliga",
+  "club": "BayernMunich",
+  "tid": 20126
+ },
+ "Borussia Dortmund": {
+  "league": "Bundesliga",
+  "club": "Dortmund",
+  "tid": 20127
+ },
+ "RB Leipzig": {
+  "league": "Bundesliga",
+  "club": "Leipzig",
+  "tid": 20128
+ },
+ "Bayer 04 Leverkusen": {
+  "league": "Bundesliga",
+  "club": "Leverkusen",
+  "tid": 20129
+ },
+ "FC Schalke 04": {
+  "league": "Bundesliga",
+  "club": "Schalke",
+  "tid": 20130
+ },
+ "Eintracht Frankfurt": {
+  "league": "Bundesliga",
+  "club": "Frankfurt",
+  "tid": 20131
+ },
+ "Borussia Mönchengladbach": {
+  "league": "Bundesliga",
+  "club": "Gladbach",
+  "tid": 20132
+ },
+ "1. FSV Mainz 05": {
+  "league": "Bundesliga",
+  "club": "Mainz",
+  "tid": 20134
+ },
+ "SV Werder Bremen": {
+  "league": "Bundesliga",
+  "club": "Bremen",
+  "tid": 20135
+ },
+ "1. FC Union Berlin": {
+  "league": "Bundesliga",
+  "club": "UnionBerlin",
+  "tid": 20144
+ },
+ "SC Freiburg": {
+  "league": "Bundesliga",
+  "club": "Freiburg",
+  "tid": 20137
+ },
+ "1. FC Köln": {
+  "league": "Bundesliga",
+  "club": "Koln",
+  "tid": 20138
+ },
+ "FC Augsburg": {
+  "league": "Bundesliga",
+  "club": "Augsburg",
+  "tid": 20139
+ },
+ "VfB Stuttgart": {
+  "league": "Bundesliga",
+  "club": "Stuttgart",
+  "tid": 20140
+ },
+ "Hamburger SV": {
+  "league": "Bundesliga",
+  "club": "Hamburg",
+  "tid": 20141
+ },
+ "TSG 1899 Hoffenheim": {
+  "league": "Bundesliga",
+  "club": "Hoffenheim",
+  "tid": 20145
+ },
+ "SC Paderborn 07": {
+  "league": "Bundesliga",
+  "club": "Paderborn",
+  "tid": 20147
+ },
+ "SV 07 Elversberg": {
+  "league": "Bundesliga",
+  "club": "Elversberg",
+  "tid": 20379
+ },
+ "Juventus FC": {
+  "league": "SerieA",
+  "club": "Juventus",
+  "tid": 20076
+ },
+ "SSC Napoli": {
+  "league": "SerieA",
+  "club": "Napoli",
+  "tid": 20077
+ },
+ "Inter Milan": {
+  "league": "SerieA",
+  "club": "Inter",
+  "tid": 20078
+ },
+ "Atalanta BC": {
+  "league": "SerieA",
+  "club": "Atalanta",
+  "tid": 20079
+ },
+ "AC Milan": {
+  "league": "SerieA",
+  "club": "Milan",
+  "tid": 20080
+ },
+ "AS Roma": {
+  "league": "SerieA",
+  "club": "Roma",
+  "tid": 20081
+ },
+ "Torino FC": {
+  "league": "SerieA",
+  "club": "Torino",
+  "tid": 20082
+ },
+ "SS Lazio": {
+  "league": "SerieA",
+  "club": "Lazio",
+  "tid": 20083
+ },
+ "Genoa CFC": {
+  "league": "SerieA",
+  "club": "Genoa",
+  "tid": 20084
+ },
+ "Bologna FC 1909": {
+  "league": "SerieA",
+  "club": "Bologna",
+  "tid": 20085
+ },
+ "US Sassuolo Calcio": {
+  "league": "SerieA",
+  "club": "Sassuolo",
+  "tid": 20086
+ },
+ "Udinese Calcio": {
+  "league": "SerieA",
+  "club": "Udinese",
+  "tid": 20087
+ },
+ "ACF Fiorentina": {
+  "league": "SerieA",
+  "club": "Fiorentina",
+  "tid": 20091
+ },
+ "Cagliari Calcio": {
+  "league": "SerieA",
+  "club": "Cagliari",
+  "tid": 20089
+ },
+ "Como 1907": {
+  "league": "SerieA",
+  "club": "Como",
+  "tid": 20349
+ },
+ "Parma Calcio 1913": {
+  "league": "SerieA",
+  "club": "Parma",
+  "tid": 20100
+ },
+ "US Lecce": {
+  "league": "SerieA",
+  "club": "Lecce",
+  "tid": 20369
+ },
+ "AC Monza": {
+  "league": "SerieA",
+  "club": "Monza",
+  "tid": 20370
+ },
+ "Venezia FC": {
+  "league": "SerieA",
+  "club": "Venezia",
+  "tid": 20098
+ },
+ "Frosinone Calcio": {
+  "league": "SerieA",
+  "club": "Frosinone",
+  "tid": 20347
+ },
+ "Paris Saint-Germain FC": {
+  "league": "Ligue1",
+  "club": "PSG",
+  "tid": 20051
+ },
+ "Lille OSC": {
+  "league": "Ligue1",
+  "club": "Lille",
+  "tid": 20052
+ },
+ "Olympique Lyonnais": {
+  "league": "Ligue1",
+  "club": "Lyon",
+  "tid": 20053
+ },
+ "Olympique de Marseille": {
+  "league": "Ligue1",
+  "club": "Marseille",
+  "tid": 20055
+ },
+ "OGC Nice": {
+  "league": "Ligue1",
+  "club": "Nice",
+  "tid": 20057
+ },
+ "AS Monaco FC": {
+  "league": "Ligue1",
+  "club": "Monaco",
+  "tid": 20058
+ },
+ "Stade Rennais FC": {
+  "league": "Ligue1",
+  "club": "Rennes",
+  "tid": 20060
+ },
+ "RC Strasbourg Alsace": {
+  "league": "Ligue1",
+  "club": "Strasbourg",
+  "tid": 20061
+ },
+ "Stade Brestois 29": {
+  "league": "Ligue1",
+  "club": "Brest",
+  "tid": 20065
+ },
+ "RC Lens": {
+  "league": "Ligue1",
+  "club": "Lens",
+  "tid": 20070
+ },
+ "Toulouse FC": {
+  "league": "Ligue1",
+  "club": "Toulouse",
+  "tid": 20075
+ },
+ "AJ Auxerre": {
+  "league": "Ligue1",
+  "club": "Auxerre",
+  "tid": 20372
+ },
+ "Le Havre AC": {
+  "league": "Ligue1",
+  "club": "LeHavre",
+  "tid": 20363
+ },
+ "Paris FC": {
+  "league": "Ligue1",
+  "club": "ParisFC",
+  "tid": 20424
+ },
+ "Angers SCO": {
+  "league": "Ligue1",
+  "club": "Angers",
+  "tid": 20063
+ },
+ "FC Lorient": {
+  "league": "Ligue1",
+  "club": "Lorient",
+  "tid": 20067
+ },
+ "ES Troyes AC": {
+  "league": "Ligue1",
+  "club": "Troyes",
+  "tid": 20071
+ },
+ "Arsenal FC": {
+  "league": "PL",
+  "club": "Arsenal",
+  "tid": 20030
+ },
+ "Liverpool F.C.": {
+  "league": "PL",
+  "club": "Liverpool",
+  "tid": 20027
+ },
+ "Chelsea F.C.": {
+  "league": "PL",
+  "club": "Chelsea",
+  "tid": 20028
+ },
+ "Tottenham Hotspur F.C.": {
+  "league": "PL",
+  "club": "Tottenham",
+  "tid": 20029
+ },
+ "Newcastle United F.C.": {
+  "league": "PL",
+  "club": "Newcastle",
+  "tid": 20037
+ },
+ "Manchester City F.C.": {
+  "league": "PL",
+  "club": "ManCity",
+  "tid": 20026
+ },
+ "Manchester United F.C.": {
+  "league": "PL",
+  "club": "ManUnited",
+  "tid": 20031
+ },
+ "A.F.C. Bournemouth": {
+  "league": "PL",
+  "club": "Bournemouth",
+  "tid": 20046
+ },
+ "Aston Villa F.C.": {
+  "league": "PL",
+  "club": "AstonVilla",
+  "tid": 20039
+ },
+ "Brentford F.C.": {
+  "league": "PL",
+  "club": "Brentford",
+  "tid": 20036
+ },
+ "Brighton & Hove Albion F.C.": {
+  "league": "PL",
+  "club": "Brighton",
+  "tid": 20035
+ },
+ "Crystal Palace F.C.": {
+  "league": "PL",
+  "club": "CrystalPalace",
+  "tid": 20038
+ },
+ "Everton F.C.": {
+  "league": "PL",
+  "club": "Everton",
+  "tid": 20041
+ },
+ "Fulham F.C.": {
+  "league": "PL",
+  "club": "Fulham",
+  "tid": 20367
+ },
+ "Coventry City F.C.": {
+  "league": "PL",
+  "club": "Coventry",
+  "tid": 20324
+ },
+ "Ipswich Town F.C.": {
+  "league": "PL",
+  "club": "Ipswich",
+  "tid": 20398
+ },
+ "Hull City A.F.C.": {
+  "league": "PL",
+  "club": "HullCity",
+  "tid": 20313
+ },
+ "Nottingham Forest F.C.": {
+  "league": "PL",
+  "club": "NottinghamForest",
+  "tid": 20050
+ },
+ "Sunderland A.F.C.": {
+  "league": "PL",
+  "club": "Sunderland",
+  "tid": 20311
+ },
+ "West Ham United F.C.": {
+  "league": "PL",
+  "club": "WestHam",
+  "tid": 20032
+ },
+ "FC Barcelona": {
+  "league": "LaLiga",
+  "club": "Barcelona",
+  "tid": 20101
+ },
+ "Real Madrid CF": {
+  "league": "LaLiga",
+  "club": "RealMadrid",
+  "tid": 20102
+ },
+ "Atlético Madrid": {
+  "league": "LaLiga",
+  "club": "AtleticoMadrid",
+  "tid": 20103
+ },
+ "Valencia CF": {
+  "league": "LaLiga",
+  "club": "Valencia",
+  "tid": 20104
+ },
+ "Getafe CF": {
+  "league": "LaLiga",
+  "club": "Getafe",
+  "tid": 20105
+ },
+ "Sevilla FC": {
+  "league": "LaLiga",
+  "club": "Sevilla",
+  "tid": 20106
+ },
+ "RCD Espanyol": {
+  "league": "LaLiga",
+  "club": "Espanyol",
+  "tid": 20107
+ },
+ "Athletic Bilbao": {
+  "league": "LaLiga",
+  "club": "AthleticBilbao",
+  "tid": 20108
+ },
+ "Real Sociedad": {
+  "league": "LaLiga",
+  "club": "RealSociedad",
+  "tid": 20109
+ },
+ "Deportivo Alavés": {
+  "league": "LaLiga",
+  "club": "Alaves",
+  "tid": 20110
+ },
+ "Villarreal CF": {
+  "league": "LaLiga",
+  "club": "Villarreal",
+  "tid": 20113
+ },
+ "CA Osasuna": {
+  "league": "LaLiga",
+  "club": "Osasuna",
+  "tid": 20114
+ },
+ "Real Betis": {
+  "league": "LaLiga",
+  "club": "RealBetis",
+  "tid": 20119
+ },
+ "Celta de Vigo": {
+  "league": "LaLiga",
+  "club": "CeltaVigo",
+  "tid": 20120
+ },
+ "Rayo Vallecano": {
+  "league": "LaLiga",
+  "club": "RayoVallecano",
+  "tid": 20121
+ },
+ "Elche CF": {
+  "league": "LaLiga",
+  "club": "Elche",
+  "tid": 20122
+ },
+ "Levante UD": {
+  "league": "LaLiga",
+  "club": "Levante",
+  "tid": 20123
+ },
+ "Málaga CF": {
+  "league": "LaLiga",
+  "club": "Malaga",
+  "tid": 20301
+ },
+ "Racing de Santander": {
+  "league": "LaLiga",
+  "club": "RacingSantander",
+  "tid": 20304
+ },
+ "Deportivo de La Coruña": {
+  "league": "LaLiga",
+  "club": "Deportivo",
+  "tid": 20396
+ },
+ "Beşiktaş J.K.": {
+  "league": "Super",
+  "club": "Besiktas",
+  "tid": 20184
+ },
+ "İstanbul Başakşehir F.K.": {
+  "league": "Super",
+  "club": "Basaksehir",
+  "tid": 20185
+ },
+ "Galatasaray S.K. (football)": {
+  "league": "Super",
+  "club": "Galatasaray",
+  "tid": 20186
+ },
+ "Fenerbahçe S.K. (football)": {
+  "league": "Super",
+  "club": "Fenerbahce",
+  "tid": 20607
+ },
+ "Kasımpaşa S.K.": {
+  "league": "Super",
+  "club": "Kasimpasa",
+  "tid": 20614
+ },
+ "Antalyaspor": {
+  "league": "Super",
+  "club": "Antalyaspor",
+  "tid": 20610
+ },
+ "Sivasspor": {
+  "league": "Super",
+  "club": "Sivasspor",
+  "tid": 20613
+ },
+ "Kayserispor": {
+  "league": "Super",
+  "club": "Kayserispor",
+  "tid": 20616
+ },
+ "Gaziantep F.K.": {
+  "league": "Super",
+  "club": "Gaziantep",
+  "tid": 20617
+ },
+ "Trabzonspor": {
+  "league": "Super",
+  "club": "Trabzonspor",
+  "tid": 20606
+ },
+ "Konyaspor": {
+  "league": "Super",
+  "club": "Konyaspor",
+  "tid": 20608
+ },
+ "Alanyaspor": {
+  "league": "Super",
+  "club": "Alanyaspor",
+  "tid": 20609
+ },
+ "Çaykur Rizespor": {
+  "league": "Super",
+  "club": "Rizespor",
+  "tid": 20631
+ },
+ "Samsunspor": {
+  "league": "Super",
+  "club": "Samsunspor",
+  "tid": 20625
+ },
+ "Göztepe S.K.": {
+  "league": "Super",
+  "club": "Goztepe",
+  "tid": 20633
+ },
+ "Eyüpspor": {
+  "league": "Super",
+  "club": "Eyupspor",
+  "tid": 20620
+ },
+ "Erzurumspor F.K.": {
+  "league": "Super",
+  "club": "Erzurumspor",
+  "tid": 20637
+ },
+ "Gençlerbirliği S.K.": {
+  "league": "Super",
+  "club": "Genclerbirligi",
+  "tid": 20639
+ },
+ "Kocaelispor": {
+  "league": "Super",
+  "club": "Kocaelispor",
+  "tid": 20630
+ },
+ "Al Hilal SFC": {
+  "league": "Saudi",
+  "club": "Hilal",
+  "tid": 20436
+ },
+ "Al-Nassr FC": {
+  "league": "Saudi",
+  "club": "Nassr",
+  "tid": 20545
+ },
+ "Al-Ahli Saudi FC": {
+  "league": "Saudi",
+  "club": "Ahli",
+  "tid": 20515
+ },
+ "Al-Ittihad Club (Jeddah)": {
+  "league": "Saudi",
+  "club": "Ittihad",
+  "tid": 20546
+ },
+ "Al Shabab Club": {
+  "league": "Saudi",
+  "club": "Shabab",
+  "tid": 20708
+ },
+ "Al-Riyadh SC": {
+  "league": "Saudi",
+  "club": "Riyadh",
+  "tid": 20726
+ },
+ "Al Taawoun FC": {
+  "league": "Saudi",
+  "club": "Taawoun",
+  "tid": 20709
+ },
+ "Al-Raed SC": {
+  "league": "Saudi",
+  "club": "Raed",
+  "tid": 20714
+ },
+ "Al-Ettifaq Club": {
+  "league": "Saudi",
+  "club": "Ettifaq",
+  "tid": 20712
+ },
+ "Al-Khaleej FC": {
+  "league": "Saudi",
+  "club": "Khaleej",
+  "tid": 20721
+ },
+ "Al Fateh SC": {
+  "league": "Saudi",
+  "club": "Fateh",
+  "tid": 20711
+ },
+ "Abha Club": {
+  "league": "Saudi",
+  "club": "Abha",
+  "tid": 20717
+ },
+ "Al-Fayha Club": {
+  "league": "Saudi",
+  "club": "Fayha",
+  "tid": 20713
+ },
+ "Shanghai Port F.C.": {
+  "league": "China",
+  "club": "Port",
+  "tid": 20534
+ },
+ "Shanghai Shenhua F.C.": {
+  "league": "China",
+  "club": "Shenhua",
+  "tid": 20543
+ },
+ "Chengdu Rongcheng F.C.": {
+  "league": "China",
+  "club": "Chengdu",
+  "tid": 40102
+ },
+ "Beijing Guoan F.C.": {
+  "league": "China",
+  "club": "Guoan",
+  "tid": 20554
+ },
+ "Shandong Taishan F.C.": {
+  "league": "China",
+  "club": "Shandong",
+  "tid": 20548
+ },
+ "Tianjin Jinmen Tiger F.C.": {
+  "league": "China",
+  "club": "Tianjin",
+  "tid": 20531
+ },
+ "Zhejiang Professional F.C.": {
+  "league": "China",
+  "club": "Zhejiang",
+  "tid": 20841
+ },
+ "Yunnan Yukun F.C.": {
+  "league": "China",
+  "club": "Yunnan",
+  "tid": 40103
+ },
+ "Qingdao West Coast F.C.": {
+  "league": "China",
+  "club": "WestCoast",
+  "tid": 40107
+ },
+ "Henan F.C.": {
+  "league": "China",
+  "club": "Henan",
+  "tid": 40106
+ },
+ "Dalian Yingbo F.C.": {
+  "league": "China",
+  "club": "Dalian",
+  "tid": 40104
+ },
+ "Shenzhen Peng City F.C.": {
+  "league": "China",
+  "club": "PengCity",
+  "tid": 40101
+ },
+ "Wuhan Three Towns F.C.": {
+  "league": "China",
+  "club": "Wuhan",
+  "tid": 20840
+ },
+ "Qingdao Hainiu F.C.": {
+  "league": "China",
+  "club": "Hainiu",
+  "tid": 40108
+ },
+ "Liaoning Tieren F.C.": {
+  "league": "China",
+  "club": "Liaoning",
+  "tid": 40100
+ },
+ "Chongqing Tonglianglong F.C.": {
+  "league": "China",
+  "club": "Chongqing",
+  "tid": 40105
+ },
+ "Template:Al-Hilal FC squad": {
+  "league": "SaudiT",
+  "club": "Hilal",
+  "tid": 20436
+ },
+ "Template:Al-Nassr FC squad": {
+  "league": "SaudiT",
+  "club": "Nassr",
+  "tid": 20545
+ },
+ "Template:Al-Ahli Saudi FC squad": {
+  "league": "SaudiT",
+  "club": "Ahli",
+  "tid": 20515
+ },
+ "Template:Al-Ittihad squad": {
+  "league": "SaudiT",
+  "club": "Ittihad",
+  "tid": 20546
+ },
+ "Template:Al Shabab FC squad": {
+  "league": "SaudiT",
+  "club": "Shabab",
+  "tid": 20708
+ },
+ "Template:Al-Riyadh SC squad": {
+  "league": "SaudiT",
+  "club": "Riyadh",
+  "tid": 20726
+ },
+ "Template:Al-Taawoun FC squad": {
+  "league": "SaudiT",
+  "club": "Taawoun",
+  "tid": 20709
+ },
+ "Template:Al-Ettifaq FC squad": {
+  "league": "SaudiT",
+  "club": "Ettifaq",
+  "tid": 20712
+ },
+ "Template:Al-Khaleej FC squad": {
+  "league": "SaudiT",
+  "club": "Khaleej",
+  "tid": 20721
+ },
+ "Template:Al-Fateh SC squad": {
+  "league": "SaudiT",
+  "club": "Fateh",
+  "tid": 20711
+ },
+ "Template:Abha Club squad": {
+  "league": "SaudiT",
+  "club": "Abha",
+  "tid": 20717
+ },
+ "Template:Al-Fayha FC squad": {
+  "league": "SaudiT",
+  "club": "Fayha",
+  "tid": 20713
+ }
+}

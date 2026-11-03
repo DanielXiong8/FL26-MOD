@@ -418,3 +418,17 @@ UserSetting：f1 InstallVersion("0.2.13") / f2 LoginVersion / **f3 ABTest map<st
 **六维补抓**：懂球帝库存 1,740 → **2,430 条**（+690）。首轮 +669 后命中率崩塌（18.7% → 1.5%）：管线复核全部正常（搜索/球员页/解析单项实测通过），系**持续请求被限流**——已停止后台抓取；剩余 2,940 名建议改"分块+间歇"模式续抓。
 **重打包**：`build_pl_align.py` 以新库存重建 `build/gamedata_pl2.unity3d`（与装机版同结构全绿：5,435 注入 / 48,180 成员 / PA 58,081 零溢出 / 无缺卡）；注入卡真实六维覆盖 **2,449/5,435（45%）**，此前约 1,700（31%）。
 **APK**：`build/fl26_pl_align_tools_p2.apk` = p1（工具 + 难度 NOP 补丁）+ 新数据包；补丁校验 already-patched ✓；已 zipalign+签名。**装机未完成：adb 无设备（平板断连）**——设备重连后 `adb install -r` 即可，存档保留。
+
+---
+## 里程碑（2026-11-03 晚）：8 顶级联赛全量对齐复核 + p3（待装机）
+**范围**：中超/英超/法甲/西甲/意甲/德甲/土超/沙特 = 143 队（游戏分组口径），逐队对照 11 月最新维基阵容。
+**方法**：全量重抓 522 页维基文本（`refresh_wiki.py` 断点续抓 + raw 端点兜底）→ 俱乐部页 Current squad 解析
+（`compare_teams2.py`：球衣号优先配对/消歧后缀剥离/CJK 姓氏假设/沙特俱乐部用 squad 模板页/Al-Raed 用正文表格兜底）
+→ 全局模糊查重 → `gen_nov_delta.py` 生成修复（同队合法名卡→RENAME（只认姓氏末词 ratio≥0.85）、他队→TRANSFER
+（排除国家队卡 10xxx 与租借母队页仍在册者）、无→INJECT（nat=维基行/沙特外援表/联赛兜底；ovr=懂球帝>中位数）；
+>35 上限裁撤低 OVR 未匹配者）→ `merge_nov_delta.py` 并入 pl_plan（注入卡剔除改为删 INJECT 条目，因引擎 REMOVE 先于注入执行）。
+**delta**：INJECT 487 / RENAME 1 / TRANSFER 58 / REMOVE 256（187 底牌 + 69 注入条目删除）。
+**重建**：injects 5,853（pids 175923..181775）、players 58,493、members 48,425、PA 58,499 全量不变量绿；
+**复核 missing 585 → 75**（143 队平均 <1 人/队，余为青训/租借/合法名边缘）。
+**产物**：`build/fl26_pl_align_tools_p3.apk`（=p2 + 新数据，NOP 补丁校验 ✓ 已签名）。装机因平板断连未完成——重连后 install -r。
+**教训**：`import plan_bulk` 有副作用（重写 merged_extra.json，本次因输出确定性未受损——FIFA 表已内联）；Windows 文件名禁冒号（Template: 页需改名保存）。

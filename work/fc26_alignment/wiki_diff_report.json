@@ -1,0 +1,172 @@
+{
+ "Frosinone Calcio": {
+  "added": [
+   "|pattern_b1 = _frosinone2627h",
+   "|body1 = f5d661",
+   "|pattern_la1 = _frosinone2627h",
+   "|leftarm1 = f5d661",
+   "|pattern_ra1 = _frosinone2627h",
+   "|rightarm1 = f5d661",
+   "|pattern_sh1 = _frosinone2627h",
+   "|shorts1 = f5d661",
+   "|pattern_so1 = ",
+   "|socks1 = f5d661",
+   "|pattern_b2 = _frosinone2627a",
+   "|body2 = fefef3",
+   "|pattern_la2 = _frosinone2627a",
+   "|leftarm2 = fefef3",
+   "|pattern_ra2 = _frosinone2627a",
+   "|rightarm2 = fefef3",
+   "|pattern_sh2 = _frosinone2627a",
+   "|shorts2 = fefef3",
+   "|pattern_so2 = ",
+   "|socks2 = fefef3",
+   "<!-- Terza divisa -->",
+   "|pattern_b3 = _frosinone2627t",
+   "|body3 = 000000",
+   "|pattern_la3 = _frosinone2627t",
+   "|leftarm3 = 000000",
+   "|pattern_ra3 = _frosinone2627t",
+   "|rightarm3 = 000000",
+   "|pattern_sh3 = _frosinone2627t",
+   "|shorts3 = 000000",
+   "|pattern_so3 = ",
+   "|socks3 = 000000",
+   "|-",
+   "|[[2026–27 Serie A|2026–27]]",
+   "|[[Serie A]]",
+   "|align=center|I",
+   "{{updated|9 September 2026}}<ref>{{cite web |url=https://www.frosinonecalcio.com/prima-squadra-maschile/ |title=Prima Squadra Maschile |publisher=Frosinone Calcio |access-date=14 October 2026 }}</ref>",
+   "{{Serie A}}",
+   "[[Category:Serie A clubs]]",
+   "[[Category:Serie C clubs]]",
+   "[[Category:Serie D clubs]]"
+  ],
+  "removed": [
+   "{{updated|9 September 2026}}<ref>{{cite web|url=https://www.frosinonecalcio.com/rosa-2023-2024/|title=Rosa 2024–2025|website=Frosinone Calcio|access-date=10 February 2024}}</ref>",
+   "{{Serie A}}"
+  ]
+ },
+ "G.D. Estoril Praia": {
+  "added": [
+   "| manager = [[Leandro Pires]] (caretaker)",
+   "{{Fs player|no=15|nat=ESP|name=[[Ismael Sierra]]|pos=DF}}",
+   "{{Fs player|no=17|nat=POR|name=[[Peixinho (Portuguese footballer)|Peixinho]]|pos=FW}}",
+   "*{{Flagicon|Scotland}} [[Ian Cathro]] (1 July 2024&nbsp;– 9 June 2026)",
+   "*{{Flagicon|Portugal}} [[Vasco Matos]] (8 July 2026&nbsp;- 15 October 2026)"
+  ],
+  "removed": [
+   "| manager = [[Vasco Matos]]",
+   "{{Fs player|no=15|nat=ESP|name=Ismael Sierra|pos=DF}}",
+   "{{Fs player|no=17|nat=POR|name=Peixinho|pos=FW}}",
+   "*{{Flagicon|Scotland}} [[Ian Cathro]] (1 July 2024&nbsp;– ''present'')"
+  ]
+ },
+ "Galatasaray S.K. (football)": {
+  "added": [
+   "'''Galatasaray Spor Kulübü''' (''Galatasaray Sports Club''), usually referred to as '''Galatasaray''' (recognized as '''Galatasaray A.Ş.''' by [[Turkish Football Federation|TFF]] and [[UEFA]]), is a Turkish professional football club based in [[Istanbul]]. It is the association football branch of the larger [[Galatasaray Sports Club]] of the same name, itself a part of the [[Galatasaray Community|Galatasaray Community Cooperation Committee]] which includes [[Galatasaray High School]], where the football club was founded in 1905, consisting entirely of students. The team plays in dark shades of red and yellow at home, with the shirts split down the middle between the two colours.",
+   "{{Fs player|no=29|nat=ARG|pos=MF|name=[[Armando Güner]]|other=}}",
+   "{{Fs player|no=88|nat=MKD|pos=DF|name=[[Kazımcan Karataş]]|other=}}",
+   "{{Fs player|no=|nat=POL|pos=MF|name=[[Przemysław Frankowski]]|other=<small>at {{flagicon|FRA}} [[FC Rennes|Rennes]] until 30 June 2027</small>}}"
+  ],
+  "removed": [
+   "'''Galatasaray Spor Kulübü''' (''Galatasaray Sports Club''), usually referred to as '''Galatasaray''', is a Turkish professional football club based in [[Istanbul]]. It is the association football branch of the larger [[Galatasaray Sports Club]] of the same name, itself a part of the [[Galatasaray Community|Galatasaray Community Cooperation Committee]] which includes [[Galatasaray High School]], where the football club was founded in 1905, consisting entirely of students. The team plays in dark shades of red and yellow at home, with the shirts split down the middle between the two colours.",
+   "{{Fs player|no=29|nat=ARG|pos=MF|name=[[Can Armando Güner|Armando Güner]]|other=}}",
+   "{{Fs player|no=88|nat=TUR|pos=DF|name=[[Kazımcan Karataş]]|other=}}",
+   "{{Fs player|no=|nat=POL|pos=DF|name=[[Przemysław Frankowski]]|other=<small>at {{flagicon|FRA}} [[FC Rennes|Rennes]] until 30 June 2027</small>}}"
+  ]
+ },
+ "Gamba Osaka": {
+  "added": [
+   "| clubname   = Gamba Osaka <br /> {{lang|ja|ガンバ大阪}}",
+   "| image      = Gamba Osaka logo.svg",
+   "| fullname   = Gamba Osaka",
+   "| nickname   = Nerazzurri, Aokuro (Black-and-Blues)",
+   "| founded    = {{start date and age|df=yes|1991}}",
+   "| stadium    = [[Panasonic Stadium Suita]]",
+   "| capacity   = 39,694",
+   "| owner      = [[Panasonic]] (70%) <br> [[Kansai Electric Power Company|The Kansai Electric Power Company]] (10%) <br> [[Osaka Gas]] (10%) <br> [[West Japan Railway Company|JR West]] (10%)",
+   "| chairman   = Naohito Mizutani",
+   "| manager    = [[Tomokazu Myojin]]",
+   "| league     = {{Japanese football updater|GambaOsa}}",
+   "| season     = {{Japanese football updater|GambaOsa2}}",
+   "| position   = {{Japanese football updater|GambaOsa3}}",
+   "| website    = {{URL|http://gamba-osaka.net}}",
+   "{{nihongo|'''Gamba Osaka'''|ガンバ大阪|Ganba Ōsaka}} is a Japanese professional [[association football|football]] club based in [[Osaka]]. The club plays in the [[J1 League]], which is the top tier of football in the country. The club's home stadium is [[Panasonic Stadium Suita]]. They form a local [[Osaka derby|rivalry]] with [[Osaka|Osaka city]]-based [[Cerezo Osaka]].",
+   "{{updated|15 September 2026.}}<ref>{{cite web |title=選手 / スタッフ |url=https://www.gamba-osaka.net/team/players/ |language=ja |publisher=Gamba Osaka |access-date=5 February 2024 }}</ref><ref>{{cite web |title=J. League Data Site |url=https://data.j-league.or.jp/SFIX02/search?displayId=SFIX02&selectValue=1&displayId=SFIX02&selectValueTeam=9&displayName=J1+LEAGUE&displayNameTeam=Gamba+Osaka |website=data.j-league.or.jp |access-date=12 October 2026}}</ref>",
+   "{{football squad player|no=14|nat=JPN|pos=FW|name=[[Asahi Uenaka]]}}",
+   "{{football squad player|no=24|nat=JPN|pos=MF|name=[[Tsuyoshi Ogashiwa]]}}",
+   "{{football squad mid|nonumber=|bg=003287|color=FFFFFF}}",
+   "{{football squad player|no=25|nat=CIV|pos=DF|name=[[Badra Ali Camara|Ali Camara]]}}",
+   "{{football squad player|no=28|nat=JPN|pos=MF|name=[[Soya Fujiwara]]}}",
+   "{{football squad player|no=33|nat=JPN|pos=DF|name=[[Haruki Ozawa]] <sup>'''[[J.League designated special players#2026–27|DSP]]'''</sup>}}",
+   "{{football squad player|no=39|nat=JPN|pos=MF|name=[[Koshiro Sumi]]}}",
+   "{{football squad player|no=41|nat=JPN|pos=MF|name=[[Yusei Toshida]]}}",
+   "{{football squad player|no=43|nat=JPN|pos=GK|name=[[Yuma Nobata]] <sup>'''Type 2'''</sup>}}",
+   "{{football squad player|no=45|nat=JPN|pos=DF|name=[[Kaita Maruoka]] <sup>'''Type 2'''</sup>}}",
+   "{{football squad player|no=46|nat=JPN|pos=MF|name=[[Kosuke Murata]] <sup>'''Type 2'''</sup>}}",
+   "{{football squad player|no=48|nat=JPN|pos=MF|name=[[Yoshiki Fujimoto (footballer, born 2009)|Yoshiki Fujimoto]] <sup>'''Type 2'''</sup>}}",
+   "{{football squad player|no=60|nat=JPN|pos=MF|name=[[Arata Okamoto]]}}",
+   "{{football squad player|no=78|nat=ESP|pos=MF|name=[[Juanpe (footballer, born 1996)|Juanpe]]}}",
+   "{{football squad player|no=|nat=JPN|pos=MF|name=[[Takato Yamamoto]]|other=at {{flagicon|GER}} [[Borussia Dortmund II]]}}",
+   "{{football squad player|no=|nat=JPN|pos=FW|name=[[Gaku Nawata]]|other=at {{flagicon|BEL}} [[Royal Charleroi SC|Charleroi]]}}",
+   "|{{flagicon|AUS}} [[Newcastle Jets FC|Newcastle Jets]]|| [[2026–27 AFC Champions League Elite]] League stage",
+   "| N.A.",
+   "| style=\"background:#dfd;\" |3–1",
+   "|-",
+   "| rowspan=\"2\"| {{flagicon|THA}} [[Buriram United F.C.|Buriram United]]|| [[2015 AFC Champions League]] Group Stage",
+   "|-",
+   "| [[2026–27 AFC Champions League Elite]] League stage",
+   "| style=\"background:#ffd;\" |1–1",
+   "| N.A."
+  ],
+  "removed": [
+   "| clubname    = Gamba Osaka <br /> {{lang|ja|ガンバ大阪}}",
+   "| image       = Gamba Osaka logo.svg",
+   "| fullname    = Gamba Osaka",
+   "| nickname    = ''Nerazzurri'' (Black-and-Blues)",
+   "| founded     = {{start date and age|df=yes|1991}}",
+   "| Pokemon mascot    = Luxray",
+   "| stadium     = [[Panasonic Stadium Suita]]",
+   "| capacity    = 39,694",
+   "| owner       = [[Panasonic]] (70%) <br> [[Kansai Electric Power Company|The Kansai Electric Power Company]] (10%) <br> [[Osaka Gas]] (10%) <br> [[West Japan Railway Company|JR West]] (10%)",
+   "| chairman    = Takashi Yamauchi",
+   "| manager     = [[Tomokazu Myojin]]",
+   "| league      = {{Japanese football updater|GambaOsa}}",
+   "| season      = {{Japanese football updater|GambaOsa2}}",
+   "| position    = {{Japanese football updater|GambaOsa3}}",
+   "| website     = {{URL|http://gamba-osaka.net}}",
+   "{{nihongo|'''Gamba Osaka'''|ガンバ大阪|Ganba Ōsaka}} is a Japanese professional [[association football|football]] club based in [[Suita]], [[Osaka Prefecture]]. The club plays in the [[J1 League]], which is the top tier of football in the country. The club's home stadium is [[Panasonic Stadium Suita]]. They form a local [[Osaka derby|rivalry]] with [[Osaka|Osaka city]]-based [[Cerezo Osaka]].",
+   "{{updated|25 August 2026.}}<ref>{{cite web |title=選手 / スタッフ |url=https://www.gamba-osaka.net/team/players/ |language=ja |publisher=Gamba Osaka |access-date=5 February 2024 }}</ref>",
+   "{{football squad mid|nonumber=|bg=003287|color=FFFFFF}}",
+   "{{football squad player|no=38|nat=JPN|pos=MF|name=[[Gaku Nawata]]}}",
+   "{{football squad player|no=55|nat=JPN|pos=FW|name=[[Asahi Uenaka]]}}",
+   "{{football squad player|no=|nat=ESP|pos=MF|name=[[Juanpe (footballer, born 1996)|Juanpe]]}}",
+   "{{football squad player|no=|nat=JPN|pos=MF|name=[[Takato Yamamoto]]|other=at [[Borussia Dortmund II]]}}",
+   "|{{flagicon|THA}} [[Buriram United F.C.|Buriram United]]|| [[2015 AFC Champions League]] Group Stage"
+  ]
+ },
+ "Gangwon FC": {
+  "added": [
+   "{{updated|14 October 2026}}<ref>{{cite web |title=선수단 |url=https://www.gangwon-fc.com/squad/player |website=gangwon-fc.com |publisher=Gangwon FC |access-date=9 April 2026 |language=ko}}</ref>",
+   "{{Fs player|no=9|nat=KOR|name=[[Kim Gun-hee (footballer)|Kim Gun-hee]]|pos=FW}}",
+   "{{Fs player|no=30|nat=KOR|name=[[Yeo Jun-yeop]]|pos=MF}}",
+   "{{Fs player|no=37|nat=KOR|name=[[Kwon Seok-joo]]|pos=DF}}",
+   "{{Fs player|no=39|nat=KOR|name=[[Lee Ji-ho (footballer)|Lee Ji-ho]]|pos=FW}}",
+   "{{Fs player|no=75|nat=KOR|name=[[Kim Yi-seok]]|pos=MF}}",
+   "{{Fs player|no=88|nat=KOR|name=[[Hwang Mun-ki]]|pos=DF}}",
+   "| style=\"text-align:center; background:#FFDDDD;\"| 1–2",
+   "| style=\"text-align:center; background:#DDFFDD;\"| 1–0"
+  ],
+  "removed": [
+   "{{updated|14 September 2026}}<ref>{{cite web |title=선수단 |url=https://www.gangwon-fc.com/squad/player |website=gangwon-fc.com |publisher=Gangwon FC |access-date=9 April 2026 |language=ko}}</ref>",
+   "{{Fs player|no=9|nat=KOR|name=[[Kim Gun-hee]]|pos=FW}}",
+   "{{Fs player|no=30|nat=KOR|name=[[Yeo Jun-yeop]]|pos=MF}}",
+   "{{Fs player|no=39|nat=KOR|name=[[Lee Ji-ho]]|pos=FW}}",
+   "{{Fs player|no=|nat=KOR|name=[[Kim Yi-seok]]|pos=MF}}",
+   "{{Fs player|no=|nat=KOR|name=[[Hwang Mun-ki]]|pos=DF|other=at [[Pyeongchang United FC|Pyeongchang United]] for military service}}",
+   "| style=\"text-align:center;| ",
+   "| style=\"text-align:center;| "
+  ]
+ }
+}
